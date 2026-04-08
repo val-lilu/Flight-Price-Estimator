@@ -1,0 +1,1261 @@
+origin,destination,date_queried,departure_airport,departure_time,departure_date,arrival_airport,arrival_time,arrival_date,airline,number_of_stops,price,days_until_flight
+ZRH,FCO,2025-06-01,ZRH,21:55,1 Jun,FCO,23:30,1 Jun,Easyjet,Cheapest direct,CHF51.66,31
+ZRH,FCO,2025-06-01,ZRH,19:05,1 Jun,FCO,20:35,1 Jun,ITA Airways,Direct,CHF98.90,31
+ZRH,FCO,2025-06-01,ZRH,08:30,1 Jun,FCO,10:05,1 Jun,Easyjet,Direct,CHF70.33,31
+ZRH,FCO,2025-06-01,ZRH,10:55,1 Jun,FCO,12:25,1 Jun,ITA Airways,Direct,CHF128.51,31
+ZRH,FCO,2025-06-01,ZRH,12:45,1 Jun,FCO,14:15,1 Jun,Swiss,Direct,CHF135.68,31
+ZRH,FCO,2025-06-01,ZRH,07:15,1 Jun,FCO,08:50,1 Jun,Swiss,Direct,CHF135.68,31
+ZRH,FCO,2025-06-01,ZRH,17:45,1 Jun,FCO,19:20,1 Jun,Swiss,Direct,CHF135.68,31
+ZRH,FCO,2025-06-01,ZRH,12:45,1 Jun,FCO,14:15,1 Jun,"ITA Airways, operated by Swiss",Direct,CHF190.95,31
+ZRH,FCO,2025-06-01,ZRH,07:15,1 Jun,FCO,08:50,1 Jun,"ITA Airways, operated by Swiss",Direct,CHF190.96,31
+ZRH,FCO,2025-06-01,ZRH,17:45,1 Jun,FCO,19:20,1 Jun,"ITA Airways, operated by Swiss",Direct,CHF190.96,31
+ZRH,FCO,2025-06-01,ZRH,10:55,1 Jun,FCO,12:25,1 Jun,"Swiss, operated by Ita Airways",Direct,CHF199.30,31
+ZRH,FCO,2025-06-01,ZRH,19:05,1 Jun,FCO,20:35,1 Jun,"Swiss, operated by Ita Airways",Direct,CHF229.58,31
+ZRH,FCO,2025-06-01,ZRH,09:30,1 Jun,FCO,13:55,1 Jun,"Air Serbia, operated by Bulgaria Air For Air Serbia",Direct,CHF130.56,31
+ZRH,FCO,2025-06-01,ZRH,09:45,1 Jun,FCO,17:05,1 Jun,Vueling,1 stop,CHF90.08,31
+ZRH,FCO,2025-06-01,ZRH,19:15,1 Jun,FCO,23:45,1 Jun,Vueling,1 stop,CHF131.36,31
+ZRH,FCO,2025-06-02,ZRH,08:30,2 Jun,FCO,10:05,2 Jun,Easyjet,Cheapest direct,CHF90.01,32
+ZRH,FCO,2025-06-02,ZRH,19:05,2 Jun,FCO,20:35,2 Jun,ITA Airways,Direct,CHF98.90,32
+ZRH,FCO,2025-06-02,ZRH,21:55,2 Jun,FCO,23:30,2 Jun,Easyjet,Direct,CHF98.08,32
+ZRH,FCO,2025-06-02,ZRH,07:20,2 Jun,FCO,08:50,2 Jun,Swiss,Direct,CHF135.68,32
+ZRH,FCO,2025-06-02,ZRH,12:45,2 Jun,FCO,14:15,2 Jun,Swiss,Direct,CHF164.92,32
+ZRH,FCO,2025-06-02,ZRH,07:20,2 Jun,FCO,08:50,2 Jun,"ITA Airways, operated by Swiss",Direct,CHF190.95,32
+ZRH,FCO,2025-06-02,ZRH,17:45,2 Jun,FCO,19:20,2 Jun,"Swiss, operated by Helvetic Airways",Direct,CHF191.27,32
+ZRH,FCO,2025-06-02,ZRH,12:45,2 Jun,FCO,14:15,2 Jun,"ITA Airways, operated by Swiss",Direct,CHF284.56,32
+ZRH,FCO,2025-06-02,ZRH,19:05,2 Jun,FCO,20:35,2 Jun,"Swiss, operated by Ita Airways",Direct,CHF297.20,32
+ZRH,FCO,2025-06-02,ZRH,17:45,2 Jun,FCO,19:20,2 Jun,"ITA Airways, operated by Helvetic Airways For Swiss Int Air Lines",Direct,CHF287.64,32
+ZRH,FCO,2025-06-02,ZRH,07:15,2 Jun,FCO,11:35,2 Jun,"Lufthansa, operated by Helvetic Airways For Swiss",Direct,CHF164.93,32
+ZRH,FCO,2025-06-02,ZRH,08:15,2 Jun,FCO,12:30,2 Jun,Lufthansa,1 stop,CHF172.49,32
+ZRH,FCO,2025-06-02,ZRH,16:55,2 Jun,FCO,21:55,2 Jun,"Lufthansa, operated by Swiss",1 stop,CHF164.93,32
+ZRH,FCO,2025-06-02,ZRH,18:55,2 Jun,FCO,23:40,2 Jun,"Lufthansa, operated by Swiss",1 stop,CHF172.50,32
+ZRH,FCO,2025-06-02,ZRH,08:30,2 Jun,FCO,12:15,2 Jun,"Easyjet, ITA Airways",1 stop,CHF221.80,32
+ZRH,FCO,2025-06-03,ZRH,08:30,3 Jun,FCO,10:05,3 Jun,Easyjet,Cheapest direct,CHF51.66,33
+ZRH,FCO,2025-06-03,ZRH,10:55,3 Jun,FCO,12:25,3 Jun,ITA Airways,Direct,CHF98.90,33
+ZRH,FCO,2025-06-03,ZRH,21:55,3 Jun,FCO,23:30,3 Jun,Easyjet,Direct,CHF51.66,33
+ZRH,FCO,2025-06-03,ZRH,19:05,3 Jun,FCO,20:35,3 Jun,ITA Airways,Direct,CHF98.90,33
+ZRH,FCO,2025-06-03,ZRH,17:45,3 Jun,FCO,19:20,3 Jun,"Swiss, operated by Helvetic Airways",Direct,CHF105.38,33
+ZRH,FCO,2025-06-03,ZRH,07:20,3 Jun,FCO,08:50,3 Jun,Swiss,Direct,CHF135.68,33
+ZRH,FCO,2025-06-03,ZRH,12:45,3 Jun,FCO,14:15,3 Jun,"Swiss, operated by Helvetic Airways",Direct,CHF187.45,33
+ZRH,FCO,2025-06-03,ZRH,07:20,3 Jun,FCO,08:50,3 Jun,"ITA Airways, operated by Swiss",Direct,CHF190.95,33
+ZRH,FCO,2025-06-03,ZRH,10:55,3 Jun,FCO,12:25,3 Jun,"Swiss, operated by Ita Airways",Direct,CHF199.30,33
+ZRH,FCO,2025-06-03,ZRH,17:45,3 Jun,FCO,19:20,3 Jun,"ITA Airways, operated by Helvetic Airways For Swiss Int Air Lines",Direct,CHF192.27,33
+ZRH,FCO,2025-06-03,ZRH,12:45,3 Jun,FCO,14:15,3 Jun,"ITA Airways, operated by Helvetic Airways For Swiss Int Air Lines",Direct,CHF287.63,33
+ZRH,FCO,2025-06-03,ZRH,13:20,3 Jun,FCO,16:55,3 Jun,Austrian Airlines,Direct,CHF135.57,33
+ZRH,FCO,2025-06-03,ZRH,09:35,3 Jun,FCO,14:05,3 Jun,Vueling,1 stop,CHF118.08,33
+ZRH,FCO,2025-06-03,ZRH,18:10,3 Jun,FCO,00:20,4 Jun,"Easyjet, Vueling",1 stop,CHF102.17,33
+ZRH,FCO,2025-06-03,ZRH,18:10,3 Jun,FCO,00:55,4 Jun,"Easyjet, Wizz Air Malta",1 stop,CHF96.50,33
+ZRH,FCO,2025-06-04,ZRH,21:55,4 Jun,FCO,23:30,4 Jun,Easyjet,Cheapest direct,CHF51.66,34
+ZRH,FCO,2025-06-04,ZRH,19:05,4 Jun,FCO,20:35,4 Jun,ITA Airways,Direct,CHF98.91,34
+ZRH,FCO,2025-06-04,ZRH,08:30,4 Jun,FCO,10:05,4 Jun,Easyjet,Direct,CHF52.67,34
+ZRH,FCO,2025-06-04,ZRH,17:45,4 Jun,FCO,19:20,4 Jun,Swiss,Direct,CHF135.68,34
+ZRH,FCO,2025-06-04,ZRH,07:20,4 Jun,FCO,08:50,4 Jun,Swiss,Direct,CHF165.94,34
+ZRH,FCO,2025-06-04,ZRH,12:45,4 Jun,FCO,14:15,4 Jun,"Swiss, operated by Helvetic Airways",Direct,CHF234.57,34
+ZRH,FCO,2025-06-04,ZRH,17:45,4 Jun,FCO,19:20,4 Jun,"ITA Airways, operated by Swiss",Direct,CHF248.35,34
+ZRH,FCO,2025-06-04,ZRH,09:35,4 Jun,FCO,14:05,4 Jun,Vueling,Direct,CHF109.07,34
+ZRH,FCO,2025-06-04,ZRH,07:20,4 Jun,FCO,08:50,4 Jun,"ITA Airways, operated by Swiss",1 stop,CHF284.56,34
+ZRH,FCO,2025-06-04,ZRH,19:05,4 Jun,FCO,20:35,4 Jun,"Swiss, operated by Ita Airways",Direct,CHF297.20,34
+ZRH,FCO,2025-06-04,ZRH,07:30,4 Jun,FCO,13:55,4 Jun,Iberia,Direct,CHF108.65,34
+ZRH,FCO,2025-06-04,ZRH,14:35,4 Jun,FCO,19:40,4 Jun,Air Serbia,1 stop,CHF130.56,34
+ZRH,FCO,2025-06-04,ZRH,12:55,4 Jun,FCO,17:05,4 Jun,"Brussels Airlines, operated by Swiss",1 stop,CHF169.24,34
+ZRH,FCO,2025-06-04,ZRH,07:15,4 Jun,FCO,11:35,4 Jun,"Lufthansa, operated by Helvetic Airways For Swiss",1 stop,CHF164.93,34
+ZRH,FCO,2025-06-04,ZRH,09:35,4 Jun,FCO,17:50,4 Jun,Vueling,1 stop,CHF102.90,34
+ZRH,FCO,2025-06-05,ZRH,21:55,5 Jun,FCO,23:30,5 Jun,Easyjet,Cheapest direct,CHF80.43,35
+ZRH,FCO,2025-06-05,ZRH,08:30,5 Jun,FCO,10:05,5 Jun,Easyjet,Direct,CHF98.08,35
+ZRH,FCO,2025-06-05,ZRH,19:05,5 Jun,FCO,20:35,5 Jun,ITA Airways,Direct,CHF157.25,35
+ZRH,FCO,2025-06-05,ZRH,17:45,5 Jun,FCO,19:20,5 Jun,Swiss,Direct,CHF233.44,35
+ZRH,FCO,2025-06-05,ZRH,07:20,5 Jun,FCO,08:50,5 Jun,"Swiss, operated by Helvetic Airways",Direct,CHF276.19,35
+ZRH,FCO,2025-06-05,ZRH,12:45,5 Jun,FCO,14:15,5 Jun,"Swiss, operated by Helvetic Airways",Direct,CHF330.61,35
+ZRH,FCO,2025-06-05,ZRH,18:55,5 Jun,FCO,23:10,5 Jun,"Lufthansa, operated by Swiss",Direct,CHF172.50,35
+ZRH,FCO,2025-06-05,ZRH,07:20,5 Jun,FCO,08:50,5 Jun,"ITA Airways, operated by Helvetic Airways For Swiss Int Air Lines",1 stop,CHF438.32,35
+ZRH,FCO,2025-06-05,ZRH,13:15,5 Jun,FCO,18:05,5 Jun,"Lufthansa, operated by Helvetic Airways For Swiss",Direct,CHF164.95,35
+ZRH,FCO,2025-06-05,ZRH,16:55,5 Jun,FCO,21:55,5 Jun,"Lufthansa, operated by Swiss",1 stop,CHF164.93,35
+ZRH,FCO,2025-06-05,ZRH,17:45,5 Jun,FCO,19:20,5 Jun,"ITA Airways, operated by Swiss",1 stop,CHF445.62,35
+ZRH,FCO,2025-06-05,ZRH,18:05,5 Jun,FCO,23:10,5 Jun,Lufthansa,Direct,CHF172.49,35
+ZRH,FCO,2025-06-05,ZRH,09:35,5 Jun,FCO,14:05,5 Jun,Vueling,1 stop,CHF210.11,35
+ZRH,FCO,2025-06-05,ZRH,10:15,5 Jun,FCO,16:05,5 Jun,"Easyjet, ITA Airways",1 stop,CHF173.40,35
+ZRH,FCO,2025-06-05,ZRH,19:05,5 Jun,FCO,20:35,5 Jun,"Swiss, operated by Ita Airways",1 stop,CHF547.47,35
+ZRH,FCO,2025-06-06,ZRH,08:30,6 Jun,FCO,10:05,6 Jun,Easyjet,Cheapest direct,CHF111.20,36
+ZRH,FCO,2025-06-06,ZRH,21:55,6 Jun,FCO,23:30,6 Jun,Easyjet,Direct,CHF148.04,36
+ZRH,FCO,2025-06-06,ZRH,10:55,6 Jun,FCO,12:25,6 Jun,ITA Airways,Direct,CHF186.83,36
+ZRH,FCO,2025-06-06,ZRH,07:20,6 Jun,FCO,08:50,6 Jun,Swiss,Direct,CHF196.21,36
+ZRH,FCO,2025-06-06,ZRH,12:45,6 Jun,FCO,14:15,6 Jun,Swiss,Direct,CHF234.57,36
+ZRH,FCO,2025-06-06,ZRH,07:20,6 Jun,FCO,08:50,6 Jun,"ITA Airways, operated by Swiss",Direct,CHF284.56,36
+ZRH,FCO,2025-06-06,ZRH,12:45,6 Jun,FCO,14:15,6 Jun,"ITA Airways, operated by Swiss",Direct,CHF284.56,36
+ZRH,FCO,2025-06-06,ZRH,19:05,6 Jun,FCO,20:35,6 Jun,ITA Airways,Direct,CHF325.48,36
+ZRH,FCO,2025-06-06,ZRH,10:55,6 Jun,FCO,12:25,6 Jun,"Swiss, operated by Ita Airways",Direct,CHF463.73,36
+ZRH,FCO,2025-06-06,ZRH,17:45,6 Jun,FCO,19:20,6 Jun,"Swiss, operated by Helvetic Airways",Direct,CHF476.28,36
+ZRH,FCO,2025-06-06,ZRH,19:05,6 Jun,FCO,20:35,6 Jun,"Swiss, operated by Ita Airways",Direct,CHF547.47,36
+ZRH,FCO,2025-06-06,ZRH,09:30,6 Jun,FCO,13:55,6 Jun,"Air Serbia, operated by Getjet Airlines For Air Serbia",Direct,CHF238.99,36
+ZRH,FCO,2025-06-06,ZRH,15:10,6 Jun,FCO,19:40,6 Jun,Air Serbia,1 stop,CHF238.99,36
+ZRH,FCO,2025-06-06,ZRH,15:45,6 Jun,FCO,20:40,6 Jun,"Easyjet, ITA Airways",1 stop,CHF269.30,36
+ZRH,FCO,2025-06-06,ZRH,18:55,6 Jun,FCO,23:40,6 Jun,"Lufthansa, operated by Swiss",1 stop,CHF288.54,36
+ZRH,FCO,2025-06-08,ZRH,21:55,8 Jun,FCO,23:30,8 Jun,Easyjet,Cheapest direct,CHF51.66,38
+ZRH,FCO,2025-06-08,ZRH,08:30,8 Jun,FCO,10:05,8 Jun,Easyjet,Direct,CHF66.79,38
+ZRH,FCO,2025-06-08,ZRH,19:05,8 Jun,FCO,20:35,8 Jun,ITA Airways,Direct,CHF98.90,38
+ZRH,FCO,2025-06-08,ZRH,07:20,8 Jun,FCO,08:50,8 Jun,Swiss,Direct,CHF105.38,38
+ZRH,FCO,2025-06-08,ZRH,12:45,8 Jun,FCO,14:15,8 Jun,"Swiss, operated by Air Baltic Corporation",Direct,CHF135.68,38
+ZRH,FCO,2025-06-08,ZRH,07:20,8 Jun,FCO,08:50,8 Jun,"ITA Airways, operated by Swiss",Direct,CHF162.42,38
+ZRH,FCO,2025-06-08,ZRH,17:45,8 Jun,FCO,19:20,8 Jun,"Swiss, operated by Helvetic Airways",Direct,CHF158.36,38
+ZRH,FCO,2025-06-08,ZRH,12:45,8 Jun,FCO,14:15,8 Jun,"ITA Airways, operated by Air Baltic For Swiss Int Air Lines",Direct,CHF192.26,38
+ZRH,FCO,2025-06-08,ZRH,10:55,8 Jun,FCO,12:25,8 Jun,ITA Airways,Direct,CHF221.46,38
+ZRH,FCO,2025-06-08,ZRH,19:05,8 Jun,FCO,20:35,8 Jun,"Swiss, operated by Ita Airways",Direct,CHF259.83,38
+ZRH,FCO,2025-06-08,ZRH,10:55,8 Jun,FCO,12:25,8 Jun,"Swiss, operated by Ita Airways",Direct,CHF297.20,38
+ZRH,FCO,2025-06-08,ZRH,17:45,8 Jun,FCO,19:20,8 Jun,"ITA Airways, operated by Helvetic Airways For Swiss Int Air Lines",Direct,CHF287.71,38
+ZRH,FCO,2025-06-08,ZRH,14:35,8 Jun,FCO,19:40,8 Jun,Air Serbia,Direct,CHF130.56,38
+ZRH,FCO,2025-06-08,ZRH,12:55,8 Jun,FCO,17:05,8 Jun,"Brussels Airlines, operated by Swiss",1 stop,CHF169.24,38
+ZRH,FCO,2025-06-08,ZRH,18:55,8 Jun,FCO,23:10,8 Jun,"Lufthansa, operated by Swiss",1 stop,CHF172.50,38
+ZRH,FCO,2025-06-09,ZRH,21:55,9 Jun,FCO,23:30,9 Jun,Easyjet,Cheapest direct,CHF51.66,39
+ZRH,FCO,2025-06-09,ZRH,19:05,9 Jun,FCO,20:35,9 Jun,ITA Airways,Direct,CHF98.90,39
+ZRH,FCO,2025-06-09,ZRH,08:30,9 Jun,FCO,10:05,9 Jun,Easyjet,Direct,CHF67.80,39
+ZRH,FCO,2025-06-09,ZRH,17:45,9 Jun,FCO,19:20,9 Jun,"Swiss, operated by Helvetic Airways",Direct,CHF135.68,39
+ZRH,FCO,2025-06-09,ZRH,12:45,9 Jun,FCO,14:15,9 Jun,Swiss,Direct,CHF219.90,39
+ZRH,FCO,2025-06-09,ZRH,07:20,9 Jun,FCO,08:50,9 Jun,Swiss,Direct,CHF234.57,39
+ZRH,FCO,2025-06-09,ZRH,17:45,9 Jun,FCO,19:20,9 Jun,"ITA Airways, operated by Helvetic Airways For Swiss Int Air Lines",Direct,CHF249.05,39
+ZRH,FCO,2025-06-09,ZRH,12:45,9 Jun,FCO,14:15,9 Jun,"ITA Airways, operated by Swiss",Direct,CHF284.56,39
+ZRH,FCO,2025-06-09,ZRH,19:05,9 Jun,FCO,20:35,9 Jun,"Swiss, operated by Ita Airways",Direct,CHF297.20,39
+ZRH,FCO,2025-06-09,ZRH,14:30,9 Jun,FCO,20:15,9 Jun,Eurowings,Direct,CHF124.27,39
+ZRH,FCO,2025-06-09,ZRH,16:50,9 Jun,FCO,20:40,9 Jun,"Swiss, operated by Air Baltic, ITA Airways",1 stop,CHF173.00,39
+ZRH,FCO,2025-06-09,ZRH,12:20,9 Jun,FCO,16:05,9 Jun,"Swiss, operated by Air Baltic, ITA Airways",1 stop,CHF198.54,39
+ZRH,FCO,2025-06-09,ZRH,07:20,9 Jun,FCO,08:50,9 Jun,"ITA Airways, operated by Swiss",1 stop,CHF445.62,39
+ZRH,FCO,2025-06-09,ZRH,16:55,9 Jun,FCO,21:55,9 Jun,"Lufthansa, operated by Swiss",Direct,CHF164.93,39
+ZRH,FCO,2025-06-09,ZRH,08:30,9 Jun,FCO,12:15,9 Jun,"Easyjet, ITA Airways",1 stop,CHF204.67,39
+ZRH,FCO,2025-06-10,ZRH,08:30,10 Jun,FCO,10:05,10 Jun,Easyjet,Cheapest direct,CHF51.66,40
+ZRH,FCO,2025-06-10,ZRH,21:55,10 Jun,FCO,23:30,10 Jun,Easyjet,Direct,CHF51.66,40
+ZRH,FCO,2025-06-10,ZRH,10:55,10 Jun,FCO,12:25,10 Jun,ITA Airways,Direct,CHF98.90,40
+ZRH,FCO,2025-06-10,ZRH,19:05,10 Jun,FCO,20:35,10 Jun,ITA Airways,Direct,CHF98.90,40
+ZRH,FCO,2025-06-10,ZRH,17:45,10 Jun,FCO,19:20,10 Jun,"Swiss, operated by Helvetic Airways",Direct,CHF105.38,40
+ZRH,FCO,2025-06-10,ZRH,07:20,10 Jun,FCO,08:50,10 Jun,Swiss,Direct,CHF135.68,40
+ZRH,FCO,2025-06-10,ZRH,17:45,10 Jun,FCO,19:20,10 Jun,"ITA Airways, operated by Helvetic Airways For Swiss Int Air Lines",Direct,CHF162.15,40
+ZRH,FCO,2025-06-10,ZRH,07:20,10 Jun,FCO,08:50,10 Jun,"ITA Airways, operated by Swiss",Direct,CHF191.01,40
+ZRH,FCO,2025-06-10,ZRH,12:45,10 Jun,FCO,14:15,10 Jun,"Swiss, operated by Helvetic Airways",Direct,CHF196.21,40
+ZRH,FCO,2025-06-10,ZRH,10:55,10 Jun,FCO,12:25,10 Jun,"Swiss, operated by Ita Airways",Direct,CHF259.83,40
+ZRH,FCO,2025-06-10,ZRH,12:45,10 Jun,FCO,14:15,10 Jun,"ITA Airways, operated by Helvetic Airways For Swiss Int Air Lines",Direct,CHF287.64,40
+ZRH,FCO,2025-06-10,ZRH,13:20,10 Jun,FCO,16:55,10 Jun,Austrian Airlines,Direct,CHF135.57,40
+ZRH,FCO,2025-06-10,ZRH,19:05,10 Jun,FCO,20:35,10 Jun,"Swiss, operated by Ita Airways",1 stop,CHF297.20,40
+ZRH,FCO,2025-06-10,ZRH,18:10,10 Jun,FCO,00:20,11 Jun,"Easyjet, Vueling",Direct,CHF106.52,40
+ZRH,FCO,2025-06-10,ZRH,13:15,10 Jun,FCO,18:05,10 Jun,"Lufthansa, operated by Helvetic Airways For Swiss",1 stop,CHF130.62,40
+ZRH,FCO,2025-06-11,ZRH,08:30,11 Jun,FCO,10:05,11 Jun,Easyjet,Cheapest direct,CHF51.66,41
+ZRH,FCO,2025-06-11,ZRH,10:55,11 Jun,FCO,12:25,11 Jun,ITA Airways,Direct,CHF128.50,41
+ZRH,FCO,2025-06-11,ZRH,21:55,11 Jun,FCO,23:30,11 Jun,Easyjet,Direct,CHF51.66,41
+ZRH,FCO,2025-06-11,ZRH,07:20,11 Jun,FCO,08:50,11 Jun,"Swiss, operated by Helvetic Airways",Direct,CHF135.68,41
+ZRH,FCO,2025-06-11,ZRH,07:20,11 Jun,FCO,08:50,11 Jun,"ITA Airways, operated by Helvetic Airways For Swiss Int Air Lines",Direct,CHF192.26,41
+ZRH,FCO,2025-06-11,ZRH,17:45,11 Jun,FCO,19:20,11 Jun,"Swiss, operated by Helvetic Airways",Direct,CHF196.21,41
+ZRH,FCO,2025-06-11,ZRH,12:45,11 Jun,FCO,14:15,11 Jun,Swiss,Direct,CHF234.57,41
+ZRH,FCO,2025-06-11,ZRH,14:35,11 Jun,FCO,19:40,11 Jun,Air Serbia,Direct,CHF92.87,41
+ZRH,FCO,2025-06-11,ZRH,10:55,11 Jun,FCO,12:25,11 Jun,"Swiss, operated by Ita Airways",1 stop,CHF259.83,41
+ZRH,FCO,2025-06-11,ZRH,17:45,11 Jun,FCO,19:20,11 Jun,"ITA Airways, operated by Helvetic Airways For Swiss Int Air Lines",Direct,CHF287.71,41
+ZRH,FCO,2025-06-11,ZRH,09:35,11 Jun,FCO,14:05,11 Jun,Vueling,Direct,CHF146.54,41
+ZRH,FCO,2025-06-11,ZRH,16:25,11 Jun,FCO,23:10,11 Jun,"Swiss, Wizz Air Malta",1 stop,CHF119.35,41
+ZRH,FCO,2025-06-11,ZRH,10:40,11 Jun,FCO,15:00,11 Jun,Austrian Airlines,1 stop,CHF169.89,41
+ZRH,FCO,2025-06-11,ZRH,18:55,11 Jun,FCO,23:15,11 Jun,"Lufthansa, operated by Swiss",1 stop,CHF172.49,41
+ZRH,FCO,2025-06-11,ZRH,11:50,11 Jun,FCO,16:35,11 Jun,KLM,1 stop,CHF162.60,41
+ZRH,FCO,2025-06-12,ZRH,21:55,12 Jun,FCO,23:30,12 Jun,Easyjet,Cheapest direct,CHF62.25,42
+ZRH,FCO,2025-06-12,ZRH,08:30,12 Jun,FCO,10:05,12 Jun,Easyjet,Direct,CHF84.46,42
+ZRH,FCO,2025-06-12,ZRH,19:05,12 Jun,FCO,20:35,12 Jun,ITA Airways,Direct,CHF98.91,42
+ZRH,FCO,2025-06-12,ZRH,17:45,12 Jun,FCO,19:20,12 Jun,Swiss,Direct,CHF105.38,42
+ZRH,FCO,2025-06-12,ZRH,10:55,12 Jun,FCO,12:25,12 Jun,ITA Airways,Direct,CHF128.46,42
+ZRH,FCO,2025-06-12,ZRH,07:20,12 Jun,FCO,08:50,12 Jun,Swiss,Direct,CHF165.94,42
+ZRH,FCO,2025-06-12,ZRH,17:45,12 Jun,FCO,19:20,12 Jun,"ITA Airways, operated by Swiss",Direct,CHF162.61,42
+ZRH,FCO,2025-06-12,ZRH,12:45,12 Jun,FCO,14:15,12 Jun,"Swiss, operated by Helvetic Airways",Direct,CHF234.57,42
+ZRH,FCO,2025-06-12,ZRH,07:20,12 Jun,FCO,08:50,12 Jun,"ITA Airways, operated by Swiss",Direct,CHF285.74,42
+ZRH,FCO,2025-06-12,ZRH,18:55,12 Jun,FCO,23:10,12 Jun,"Lufthansa, operated by Swiss",Direct,CHF138.17,42
+ZRH,FCO,2025-06-12,ZRH,16:55,12 Jun,FCO,21:55,12 Jun,"Lufthansa, operated by Helvetic Airways For Swiss",1 stop,CHF130.60,42
+ZRH,FCO,2025-06-12,ZRH,12:45,12 Jun,FCO,14:15,12 Jun,"ITA Airways, operated by Helvetic Airways For Swiss Int Air Lines",1 stop,CHF438.11,42
+ZRH,FCO,2025-06-12,ZRH,10:55,12 Jun,FCO,12:25,12 Jun,"Swiss, operated by Ita Airways",Direct,CHF463.73,42
+ZRH,FCO,2025-06-12,ZRH,19:05,12 Jun,FCO,20:35,12 Jun,"Swiss, operated by Ita Airways",Direct,CHF463.73,42
+ZRH,FCO,2025-06-12,ZRH,17:35,12 Jun,FCO,22:45,12 Jun,KLM,Direct,CHF170.24,42
+ZRH,FCO,2025-06-13,ZRH,08:30,13 Jun,FCO,10:05,13 Jun,Easyjet,Cheapest direct,CHF80.43,43
+ZRH,FCO,2025-06-13,ZRH,19:05,13 Jun,FCO,20:35,13 Jun,ITA Airways,Direct,CHF98.91,43
+ZRH,FCO,2025-06-13,ZRH,21:55,13 Jun,FCO,23:30,13 Jun,Easyjet,Direct,CHF97.07,43
+ZRH,FCO,2025-06-13,ZRH,07:20,13 Jun,FCO,08:50,13 Jun,Swiss,Direct,CHF234.57,43
+ZRH,FCO,2025-06-13,ZRH,17:45,13 Jun,FCO,19:20,13 Jun,Swiss,Direct,CHF232.94,43
+ZRH,FCO,2025-06-13,ZRH,12:45,13 Jun,FCO,14:15,13 Jun,Swiss,Direct,CHF322.85,43
+ZRH,FCO,2025-06-13,ZRH,15:10,13 Jun,FCO,19:40,13 Jun,Air Serbia,Direct,CHF130.55,43
+ZRH,FCO,2025-06-13,ZRH,09:30,13 Jun,FCO,13:55,13 Jun,"Air Serbia, operated by Getjet Airlines For Air Serbia",1 stop,CHF150.40,43
+ZRH,FCO,2025-06-13,ZRH,07:20,13 Jun,FCO,08:50,13 Jun,"ITA Airways, operated by Swiss",1 stop,CHF445.61,43
+ZRH,FCO,2025-06-13,ZRH,18:55,13 Jun,FCO,23:40,13 Jun,"Lufthansa, operated by Swiss",Direct,CHF172.49,43
+ZRH,FCO,2025-06-13,ZRH,19:05,13 Jun,FCO,20:35,13 Jun,"Swiss, operated by Ita Airways",1 stop,CHF463.73,43
+ZRH,FCO,2025-06-13,ZRH,17:45,13 Jun,FCO,19:20,13 Jun,"ITA Airways, operated by Swiss",Direct,CHF445.61,43
+ZRH,FCO,2025-06-13,ZRH,15:45,13 Jun,FCO,20:40,13 Jun,"Easyjet, ITA Airways",Direct,CHF209.99,43
+ZRH,FCO,2025-06-13,ZRH,17:35,13 Jun,FCO,22:45,13 Jun,KLM,1 stop,CHF205.18,43
+ZRH,FCO,2025-06-13,ZRH,09:35,13 Jun,FCO,15:20,13 Jun,Vueling,1 stop,CHF191.62,43
+ZRH,FCO,2025-06-14,ZRH,21:55,14 Jun,FCO,23:30,14 Jun,Easyjet,Cheapest direct,CHF51.66,44
+ZRH,FCO,2025-06-14,ZRH,19:05,14 Jun,FCO,20:35,14 Jun,ITA Airways,Direct,CHF98.88,44
+ZRH,FCO,2025-06-14,ZRH,08:30,14 Jun,FCO,10:05,14 Jun,Easyjet,Direct,CHF103.64,44
+ZRH,FCO,2025-06-14,ZRH,10:55,14 Jun,FCO,12:25,14 Jun,ITA Airways,Direct,CHF128.45,44
+ZRH,FCO,2025-06-14,ZRH,07:20,14 Jun,FCO,08:50,14 Jun,Swiss,Direct,CHF135.68,44
+ZRH,FCO,2025-06-14,ZRH,07:20,14 Jun,FCO,08:50,14 Jun,"ITA Airways, operated by Swiss",Direct,CHF191.01,44
+ZRH,FCO,2025-06-14,ZRH,12:45,14 Jun,FCO,14:15,14 Jun,"Swiss, operated by Helvetic Airways",Direct,CHF196.21,44
+ZRH,FCO,2025-06-14,ZRH,17:45,14 Jun,FCO,19:20,14 Jun,"Swiss, operated by Helvetic Airways",Direct,CHF189.59,44
+ZRH,FCO,2025-06-14,ZRH,19:05,14 Jun,FCO,20:35,14 Jun,"Swiss, operated by Ita Airways",Direct,CHF199.30,44
+ZRH,FCO,2025-06-14,ZRH,12:45,14 Jun,FCO,14:15,14 Jun,"ITA Airways, operated by Helvetic Airways For Swiss Int Air Lines",Direct,CHF287.58,44
+ZRH,FCO,2025-06-14,ZRH,17:45,14 Jun,FCO,19:20,14 Jun,"ITA Airways, operated by Helvetic Airways For Swiss Int Air Lines",Direct,CHF287.64,44
+ZRH,FCO,2025-06-14,ZRH,18:55,14 Jun,FCO,23:10,14 Jun,"Lufthansa, operated by Swiss",Direct,CHF138.17,44
+ZRH,FCO,2025-06-14,ZRH,16:55,14 Jun,FCO,21:55,14 Jun,"Lufthansa, operated by Helvetic Airways For Swiss",1 stop,CHF130.60,44
+ZRH,FCO,2025-06-14,ZRH,15:40,14 Jun,FCO,20:55,14 Jun,Vueling,1 stop,CHF152.24,44
+ZRH,FCO,2025-06-14,ZRH,18:05,14 Jun,FCO,23:10,14 Jun,Lufthansa,1 stop,CHF162.90,44
+ZRH,FCO,2025-06-16,ZRH,21:55,16 Jun,FCO,23:30,16 Jun,Easyjet,Cheapest direct,CHF51.66,46
+ZRH,FCO,2025-06-16,ZRH,10:55,16 Jun,FCO,12:25,16 Jun,ITA Airways,Direct,CHF99.08,46
+ZRH,FCO,2025-06-16,ZRH,08:30,16 Jun,FCO,10:05,16 Jun,Easyjet,Direct,CHF69.32,46
+ZRH,FCO,2025-06-16,ZRH,19:05,16 Jun,FCO,20:35,16 Jun,ITA Airways,Direct,CHF99.08,46
+ZRH,FCO,2025-06-16,ZRH,07:20,16 Jun,FCO,08:50,16 Jun,Swiss,Direct,CHF135.68,46
+ZRH,FCO,2025-06-16,ZRH,12:45,16 Jun,FCO,14:15,16 Jun,Swiss,Direct,CHF135.68,46
+ZRH,FCO,2025-06-16,ZRH,17:45,16 Jun,FCO,19:20,16 Jun,Swiss,Direct,CHF135.68,46
+ZRH,FCO,2025-06-16,ZRH,07:20,16 Jun,FCO,08:50,16 Jun,"ITA Airways, operated by Swiss",Direct,CHF191.11,46
+ZRH,FCO,2025-06-16,ZRH,12:45,16 Jun,FCO,14:15,16 Jun,"ITA Airways, operated by Swiss",Direct,CHF191.11,46
+ZRH,FCO,2025-06-16,ZRH,17:45,16 Jun,FCO,19:20,16 Jun,"ITA Airways, operated by Swiss",Direct,CHF191.16,46
+ZRH,FCO,2025-06-16,ZRH,10:55,16 Jun,FCO,12:25,16 Jun,"Swiss, operated by Ita Airways",Direct,CHF259.83,46
+ZRH,FCO,2025-06-16,ZRH,19:05,16 Jun,FCO,20:35,16 Jun,"Swiss, operated by Ita Airways",Direct,CHF259.83,46
+ZRH,FCO,2025-06-16,ZRH,11:10,16 Jun,FCO,17:25,16 Jun,Air Europa,Direct,CHF131.35,46
+ZRH,FCO,2025-06-16,ZRH,14:20,16 Jun,FCO,18:50,16 Jun,"KLM, operated by KLM Cityhopper",1 stop,CHF170.21,46
+ZRH,FCO,2025-06-16,ZRH,17:35,16 Jun,FCO,22:45,16 Jun,KLM,1 stop,CHF153.54,46
+ZRH,FCO,2025-06-17,ZRH,08:30,17 Jun,FCO,10:05,17 Jun,Easyjet,Cheapest direct,CHF51.66,47
+ZRH,FCO,2025-06-17,ZRH,21:55,17 Jun,FCO,23:30,17 Jun,Easyjet,Direct,CHF51.66,47
+ZRH,FCO,2025-06-17,ZRH,10:55,17 Jun,FCO,12:25,17 Jun,ITA Airways,Direct,CHF99.08,47
+ZRH,FCO,2025-06-17,ZRH,19:05,17 Jun,FCO,20:35,17 Jun,ITA Airways,Direct,CHF99.08,47
+ZRH,FCO,2025-06-17,ZRH,17:45,17 Jun,FCO,19:20,17 Jun,"Swiss, operated by Helvetic Airways",Direct,CHF105.38,47
+ZRH,FCO,2025-06-17,ZRH,07:20,17 Jun,FCO,08:50,17 Jun,Swiss,Direct,CHF135.68,47
+ZRH,FCO,2025-06-17,ZRH,17:45,17 Jun,FCO,19:20,17 Jun,"ITA Airways, operated by Helvetic Airways For Swiss Int Air Lines",Direct,CHF162.19,47
+ZRH,FCO,2025-06-17,ZRH,07:20,17 Jun,FCO,08:50,17 Jun,"ITA Airways, operated by Swiss",Direct,CHF191.11,47
+ZRH,FCO,2025-06-17,ZRH,12:45,17 Jun,FCO,14:15,17 Jun,"Swiss, operated by Helvetic Airways",Direct,CHF196.21,47
+ZRH,FCO,2025-06-17,ZRH,10:55,17 Jun,FCO,12:25,17 Jun,"Swiss, operated by Ita Airways",Direct,CHF259.83,47
+ZRH,FCO,2025-06-17,ZRH,12:45,17 Jun,FCO,14:15,17 Jun,"ITA Airways, operated by Helvetic Airways For Swiss Int Air Lines",Direct,CHF287.80,47
+ZRH,FCO,2025-06-17,ZRH,18:10,17 Jun,FCO,00:20,18 Jun,"Easyjet, Vueling",Direct,CHF95.59,47
+ZRH,FCO,2025-06-17,ZRH,21:55,17 Jun,FCO,08:20,18 Jun,Vueling,1 stop,CHF67.59,47
+ZRH,FCO,2025-06-17,ZRH,18:10,17 Jun,FCO,00:55,18 Jun,"Easyjet, Wizz Air Malta",1 stop,CHF96.50,47
+ZRH,FCO,2025-06-17,ZRH,18:55,17 Jun,FCO,23:15,17 Jun,"Lufthansa, operated by Swiss",1 stop,CHF138.17,47
+ZRH,FCO,2025-06-18,ZRH,08:30,18 Jun,FCO,10:05,18 Jun,Easyjet,Cheapest direct,CHF57.21,48
+ZRH,FCO,2025-06-18,ZRH,21:55,18 Jun,FCO,23:30,18 Jun,Easyjet,Direct,CHF80.43,48
+ZRH,FCO,2025-06-18,ZRH,10:55,18 Jun,FCO,12:25,18 Jun,ITA Airways,Direct,CHF99.08,48
+ZRH,FCO,2025-06-18,ZRH,19:05,18 Jun,FCO,20:35,18 Jun,ITA Airways,Direct,CHF99.08,48
+ZRH,FCO,2025-06-18,ZRH,07:20,18 Jun,FCO,08:50,18 Jun,Swiss,Direct,CHF135.68,48
+ZRH,FCO,2025-06-18,ZRH,12:45,18 Jun,FCO,14:15,18 Jun,Swiss,Direct,CHF189.81,48
+ZRH,FCO,2025-06-18,ZRH,17:45,18 Jun,FCO,19:20,18 Jun,"Swiss, operated by Helvetic Airways",Direct,CHF261.28,48
+ZRH,FCO,2025-06-18,ZRH,07:20,18 Jun,FCO,08:50,18 Jun,"ITA Airways, operated by Swiss",Direct,CHF284.54,48
+ZRH,FCO,2025-06-18,ZRH,12:45,18 Jun,FCO,14:15,18 Jun,"ITA Airways, operated by Swiss",Direct,CHF284.54,48
+ZRH,FCO,2025-06-18,ZRH,10:55,18 Jun,FCO,12:25,18 Jun,"Swiss, operated by Ita Airways",Direct,CHF297.20,48
+ZRH,FCO,2025-06-18,ZRH,14:35,18 Jun,FCO,19:40,18 Jun,Air Serbia,Direct,CHF130.53,48
+ZRH,FCO,2025-06-18,ZRH,11:10,18 Jun,FCO,17:25,18 Jun,Air Europa,1 stop,CHF117.30,48
+ZRH,FCO,2025-06-18,ZRH,09:35,18 Jun,FCO,17:05,18 Jun,Vueling,1 stop,CHF109.07,48
+ZRH,FCO,2025-06-18,ZRH,19:05,18 Jun,FCO,20:35,18 Jun,"Swiss, operated by Ita Airways",1 stop,CHF403.17,48
+ZRH,FCO,2025-06-18,ZRH,21:40,18 Jun,FCO,08:20,19 Jun,Vueling,Direct,CHF85.35,48
+ZRH,FCO,2025-06-19,ZRH,21:55,19 Jun,FCO,23:30,19 Jun,Easyjet,Cheapest direct,CHF55.69,49
+ZRH,FCO,2025-06-19,ZRH,08:30,19 Jun,FCO,10:05,19 Jun,Easyjet,Direct,CHF160.15,49
+ZRH,FCO,2025-06-19,ZRH,19:05,19 Jun,FCO,20:35,19 Jun,ITA Airways,Direct,CHF186.74,49
+ZRH,FCO,2025-06-19,ZRH,07:20,19 Jun,FCO,08:50,19 Jun,Swiss,Direct,CHF195.21,49
+ZRH,FCO,2025-06-19,ZRH,17:45,19 Jun,FCO,19:20,19 Jun,Swiss,Direct,CHF196.21,49
+ZRH,FCO,2025-06-19,ZRH,12:45,19 Jun,FCO,14:15,19 Jun,"Swiss, operated by Helvetic Airways",Direct,CHF234.57,49
+ZRH,FCO,2025-06-19,ZRH,10:55,19 Jun,FCO,12:25,19 Jun,ITA Airways,Direct,CHF268.19,49
+ZRH,FCO,2025-06-19,ZRH,17:45,19 Jun,FCO,19:20,19 Jun,"ITA Airways, operated by Swiss",Direct,CHF284.54,49
+ZRH,FCO,2025-06-19,ZRH,18:55,19 Jun,FCO,23:10,19 Jun,"Lufthansa, operated by Swiss",Direct,CHF138.17,49
+ZRH,FCO,2025-06-19,ZRH,17:35,19 Jun,FCO,22:45,19 Jun,KLM,1 stop,CHF153.54,49
+ZRH,FCO,2025-06-19,ZRH,12:45,19 Jun,FCO,14:15,19 Jun,"ITA Airways, operated by Helvetic Airways For Swiss Int Air Lines",1 stop,CHF438.15,49
+ZRH,FCO,2025-06-19,ZRH,16:55,19 Jun,FCO,21:55,19 Jun,"Lufthansa, operated by Helvetic Airways For Swiss",Direct,CHF164.93,49
+ZRH,FCO,2025-06-19,ZRH,14:20,19 Jun,FCO,18:50,19 Jun,"KLM, operated by KLM Cityhopper",1 stop,CHF205.15,49
+ZRH,FCO,2025-06-19,ZRH,11:50,19 Jun,FCO,16:35,19 Jun,KLM,1 stop,CHF205.15,49
+ZRH,FCO,2025-06-19,ZRH,10:55,19 Jun,FCO,12:25,19 Jun,"Swiss, operated by Ita Airways",1 stop,CHF547.47,49
+ZRH,FCO,2025-06-20,ZRH,21:55,20 Jun,FCO,23:30,20 Jun,Easyjet,Cheapest direct,CHF52.67,50
+ZRH,FCO,2025-06-20,ZRH,10:55,20 Jun,FCO,12:25,20 Jun,ITA Airways,Direct,CHF128.36,50
+ZRH,FCO,2025-06-20,ZRH,08:30,20 Jun,FCO,10:05,20 Jun,Easyjet,Direct,CHF86.98,50
+ZRH,FCO,2025-06-20,ZRH,07:20,20 Jun,FCO,08:50,20 Jun,Swiss,Direct,CHF135.68,50
+ZRH,FCO,2025-06-20,ZRH,12:45,20 Jun,FCO,14:15,20 Jun,"Swiss, operated by Air Baltic Corporation",Direct,CHF165.94,50
+ZRH,FCO,2025-06-20,ZRH,07:20,20 Jun,FCO,08:50,20 Jun,"ITA Airways, operated by Swiss",Direct,CHF191.06,50
+ZRH,FCO,2025-06-20,ZRH,17:45,20 Jun,FCO,19:20,20 Jun,"Swiss, operated by Helvetic Airways",Direct,CHF196.21,50
+ZRH,FCO,2025-06-20,ZRH,19:05,20 Jun,FCO,20:35,20 Jun,ITA Airways,Direct,CHF221.62,50
+ZRH,FCO,2025-06-20,ZRH,09:30,20 Jun,FCO,13:55,20 Jun,"Air Serbia, operated by Getjet Airlines For Air Serbia",Direct,CHF115.57,50
+ZRH,FCO,2025-06-20,ZRH,12:45,20 Jun,FCO,14:15,20 Jun,"ITA Airways, operated by Air Baltic For Swiss Int Air Lines",1 stop,CHF287.80,50
+ZRH,FCO,2025-06-20,ZRH,17:45,20 Jun,FCO,19:20,20 Jun,"ITA Airways, operated by Helvetic Airways For Swiss Int Air Lines",Direct,CHF287.88,50
+ZRH,FCO,2025-06-20,ZRH,15:10,20 Jun,FCO,19:40,20 Jun,Air Serbia,Direct,CHF130.53,50
+ZRH,FCO,2025-06-20,ZRH,10:55,20 Jun,FCO,12:25,20 Jun,"Swiss, operated by Ita Airways",1 stop,CHF403.17,50
+ZRH,FCO,2025-06-20,ZRH,15:45,20 Jun,FCO,20:40,20 Jun,"Easyjet, ITA Airways",Direct,CHF158.63,50
+ZRH,FCO,2025-06-20,ZRH,18:55,20 Jun,FCO,23:40,20 Jun,"Lufthansa, operated by Swiss",1 stop,CHF172.49,50
+ZRH,FCO,2025-06-21,ZRH,21:55,21 Jun,FCO,23:30,21 Jun,Easyjet,Cheapest direct,CHF51.66,51
+ZRH,FCO,2025-06-21,ZRH,08:30,21 Jun,FCO,10:05,21 Jun,Easyjet,Direct,CHF87.99,51
+ZRH,FCO,2025-06-21,ZRH,19:05,21 Jun,FCO,20:35,21 Jun,ITA Airways,Direct,CHF98.98,51
+ZRH,FCO,2025-06-21,ZRH,07:20,21 Jun,FCO,08:50,21 Jun,Swiss,Direct,CHF135.68,51
+ZRH,FCO,2025-06-21,ZRH,17:45,21 Jun,FCO,19:20,21 Jun,"Swiss, operated by Helvetic Airways",Direct,CHF165.94,51
+ZRH,FCO,2025-06-21,ZRH,19:05,21 Jun,FCO,20:35,21 Jun,"Swiss, operated by Ita Airways",Direct,CHF199.30,51
+ZRH,FCO,2025-06-21,ZRH,12:45,21 Jun,FCO,14:15,21 Jun,"Swiss, operated by Helvetic Airways",Direct,CHF234.57,51
+ZRH,FCO,2025-06-21,ZRH,07:20,21 Jun,FCO,08:50,21 Jun,"ITA Airways, operated by Swiss",Direct,CHF248.32,51
+ZRH,FCO,2025-06-21,ZRH,17:45,21 Jun,FCO,19:20,21 Jun,"ITA Airways, operated by Helvetic Airways For Swiss Int Air Lines",Direct,CHF287.88,51
+ZRH,FCO,2025-06-21,ZRH,18:55,21 Jun,FCO,23:10,21 Jun,"Lufthansa, operated by Swiss",Direct,CHF138.17,51
+ZRH,FCO,2025-06-21,ZRH,12:40,21 Jun,FCO,17:05,21 Jun,"Brussels Airlines, operated by Swiss",1 stop,CHF169.23,51
+ZRH,FCO,2025-06-21,ZRH,14:20,21 Jun,FCO,18:50,21 Jun,"KLM, operated by KLM Cityhopper",1 stop,CHF170.21,51
+ZRH,FCO,2025-06-21,ZRH,12:45,21 Jun,FCO,14:15,21 Jun,"ITA Airways, operated by Helvetic Airways For Swiss Int Air Lines",1 stop,CHF438.15,51
+ZRH,FCO,2025-06-21,ZRH,15:40,21 Jun,FCO,20:55,21 Jun,Vueling,Direct,CHF161.72,51
+ZRH,FCO,2025-06-21,ZRH,17:00,21 Jun,FCO,20:25,21 Jun,Swiss,1 stop,CHF227.37,51
+ZRH,FCO,2025-06-22,ZRH,08:30,22 Jun,FCO,10:05,22 Jun,Easyjet,Cheapest direct,CHF51.66,52
+ZRH,FCO,2025-06-22,ZRH,21:55,22 Jun,FCO,23:30,22 Jun,Easyjet,Direct,CHF51.66,52
+ZRH,FCO,2025-06-22,ZRH,19:05,22 Jun,FCO,20:35,22 Jun,ITA Airways,Direct,CHF98.98,52
+ZRH,FCO,2025-06-22,ZRH,07:20,22 Jun,FCO,08:50,22 Jun,Swiss,Direct,CHF105.38,52
+ZRH,FCO,2025-06-22,ZRH,10:55,22 Jun,FCO,12:25,22 Jun,ITA Airways,Direct,CHF128.36,52
+ZRH,FCO,2025-06-22,ZRH,12:45,22 Jun,FCO,14:15,22 Jun,"Swiss, operated by Air Baltic Corporation",Direct,CHF135.68,52
+ZRH,FCO,2025-06-22,ZRH,17:45,22 Jun,FCO,19:20,22 Jun,Swiss,Direct,CHF135.68,52
+ZRH,FCO,2025-06-22,ZRH,07:20,22 Jun,FCO,08:50,22 Jun,"ITA Airways, operated by Swiss",Direct,CHF162.81,52
+ZRH,FCO,2025-06-22,ZRH,17:45,22 Jun,FCO,19:20,22 Jun,"ITA Airways, operated by Swiss",Direct,CHF191.11,52
+ZRH,FCO,2025-06-22,ZRH,10:55,22 Jun,FCO,12:25,22 Jun,"Swiss, operated by Ita Airways",Direct,CHF229.58,52
+ZRH,FCO,2025-06-22,ZRH,09:30,22 Jun,FCO,13:55,22 Jun,"Air Serbia, operated by Bulgaria Air For Air Serbia",Direct,CHF92.84,52
+ZRH,FCO,2025-06-22,ZRH,12:45,22 Jun,FCO,14:15,22 Jun,"ITA Airways, operated by Air Baltic For Swiss Int Air Lines",1 stop,CHF249.18,52
+ZRH,FCO,2025-06-22,ZRH,14:35,22 Jun,FCO,19:40,22 Jun,Air Serbia,Direct,CHF92.84,52
+ZRH,FCO,2025-06-22,ZRH,19:05,22 Jun,FCO,20:35,22 Jun,"Swiss, operated by Ita Airways",1 stop,CHF297.20,52
+ZRH,FCO,2025-06-22,ZRH,09:30,22 Jun,FCO,13:50,22 Jun,"Lufthansa, operated by Air Dolomiti",Direct,CHF138.17,52
+ZRH,FCO,2025-06-23,ZRH,21:55,23 Jun,FCO,23:30,23 Jun,Easyjet,Cheapest direct,CHF51.66,53
+ZRH,FCO,2025-06-23,ZRH,10:55,23 Jun,FCO,12:25,23 Jun,ITA Airways,Direct,CHF99.11,53
+ZRH,FCO,2025-06-23,ZRH,08:30,23 Jun,FCO,10:05,23 Jun,Easyjet,Direct,CHF60.23,53
+ZRH,FCO,2025-06-23,ZRH,19:05,23 Jun,FCO,20:35,23 Jun,ITA Airways,Direct,CHF99.11,53
+ZRH,FCO,2025-06-23,ZRH,07:20,23 Jun,FCO,08:50,23 Jun,Swiss,Direct,CHF135.68,53
+ZRH,FCO,2025-06-23,ZRH,12:45,23 Jun,FCO,14:15,23 Jun,"Swiss, operated by Air Baltic Corporation",Direct,CHF135.68,53
+ZRH,FCO,2025-06-23,ZRH,17:45,23 Jun,FCO,19:20,23 Jun,"Swiss, operated by Helvetic Airways",Direct,CHF135.68,53
+ZRH,FCO,2025-06-23,ZRH,07:20,23 Jun,FCO,08:50,23 Jun,"ITA Airways, operated by Swiss",Direct,CHF191.06,53
+ZRH,FCO,2025-06-23,ZRH,17:45,23 Jun,FCO,19:20,23 Jun,"ITA Airways, operated by Helvetic Airways For Swiss Int Air Lines",Direct,CHF192.18,53
+ZRH,FCO,2025-06-23,ZRH,10:55,23 Jun,FCO,12:25,23 Jun,"Swiss, operated by Ita Airways",Direct,CHF229.58,53
+ZRH,FCO,2025-06-23,ZRH,19:05,23 Jun,FCO,20:35,23 Jun,"Swiss, operated by Ita Airways",Direct,CHF229.58,53
+ZRH,FCO,2025-06-23,ZRH,12:45,23 Jun,FCO,14:15,23 Jun,"ITA Airways, operated by Air Baltic For Swiss Int Air Lines",Direct,CHF249.18,53
+ZRH,FCO,2025-06-23,ZRH,08:30,23 Jun,FCO,12:15,23 Jun,"Easyjet, ITA Airways",Direct,CHF159.14,53
+ZRH,FCO,2025-06-23,ZRH,07:00,23 Jun,FCO,11:45,23 Jun,KLM,1 stop,CHF153.54,53
+ZRH,FCO,2025-06-23,ZRH,16:50,23 Jun,FCO,20:40,23 Jun,"Swiss, ITA Airways",1 stop,CHF200.10,53
+ZRH,FCO,2025-06-24,ZRH,08:30,24 Jun,FCO,10:05,24 Jun,Easyjet,Cheapest direct,CHF51.66,54
+ZRH,FCO,2025-06-24,ZRH,19:05,24 Jun,FCO,20:35,24 Jun,ITA Airways,Direct,CHF99.11,54
+ZRH,FCO,2025-06-24,ZRH,21:55,24 Jun,FCO,23:30,24 Jun,Easyjet,Direct,CHF51.66,54
+ZRH,FCO,2025-06-24,ZRH,17:45,24 Jun,FCO,19:20,24 Jun,"Swiss, operated by Helvetic Airways",Direct,CHF105.38,54
+ZRH,FCO,2025-06-24,ZRH,17:45,24 Jun,FCO,19:20,24 Jun,"ITA Airways, operated by Helvetic Airways For Swiss Int Air Lines",Direct,CHF162.15,54
+ZRH,FCO,2025-06-24,ZRH,12:45,24 Jun,FCO,14:15,24 Jun,"Swiss, operated by Helvetic Airways",Direct,CHF234.57,54
+ZRH,FCO,2025-06-24,ZRH,07:20,24 Jun,FCO,08:50,24 Jun,"Swiss, operated by Helvetic Airways",Direct,CHF269.93,54
+ZRH,FCO,2025-06-24,ZRH,19:05,24 Jun,FCO,20:35,24 Jun,"Swiss, operated by Ita Airways",Direct,CHF297.20,54
+ZRH,FCO,2025-06-24,ZRH,18:10,24 Jun,FCO,00:20,25 Jun,"Easyjet, Vueling",Direct,CHF93.87,54
+ZRH,FCO,2025-06-24,ZRH,18:10,24 Jun,FCO,00:55,25 Jun,"Easyjet, Wizz Air Malta",1 stop,CHF94.78,54
+ZRH,FCO,2025-06-24,ZRH,16:55,24 Jun,FCO,21:55,24 Jun,"Lufthansa, operated by Swiss",1 stop,CHF130.60,54
+ZRH,FCO,2025-06-24,ZRH,12:50,24 Jun,FCO,17:50,24 Jun,"Lufthansa, operated by Helvetic Airways For Swiss",1 stop,CHF138.17,54
+ZRH,FCO,2025-06-24,ZRH,17:10,24 Jun,FCO,00:20,25 Jun,"Swiss, Vueling",1 stop,CHF106.83,54
+ZRH,FCO,2025-06-24,ZRH,07:00,24 Jun,FCO,11:45,24 Jun,KLM,1 stop,CHF153.54,54
+ZRH,FCO,2025-06-24,ZRH,07:15,24 Jun,FCO,11:35,24 Jun,"Lufthansa, operated by Swiss",1 stop,CHF164.93,54
+ZRH,FCO,2025-06-26,ZRH,21:55,26 Jun,FCO,23:30,26 Jun,Easyjet,Cheapest direct,CHF51.66,56
+ZRH,FCO,2025-06-26,ZRH,10:55,26 Jun,FCO,12:25,26 Jun,ITA Airways,Direct,CHF128.36,56
+ZRH,FCO,2025-06-26,ZRH,08:30,26 Jun,FCO,10:05,26 Jun,Easyjet,Direct,CHF86.98,56
+ZRH,FCO,2025-06-26,ZRH,07:20,26 Jun,FCO,08:50,26 Jun,Swiss,Direct,CHF195.20,56
+ZRH,FCO,2025-06-26,ZRH,12:45,26 Jun,FCO,14:15,26 Jun,"Swiss, operated by Air Baltic Corporation",Direct,CHF196.20,56
+ZRH,FCO,2025-06-26,ZRH,17:45,26 Jun,FCO,19:20,26 Jun,"Swiss, operated by Helvetic Airways",Direct,CHF234.56,56
+ZRH,FCO,2025-06-26,ZRH,12:45,26 Jun,FCO,14:15,26 Jun,"ITA Airways, operated by Air Baltic For Swiss Int Air Lines",Direct,CHF287.80,56
+ZRH,FCO,2025-06-26,ZRH,18:55,26 Jun,FCO,23:10,26 Jun,"Lufthansa, operated by Swiss",Direct,CHF138.16,56
+ZRH,FCO,2025-06-26,ZRH,10:55,26 Jun,FCO,12:25,26 Jun,"Swiss, operated by Ita Airways",1 stop,CHF342.60,56
+ZRH,FCO,2025-06-26,ZRH,16:55,26 Jun,FCO,21:55,26 Jun,"Lufthansa, operated by Swiss",Direct,CHF130.59,56
+ZRH,FCO,2025-06-26,ZRH,16:25,26 Jun,FCO,23:10,26 Jun,"Swiss, Wizz Air Malta",1 stop,CHF126.78,56
+ZRH,FCO,2025-06-26,ZRH,17:45,26 Jun,FCO,19:20,26 Jun,"ITA Airways, operated by Helvetic Airways For Swiss Int Air Lines",1 stop,CHF438.26,56
+ZRH,FCO,2025-06-26,ZRH,17:35,26 Jun,FCO,22:45,26 Jun,KLM,Direct,CHF170.12,56
+ZRH,FCO,2025-06-26,ZRH,18:05,26 Jun,FCO,23:10,26 Jun,Lufthansa,1 stop,CHF172.48,56
+ZRH,FCO,2025-06-26,ZRH,16:55,26 Jun,FCO,20:40,26 Jun,"Lufthansa, operated by Swiss",1 stop,CHF228.55,56
+ZRH,FCO,2025-06-27,ZRH,21:55,27 Jun,FCO,23:30,27 Jun,Easyjet,Cheapest direct,CHF62.25,57
+ZRH,FCO,2025-06-27,ZRH,07:20,27 Jun,FCO,08:50,27 Jun,Swiss,Direct,CHF135.67,57
+ZRH,FCO,2025-06-27,ZRH,08:30,27 Jun,FCO,10:05,27 Jun,Easyjet,Direct,CHF86.98,57
+ZRH,FCO,2025-06-27,ZRH,10:55,27 Jun,FCO,12:25,27 Jun,ITA Airways,Direct,CHF157.13,57
+ZRH,FCO,2025-06-27,ZRH,19:05,27 Jun,FCO,20:35,27 Jun,ITA Airways,Direct,CHF186.70,57
+ZRH,FCO,2025-06-27,ZRH,07:20,27 Jun,FCO,08:50,27 Jun,"ITA Airways, operated by Swiss",Direct,CHF190.90,57
+ZRH,FCO,2025-06-27,ZRH,17:45,27 Jun,FCO,19:20,27 Jun,"Swiss, operated by Helvetic Airways",Direct,CHF185.63,57
+ZRH,FCO,2025-06-27,ZRH,12:45,27 Jun,FCO,14:15,27 Jun,"Swiss, operated by Helvetic Airways",Direct,CHF196.20,57
+ZRH,FCO,2025-06-27,ZRH,12:45,27 Jun,FCO,14:15,27 Jun,"ITA Airways, operated by Helvetic Airways For Swiss Int Air Lines",Direct,CHF287.80,57
+ZRH,FCO,2025-06-27,ZRH,17:45,27 Jun,FCO,19:20,27 Jun,"ITA Airways, operated by Helvetic Airways For Swiss Int Air Lines",Direct,CHF287.88,57
+ZRH,FCO,2025-06-27,ZRH,15:10,27 Jun,FCO,19:40,27 Jun,Air Serbia,Direct,CHF150.28,57
+ZRH,FCO,2025-06-27,ZRH,07:15,27 Jun,FCO,11:35,27 Jun,"Lufthansa, operated by Helvetic Airways For Swiss",1 stop,CHF164.92,57
+ZRH,FCO,2025-06-27,ZRH,09:30,27 Jun,FCO,13:55,27 Jun,"Air Serbia, operated by Getjet Airlines For Air Serbia",1 stop,CHF174.80,57
+ZRH,FCO,2025-06-27,ZRH,18:55,27 Jun,FCO,23:40,27 Jun,"Lufthansa, operated by Swiss",1 stop,CHF172.48,57
+ZRH,FCO,2025-06-27,ZRH,10:30,27 Jun,FCO,14:20,27 Jun,"Easyjet, Aeroitalia",1 stop,CHF205.03,57
+ZRH,FCO,2025-06-28,ZRH,21:55,28 Jun,FCO,23:30,28 Jun,Easyjet,Cheapest direct,CHF51.66,58
+ZRH,FCO,2025-06-28,ZRH,19:05,28 Jun,FCO,20:35,28 Jun,ITA Airways,Direct,CHF98.96,58
+ZRH,FCO,2025-06-28,ZRH,08:30,28 Jun,FCO,10:05,28 Jun,Easyjet,Direct,CHF101.11,58
+ZRH,FCO,2025-06-28,ZRH,17:45,28 Jun,FCO,19:20,28 Jun,"Swiss, operated by Helvetic Airways",Direct,CHF165.93,58
+ZRH,FCO,2025-06-28,ZRH,19:05,28 Jun,FCO,20:35,28 Jun,"Swiss, operated by Ita Airways",Direct,CHF229.57,58
+ZRH,FCO,2025-06-28,ZRH,07:20,28 Jun,FCO,08:50,28 Jun,Swiss,Direct,CHF234.56,58
+ZRH,FCO,2025-06-28,ZRH,12:45,28 Jun,FCO,14:15,28 Jun,"Swiss, operated by Helvetic Airways",Direct,CHF234.56,58
+ZRH,FCO,2025-06-28,ZRH,15:40,28 Jun,FCO,20:55,28 Jun,Vueling,Direct,CHF99.58,58
+ZRH,FCO,2025-06-28,ZRH,17:45,28 Jun,FCO,19:20,28 Jun,"ITA Airways, operated by Helvetic Airways For Swiss Int Air Lines",1 stop,CHF287.84,58
+ZRH,FCO,2025-06-28,ZRH,18:55,28 Jun,FCO,23:10,28 Jun,"Lufthansa, operated by Swiss",Direct,CHF138.16,58
+ZRH,FCO,2025-06-28,ZRH,14:20,28 Jun,FCO,18:50,28 Jun,"KLM, operated by KLM Cityhopper",1 stop,CHF170.12,58
+ZRH,FCO,2025-06-28,ZRH,17:35,28 Jun,FCO,22:45,28 Jun,KLM,1 stop,CHF153.45,58
+ZRH,FCO,2025-06-28,ZRH,16:55,28 Jun,FCO,21:55,28 Jun,"Lufthansa, operated by Helvetic Airways For Swiss",1 stop,CHF159.88,58
+ZRH,FCO,2025-06-28,ZRH,08:50,28 Jun,FCO,14:00,28 Jun,Eurowings,1 stop,CHF156.70,58
+ZRH,FCO,2025-06-28,ZRH,12:45,28 Jun,FCO,14:15,28 Jun,"ITA Airways, operated by Helvetic Airways For Swiss Int Air Lines",1 stop,CHF438.08,58
+ZRH,FCO,2025-06-29,ZRH,21:55,29 Jun,FCO,23:30,29 Jun,Easyjet,Cheapest direct,CHF51.66,59
+ZRH,FCO,2025-06-29,ZRH,08:30,29 Jun,FCO,10:05,29 Jun,Easyjet,Direct,CHF60.23,59
+ZRH,FCO,2025-06-29,ZRH,10:55,29 Jun,FCO,12:25,29 Jun,ITA Airways,Direct,CHF99.17,59
+ZRH,FCO,2025-06-29,ZRH,19:05,29 Jun,FCO,20:35,29 Jun,ITA Airways,Direct,CHF99.17,59
+ZRH,FCO,2025-06-29,ZRH,07:20,29 Jun,FCO,08:50,29 Jun,"Swiss, operated by Helvetic Airways",Direct,CHF105.37,59
+ZRH,FCO,2025-06-29,ZRH,17:45,29 Jun,FCO,19:20,29 Jun,"Swiss, operated by Helvetic Airways",Direct,CHF135.67,59
+ZRH,FCO,2025-06-29,ZRH,07:20,29 Jun,FCO,08:50,29 Jun,"ITA Airways, operated by Helvetic Airways For Swiss Int Air Lines",Direct,CHF161.65,59
+ZRH,FCO,2025-06-29,ZRH,12:45,29 Jun,FCO,14:15,29 Jun,"Swiss, operated by Helvetic Airways",Direct,CHF165.93,59
+ZRH,FCO,2025-06-29,ZRH,10:55,29 Jun,FCO,12:25,29 Jun,"Swiss, operated by Ita Airways",Direct,CHF229.57,59
+ZRH,FCO,2025-06-29,ZRH,19:05,29 Jun,FCO,20:35,29 Jun,"Swiss, operated by Ita Airways",Direct,CHF259.82,59
+ZRH,FCO,2025-06-29,ZRH,12:45,29 Jun,FCO,14:15,29 Jun,"ITA Airways, operated by Helvetic Airways For Swiss Int Air Lines",Direct,CHF287.80,59
+ZRH,FCO,2025-06-29,ZRH,17:45,29 Jun,FCO,19:20,29 Jun,"ITA Airways, operated by Helvetic Airways For Swiss Int Air Lines",Direct,CHF287.87,59
+ZRH,FCO,2025-06-29,ZRH,18:55,29 Jun,FCO,23:10,29 Jun,"Lufthansa, operated by Swiss",Direct,CHF138.16,59
+ZRH,FCO,2025-06-29,ZRH,09:30,29 Jun,FCO,13:55,29 Jun,"Air Serbia, operated by Bulgaria Air For Air Serbia",1 stop,CHF150.28,59
+ZRH,FCO,2025-06-29,ZRH,14:35,29 Jun,FCO,19:40,29 Jun,Air Serbia,1 stop,CHF150.28,59
+ZRH,FCO,2025-06-30,ZRH,21:55,30 Jun,FCO,23:30,30 Jun,Easyjet,Cheapest direct,CHF51.65,60
+ZRH,FCO,2025-06-30,ZRH,08:30,30 Jun,FCO,10:05,30 Jun,Easyjet,Direct,CHF58.21,60
+ZRH,FCO,2025-06-30,ZRH,10:55,30 Jun,FCO,12:25,30 Jun,ITA Airways,Direct,CHF99.17,60
+ZRH,FCO,2025-06-30,ZRH,19:05,30 Jun,FCO,20:35,30 Jun,ITA Airways,Direct,CHF99.17,60
+ZRH,FCO,2025-06-30,ZRH,17:45,30 Jun,FCO,19:20,30 Jun,"Swiss, operated by Helvetic Airways",Direct,CHF105.37,60
+ZRH,FCO,2025-06-30,ZRH,12:45,30 Jun,FCO,14:15,30 Jun,Swiss,Direct,CHF129.97,60
+ZRH,FCO,2025-06-30,ZRH,07:20,30 Jun,FCO,08:50,30 Jun,"Swiss, operated by Helvetic Airways",Direct,CHF135.67,60
+ZRH,FCO,2025-06-30,ZRH,17:45,30 Jun,FCO,19:20,30 Jun,"ITA Airways, operated by Helvetic Airways For Swiss Int Air Lines",Direct,CHF161.74,60
+ZRH,FCO,2025-06-30,ZRH,07:20,30 Jun,FCO,08:50,30 Jun,"ITA Airways, operated by Helvetic Airways For Swiss Int Air Lines",Direct,CHF192.21,60
+ZRH,FCO,2025-06-30,ZRH,12:45,30 Jun,FCO,14:15,30 Jun,"ITA Airways, operated by Swiss",Direct,CHF219.36,60
+ZRH,FCO,2025-06-30,ZRH,19:05,30 Jun,FCO,20:35,30 Jun,"Swiss, operated by Ita Airways",Direct,CHF229.57,60
+ZRH,FCO,2025-06-30,ZRH,10:55,30 Jun,FCO,12:25,30 Jun,"Swiss, operated by Ita Airways",Direct,CHF259.82,60
+ZRH,FCO,2025-06-30,ZRH,08:30,30 Jun,FCO,12:15,30 Jun,"Easyjet, ITA Airways",Direct,CHF134.90,60
+ZRH,FCO,2025-06-30,ZRH,18:55,30 Jun,FCO,23:40,30 Jun,"Lufthansa, operated by Swiss",1 stop,CHF138.16,60
+ZRH,FCO,2025-06-30,ZRH,15:35,30 Jun,FCO,21:00,30 Jun,Vueling,1 stop,CHF128.53,60
+ZRH,FCO,2025-07-01,ZRH,08:30,1 Jul,FCO,10:05,1 Jul,Easyjet,Cheapest direct,CHF58.21,61
+ZRH,FCO,2025-07-01,ZRH,19:05,1 Jul,FCO,20:35,1 Jul,ITA Airways,Direct,CHF99.17,61
+ZRH,FCO,2025-07-01,ZRH,21:55,1 Jul,FCO,23:30,1 Jul,Easyjet,Direct,CHF58.21,61
+ZRH,FCO,2025-07-01,ZRH,17:45,1 Jul,FCO,19:20,1 Jul,"Swiss, operated by Helvetic Airways",Direct,CHF105.37,61
+ZRH,FCO,2025-07-01,ZRH,10:55,1 Jul,FCO,12:25,1 Jul,ITA Airways,Direct,CHF127.94,61
+ZRH,FCO,2025-07-01,ZRH,07:20,1 Jul,FCO,08:50,1 Jul,Swiss,Direct,CHF135.67,61
+ZRH,FCO,2025-07-01,ZRH,12:45,1 Jul,FCO,14:15,1 Jul,"Swiss, operated by Helvetic Airways",Direct,CHF165.93,61
+ZRH,FCO,2025-07-01,ZRH,17:45,1 Jul,FCO,19:20,1 Jul,"ITA Airways, operated by Helvetic Airways For Swiss Int Air Lines",Direct,CHF162.11,61
+ZRH,FCO,2025-07-01,ZRH,07:20,1 Jul,FCO,08:50,1 Jul,"ITA Airways, operated by Swiss",Direct,CHF191.03,61
+ZRH,FCO,2025-07-01,ZRH,12:45,1 Jul,FCO,14:15,1 Jul,"ITA Airways, operated by Helvetic Airways For Swiss Int Air Lines",Direct,CHF286.55,61
+ZRH,FCO,2025-07-01,ZRH,10:55,1 Jul,FCO,12:25,1 Jul,"Swiss, operated by Ita Airways",Direct,CHF297.19,61
+ZRH,FCO,2025-07-01,ZRH,19:05,1 Jul,FCO,20:35,1 Jul,"Swiss, operated by Ita Airways",Direct,CHF297.19,61
+ZRH,FCO,2025-07-01,ZRH,18:10,1 Jul,FCO,00:20,2 Jul,"Easyjet, Vueling",Direct,CHF95.59,61
+ZRH,FCO,2025-07-01,ZRH,18:10,1 Jul,FCO,00:55,2 Jul,"Easyjet, Wizz Air Malta",1 stop,CHF96.50,61
+ZRH,FCO,2025-07-01,ZRH,18:55,1 Jul,FCO,23:15,1 Jul,"Lufthansa, operated by Swiss",1 stop,CHF138.16,61
+ZRH,FCO,2025-07-02,ZRH,08:30,2 Jul,FCO,10:05,2 Jul,Easyjet,Cheapest direct,CHF58.21,62
+ZRH,FCO,2025-07-02,ZRH,10:55,2 Jul,FCO,12:25,2 Jul,ITA Airways,Direct,CHF127.89,62
+ZRH,FCO,2025-07-02,ZRH,21:55,2 Jul,FCO,23:30,2 Jul,Easyjet,Direct,CHF58.21,62
+ZRH,FCO,2025-07-02,ZRH,17:45,2 Jul,FCO,19:20,2 Jul,Swiss,Direct,CHF105.37,62
+ZRH,FCO,2025-07-02,ZRH,19:05,2 Jul,FCO,20:35,2 Jul,ITA Airways,Direct,CHF127.89,62
+ZRH,FCO,2025-07-02,ZRH,12:45,2 Jul,FCO,14:15,2 Jul,Swiss,Direct,CHF128.09,62
+ZRH,FCO,2025-07-02,ZRH,07:20,2 Jul,FCO,08:50,2 Jul,"Swiss, operated by Helvetic Airways",Direct,CHF135.67,62
+ZRH,FCO,2025-07-02,ZRH,17:45,2 Jul,FCO,19:20,2 Jul,"ITA Airways, operated by Swiss",Direct,CHF162.24,62
+ZRH,FCO,2025-07-02,ZRH,07:20,2 Jul,FCO,08:50,2 Jul,"ITA Airways, operated by Helvetic Airways For Swiss Int Air Lines",Direct,CHF190.73,62
+ZRH,FCO,2025-07-02,ZRH,12:45,2 Jul,FCO,14:15,2 Jul,"ITA Airways, operated by Swiss",Direct,CHF190.97,62
+ZRH,FCO,2025-07-02,ZRH,10:55,2 Jul,FCO,12:25,2 Jul,"Swiss, operated by Ita Airways",Direct,CHF199.29,62
+ZRH,FCO,2025-07-02,ZRH,19:05,2 Jul,FCO,20:35,2 Jul,"Swiss, operated by Ita Airways",Direct,CHF259.82,62
+ZRH,FCO,2025-07-02,ZRH,18:55,2 Jul,FCO,23:15,2 Jul,"Lufthansa, operated by Swiss",Direct,CHF138.16,62
+ZRH,FCO,2025-07-02,ZRH,16:55,2 Jul,FCO,21:55,2 Jul,"Lufthansa, operated by Swiss",1 stop,CHF130.59,62
+ZRH,FCO,2025-07-02,ZRH,21:40,2 Jul,FCO,08:20,3 Jul,Vueling,1 stop,CHF75.85,62
+ZRH,FCO,2025-07-03,ZRH,21:55,3 Jul,FCO,23:30,3 Jul,Easyjet,Cheapest direct,CHF59.22,63
+ZRH,FCO,2025-07-03,ZRH,08:30,3 Jul,FCO,10:05,3 Jul,Easyjet,Direct,CHF62.25,63
+ZRH,FCO,2025-07-03,ZRH,17:45,3 Jul,FCO,19:20,3 Jul,Swiss,Direct,CHF105.37,63
+ZRH,FCO,2025-07-03,ZRH,07:20,3 Jul,FCO,08:50,3 Jul,"Swiss, operated by Helvetic Airways",Direct,CHF135.67,63
+ZRH,FCO,2025-07-03,ZRH,10:55,3 Jul,FCO,12:25,3 Jul,ITA Airways,Direct,CHF157.09,63
+ZRH,FCO,2025-07-03,ZRH,19:05,3 Jul,FCO,20:35,3 Jul,ITA Airways,Direct,CHF157.09,63
+ZRH,FCO,2025-07-03,ZRH,12:45,3 Jul,FCO,14:15,3 Jul,"Swiss, operated by Air Baltic Corporation",Direct,CHF165.93,63
+ZRH,FCO,2025-07-03,ZRH,17:45,3 Jul,FCO,19:20,3 Jul,"ITA Airways, operated by Swiss",Direct,CHF162.33,63
+ZRH,FCO,2025-07-03,ZRH,07:20,3 Jul,FCO,08:50,3 Jul,"ITA Airways, operated by Helvetic Airways For Swiss Int Air Lines",Direct,CHF190.85,63
+ZRH,FCO,2025-07-03,ZRH,12:45,3 Jul,FCO,14:15,3 Jul,"ITA Airways, operated by Air Baltic For Swiss Int Air Lines",Direct,CHF286.69,63
+ZRH,FCO,2025-07-03,ZRH,18:55,3 Jul,FCO,23:10,3 Jul,"Lufthansa, operated by Swiss",Direct,CHF138.16,63
+ZRH,FCO,2025-07-03,ZRH,10:55,3 Jul,FCO,12:25,3 Jul,"Swiss, operated by Ita Airways",1 stop,CHF342.60,63
+ZRH,FCO,2025-07-03,ZRH,19:05,3 Jul,FCO,20:35,3 Jul,"Swiss, operated by Ita Airways",Direct,CHF342.60,63
+ZRH,FCO,2025-07-03,ZRH,07:15,3 Jul,FCO,11:35,3 Jul,"Lufthansa, operated by Swiss",Direct,CHF164.92,63
+ZRH,FCO,2025-07-03,ZRH,14:20,3 Jul,FCO,18:50,3 Jul,"KLM, operated by KLM Cityhopper",1 stop,CHF170.10,63
+ZRH,FCO,2025-07-04,ZRH,21:55,4 Jul,FCO,23:30,4 Jul,Easyjet,Cheapest direct,CHF64.77,64
+ZRH,FCO,2025-07-04,ZRH,12:45,4 Jul,FCO,14:15,4 Jul,"Swiss, operated by Air Baltic Corporation",Direct,CHF135.67,64
+ZRH,FCO,2025-07-04,ZRH,08:30,4 Jul,FCO,10:05,4 Jul,Easyjet,Direct,CHF102.62,64
+ZRH,FCO,2025-07-04,ZRH,17:45,4 Jul,FCO,19:20,4 Jul,"Swiss, operated by Helvetic Airways",Direct,CHF135.67,64
+ZRH,FCO,2025-07-04,ZRH,10:55,4 Jul,FCO,12:25,4 Jul,ITA Airways,Direct,CHF157.09,64
+ZRH,FCO,2025-07-04,ZRH,07:20,4 Jul,FCO,08:50,4 Jul,"Swiss, operated by Air Baltic Corporation",Direct,CHF159.11,64
+ZRH,FCO,2025-07-04,ZRH,19:05,4 Jul,FCO,20:35,4 Jul,ITA Airways,Direct,CHF267.26,64
+ZRH,FCO,2025-07-04,ZRH,07:20,4 Jul,FCO,08:50,4 Jul,"ITA Airways, operated by Air Baltic For Swiss Int Air Lines",Direct,CHF286.69,64
+ZRH,FCO,2025-07-04,ZRH,12:45,4 Jul,FCO,14:15,4 Jul,"ITA Airways, operated by Air Baltic For Swiss Int Air Lines",Direct,CHF286.69,64
+ZRH,FCO,2025-07-04,ZRH,17:45,4 Jul,FCO,19:20,4 Jul,"ITA Airways, operated by Helvetic Airways For Swiss Int Air Lines",Direct,CHF286.76,64
+ZRH,FCO,2025-07-04,ZRH,09:30,4 Jul,FCO,13:55,4 Jul,"Air Serbia, operated by Getjet Airlines For Air Serbia",Direct,CHF150.25,64
+ZRH,FCO,2025-07-04,ZRH,10:55,4 Jul,FCO,12:25,4 Jul,"Swiss, operated by Ita Airways",1 stop,CHF403.16,64
+ZRH,FCO,2025-07-04,ZRH,16:55,4 Jul,FCO,21:55,4 Jul,"Lufthansa, operated by Swiss",Direct,CHF164.92,64
+ZRH,FCO,2025-07-04,ZRH,18:55,4 Jul,FCO,23:40,4 Jul,"Lufthansa, operated by Swiss",1 stop,CHF172.48,64
+ZRH,FCO,2025-07-04,ZRH,16:00,4 Jul,FCO,20:40,4 Jul,"Easyjet, ITA Airways",1 stop,CHF180.40,64
+ZRH,FCO,2025-07-05,ZRH,21:55,5 Jul,FCO,23:30,5 Jul,Easyjet,Cheapest direct,CHF58.21,65
+ZRH,FCO,2025-07-05,ZRH,08:30,5 Jul,FCO,10:05,5 Jul,Easyjet,Direct,CHF97.07,65
+ZRH,FCO,2025-07-05,ZRH,19:05,5 Jul,FCO,20:35,5 Jul,ITA Airways,Direct,CHF128.02,65
+ZRH,FCO,2025-07-05,ZRH,07:20,5 Jul,FCO,08:50,5 Jul,Swiss,Direct,CHF135.66,65
+ZRH,FCO,2025-07-05,ZRH,12:45,5 Jul,FCO,14:15,5 Jul,Swiss,Direct,CHF135.66,65
+ZRH,FCO,2025-07-05,ZRH,17:45,5 Jul,FCO,19:20,5 Jul,"Swiss, operated by Helvetic Airways",Direct,CHF160.48,65
+ZRH,FCO,2025-07-05,ZRH,10:55,5 Jul,FCO,12:25,5 Jul,ITA Airways,Direct,CHF223.14,65
+ZRH,FCO,2025-07-05,ZRH,19:05,5 Jul,FCO,20:35,5 Jul,"Swiss, operated by Ita Airways",Direct,CHF259.81,65
+ZRH,FCO,2025-07-05,ZRH,07:20,5 Jul,FCO,08:50,5 Jul,"ITA Airways, operated by Swiss",Direct,CHF286.27,65
+ZRH,FCO,2025-07-05,ZRH,12:45,5 Jul,FCO,14:15,5 Jul,"ITA Airways, operated by Swiss",Direct,CHF286.27,65
+ZRH,FCO,2025-07-05,ZRH,17:45,5 Jul,FCO,19:20,5 Jul,"ITA Airways, operated by Helvetic Airways For Swiss Int Air Lines",Direct,CHF286.91,65
+ZRH,FCO,2025-07-05,ZRH,15:40,5 Jul,FCO,20:55,5 Jul,Vueling,Direct,CHF140.85,65
+ZRH,FCO,2025-07-05,ZRH,10:55,5 Jul,FCO,12:25,5 Jul,"Swiss, operated by Ita Airways",1 stop,CHF403.16,65
+ZRH,FCO,2025-07-05,ZRH,18:55,5 Jul,FCO,23:10,5 Jul,"Lufthansa, operated by Swiss",Direct,CHF172.48,65
+ZRH,FCO,2025-07-05,ZRH,15:40,5 Jul,FCO,23:35,5 Jul,"Vueling, Wizz Air Malta",1 stop,CHF141.30,65
+ZRH,FCO,2025-07-06,ZRH,21:55,6 Jul,FCO,23:30,6 Jul,Easyjet,Direct,CHF58.21,66
+ZRH,FCO,2025-07-06,ZRH,08:30,6 Jul,FCO,10:05,6 Jul,Easyjet,Cheapest direct,CHF58.21,66
+ZRH,FCO,2025-07-06,ZRH,07:20,6 Jul,FCO,08:50,6 Jul,"Swiss, operated by Air Baltic Corporation",Direct,CHF135.66,66
+ZRH,FCO,2025-07-06,ZRH,12:45,6 Jul,FCO,14:15,6 Jul,Swiss,Direct,CHF135.66,66
+ZRH,FCO,2025-07-06,ZRH,17:45,6 Jul,FCO,19:20,6 Jul,"Swiss, operated by Helvetic Airways",Direct,CHF135.66,66
+ZRH,FCO,2025-07-06,ZRH,19:05,6 Jul,FCO,20:35,6 Jul,ITA Airways,Direct,CHF157.09,66
+ZRH,FCO,2025-07-06,ZRH,10:55,6 Jul,FCO,12:25,6 Jul,ITA Airways,Direct,CHF223.14,66
+ZRH,FCO,2025-07-06,ZRH,19:05,6 Jul,FCO,20:35,6 Jul,"Swiss, operated by Ita Airways",Direct,CHF259.81,66
+ZRH,FCO,2025-07-06,ZRH,12:45,6 Jul,FCO,14:15,6 Jul,"ITA Airways, operated by Swiss",Direct,CHF286.27,66
+ZRH,FCO,2025-07-06,ZRH,07:20,6 Jul,FCO,08:50,6 Jul,"ITA Airways, operated by Air Baltic For Swiss Int Air Lines",Direct,CHF286.84,66
+ZRH,FCO,2025-07-06,ZRH,17:45,6 Jul,FCO,19:20,6 Jul,"ITA Airways, operated by Helvetic Airways For Swiss Int Air Lines",Direct,CHF286.91,66
+ZRH,FCO,2025-07-06,ZRH,10:55,6 Jul,FCO,12:25,6 Jul,"Swiss, operated by Ita Airways",Direct,CHF403.16,66
+ZRH,FCO,2025-07-06,ZRH,18:55,6 Jul,FCO,23:10,6 Jul,"Lufthansa, operated by Swiss",Direct,CHF172.48,66
+ZRH,FCO,2025-07-06,ZRH,09:30,6 Jul,FCO,13:55,6 Jul,"Air Serbia, operated by Bulgaria Air For Air Serbia",1 stop,CHF174.68,66
+ZRH,FCO,2025-07-06,ZRH,14:35,6 Jul,FCO,19:40,6 Jul,Air Serbia,1 stop,CHF174.68,66
+ZRH,FCO,2025-07-07,ZRH,21:55,7 Jul,FCO,23:30,7 Jul,Easyjet,Cheapest direct,CHF58.21,67
+ZRH,FCO,2025-07-07,ZRH,19:05,7 Jul,FCO,20:35,7 Jul,ITA Airways,Direct,CHF99.64,67
+ZRH,FCO,2025-07-07,ZRH,08:30,7 Jul,FCO,10:05,7 Jul,Easyjet,Direct,CHF59.22,67
+ZRH,FCO,2025-07-07,ZRH,17:45,7 Jul,FCO,19:20,7 Jul,Swiss,Direct,CHF105.36,67
+ZRH,FCO,2025-07-07,ZRH,12:45,7 Jul,FCO,14:15,7 Jul,Swiss,Direct,CHF129.96,67
+ZRH,FCO,2025-07-07,ZRH,07:20,7 Jul,FCO,08:50,7 Jul,"Swiss, operated by Helvetic Airways",Direct,CHF135.66,67
+ZRH,FCO,2025-07-07,ZRH,17:45,7 Jul,FCO,19:20,7 Jul,"ITA Airways, operated by Swiss",Direct,CHF162.50,67
+ZRH,FCO,2025-07-07,ZRH,10:55,7 Jul,FCO,12:25,7 Jul,ITA Airways,Direct,CHF185.77,67
+ZRH,FCO,2025-07-07,ZRH,07:20,7 Jul,FCO,08:50,7 Jul,"ITA Airways, operated by Helvetic Airways For Swiss Int Air Lines",Direct,CHF190.89,67
+ZRH,FCO,2025-07-07,ZRH,12:45,7 Jul,FCO,14:15,7 Jul,"ITA Airways, operated by Swiss",Direct,CHF219.44,67
+ZRH,FCO,2025-07-07,ZRH,19:05,7 Jul,FCO,20:35,7 Jul,"Swiss, operated by Ita Airways",Direct,CHF259.81,67
+ZRH,FCO,2025-07-07,ZRH,10:55,7 Jul,FCO,12:25,7 Jul,"Swiss, operated by Ita Airways",Direct,CHF297.18,67
+ZRH,FCO,2025-07-07,ZRH,18:55,7 Jul,FCO,23:40,7 Jul,"Lufthansa, operated by Swiss",Direct,CHF138.15,67
+ZRH,FCO,2025-07-07,ZRH,07:15,7 Jul,FCO,11:35,7 Jul,"Lufthansa, operated by Helvetic Airways For Swiss",1 stop,CHF164.91,67
+ZRH,FCO,2025-07-07,ZRH,08:30,7 Jul,FCO,12:15,7 Jul,"Easyjet, ITA Airways",1 stop,CHF196.61,67
+ZRH,FCO,2025-07-08,ZRH,08:30,8 Jul,FCO,10:05,8 Jul,Easyjet,Cheapest direct,CHF58.21,68
+ZRH,FCO,2025-07-08,ZRH,12:45,8 Jul,FCO,14:15,8 Jul,Swiss,Direct,CHF105.36,68
+ZRH,FCO,2025-07-08,ZRH,21:55,8 Jul,FCO,23:30,8 Jul,Easyjet,Direct,CHF58.21,68
+ZRH,FCO,2025-07-08,ZRH,17:45,8 Jul,FCO,19:20,8 Jul,"Swiss, operated by Helvetic Airways",Direct,CHF105.36,68
+ZRH,FCO,2025-07-08,ZRH,19:05,8 Jul,FCO,20:35,8 Jul,ITA Airways,Direct,CHF128.10,68
+ZRH,FCO,2025-07-08,ZRH,07:20,8 Jul,FCO,08:50,8 Jul,"Swiss, operated by Helvetic Airways",Direct,CHF135.66,68
+ZRH,FCO,2025-07-08,ZRH,10:55,8 Jul,FCO,12:25,8 Jul,ITA Airways,Direct,CHF157.17,68
+ZRH,FCO,2025-07-08,ZRH,12:45,8 Jul,FCO,14:15,8 Jul,"ITA Airways, operated by Swiss",Direct,CHF162.47,68
+ZRH,FCO,2025-07-08,ZRH,17:45,8 Jul,FCO,19:20,8 Jul,"ITA Airways, operated by Helvetic Airways For Swiss Int Air Lines",Direct,CHF162.19,68
+ZRH,FCO,2025-07-08,ZRH,07:20,8 Jul,FCO,08:50,8 Jul,"ITA Airways, operated by Helvetic Airways For Swiss Int Air Lines",Direct,CHF190.89,68
+ZRH,FCO,2025-07-08,ZRH,19:05,8 Jul,FCO,20:35,8 Jul,"Swiss, operated by Ita Airways",Direct,CHF297.18,68
+ZRH,FCO,2025-07-08,ZRH,18:55,8 Jul,FCO,23:15,8 Jul,"Lufthansa, operated by Swiss",Direct,CHF138.15,68
+ZRH,FCO,2025-07-08,ZRH,10:55,8 Jul,FCO,12:25,8 Jul,"Swiss, operated by Ita Airways",1 stop,CHF342.59,68
+ZRH,FCO,2025-07-08,ZRH,18:10,8 Jul,FCO,00:20,9 Jul,"Easyjet, Vueling",Direct,CHF116.02,68
+ZRH,FCO,2025-07-08,ZRH,12:50,8 Jul,FCO,17:50,8 Jul,"Lufthansa, operated by Helvetic Airways For Swiss",1 stop,CHF138.15,68
+ZRH,FCO,2025-07-09,ZRH,21:55,9 Jul,FCO,23:30,9 Jul,Easyjet,Cheapest direct,CHF58.21,69
+ZRH,FCO,2025-07-09,ZRH,08:30,9 Jul,FCO,10:05,9 Jul,Easyjet,Direct,CHF62.25,69
+ZRH,FCO,2025-07-09,ZRH,12:45,9 Jul,FCO,14:15,9 Jul,Swiss,Direct,CHF105.36,69
+ZRH,FCO,2025-07-09,ZRH,17:45,9 Jul,FCO,19:20,9 Jul,"Swiss, operated by Helvetic Airways",Direct,CHF105.36,69
+ZRH,FCO,2025-07-09,ZRH,19:05,9 Jul,FCO,20:35,9 Jul,ITA Airways,Direct,CHF128.10,69
+ZRH,FCO,2025-07-09,ZRH,07:20,9 Jul,FCO,08:50,9 Jul,"Swiss, operated by Helvetic Airways",Direct,CHF135.66,69
+ZRH,FCO,2025-07-09,ZRH,10:55,9 Jul,FCO,12:25,9 Jul,ITA Airways,Direct,CHF157.17,69
+ZRH,FCO,2025-07-09,ZRH,12:45,9 Jul,FCO,14:15,9 Jul,"ITA Airways, operated by Swiss",Direct,CHF162.47,69
+ZRH,FCO,2025-07-09,ZRH,17:45,9 Jul,FCO,19:20,9 Jul,"ITA Airways, operated by Helvetic Airways For Swiss Int Air Lines",Direct,CHF162.19,69
+ZRH,FCO,2025-07-09,ZRH,07:20,9 Jul,FCO,08:50,9 Jul,"ITA Airways, operated by Helvetic Airways For Swiss Int Air Lines",Direct,CHF190.89,69
+ZRH,FCO,2025-07-09,ZRH,10:55,9 Jul,FCO,12:25,9 Jul,"Swiss, operated by Ita Airways",Direct,CHF259.81,69
+ZRH,FCO,2025-07-09,ZRH,19:05,9 Jul,FCO,20:35,9 Jul,"Swiss, operated by Ita Airways",Direct,CHF297.18,69
+ZRH,FCO,2025-07-09,ZRH,18:55,9 Jul,FCO,23:15,9 Jul,"Lufthansa, operated by Swiss",Direct,CHF138.15,69
+ZRH,FCO,2025-07-09,ZRH,16:55,9 Jul,FCO,21:55,9 Jul,"Lufthansa, operated by Swiss",1 stop,CHF130.58,69
+ZRH,FCO,2025-07-09,ZRH,14:35,9 Jul,FCO,19:40,9 Jul,Air Serbia,1 stop,CHF150.16,69
+ZRH,FCO,2025-07-10,ZRH,21:55,10 Jul,FCO,23:30,10 Jul,Easyjet,Direct,CHF59.22,70
+ZRH,FCO,2025-07-10,ZRH,08:30,10 Jul,FCO,10:05,10 Jul,Easyjet,Cheapest direct,CHF59.22,70
+ZRH,FCO,2025-07-10,ZRH,07:20,10 Jul,FCO,08:50,10 Jul,"Swiss, operated by Helvetic Airways",Direct,CHF135.66,70
+ZRH,FCO,2025-07-10,ZRH,10:55,10 Jul,FCO,12:25,10 Jul,ITA Airways,Direct,CHF157.17,70
+ZRH,FCO,2025-07-10,ZRH,19:05,10 Jul,FCO,20:35,10 Jul,ITA Airways,Direct,CHF157.17,70
+ZRH,FCO,2025-07-10,ZRH,17:45,10 Jul,FCO,19:20,10 Jul,"Swiss, operated by Helvetic Airways",Direct,CHF159.00,70
+ZRH,FCO,2025-07-10,ZRH,07:20,10 Jul,FCO,08:50,10 Jul,"ITA Airways, operated by Helvetic Airways For Swiss Int Air Lines",Direct,CHF190.89,70
+ZRH,FCO,2025-07-10,ZRH,12:45,10 Jul,FCO,14:15,10 Jul,Swiss,Direct,CHF225.27,70
+ZRH,FCO,2025-07-10,ZRH,12:45,10 Jul,FCO,14:15,10 Jul,"ITA Airways, operated by Swiss",Direct,CHF286.18,70
+ZRH,FCO,2025-07-10,ZRH,17:45,10 Jul,FCO,19:20,10 Jul,"ITA Airways, operated by Helvetic Airways For Swiss Int Air Lines",Direct,CHF286.82,70
+ZRH,FCO,2025-07-10,ZRH,18:55,10 Jul,FCO,23:10,10 Jul,"Lufthansa, operated by Swiss",Direct,CHF138.15,70
+ZRH,FCO,2025-07-10,ZRH,10:55,10 Jul,FCO,12:25,10 Jul,"Swiss, operated by Ita Airways",1 stop,CHF342.59,70
+ZRH,FCO,2025-07-10,ZRH,19:05,10 Jul,FCO,20:35,10 Jul,"Swiss, operated by Ita Airways",Direct,CHF342.59,70
+ZRH,FCO,2025-07-10,ZRH,07:15,10 Jul,FCO,11:35,10 Jul,"Lufthansa, operated by Swiss",Direct,CHF164.91,70
+ZRH,FCO,2025-07-10,ZRH,16:55,10 Jul,FCO,21:55,10 Jul,"Lufthansa, operated by Helvetic Airways For Swiss",1 stop,CHF162.84,70
+ZRH,FCO,2025-07-11,ZRH,21:55,11 Jul,FCO,23:30,11 Jul,Easyjet,Cheapest direct,CHF71.34,71
+ZRH,FCO,2025-07-11,ZRH,07:20,11 Jul,FCO,08:50,11 Jul,Swiss,Direct,CHF135.66,71
+ZRH,FCO,2025-07-11,ZRH,08:30,11 Jul,FCO,10:05,11 Jul,Easyjet,Direct,CHF110.19,71
+ZRH,FCO,2025-07-11,ZRH,12:45,11 Jul,FCO,14:15,11 Jul,"Swiss, operated by Air Baltic Corporation",Direct,CHF165.92,71
+ZRH,FCO,2025-07-11,ZRH,17:45,11 Jul,FCO,19:20,11 Jul,"Swiss, operated by Helvetic Airways",Direct,CHF161.65,71
+ZRH,FCO,2025-07-11,ZRH,10:55,11 Jul,FCO,12:25,11 Jul,ITA Airways,Direct,CHF223.08,71
+ZRH,FCO,2025-07-11,ZRH,07:20,11 Jul,FCO,08:50,11 Jul,"ITA Airways, operated by Swiss",Direct,CHF286.18,71
+ZRH,FCO,2025-07-11,ZRH,12:45,11 Jul,FCO,14:15,11 Jul,"ITA Airways, operated by Air Baltic For Swiss Int Air Lines",Direct,CHF286.76,71
+ZRH,FCO,2025-07-11,ZRH,17:45,11 Jul,FCO,19:20,11 Jul,"ITA Airways, operated by Helvetic Airways For Swiss Int Air Lines",Direct,CHF286.82,71
+ZRH,FCO,2025-07-11,ZRH,19:05,11 Jul,FCO,20:35,11 Jul,ITA Airways,Direct,CHF326.04,71
+ZRH,FCO,2025-07-11,ZRH,07:00,11 Jul,FCO,11:45,11 Jul,KLM,Direct,CHF204.94,71
+ZRH,FCO,2025-07-11,ZRH,10:55,11 Jul,FCO,12:25,11 Jul,"Swiss, operated by Ita Airways",1 stop,CHF547.46,71
+ZRH,FCO,2025-07-11,ZRH,19:05,11 Jul,FCO,20:35,11 Jul,"Swiss, operated by Ita Airways",Direct,CHF547.46,71
+ZRH,FCO,2025-07-11,ZRH,08:05,11 Jul,FCO,13:05,11 Jul,Eurowings,Direct,CHF208.26,71
+ZRH,FCO,2025-07-11,ZRH,10:30,11 Jul,FCO,14:20,11 Jul,"Easyjet, Aeroitalia",1 stop,CHF258.50,71
+ZRH,FCO,2025-07-12,ZRH,21:55,12 Jul,FCO,23:30,12 Jul,Easyjet,Cheapest direct,CHF58.21,72
+ZRH,FCO,2025-07-12,ZRH,07:20,12 Jul,FCO,08:50,12 Jul,Swiss,Direct,CHF135.66,72
+ZRH,FCO,2025-07-12,ZRH,08:30,12 Jul,FCO,10:05,12 Jul,Easyjet,Direct,CHF95.56,72
+ZRH,FCO,2025-07-12,ZRH,17:45,12 Jul,FCO,19:20,12 Jul,"Swiss, operated by Helvetic Airways",Direct,CHF163.99,72
+ZRH,FCO,2025-07-12,ZRH,19:05,12 Jul,FCO,20:35,12 Jul,ITA Airways,Direct,CHF185.77,72
+ZRH,FCO,2025-07-12,ZRH,12:45,12 Jul,FCO,14:15,12 Jul,"Swiss, operated by Helvetic Airways",Direct,CHF279.96,72
+ZRH,FCO,2025-07-12,ZRH,07:20,12 Jul,FCO,08:50,12 Jul,"ITA Airways, operated by Swiss",Direct,CHF286.18,72
+ZRH,FCO,2025-07-12,ZRH,17:45,12 Jul,FCO,19:20,12 Jul,"ITA Airways, operated by Helvetic Airways For Swiss Int Air Lines",Direct,CHF286.82,72
+ZRH,FCO,2025-07-12,ZRH,10:55,12 Jul,FCO,12:25,12 Jul,ITA Airways,Direct,CHF384.10,72
+ZRH,FCO,2025-07-12,ZRH,12:45,12 Jul,FCO,14:15,12 Jul,"ITA Airways, operated by Helvetic Airways For Swiss Int Air Lines",Direct,CHF440.46,72
+ZRH,FCO,2025-07-12,ZRH,15:40,12 Jul,FCO,20:55,12 Jul,Vueling,Direct,CHF157.45,72
+ZRH,FCO,2025-07-12,ZRH,19:05,12 Jul,FCO,20:35,12 Jul,"Swiss, operated by Ita Airways",1 stop,CHF463.71,72
+ZRH,FCO,2025-07-12,ZRH,16:55,12 Jul,FCO,21:55,12 Jul,"Lufthansa, operated by Helvetic Airways For Swiss",Direct,CHF196.08,72
+ZRH,FCO,2025-07-12,ZRH,18:55,12 Jul,FCO,23:10,12 Jul,"Lufthansa, operated by Swiss",1 stop,CHF222.57,72
+ZRH,FCO,2025-07-12,ZRH,09:35,12 Jul,FCO,14:55,12 Jul,Vueling,1 stop,CHF215.80,72
+ZRH,FCO,2025-07-13,ZRH,21:55,13 Jul,FCO,23:30,13 Jul,Easyjet,Cheapest direct,CHF59.22,73
+ZRH,FCO,2025-07-13,ZRH,08:30,13 Jul,FCO,10:05,13 Jul,Easyjet,Direct,CHF64.77,73
+ZRH,FCO,2025-07-13,ZRH,19:05,13 Jul,FCO,20:35,13 Jul,ITA Airways,Direct,CHF128.10,73
+ZRH,FCO,2025-07-13,ZRH,07:20,13 Jul,FCO,08:50,13 Jul,"Swiss, operated by Helvetic Airways",Direct,CHF135.66,73
+ZRH,FCO,2025-07-13,ZRH,17:45,13 Jul,FCO,19:20,13 Jul,"Swiss, operated by Helvetic Airways",Direct,CHF135.66,73
+ZRH,FCO,2025-07-13,ZRH,12:45,13 Jul,FCO,14:15,13 Jul,Swiss,Direct,CHF163.99,73
+ZRH,FCO,2025-07-13,ZRH,10:55,13 Jul,FCO,12:25,13 Jul,ITA Airways,Direct,CHF223.08,73
+ZRH,FCO,2025-07-13,ZRH,12:45,13 Jul,FCO,14:15,13 Jul,"ITA Airways, operated by Swiss",Direct,CHF286.18,73
+ZRH,FCO,2025-07-13,ZRH,07:20,13 Jul,FCO,08:50,13 Jul,"ITA Airways, operated by Helvetic Airways For Swiss Int Air Lines",Direct,CHF286.76,73
+ZRH,FCO,2025-07-13,ZRH,19:05,13 Jul,FCO,20:35,13 Jul,"Swiss, operated by Ita Airways",Direct,CHF297.18,73
+ZRH,FCO,2025-07-13,ZRH,17:45,13 Jul,FCO,19:20,13 Jul,"ITA Airways, operated by Helvetic Airways For Swiss Int Air Lines",Direct,CHF286.82,73
+ZRH,FCO,2025-07-13,ZRH,10:55,13 Jul,FCO,12:25,13 Jul,"Swiss, operated by Ita Airways",Direct,CHF403.16,73
+ZRH,FCO,2025-07-13,ZRH,18:55,13 Jul,FCO,23:10,13 Jul,"Lufthansa, operated by Swiss",Direct,CHF172.48,73
+ZRH,FCO,2025-07-13,ZRH,17:35,13 Jul,FCO,22:45,13 Jul,KLM,1 stop,CHF170.02,73
+ZRH,FCO,2025-07-13,ZRH,07:15,13 Jul,FCO,11:35,13 Jul,"Lufthansa, operated by Edelweiss Air For Swiss",1 stop,CHF199.23,73
+ZRH,FCO,2025-07-14,ZRH,21:55,14 Jul,FCO,23:30,14 Jul,Easyjet,Cheapest direct,CHF58.21,74
+ZRH,FCO,2025-07-14,ZRH,19:05,14 Jul,FCO,20:35,14 Jul,ITA Airways,Direct,CHF128.10,74
+ZRH,FCO,2025-07-14,ZRH,08:30,14 Jul,FCO,10:05,14 Jul,Easyjet,Direct,CHF114.74,74
+ZRH,FCO,2025-07-14,ZRH,12:45,14 Jul,FCO,14:15,14 Jul,Swiss,Direct,CHF131.08,74
+ZRH,FCO,2025-07-14,ZRH,07:20,14 Jul,FCO,08:50,14 Jul,Swiss,Direct,CHF135.66,74
+ZRH,FCO,2025-07-14,ZRH,17:45,14 Jul,FCO,19:20,14 Jul,"Swiss, operated by Helvetic Airways",Direct,CHF135.66,74
+ZRH,FCO,2025-07-14,ZRH,07:20,14 Jul,FCO,08:50,14 Jul,"ITA Airways, operated by Swiss",Direct,CHF191.09,74
+ZRH,FCO,2025-07-14,ZRH,12:45,14 Jul,FCO,14:15,14 Jul,"ITA Airways, operated by Swiss",Direct,CHF219.44,74
+ZRH,FCO,2025-07-14,ZRH,10:55,14 Jul,FCO,12:25,14 Jul,ITA Airways,Direct,CHF223.08,74
+ZRH,FCO,2025-07-14,ZRH,19:05,14 Jul,FCO,20:35,14 Jul,"Swiss, operated by Ita Airways",Direct,CHF297.18,74
+ZRH,FCO,2025-07-14,ZRH,17:45,14 Jul,FCO,19:20,14 Jul,"ITA Airways, operated by Helvetic Airways For Swiss Int Air Lines",Direct,CHF286.82,74
+ZRH,FCO,2025-07-14,ZRH,10:55,14 Jul,FCO,12:25,14 Jul,"Swiss, operated by Ita Airways",Direct,CHF342.59,74
+ZRH,FCO,2025-07-14,ZRH,18:55,14 Jul,FCO,23:40,14 Jul,"Lufthansa, operated by Swiss",Direct,CHF138.15,74
+ZRH,FCO,2025-07-14,ZRH,08:30,14 Jul,FCO,12:15,14 Jul,"Easyjet, ITA Airways",1 stop,CHF187.68,74
+ZRH,FCO,2025-07-14,ZRH,14:20,14 Jul,FCO,18:50,14 Jul,"KLM, operated by KLM Cityhopper",1 stop,CHF170.02,74
+ZRH,FCO,2025-07-15,ZRH,21:55,15 Jul,FCO,23:30,15 Jul,Easyjet,Cheapest direct,CHF58.21,75
+ZRH,FCO,2025-07-15,ZRH,19:05,15 Jul,FCO,20:35,15 Jul,ITA Airways,Direct,CHF99.63,75
+ZRH,FCO,2025-07-15,ZRH,08:30,15 Jul,FCO,10:05,15 Jul,Easyjet,Direct,CHF59.22,75
+ZRH,FCO,2025-07-15,ZRH,17:45,15 Jul,FCO,19:20,15 Jul,Swiss,Direct,CHF105.36,75
+ZRH,FCO,2025-07-15,ZRH,07:20,15 Jul,FCO,08:50,15 Jul,Swiss,Direct,CHF135.66,75
+ZRH,FCO,2025-07-15,ZRH,10:55,15 Jul,FCO,12:25,15 Jul,ITA Airways,Direct,CHF157.17,75
+ZRH,FCO,2025-07-15,ZRH,17:45,15 Jul,FCO,19:20,15 Jul,"ITA Airways, operated by Swiss",Direct,CHF162.50,75
+ZRH,FCO,2025-07-15,ZRH,07:20,15 Jul,FCO,08:50,15 Jul,"ITA Airways, operated by Swiss",Direct,CHF191.09,75
+ZRH,FCO,2025-07-15,ZRH,12:45,15 Jul,FCO,14:15,15 Jul,"Swiss, operated by Helvetic Airways",Direct,CHF192.08,75
+ZRH,FCO,2025-07-15,ZRH,10:55,15 Jul,FCO,12:25,15 Jul,"Swiss, operated by Ita Airways",Direct,CHF229.57,75
+ZRH,FCO,2025-07-15,ZRH,19:05,15 Jul,FCO,20:35,15 Jul,"Swiss, operated by Ita Airways",Direct,CHF229.57,75
+ZRH,FCO,2025-07-15,ZRH,12:45,15 Jul,FCO,14:15,15 Jul,"ITA Airways, operated by Helvetic Airways For Swiss Int Air Lines",Direct,CHF286.83,75
+ZRH,FCO,2025-07-15,ZRH,18:55,15 Jul,FCO,23:15,15 Jul,"Lufthansa, operated by Swiss",Direct,CHF138.15,75
+ZRH,FCO,2025-07-15,ZRH,16:55,15 Jul,FCO,21:55,15 Jul,"Lufthansa, operated by Helvetic Airways For Swiss",1 stop,CHF130.58,75
+ZRH,FCO,2025-07-15,ZRH,12:50,15 Jul,FCO,17:50,15 Jul,"Lufthansa, operated by Helvetic Airways For Swiss",1 stop,CHF138.15,75
+ZRH,FCO,2025-07-17,ZRH,21:55,17 Jul,FCO,23:30,17 Jul,Easyjet,Cheapest direct,CHF58.21,77
+ZRH,FCO,2025-07-17,ZRH,19:05,17 Jul,FCO,20:35,17 Jul,ITA Airways,Direct,CHF128.10,77
+ZRH,FCO,2025-07-17,ZRH,08:30,17 Jul,FCO,10:05,17 Jul,Easyjet,Direct,CHF97.07,77
+ZRH,FCO,2025-07-17,ZRH,17:45,17 Jul,FCO,19:20,17 Jul,"Swiss, operated by Helvetic Airways",Direct,CHF105.36,77
+ZRH,FCO,2025-07-17,ZRH,07:20,17 Jul,FCO,08:50,17 Jul,"Swiss, operated by Helvetic Airways",Direct,CHF135.66,77
+ZRH,FCO,2025-07-17,ZRH,12:45,17 Jul,FCO,14:15,17 Jul,"Swiss, operated by Helvetic Airways",Direct,CHF165.92,77
+ZRH,FCO,2025-07-17,ZRH,17:45,17 Jul,FCO,19:20,17 Jul,"ITA Airways, operated by Helvetic Airways For Swiss Int Air Lines",Direct,CHF162.19,77
+ZRH,FCO,2025-07-17,ZRH,10:55,17 Jul,FCO,12:25,17 Jul,ITA Airways,Direct,CHF223.11,77
+ZRH,FCO,2025-07-17,ZRH,07:20,17 Jul,FCO,08:50,17 Jul,"ITA Airways, operated by Helvetic Airways For Swiss Int Air Lines",Direct,CHF249.86,77
+ZRH,FCO,2025-07-17,ZRH,12:45,17 Jul,FCO,14:15,17 Jul,"ITA Airways, operated by Helvetic Airways For Swiss Int Air Lines",Direct,CHF286.83,77
+ZRH,FCO,2025-07-17,ZRH,19:05,17 Jul,FCO,20:35,17 Jul,"Swiss, operated by Ita Airways",Direct,CHF297.18,77
+ZRH,FCO,2025-07-17,ZRH,18:55,17 Jul,FCO,23:10,17 Jul,"Lufthansa, operated by Swiss",Direct,CHF138.15,77
+ZRH,FCO,2025-07-17,ZRH,07:15,17 Jul,FCO,11:35,17 Jul,"Lufthansa, operated by Swiss",1 stop,CHF164.91,77
+ZRH,FCO,2025-07-17,ZRH,16:55,17 Jul,FCO,21:55,17 Jul,"Lufthansa, operated by Helvetic Airways For Swiss",1 stop,CHF150.68,77
+ZRH,FCO,2025-07-17,ZRH,09:30,17 Jul,FCO,13:50,17 Jul,"Lufthansa, operated by Air Dolomiti",1 stop,CHF172.48,77
+ZRH,FCO,2025-07-18,ZRH,21:55,18 Jul,FCO,23:30,18 Jul,Easyjet,Cheapest direct,CHF59.22,78
+ZRH,FCO,2025-07-18,ZRH,12:45,18 Jul,FCO,14:15,18 Jul,Swiss,Direct,CHF135.66,78
+ZRH,FCO,2025-07-18,ZRH,08:30,18 Jul,FCO,10:05,18 Jul,Easyjet,Direct,CHF88.99,78
+ZRH,FCO,2025-07-18,ZRH,17:45,18 Jul,FCO,19:20,18 Jul,"Swiss, operated by Helvetic Airways",Direct,CHF155.80,78
+ZRH,FCO,2025-07-18,ZRH,07:20,18 Jul,FCO,08:50,18 Jul,"Swiss, operated by Helvetic Airways",Direct,CHF165.92,78
+ZRH,FCO,2025-07-18,ZRH,10:55,18 Jul,FCO,12:25,18 Jul,ITA Airways,Direct,CHF267.31,78
+ZRH,FCO,2025-07-18,ZRH,19:05,18 Jul,FCO,20:35,18 Jul,ITA Airways,Direct,CHF267.31,78
+ZRH,FCO,2025-07-18,ZRH,12:45,18 Jul,FCO,14:15,18 Jul,"ITA Airways, operated by Swiss",Direct,CHF286.40,78
+ZRH,FCO,2025-07-18,ZRH,07:20,18 Jul,FCO,08:50,18 Jul,"ITA Airways, operated by Helvetic Airways For Swiss Int Air Lines",Direct,CHF286.97,78
+ZRH,FCO,2025-07-18,ZRH,17:45,18 Jul,FCO,19:20,18 Jul,"ITA Airways, operated by Helvetic Airways For Swiss Int Air Lines",Direct,CHF287.04,78
+ZRH,FCO,2025-07-18,ZRH,07:15,18 Jul,FCO,11:35,18 Jul,"Lufthansa, operated by Swiss",Direct,CHF164.91,78
+ZRH,FCO,2025-07-18,ZRH,16:55,18 Jul,FCO,21:55,18 Jul,"Lufthansa, operated by Swiss",1 stop,CHF164.91,78
+ZRH,FCO,2025-07-18,ZRH,18:55,18 Jul,FCO,23:40,18 Jul,"Lufthansa, operated by Swiss",1 stop,CHF172.48,78
+ZRH,FCO,2025-07-18,ZRH,19:05,18 Jul,FCO,20:35,18 Jul,"Swiss, operated by Ita Airways",1 stop,CHF463.71,78
+ZRH,FCO,2025-07-18,ZRH,16:55,18 Jul,FCO,20:40,18 Jul,"Lufthansa, operated by Swiss",Direct,CHF228.54,78
+ZRH,FCO,2025-07-19,ZRH,21:55,19 Jul,FCO,23:30,19 Jul,Easyjet,Cheapest direct,CHF58.21,79
+ZRH,FCO,2025-07-19,ZRH,08:30,19 Jul,FCO,10:05,19 Jul,Easyjet,Direct,CHF86.98,79
+ZRH,FCO,2025-07-19,ZRH,07:20,19 Jul,FCO,08:50,19 Jul,Swiss,Direct,CHF135.66,79
+ZRH,FCO,2025-07-19,ZRH,19:05,19 Jul,FCO,20:35,19 Jul,ITA Airways,Direct,CHF157.17,79
+ZRH,FCO,2025-07-19,ZRH,17:45,19 Jul,FCO,19:20,19 Jul,"Swiss, operated by Helvetic Airways",Direct,CHF233.42,79
+ZRH,FCO,2025-07-19,ZRH,12:45,19 Jul,FCO,14:15,19 Jul,"Swiss, operated by Helvetic Airways",Direct,CHF262.74,79
+ZRH,FCO,2025-07-19,ZRH,07:20,19 Jul,FCO,08:50,19 Jul,"ITA Airways, operated by Swiss",Direct,CHF286.40,79
+ZRH,FCO,2025-07-19,ZRH,10:55,19 Jul,FCO,12:25,19 Jul,ITA Airways,Direct,CHF384.20,79
+ZRH,FCO,2025-07-19,ZRH,19:05,19 Jul,FCO,20:35,19 Jul,"Swiss, operated by Ita Airways",Direct,CHF403.16,79
+ZRH,FCO,2025-07-19,ZRH,18:55,19 Jul,FCO,23:10,19 Jul,"Lufthansa, operated by Swiss",Direct,CHF172.48,79
+ZRH,FCO,2025-07-19,ZRH,12:45,19 Jul,FCO,14:15,19 Jul,"ITA Airways, operated by Helvetic Airways For Swiss Int Air Lines",1 stop,CHF440.28,79
+ZRH,FCO,2025-07-19,ZRH,17:45,19 Jul,FCO,19:20,19 Jul,"ITA Airways, operated by Helvetic Airways For Swiss Int Air Lines",Direct,CHF440.38,79
+ZRH,FCO,2025-07-19,ZRH,16:55,19 Jul,FCO,21:55,19 Jul,"Lufthansa, operated by Helvetic Airways For Swiss",Direct,CHF199.23,79
+ZRH,FCO,2025-07-19,ZRH,15:40,19 Jul,FCO,20:55,19 Jul,Vueling,1 stop,CHF195.88,79
+ZRH,FCO,2025-07-19,ZRH,08:50,19 Jul,FCO,14:00,19 Jul,Eurowings,1 stop,CHF218.99,79
+ZRH,FCO,2025-07-20,ZRH,21:55,20 Jul,FCO,23:30,20 Jul,Easyjet,Cheapest direct,CHF58.21,80
+ZRH,FCO,2025-07-20,ZRH,08:30,20 Jul,FCO,10:05,20 Jul,Easyjet,Direct,CHF59.22,80
+ZRH,FCO,2025-07-20,ZRH,19:05,20 Jul,FCO,20:35,20 Jul,ITA Airways,Direct,CHF99.58,80
+ZRH,FCO,2025-07-20,ZRH,07:20,20 Jul,FCO,08:50,20 Jul,"Swiss, operated by Helvetic Airways",Direct,CHF135.66,80
+ZRH,FCO,2025-07-20,ZRH,12:45,20 Jul,FCO,14:15,20 Jul,Swiss,Direct,CHF135.66,80
+ZRH,FCO,2025-07-20,ZRH,17:45,20 Jul,FCO,19:20,20 Jul,"Swiss, operated by Helvetic Airways",Direct,CHF135.66,80
+ZRH,FCO,2025-07-20,ZRH,10:55,20 Jul,FCO,12:25,20 Jul,ITA Airways,Direct,CHF185.77,80
+ZRH,FCO,2025-07-20,ZRH,19:05,20 Jul,FCO,20:35,20 Jul,"Swiss, operated by Ita Airways",Direct,CHF229.57,80
+ZRH,FCO,2025-07-20,ZRH,12:45,20 Jul,FCO,14:15,20 Jul,"ITA Airways, operated by Swiss",Direct,CHF286.40,80
+ZRH,FCO,2025-07-20,ZRH,07:20,20 Jul,FCO,08:50,20 Jul,"ITA Airways, operated by Helvetic Airways For Swiss Int Air Lines",Direct,CHF286.97,80
+ZRH,FCO,2025-07-20,ZRH,17:45,20 Jul,FCO,19:20,20 Jul,"ITA Airways, operated by Helvetic Airways For Swiss Int Air Lines",Direct,CHF287.04,80
+ZRH,FCO,2025-07-20,ZRH,10:55,20 Jul,FCO,12:25,20 Jul,"Swiss, operated by Ita Airways",Direct,CHF342.59,80
+ZRH,FCO,2025-07-20,ZRH,07:15,20 Jul,FCO,11:35,20 Jul,"Lufthansa, operated by Edelweiss Air For Swiss",Direct,CHF164.91,80
+ZRH,FCO,2025-07-20,ZRH,18:55,20 Jul,FCO,23:10,20 Jul,"Lufthansa, operated by Swiss",1 stop,CHF172.48,80
+ZRH,FCO,2025-07-20,ZRH,09:30,20 Jul,FCO,13:55,20 Jul,"Air Serbia, operated by Bulgaria Air For Air Serbia",1 stop,CHF174.68,80
+ZRH,FCO,2025-07-21,ZRH,21:55,21 Jul,FCO,23:30,21 Jul,Easyjet,Direct,CHF58.21,81
+ZRH,FCO,2025-07-21,ZRH,08:30,21 Jul,FCO,10:05,21 Jul,Easyjet,Cheapest direct,CHF58.21,81
+ZRH,FCO,2025-07-21,ZRH,19:05,21 Jul,FCO,20:35,21 Jul,ITA Airways,Direct,CHF99.58,81
+ZRH,FCO,2025-07-21,ZRH,17:45,21 Jul,FCO,19:20,21 Jul,"Swiss, operated by Helvetic Airways",Direct,CHF105.36,81
+ZRH,FCO,2025-07-21,ZRH,10:55,21 Jul,FCO,12:25,21 Jul,ITA Airways,Direct,CHF157.17,81
+ZRH,FCO,2025-07-21,ZRH,17:45,21 Jul,FCO,19:20,21 Jul,"ITA Airways, operated by Helvetic Airways For Swiss Int Air Lines",Direct,CHF162.19,81
+ZRH,FCO,2025-07-21,ZRH,07:20,21 Jul,FCO,08:50,21 Jul,"Swiss, operated by Air Baltic Corporation",Direct,CHF189.91,81
+ZRH,FCO,2025-07-21,ZRH,12:45,21 Jul,FCO,14:15,21 Jul,Swiss,Direct,CHF227.83,81
+ZRH,FCO,2025-07-21,ZRH,10:55,21 Jul,FCO,12:25,21 Jul,"Swiss, operated by Ita Airways",Direct,CHF229.57,81
+ZRH,FCO,2025-07-21,ZRH,19:05,21 Jul,FCO,20:35,21 Jul,"Swiss, operated by Ita Airways",Direct,CHF259.81,81
+ZRH,FCO,2025-07-21,ZRH,07:20,21 Jul,FCO,08:50,21 Jul,"ITA Airways, operated by Air Baltic For Swiss Int Air Lines",Direct,CHF330.57,81
+ZRH,FCO,2025-07-21,ZRH,18:55,21 Jul,FCO,23:40,21 Jul,"Lufthansa, operated by Swiss",Direct,CHF138.15,81
+ZRH,FCO,2025-07-21,ZRH,12:45,21 Jul,FCO,14:15,21 Jul,"ITA Airways, operated by Swiss",1 stop,CHF445.16,81
+ZRH,FCO,2025-07-21,ZRH,16:55,21 Jul,FCO,21:55,21 Jul,"Lufthansa, operated by Helvetic Airways For Swiss",Direct,CHF164.91,81
+ZRH,FCO,2025-07-21,ZRH,16:55,21 Jul,FCO,20:25,21 Jul,"Swiss, Easyjet",1 stop,CHF224.58,81
+ZRH,FCO,2025-07-22,ZRH,21:55,22 Jul,FCO,23:30,22 Jul,Easyjet,Cheapest direct,CHF58.21,82
+ZRH,FCO,2025-07-22,ZRH,19:05,22 Jul,FCO,20:35,22 Jul,ITA Airways,Direct,CHF99.58,82
+ZRH,FCO,2025-07-22,ZRH,08:30,22 Jul,FCO,10:05,22 Jul,Easyjet,Direct,CHF60.23,82
+ZRH,FCO,2025-07-22,ZRH,07:20,22 Jul,FCO,08:50,22 Jul,"Swiss, operated by Helvetic Airways",Direct,CHF105.36,82
+ZRH,FCO,2025-07-22,ZRH,17:45,22 Jul,FCO,19:20,22 Jul,"Swiss, operated by Helvetic Airways",Direct,CHF105.36,82
+ZRH,FCO,2025-07-22,ZRH,12:45,22 Jul,FCO,14:15,22 Jul,"Swiss, operated by Helvetic Airways",Direct,CHF134.59,82
+ZRH,FCO,2025-07-22,ZRH,10:55,22 Jul,FCO,12:25,22 Jul,ITA Airways,Direct,CHF157.17,82
+ZRH,FCO,2025-07-22,ZRH,07:20,22 Jul,FCO,08:50,22 Jul,"ITA Airways, operated by Helvetic Airways For Swiss Int Air Lines",Direct,CHF162.15,82
+ZRH,FCO,2025-07-22,ZRH,17:45,22 Jul,FCO,19:20,22 Jul,"ITA Airways, operated by Helvetic Airways For Swiss Int Air Lines",Direct,CHF162.19,82
+ZRH,FCO,2025-07-22,ZRH,19:05,22 Jul,FCO,20:35,22 Jul,"Swiss, operated by Ita Airways",Direct,CHF199.28,82
+ZRH,FCO,2025-07-22,ZRH,10:55,22 Jul,FCO,12:25,22 Jul,"Swiss, operated by Ita Airways",Direct,CHF229.57,82
+ZRH,FCO,2025-07-22,ZRH,12:45,22 Jul,FCO,14:15,22 Jul,"ITA Airways, operated by Helvetic Airways For Swiss Int Air Lines",Direct,CHF286.97,82
+ZRH,FCO,2025-07-22,ZRH,07:15,22 Jul,FCO,11:35,22 Jul,"Lufthansa, operated by Swiss",Direct,CHF130.58,82
+ZRH,FCO,2025-07-22,ZRH,18:55,22 Jul,FCO,23:15,22 Jul,"Lufthansa, operated by Swiss",1 stop,CHF138.15,82
+ZRH,FCO,2025-07-22,ZRH,16:55,22 Jul,FCO,21:55,22 Jul,"Lufthansa, operated by Helvetic Airways For Swiss",1 stop,CHF130.58,82
+ZRH,FCO,2025-07-23,ZRH,08:30,23 Jul,FCO,10:05,23 Jul,Easyjet,Cheapest direct,CHF58.21,83
+ZRH,FCO,2025-07-23,ZRH,21:55,23 Jul,FCO,23:30,23 Jul,Easyjet,Direct,CHF58.21,83
+ZRH,FCO,2025-07-23,ZRH,19:05,23 Jul,FCO,20:35,23 Jul,ITA Airways,Direct,CHF99.58,83
+ZRH,FCO,2025-07-23,ZRH,07:20,23 Jul,FCO,08:50,23 Jul,"Swiss, operated by Helvetic Airways",Direct,CHF105.36,83
+ZRH,FCO,2025-07-23,ZRH,12:45,23 Jul,FCO,14:15,23 Jul,Swiss,Direct,CHF105.36,83
+ZRH,FCO,2025-07-23,ZRH,17:45,23 Jul,FCO,19:20,23 Jul,"Swiss, operated by Helvetic Airways",Direct,CHF105.36,83
+ZRH,FCO,2025-07-23,ZRH,10:55,23 Jul,FCO,12:25,23 Jul,ITA Airways,Direct,CHF128.02,83
+ZRH,FCO,2025-07-23,ZRH,07:20,23 Jul,FCO,08:50,23 Jul,"ITA Airways, operated by Helvetic Airways For Swiss Int Air Lines",Direct,CHF162.15,83
+ZRH,FCO,2025-07-23,ZRH,17:45,23 Jul,FCO,19:20,23 Jul,"ITA Airways, operated by Helvetic Airways For Swiss Int Air Lines",Direct,CHF162.19,83
+ZRH,FCO,2025-07-23,ZRH,10:55,23 Jul,FCO,12:25,23 Jul,"Swiss, operated by Ita Airways",Direct,CHF199.28,83
+ZRH,FCO,2025-07-23,ZRH,19:05,23 Jul,FCO,20:35,23 Jul,"Swiss, operated by Ita Airways",Direct,CHF199.28,83
+ZRH,FCO,2025-07-23,ZRH,12:45,23 Jul,FCO,14:15,23 Jul,"ITA Airways, operated by Swiss",Direct,CHF219.46,83
+ZRH,FCO,2025-07-23,ZRH,07:15,23 Jul,FCO,11:35,23 Jul,"Lufthansa, operated by Swiss",Direct,CHF130.58,83
+ZRH,FCO,2025-07-23,ZRH,18:55,23 Jul,FCO,23:15,23 Jul,"Lufthansa, operated by Swiss",1 stop,CHF138.15,83
+ZRH,FCO,2025-07-23,ZRH,12:50,23 Jul,FCO,17:50,23 Jul,"Lufthansa, operated by Helvetic Airways For Swiss",1 stop,CHF138.15,83
+ZRH,FCO,2025-07-24,ZRH,08:30,24 Jul,FCO,10:05,24 Jul,Easyjet,Cheapest direct,$66.43,84
+ZRH,FCO,2025-07-24,ZRH,21:55,24 Jul,FCO,23:30,24 Jul,Easyjet,Direct,$66.43,84
+ZRH,FCO,2025-07-24,ZRH,19:05,24 Jul,FCO,20:35,24 Jul,ITA Airways,Direct,$121.67,84
+ZRH,FCO,2025-07-24,ZRH,17:45,24 Jul,FCO,19:20,24 Jul,"Swiss, operated by Helvetic Airways",Direct,$125.04,84
+ZRH,FCO,2025-07-24,ZRH,10:55,24 Jul,FCO,12:25,24 Jul,ITA Airways,Direct,$157.73,84
+ZRH,FCO,2025-07-24,ZRH,07:20,24 Jul,FCO,08:50,24 Jul,"Swiss, operated by Helvetic Airways",Direct,$161.33,84
+ZRH,FCO,2025-07-24,ZRH,12:45,24 Jul,FCO,14:15,24 Jul,Swiss,Direct,$161.33,84
+ZRH,FCO,2025-07-24,ZRH,17:45,24 Jul,FCO,19:20,24 Jul,"ITA Airways, operated by Helvetic Airways For Swiss Int Air Lines",Direct,$199.77,84
+ZRH,FCO,2025-07-24,ZRH,07:20,24 Jul,FCO,08:50,24 Jul,"ITA Airways, operated by Helvetic Airways For Swiss Int Air Lines",Direct,$270.84,84
+ZRH,FCO,2025-07-24,ZRH,12:45,24 Jul,FCO,14:15,24 Jul,"ITA Airways, operated by Swiss",Direct,$307.07,84
+ZRH,FCO,2025-07-24,ZRH,19:05,24 Jul,FCO,20:35,24 Jul,"Swiss, operated by Ita Airways",Direct,$310.60,84
+ZRH,FCO,2025-07-24,ZRH,18:55,24 Jul,FCO,23:10,24 Jul,"Lufthansa, operated by Swiss",Direct,$164.50,84
+ZRH,FCO,2025-07-24,ZRH,10:55,24 Jul,FCO,12:25,24 Jul,"Swiss, operated by Ita Airways",1 stop,$410.08,84
+ZRH,FCO,2025-07-24,ZRH,16:55,24 Jul,FCO,21:55,24 Jul,"Lufthansa, operated by Helvetic Airways For Swiss",Direct,$155.45,84
+ZRH,FCO,2025-07-24,ZRH,18:05,24 Jul,FCO,23:10,24 Jul,Lufthansa,1 stop,$164.47,84
+ZRH,FCO,2025-07-25,ZRH,21:55,25 Jul,FCO,23:30,25 Jul,Easyjet,Cheapest direct,CHF59.22,85
+ZRH,FCO,2025-07-25,ZRH,07:20,25 Jul,FCO,08:50,25 Jul,"Swiss, operated by Helvetic Airways",Direct,CHF135.66,85
+ZRH,FCO,2025-07-25,ZRH,08:30,25 Jul,FCO,10:05,25 Jul,Easyjet,Direct,CHF86.98,85
+ZRH,FCO,2025-07-25,ZRH,12:45,25 Jul,FCO,14:15,25 Jul,Swiss,Direct,CHF135.66,85
+ZRH,FCO,2025-07-25,ZRH,17:45,25 Jul,FCO,19:20,25 Jul,"Swiss, operated by Helvetic Airways",Direct,CHF135.66,85
+ZRH,FCO,2025-07-25,ZRH,10:55,25 Jul,FCO,12:25,25 Jul,ITA Airways,Direct,CHF185.77,85
+ZRH,FCO,2025-07-25,ZRH,19:05,25 Jul,FCO,20:35,25 Jul,ITA Airways,Direct,CHF267.29,85
+ZRH,FCO,2025-07-25,ZRH,12:45,25 Jul,FCO,14:15,25 Jul,"ITA Airways, operated by Swiss",Direct,CHF286.35,85
+ZRH,FCO,2025-07-25,ZRH,07:20,25 Jul,FCO,08:50,25 Jul,"ITA Airways, operated by Helvetic Airways For Swiss Int Air Lines",Direct,CHF286.93,85
+ZRH,FCO,2025-07-25,ZRH,17:45,25 Jul,FCO,19:20,25 Jul,"ITA Airways, operated by Helvetic Airways For Swiss Int Air Lines",Direct,CHF286.99,85
+ZRH,FCO,2025-07-25,ZRH,10:30,25 Jul,FCO,14:20,25 Jul,"Easyjet, Aeroitalia",Direct,CHF190.67,85
+ZRH,FCO,2025-07-25,ZRH,16:55,25 Jul,FCO,21:55,25 Jul,"Lufthansa, operated by Helvetic Airways For Swiss",1 stop,CHF164.91,85
+ZRH,FCO,2025-07-25,ZRH,18:55,25 Jul,FCO,23:40,25 Jul,"Lufthansa, operated by Swiss",1 stop,CHF172.48,85
+ZRH,FCO,2025-07-25,ZRH,10:55,25 Jul,FCO,12:25,25 Jul,"Swiss, operated by Ita Airways",1 stop,CHF463.71,85
+ZRH,FCO,2025-07-25,ZRH,19:05,25 Jul,FCO,20:35,25 Jul,"Swiss, operated by Ita Airways",Direct,CHF463.71,85
+ZRH,FCO,2025-07-26,ZRH,21:55,26 Jul,FCO,23:30,26 Jul,Easyjet,Cheapest direct,CHF58.21,86
+ZRH,FCO,2025-07-26,ZRH,07:20,26 Jul,FCO,08:50,26 Jul,Swiss,Direct,CHF135.66,86
+ZRH,FCO,2025-07-26,ZRH,08:30,26 Jul,FCO,10:05,26 Jul,Easyjet,Direct,CHF102.62,86
+ZRH,FCO,2025-07-26,ZRH,12:45,26 Jul,FCO,14:15,26 Jul,"Swiss, operated by Helvetic Airways",Direct,CHF135.66,86
+ZRH,FCO,2025-07-26,ZRH,17:45,26 Jul,FCO,19:20,26 Jul,Swiss,Direct,CHF135.66,86
+ZRH,FCO,2025-07-26,ZRH,19:05,26 Jul,FCO,20:35,26 Jul,ITA Airways,Direct,CHF157.17,86
+ZRH,FCO,2025-07-26,ZRH,10:55,26 Jul,FCO,12:25,26 Jul,ITA Airways,Direct,CHF267.29,86
+ZRH,FCO,2025-07-26,ZRH,07:20,26 Jul,FCO,08:50,26 Jul,"ITA Airways, operated by Swiss",Direct,CHF286.35,86
+ZRH,FCO,2025-07-26,ZRH,12:45,26 Jul,FCO,14:15,26 Jul,"ITA Airways, operated by Helvetic Airways For Swiss Int Air Lines",Direct,CHF286.93,86
+ZRH,FCO,2025-07-26,ZRH,17:45,26 Jul,FCO,19:20,26 Jul,"ITA Airways, operated by Swiss",Direct,CHF286.42,86
+ZRH,FCO,2025-07-26,ZRH,19:05,26 Jul,FCO,20:35,26 Jul,"Swiss, operated by Ita Airways",Direct,CHF342.59,86
+ZRH,FCO,2025-07-26,ZRH,07:15,26 Jul,FCO,11:35,26 Jul,"Lufthansa, operated by Swiss",Direct,CHF164.91,86
+ZRH,FCO,2025-07-26,ZRH,18:55,26 Jul,FCO,23:10,26 Jul,"Lufthansa, operated by Swiss",1 stop,CHF172.48,86
+ZRH,FCO,2025-07-26,ZRH,16:55,26 Jul,FCO,21:55,26 Jul,"Lufthansa, operated by Helvetic Airways For Swiss",1 stop,CHF164.91,86
+ZRH,FCO,2025-07-26,ZRH,17:35,26 Jul,FCO,22:45,26 Jul,KLM,1 stop,CHF170.02,86
+ZRH,FCO,2025-07-27,ZRH,21:55,27 Jul,FCO,23:30,27 Jul,Easyjet,Cheapest direct,CHF58.21,87
+ZRH,FCO,2025-07-27,ZRH,08:30,27 Jul,FCO,10:05,27 Jul,Easyjet,Direct,CHF59.22,87
+ZRH,FCO,2025-07-27,ZRH,12:45,27 Jul,FCO,14:15,27 Jul,Swiss,Direct,CHF135.66,87
+ZRH,FCO,2025-07-27,ZRH,19:05,27 Jul,FCO,20:35,27 Jul,ITA Airways,Direct,CHF157.17,87
+ZRH,FCO,2025-07-27,ZRH,17:45,27 Jul,FCO,19:20,27 Jul,Swiss,Direct,CHF165.92,87
+ZRH,FCO,2025-07-27,ZRH,10:55,27 Jul,FCO,12:25,27 Jul,ITA Airways,Direct,CHF223.17,87
+ZRH,FCO,2025-07-27,ZRH,07:20,27 Jul,FCO,08:50,27 Jul,Swiss,Direct,CHF234.55,87
+ZRH,FCO,2025-07-27,ZRH,12:45,27 Jul,FCO,14:15,27 Jul,"ITA Airways, operated by Swiss",Direct,CHF286.35,87
+ZRH,FCO,2025-07-27,ZRH,19:05,27 Jul,FCO,20:35,27 Jul,"Swiss, operated by Ita Airways",Direct,CHF297.18,87
+ZRH,FCO,2025-07-27,ZRH,17:45,27 Jul,FCO,19:20,27 Jul,"ITA Airways, operated by Swiss",Direct,CHF286.42,87
+ZRH,FCO,2025-07-27,ZRH,18:55,27 Jul,FCO,23:10,27 Jul,"Lufthansa, operated by Swiss",Direct,CHF172.48,87
+ZRH,FCO,2025-07-27,ZRH,07:20,27 Jul,FCO,08:50,27 Jul,"ITA Airways, operated by Swiss",1 stop,CHF445.16,87
+ZRH,FCO,2025-07-27,ZRH,10:55,27 Jul,FCO,12:25,27 Jul,"Swiss, operated by Ita Airways",Direct,CHF463.71,87
+ZRH,FCO,2025-07-27,ZRH,14:35,27 Jul,FCO,19:40,27 Jul,Air Serbia,Direct,CHF174.68,87
+ZRH,FCO,2025-07-27,ZRH,16:55,27 Jul,FCO,20:40,27 Jul,"Lufthansa, operated by Swiss",1 stop,CHF228.54,87
+ZRH,FCO,2025-07-28,ZRH,08:30,28 Jul,FCO,10:05,28 Jul,Easyjet,Cheapest direct,CHF58.21,88
+ZRH,FCO,2025-07-28,ZRH,07:20,28 Jul,FCO,08:50,28 Jul,"Swiss, operated by Helvetic Airways",Direct,CHF105.36,88
+ZRH,FCO,2025-07-28,ZRH,21:55,28 Jul,FCO,23:30,28 Jul,Easyjet,Direct,CHF58.21,88
+ZRH,FCO,2025-07-28,ZRH,17:45,28 Jul,FCO,19:20,28 Jul,Swiss,Direct,CHF105.36,88
+ZRH,FCO,2025-07-28,ZRH,19:05,28 Jul,FCO,20:35,28 Jul,ITA Airways,Direct,CHF128.02,88
+ZRH,FCO,2025-07-28,ZRH,12:45,28 Jul,FCO,14:15,28 Jul,Swiss,Direct,CHF135.66,88
+ZRH,FCO,2025-07-28,ZRH,17:45,28 Jul,FCO,19:20,28 Jul,"ITA Airways, operated by Swiss",Direct,CHF162.50,88
+ZRH,FCO,2025-07-28,ZRH,10:55,28 Jul,FCO,12:25,28 Jul,ITA Airways,Direct,CHF185.77,88
+ZRH,FCO,2025-07-28,ZRH,07:20,28 Jul,FCO,08:50,28 Jul,"ITA Airways, operated by Helvetic Airways For Swiss Int Air Lines",Direct,CHF221.07,88
+ZRH,FCO,2025-07-28,ZRH,10:55,28 Jul,FCO,12:25,28 Jul,"Swiss, operated by Ita Airways",Direct,CHF259.81,88
+ZRH,FCO,2025-07-28,ZRH,12:45,28 Jul,FCO,14:15,28 Jul,"ITA Airways, operated by Swiss",Direct,CHF286.35,88
+ZRH,FCO,2025-07-28,ZRH,08:30,28 Jul,FCO,12:15,28 Jul,"Easyjet, ITA Airways",Direct,CHF136.89,88
+ZRH,FCO,2025-07-28,ZRH,19:05,28 Jul,FCO,20:35,28 Jul,"Swiss, operated by Ita Airways",1 stop,CHF342.59,88
+ZRH,FCO,2025-07-28,ZRH,16:55,28 Jul,FCO,21:55,28 Jul,"Lufthansa, operated by Swiss",Direct,CHF130.58,88
+ZRH,FCO,2025-07-28,ZRH,16:50,28 Jul,FCO,20:40,28 Jul,"Swiss, operated by Air Baltic, ITA Airways",1 stop,CHF177.21,88
+ZRH,FCO,2025-07-29,ZRH,21:55,29 Jul,FCO,23:30,29 Jul,Easyjet,Cheapest direct,CHF58.21,89
+ZRH,FCO,2025-07-29,ZRH,19:05,29 Jul,FCO,20:35,29 Jul,ITA Airways,Direct,CHF99.58,89
+ZRH,FCO,2025-07-29,ZRH,08:30,29 Jul,FCO,10:05,29 Jul,Easyjet,Direct,CHF60.23,89
+ZRH,FCO,2025-07-29,ZRH,07:20,29 Jul,FCO,08:50,29 Jul,"Swiss, operated by Helvetic Airways",Direct,CHF105.36,89
+ZRH,FCO,2025-07-29,ZRH,17:45,29 Jul,FCO,19:20,29 Jul,"Swiss, operated by Helvetic Airways",Direct,CHF105.36,89
+ZRH,FCO,2025-07-29,ZRH,10:55,29 Jul,FCO,12:25,29 Jul,ITA Airways,Direct,CHF157.17,89
+ZRH,FCO,2025-07-29,ZRH,07:20,29 Jul,FCO,08:50,29 Jul,"ITA Airways, operated by Helvetic Airways For Swiss Int Air Lines",Direct,CHF162.17,89
+ZRH,FCO,2025-07-29,ZRH,12:45,29 Jul,FCO,14:15,29 Jul,Swiss,Direct,CHF164.92,89
+ZRH,FCO,2025-07-29,ZRH,17:45,29 Jul,FCO,19:20,29 Jul,"ITA Airways, operated by Helvetic Airways For Swiss Int Air Lines",Direct,CHF162.20,89
+ZRH,FCO,2025-07-29,ZRH,10:55,29 Jul,FCO,12:25,29 Jul,"Swiss, operated by Ita Airways",Direct,CHF229.57,89
+ZRH,FCO,2025-07-29,ZRH,19:05,29 Jul,FCO,20:35,29 Jul,"Swiss, operated by Ita Airways",Direct,CHF259.81,89
+ZRH,FCO,2025-07-29,ZRH,12:45,29 Jul,FCO,14:15,29 Jul,"ITA Airways, operated by Swiss",Direct,CHF286.37,89
+ZRH,FCO,2025-07-29,ZRH,07:15,29 Jul,FCO,11:35,29 Jul,"Lufthansa, operated by Swiss",Direct,CHF130.58,89
+ZRH,FCO,2025-07-29,ZRH,18:55,29 Jul,FCO,23:15,29 Jul,"Lufthansa, operated by Swiss",1 stop,CHF138.15,89
+ZRH,FCO,2025-07-29,ZRH,13:15,29 Jul,FCO,18:05,29 Jul,"Lufthansa, operated by Helvetic Airways For Swiss",1 stop,CHF130.60,89
+ZRH,FCO,2025-07-30,ZRH,21:55,30 Jul,FCO,23:30,30 Jul,Easyjet,Direct,CHF58.21,90
+ZRH,FCO,2025-07-30,ZRH,08:30,30 Jul,FCO,10:05,30 Jul,Easyjet,Cheapest direct,CHF58.21,90
+ZRH,FCO,2025-07-30,ZRH,10:55,30 Jul,FCO,12:25,30 Jul,ITA Airways,Direct,CHF99.58,90
+ZRH,FCO,2025-07-30,ZRH,19:05,30 Jul,FCO,20:35,30 Jul,ITA Airways,Direct,CHF99.58,90
+ZRH,FCO,2025-07-30,ZRH,07:20,30 Jul,FCO,08:50,30 Jul,"Swiss, operated by Helvetic Airways",Direct,CHF105.36,90
+ZRH,FCO,2025-07-30,ZRH,12:45,30 Jul,FCO,14:15,30 Jul,Swiss,Direct,CHF105.36,90
+ZRH,FCO,2025-07-30,ZRH,17:45,30 Jul,FCO,19:20,30 Jul,"Swiss, operated by Helvetic Airways",Direct,CHF105.36,90
+ZRH,FCO,2025-07-30,ZRH,07:20,30 Jul,FCO,08:50,30 Jul,"ITA Airways, operated by Helvetic Airways For Swiss Int Air Lines",Direct,CHF162.17,90
+ZRH,FCO,2025-07-30,ZRH,12:45,30 Jul,FCO,14:15,30 Jul,"ITA Airways, operated by Swiss",Direct,CHF162.49,90
+ZRH,FCO,2025-07-30,ZRH,17:45,30 Jul,FCO,19:20,30 Jul,"ITA Airways, operated by Helvetic Airways For Swiss Int Air Lines",Direct,CHF162.20,90
+ZRH,FCO,2025-07-30,ZRH,10:55,30 Jul,FCO,12:25,30 Jul,"Swiss, operated by Ita Airways",Direct,CHF199.28,90
+ZRH,FCO,2025-07-30,ZRH,19:05,30 Jul,FCO,20:35,30 Jul,"Swiss, operated by Ita Airways",Direct,CHF229.57,90
+ZRH,FCO,2025-07-30,ZRH,07:15,30 Jul,FCO,11:35,30 Jul,"Lufthansa, operated by Swiss",Direct,CHF130.58,90
+ZRH,FCO,2025-07-30,ZRH,09:30,30 Jul,FCO,13:50,30 Jul,"Lufthansa, operated by Air Dolomiti",1 stop,CHF138.15,90
+ZRH,FCO,2025-07-30,ZRH,18:55,30 Jul,FCO,23:15,30 Jul,"Lufthansa, operated by Swiss",1 stop,CHF138.15,90
+ZRH,FCO,2025-07-31,ZRH,08:30,31 Jul,FCO,10:05,31 Jul,Easyjet,Cheapest direct,CHF92.53,91
+ZRH,FCO,2025-07-31,ZRH,07:20,31 Jul,FCO,08:50,31 Jul,"Swiss, operated by Helvetic Airways",Direct,CHF165.92,91
+ZRH,FCO,2025-07-31,ZRH,21:55,31 Jul,FCO,23:30,31 Jul,Easyjet,Direct,CHF98.08,91
+ZRH,FCO,2025-07-31,ZRH,10:55,31 Jul,FCO,12:25,31 Jul,ITA Airways,Direct,CHF185.79,91
+ZRH,FCO,2025-07-31,ZRH,12:45,31 Jul,FCO,14:15,31 Jul,Swiss,Direct,CHF196.19,91
+ZRH,FCO,2025-07-31,ZRH,17:45,31 Jul,FCO,19:20,31 Jul,"Swiss, operated by Helvetic Airways",Direct,CHF196.19,91
+ZRH,FCO,2025-07-31,ZRH,19:05,31 Jul,FCO,20:35,31 Jul,ITA Airways,Direct,CHF223.19,91
+ZRH,FCO,2025-07-31,ZRH,12:45,31 Jul,FCO,14:15,31 Jul,"ITA Airways, operated by Swiss",Direct,CHF286.37,91
+ZRH,FCO,2025-07-31,ZRH,07:20,31 Jul,FCO,08:50,31 Jul,"ITA Airways, operated by Helvetic Airways For Swiss Int Air Lines",Direct,CHF286.96,91
+ZRH,FCO,2025-07-31,ZRH,17:45,31 Jul,FCO,19:20,31 Jul,"ITA Airways, operated by Helvetic Airways For Swiss Int Air Lines",Direct,CHF287.02,91
+ZRH,FCO,2025-07-31,ZRH,14:20,31 Jul,FCO,18:50,31 Jul,"KLM, operated by KLM Cityhopper",Direct,CHF170.02,91
+ZRH,FCO,2025-07-31,ZRH,07:00,31 Jul,FCO,11:45,31 Jul,KLM,1 stop,CHF170.02,91
+ZRH,FCO,2025-07-31,ZRH,10:55,31 Jul,FCO,12:25,31 Jul,"Swiss, operated by Ita Airways",1 stop,CHF463.71,91
+ZRH,FCO,2025-07-31,ZRH,19:05,31 Jul,FCO,20:35,31 Jul,"Swiss, operated by Ita Airways",Direct,CHF463.71,91
+ZRH,FCO,2025-07-31,ZRH,08:45,31 Jul,FCO,12:05,31 Jul,"ITA Airways, operated by Swiss",Direct,CHF251.11,91
+ZRH,FCO,2025-08-01,ZRH,21:55,1 Aug,FCO,23:30,1 Aug,Easyjet,Cheapest direct,CHF58.21,92
+ZRH,FCO,2025-08-01,ZRH,12:45,1 Aug,FCO,14:15,1 Aug,Swiss,Direct,CHF135.66,92
+ZRH,FCO,2025-08-01,ZRH,17:45,1 Aug,FCO,19:20,1 Aug,"Swiss, operated by Helvetic Airways",Direct,CHF135.66,92
+ZRH,FCO,2025-08-01,ZRH,08:30,1 Aug,FCO,10:05,1 Aug,Easyjet,Direct,CHF154.58,92
+ZRH,FCO,2025-08-01,ZRH,07:20,1 Aug,FCO,08:50,1 Aug,Swiss,Direct,CHF165.92,92
+ZRH,FCO,2025-08-01,ZRH,19:05,1 Aug,FCO,20:35,1 Aug,ITA Airways,Direct,CHF185.79,92
+ZRH,FCO,2025-08-01,ZRH,10:55,1 Aug,FCO,12:25,1 Aug,ITA Airways,Direct,CHF223.19,92
+ZRH,FCO,2025-08-01,ZRH,07:20,1 Aug,FCO,08:50,1 Aug,"ITA Airways, operated by Swiss",Direct,CHF286.37,92
+ZRH,FCO,2025-08-01,ZRH,12:45,1 Aug,FCO,14:15,1 Aug,"ITA Airways, operated by Swiss",Direct,CHF286.37,92
+ZRH,FCO,2025-08-01,ZRH,19:05,1 Aug,FCO,20:35,1 Aug,"Swiss, operated by Ita Airways",Direct,CHF297.18,92
+ZRH,FCO,2025-08-01,ZRH,17:45,1 Aug,FCO,19:20,1 Aug,"ITA Airways, operated by Helvetic Airways For Swiss Int Air Lines",Direct,CHF287.02,92
+ZRH,FCO,2025-08-01,ZRH,15:10,1 Aug,FCO,19:40,1 Aug,Air Serbia,Direct,CHF174.68,92
+ZRH,FCO,2025-08-01,ZRH,18:55,1 Aug,FCO,23:40,1 Aug,"Lufthansa, operated by Swiss",1 stop,CHF172.48,92
+ZRH,FCO,2025-08-01,ZRH,10:55,1 Aug,FCO,12:25,1 Aug,"Swiss, operated by Ita Airways",1 stop,CHF463.71,92
+ZRH,FCO,2025-08-01,ZRH,12:50,1 Aug,FCO,17:50,1 Aug,"Lufthansa, operated by Helvetic Airways For Swiss",Direct,CHF172.48,92
+ZRH,FCO,2025-08-02,ZRH,21:55,2 Aug,FCO,23:30,2 Aug,Easyjet,Cheapest direct,CHF58.21,93
+ZRH,FCO,2025-08-02,ZRH,19:05,2 Aug,FCO,20:35,2 Aug,ITA Airways,Direct,CHF99.51,93
+ZRH,FCO,2025-08-02,ZRH,08:30,2 Aug,FCO,10:05,2 Aug,Easyjet,Direct,CHF63.76,93
+ZRH,FCO,2025-08-02,ZRH,07:20,2 Aug,FCO,08:50,2 Aug,Swiss,Direct,CHF135.66,93
+ZRH,FCO,2025-08-02,ZRH,12:45,2 Aug,FCO,14:15,2 Aug,"Swiss, operated by Air Baltic Corporation",Direct,CHF135.66,93
+ZRH,FCO,2025-08-02,ZRH,17:45,2 Aug,FCO,19:20,2 Aug,"Swiss, operated by Helvetic Airways",Direct,CHF135.66,93
+ZRH,FCO,2025-08-02,ZRH,10:55,2 Aug,FCO,12:25,2 Aug,ITA Airways,Direct,CHF157.17,93
+ZRH,FCO,2025-08-02,ZRH,19:05,2 Aug,FCO,20:35,2 Aug,"Swiss, operated by ITA Airways",Direct,CHF238.72,93
+ZRH,FCO,2025-08-02,ZRH,07:20,2 Aug,FCO,08:50,2 Aug,"ITA Airways, operated by Swiss",Direct,CHF286.37,93
+ZRH,FCO,2025-08-02,ZRH,12:45,2 Aug,FCO,14:15,2 Aug,"ITA Airways, operated by Air Baltic For Swiss Int Air Lines",Direct,CHF286.96,93
+ZRH,FCO,2025-08-02,ZRH,17:45,2 Aug,FCO,19:20,2 Aug,"ITA Airways, operated by Helvetic Airways For Swiss Int Air Lines",Direct,CHF287.02,93
+ZRH,FCO,2025-08-02,ZRH,07:15,2 Aug,FCO,11:35,2 Aug,"Lufthansa, operated by Swiss",Direct,CHF164.91,93
+ZRH,FCO,2025-08-02,ZRH,08:15,2 Aug,FCO,12:30,2 Aug,Lufthansa,1 stop,CHF172.47,93
+ZRH,FCO,2025-08-02,ZRH,18:55,2 Aug,FCO,23:10,2 Aug,"Lufthansa, operated by Swiss",1 stop,CHF172.48,93
+ZRH,FCO,2025-08-02,ZRH,14:20,2 Aug,FCO,18:50,2 Aug,"KLM, operated by KLM Cityhopper",1 stop,CHF170.02,93
+ZRH,FCO,2025-08-03,ZRH,21:55,3 Aug,FCO,23:30,3 Aug,Easyjet,Direct,CHF58.21,94
+ZRH,FCO,2025-08-03,ZRH,08:30,3 Aug,FCO,10:05,3 Aug,Easyjet,Cheapest direct,CHF58.21,94
+ZRH,FCO,2025-08-03,ZRH,19:05,3 Aug,FCO,20:35,3 Aug,ITA Airways,Direct,CHF99.51,94
+ZRH,FCO,2025-08-03,ZRH,10:55,3 Aug,FCO,12:25,3 Aug,ITA Airways,Direct,CHF128.02,94
+ZRH,FCO,2025-08-03,ZRH,07:20,3 Aug,FCO,08:50,3 Aug,Swiss,Direct,CHF135.66,94
+ZRH,FCO,2025-08-03,ZRH,12:45,3 Aug,FCO,14:15,3 Aug,Swiss,Direct,CHF135.66,94
+ZRH,FCO,2025-08-03,ZRH,17:45,3 Aug,FCO,19:20,3 Aug,Swiss,Direct,CHF135.66,94
+ZRH,FCO,2025-08-03,ZRH,10:55,3 Aug,FCO,12:25,3 Aug,"Swiss, operated by Ita Airways",Direct,CHF229.57,94
+ZRH,FCO,2025-08-03,ZRH,19:05,3 Aug,FCO,20:35,3 Aug,"Swiss, operated by Ita Airways",Direct,CHF229.57,94
+ZRH,FCO,2025-08-03,ZRH,14:35,3 Aug,FCO,19:40,3 Aug,Air Serbia,Direct,CHF92.64,94
+ZRH,FCO,2025-08-03,ZRH,07:20,3 Aug,FCO,08:50,3 Aug,"ITA Airways, operated by Swiss",1 stop,CHF286.37,94
+ZRH,FCO,2025-08-03,ZRH,12:45,3 Aug,FCO,14:15,3 Aug,"ITA Airways, operated by Swiss",Direct,CHF286.37,94
+ZRH,FCO,2025-08-03,ZRH,09:30,3 Aug,FCO,13:55,3 Aug,"Air Serbia, operated by Bulgaria Air For Air Serbia",Direct,CHF115.36,94
+ZRH,FCO,2025-08-03,ZRH,17:45,3 Aug,FCO,19:20,3 Aug,"ITA Airways, operated by Swiss",1 stop,CHF286.44,94
+ZRH,FCO,2025-08-03,ZRH,07:15,3 Aug,FCO,11:35,3 Aug,"Lufthansa, operated by Edelweiss Air For Swiss",Direct,CHF164.91,94
+ZRH,FCO,2025-08-04,ZRH,08:30,4 Aug,FCO,10:05,4 Aug,Easyjet,Cheapest direct,CHF58.21,95
+ZRH,FCO,2025-08-04,ZRH,21:55,4 Aug,FCO,23:30,4 Aug,Easyjet,Direct,CHF58.21,95
+ZRH,FCO,2025-08-04,ZRH,19:05,4 Aug,FCO,20:35,4 Aug,ITA Airways,Direct,CHF99.51,95
+ZRH,FCO,2025-08-04,ZRH,07:20,4 Aug,FCO,08:50,4 Aug,Swiss,Direct,CHF105.36,95
+ZRH,FCO,2025-08-04,ZRH,12:45,4 Aug,FCO,14:15,4 Aug,Swiss,Direct,CHF105.36,95
+ZRH,FCO,2025-08-04,ZRH,17:45,4 Aug,FCO,19:20,4 Aug,Swiss,Direct,CHF105.36,95
+ZRH,FCO,2025-08-04,ZRH,10:55,4 Aug,FCO,12:25,4 Aug,ITA Airways,Direct,CHF128.08,95
+ZRH,FCO,2025-08-04,ZRH,07:20,4 Aug,FCO,08:50,4 Aug,"ITA Airways, operated by Swiss",Direct,CHF162.56,95
+ZRH,FCO,2025-08-04,ZRH,12:45,4 Aug,FCO,14:15,4 Aug,"ITA Airways, operated by Swiss",Direct,CHF162.56,95
+ZRH,FCO,2025-08-04,ZRH,17:45,4 Aug,FCO,19:20,4 Aug,"ITA Airways, operated by Swiss",Direct,CHF162.60,95
+ZRH,FCO,2025-08-04,ZRH,10:55,4 Aug,FCO,12:25,4 Aug,"Swiss, operated by Ita Airways",Direct,CHF199.28,95
+ZRH,FCO,2025-08-04,ZRH,19:05,4 Aug,FCO,20:35,4 Aug,"Swiss, operated by Ita Airways",Direct,CHF297.18,95
+ZRH,FCO,2025-08-04,ZRH,08:30,4 Aug,FCO,12:20,4 Aug,"Easyjet, ITA Airways",Direct,CHF138.02,95
+ZRH,FCO,2025-08-04,ZRH,08:15,4 Aug,FCO,12:30,4 Aug,Lufthansa,1 stop,CHF138.15,95
+ZRH,FCO,2025-08-04,ZRH,09:30,4 Aug,FCO,13:50,4 Aug,"Lufthansa, operated by Air Dolomiti",1 stop,CHF138.15,95
+ZRH,FCO,2025-08-05,ZRH,08:30,5 Aug,FCO,10:05,5 Aug,Easyjet,Cheapest direct,CHF58.21,96
+ZRH,FCO,2025-08-05,ZRH,21:55,5 Aug,FCO,23:30,5 Aug,Easyjet,Direct,CHF58.21,96
+ZRH,FCO,2025-08-05,ZRH,19:05,5 Aug,FCO,20:35,5 Aug,ITA Airways,Direct,CHF99.51,96
+ZRH,FCO,2025-08-05,ZRH,07:20,5 Aug,FCO,08:50,5 Aug,Swiss,Direct,CHF105.36,96
+ZRH,FCO,2025-08-05,ZRH,12:45,5 Aug,FCO,14:15,5 Aug,Swiss,Direct,CHF105.36,96
+ZRH,FCO,2025-08-05,ZRH,17:45,5 Aug,FCO,19:20,5 Aug,Swiss,Direct,CHF105.36,96
+ZRH,FCO,2025-08-05,ZRH,10:55,5 Aug,FCO,12:25,5 Aug,ITA Airways,Direct,CHF128.08,96
+ZRH,FCO,2025-08-05,ZRH,07:20,5 Aug,FCO,08:50,5 Aug,"ITA Airways, operated by Swiss",Direct,CHF162.56,96
+ZRH,FCO,2025-08-05,ZRH,12:45,5 Aug,FCO,14:15,5 Aug,"ITA Airways, operated by Swiss",Direct,CHF162.56,96
+ZRH,FCO,2025-08-05,ZRH,17:45,5 Aug,FCO,19:20,5 Aug,"ITA Airways, operated by Swiss",Direct,CHF162.60,96
+ZRH,FCO,2025-08-05,ZRH,10:55,5 Aug,FCO,12:25,5 Aug,"Swiss, operated by Ita Airways",Direct,CHF199.28,96
+ZRH,FCO,2025-08-05,ZRH,19:05,5 Aug,FCO,20:35,5 Aug,"Swiss, operated by Ita Airways",Direct,CHF229.57,96
+ZRH,FCO,2025-08-05,ZRH,07:15,5 Aug,FCO,11:35,5 Aug,"Lufthansa, operated by Helvetic Airways For Swiss",Direct,CHF130.58,96
+ZRH,FCO,2025-08-05,ZRH,12:55,5 Aug,FCO,17:05,5 Aug,"Brussels Airlines, operated by Helvetic Airways For Swiss",1 stop,CHF134.89,96
+ZRH,FCO,2025-08-05,ZRH,08:15,5 Aug,FCO,12:30,5 Aug,Lufthansa,1 stop,CHF138.15,96
+ZRH,FCO,2025-08-06,ZRH,08:30,6 Aug,FCO,10:05,6 Aug,Easyjet,Cheapest direct,CHF58.21,97
+ZRH,FCO,2025-08-06,ZRH,21:55,6 Aug,FCO,23:30,6 Aug,Easyjet,Direct,CHF58.21,97
+ZRH,FCO,2025-08-06,ZRH,10:55,6 Aug,FCO,12:25,6 Aug,ITA Airways,Direct,CHF99.39,97
+ZRH,FCO,2025-08-06,ZRH,19:05,6 Aug,FCO,20:35,6 Aug,ITA Airways,Direct,CHF99.39,97
+ZRH,FCO,2025-08-06,ZRH,07:20,6 Aug,FCO,08:50,6 Aug,Swiss,Direct,CHF105.36,97
+ZRH,FCO,2025-08-06,ZRH,12:45,6 Aug,FCO,14:15,6 Aug,"Swiss, operated by Helvetic Airways",Direct,CHF105.36,97
+ZRH,FCO,2025-08-06,ZRH,17:45,6 Aug,FCO,19:20,6 Aug,Swiss,Direct,CHF105.36,97
+ZRH,FCO,2025-08-06,ZRH,12:45,6 Aug,FCO,14:15,6 Aug,"ITA Airways, operated by Helvetic Airways For Swiss Int Air Lines",Direct,CHF162.02,97
+ZRH,FCO,2025-08-06,ZRH,07:20,6 Aug,FCO,08:50,6 Aug,"ITA Airways, operated by Swiss",Direct,CHF162.34,97
+ZRH,FCO,2025-08-06,ZRH,19:05,6 Aug,FCO,20:35,6 Aug,"Swiss, operated by Ita Airways",Direct,CHF168.97,97
+ZRH,FCO,2025-08-06,ZRH,17:45,6 Aug,FCO,19:20,6 Aug,"ITA Airways, operated by Swiss",Direct,CHF162.37,97
+ZRH,FCO,2025-08-06,ZRH,10:55,6 Aug,FCO,12:25,6 Aug,"Swiss, operated by Ita Airways",Direct,CHF199.28,97
+ZRH,FCO,2025-08-06,ZRH,14:35,6 Aug,FCO,19:40,6 Aug,Air Serbia,Direct,CHF92.64,97
+ZRH,FCO,2025-08-06,ZRH,07:15,6 Aug,FCO,11:35,6 Aug,"Lufthansa, operated by Helvetic Airways For Swiss",1 stop,CHF130.58,97
+ZRH,FCO,2025-08-06,ZRH,18:10,6 Aug,FCO,00:55,7 Aug,"Easyjet, Wizz Air Malta",1 stop,CHF99.05,97
+ZRH,FCO,2025-08-07,ZRH,21:55,7 Aug,FCO,23:30,7 Aug,Easyjet,Direct,CHF58.21,98
+ZRH,FCO,2025-08-07,ZRH,08:30,7 Aug,FCO,10:05,7 Aug,Easyjet,Cheapest direct,CHF58.21,98
+ZRH,FCO,2025-08-07,ZRH,19:05,7 Aug,FCO,20:35,7 Aug,ITA Airways,Direct,CHF99.34,98
+ZRH,FCO,2025-08-07,ZRH,07:20,7 Aug,FCO,08:50,7 Aug,"Swiss, operated by Helvetic Airways",Direct,CHF105.36,98
+ZRH,FCO,2025-08-07,ZRH,12:45,7 Aug,FCO,14:15,7 Aug,Swiss,Direct,CHF105.36,98
+ZRH,FCO,2025-08-07,ZRH,17:45,7 Aug,FCO,19:20,7 Aug,"Swiss, operated by Helvetic Airways",Direct,CHF105.36,98
+ZRH,FCO,2025-08-07,ZRH,10:55,7 Aug,FCO,12:25,7 Aug,ITA Airways,Direct,CHF127.80,98
+ZRH,FCO,2025-08-07,ZRH,07:20,7 Aug,FCO,08:50,7 Aug,"ITA Airways, operated by Helvetic Airways For Swiss Int Air Lines",Direct,CHF161.84,98
+ZRH,FCO,2025-08-07,ZRH,12:45,7 Aug,FCO,14:15,7 Aug,"ITA Airways, operated by Swiss",Direct,CHF162.16,98
+ZRH,FCO,2025-08-07,ZRH,17:45,7 Aug,FCO,19:20,7 Aug,"ITA Airways, operated by Helvetic Airways For Swiss Int Air Lines",Direct,CHF161.87,98
+ZRH,FCO,2025-08-07,ZRH,19:05,7 Aug,FCO,20:35,7 Aug,"Swiss, operated by Ita Airways",Direct,CHF229.57,98
+ZRH,FCO,2025-08-07,ZRH,07:15,7 Aug,FCO,11:35,7 Aug,"Lufthansa, operated by Swiss",Direct,CHF130.58,98
+ZRH,FCO,2025-08-07,ZRH,18:55,7 Aug,FCO,23:10,7 Aug,"Lufthansa, operated by Swiss",1 stop,CHF138.15,98
+ZRH,FCO,2025-08-07,ZRH,09:30,7 Aug,FCO,13:50,7 Aug,"Lufthansa, operated by Air Dolomiti",1 stop,CHF138.15,98
+ZRH,FCO,2025-08-07,ZRH,10:55,7 Aug,FCO,12:25,7 Aug,"Swiss, operated by Ita Airways",1 stop,CHF342.59,98
+ZRH,FCO,2025-08-08,ZRH,21:55,8 Aug,FCO,23:30,8 Aug,Easyjet,Direct,CHF58.21,99
+ZRH,FCO,2025-08-08,ZRH,08:30,8 Aug,FCO,10:05,8 Aug,Easyjet,Cheapest direct,CHF58.21,99
+ZRH,FCO,2025-08-08,ZRH,07:20,8 Aug,FCO,08:50,8 Aug,Swiss,Direct,CHF105.36,99
+ZRH,FCO,2025-08-08,ZRH,12:45,8 Aug,FCO,14:15,8 Aug,"Swiss, operated by Air Baltic Corporation",Direct,CHF105.36,99
+ZRH,FCO,2025-08-08,ZRH,17:45,8 Aug,FCO,19:20,8 Aug,"Swiss, operated by Helvetic Airways",Direct,CHF105.36,99
+ZRH,FCO,2025-08-08,ZRH,10:55,8 Aug,FCO,12:25,8 Aug,ITA Airways,Direct,CHF127.80,99
+ZRH,FCO,2025-08-08,ZRH,19:05,8 Aug,FCO,20:35,8 Aug,ITA Airways,Direct,CHF156.86,99
+ZRH,FCO,2025-08-08,ZRH,12:45,8 Aug,FCO,14:15,8 Aug,"ITA Airways, operated by Air Baltic For Swiss Int Air Lines",Direct,CHF161.85,99
+ZRH,FCO,2025-08-08,ZRH,07:20,8 Aug,FCO,08:50,8 Aug,"ITA Airways, operated by Swiss",Direct,CHF162.16,99
+ZRH,FCO,2025-08-08,ZRH,17:45,8 Aug,FCO,19:20,8 Aug,"ITA Airways, operated by Helvetic Airways For Swiss Int Air Lines",Direct,CHF161.88,99
+ZRH,FCO,2025-08-08,ZRH,10:55,8 Aug,FCO,12:25,8 Aug,"Swiss, operated by Ita Airways",Direct,CHF259.81,99
+ZRH,FCO,2025-08-08,ZRH,19:05,8 Aug,FCO,20:35,8 Aug,"Swiss, operated by Ita Airways",Direct,CHF259.81,99
+ZRH,FCO,2025-08-08,ZRH,09:30,8 Aug,FCO,13:55,8 Aug,"Air Serbia, operated by Getjet Airlines For Air Serbia",Direct,CHF115.36,99
+ZRH,FCO,2025-08-08,ZRH,15:10,8 Aug,FCO,19:40,8 Aug,Air Serbia,1 stop,CHF130.33,99
+ZRH,FCO,2025-08-08,ZRH,09:30,8 Aug,FCO,13:50,8 Aug,"Lufthansa, operated by Air Dolomiti",1 stop,CHF138.15,99
+ZRH,FCO,2025-08-09,ZRH,21:55,9 Aug,FCO,23:30,9 Aug,Easyjet,Cheapest direct,CHF58.21,100
+ZRH,FCO,2025-08-09,ZRH,19:05,9 Aug,FCO,20:35,9 Aug,ITA Airways,Direct,CHF99.41,100
+ZRH,FCO,2025-08-09,ZRH,08:30,9 Aug,FCO,10:05,9 Aug,Easyjet,Direct,CHF59.22,100
+ZRH,FCO,2025-08-09,ZRH,07:20,9 Aug,FCO,08:50,9 Aug,Swiss,Direct,CHF105.36,100
+ZRH,FCO,2025-08-09,ZRH,17:45,9 Aug,FCO,19:20,9 Aug,Swiss,Direct,CHF105.36,100
+ZRH,FCO,2025-08-09,ZRH,10:55,9 Aug,FCO,12:25,9 Aug,ITA Airways,Direct,CHF127.89,100
+ZRH,FCO,2025-08-09,ZRH,07:20,9 Aug,FCO,08:50,9 Aug,"ITA Airways, operated by Swiss",Direct,CHF162.28,100
+ZRH,FCO,2025-08-09,ZRH,17:45,9 Aug,FCO,19:20,9 Aug,"ITA Airways, operated by Swiss",Direct,CHF162.32,100
+ZRH,FCO,2025-08-09,ZRH,12:45,9 Aug,FCO,14:15,9 Aug,Swiss,Direct,CHF196.19,100
+ZRH,FCO,2025-08-09,ZRH,19:05,9 Aug,FCO,20:35,9 Aug,"Swiss, operated by Ita Airways",Direct,CHF199.28,100
+ZRH,FCO,2025-08-09,ZRH,12:45,9 Aug,FCO,14:15,9 Aug,"ITA Airways, operated by Swiss",Direct,CHF286.04,100
+ZRH,FCO,2025-08-09,ZRH,18:55,9 Aug,FCO,23:10,9 Aug,"Lufthansa, operated by Swiss",Direct,CHF138.15,100
+ZRH,FCO,2025-08-09,ZRH,16:55,9 Aug,FCO,21:55,9 Aug,"Lufthansa, operated by Helvetic Airways For Swiss",1 stop,CHF130.58,100
+ZRH,FCO,2025-08-09,ZRH,18:05,9 Aug,FCO,23:10,9 Aug,Lufthansa,1 stop,CHF138.15,100
+ZRH,FCO,2025-08-09,ZRH,07:00,9 Aug,FCO,11:45,9 Aug,KLM,1 stop,CHF153.34,100
+ZRH,FCO,2025-08-12,ZRH,08:30,12 Aug,FCO,10:05,12 Aug,Easyjet,Cheapest direct,CHF58.21,103
+ZRH,FCO,2025-08-12,ZRH,21:55,12 Aug,FCO,23:30,12 Aug,Easyjet,Direct,CHF58.21,103
+ZRH,FCO,2025-08-12,ZRH,19:05,12 Aug,FCO,20:35,12 Aug,ITA Airways,Direct,CHF99.40,103
+ZRH,FCO,2025-08-12,ZRH,07:20,12 Aug,FCO,08:50,12 Aug,"Swiss, operated by Helvetic Airways",Direct,CHF105.36,103
+ZRH,FCO,2025-08-12,ZRH,12:45,12 Aug,FCO,14:15,12 Aug,Swiss,Direct,CHF105.36,103
+ZRH,FCO,2025-08-12,ZRH,17:45,12 Aug,FCO,19:20,12 Aug,"Swiss, operated by Helvetic Airways",Direct,CHF105.36,103
+ZRH,FCO,2025-08-12,ZRH,10:55,12 Aug,FCO,12:25,12 Aug,ITA Airways,Direct,CHF127.88,103
+ZRH,FCO,2025-08-12,ZRH,07:20,12 Aug,FCO,08:50,12 Aug,"ITA Airways, operated by Helvetic Airways For Swiss Int Air Lines",Direct,CHF161.95,103
+ZRH,FCO,2025-08-12,ZRH,12:45,12 Aug,FCO,14:15,12 Aug,"ITA Airways, operated by Swiss",Direct,CHF162.27,103
+ZRH,FCO,2025-08-12,ZRH,10:55,12 Aug,FCO,12:25,12 Aug,"Swiss, operated by Ita Airways",Direct,CHF199.28,103
+ZRH,FCO,2025-08-12,ZRH,19:05,12 Aug,FCO,20:35,12 Aug,"Swiss, operated by Ita Airways",Direct,CHF229.57,103
+ZRH,FCO,2025-08-12,ZRH,17:45,12 Aug,FCO,19:20,12 Aug,"ITA Airways, operated by Helvetic Airways For Swiss Int Air Lines",Direct,CHF221.01,103
+ZRH,FCO,2025-08-12,ZRH,07:15,12 Aug,FCO,11:35,12 Aug,"Lufthansa, operated by Helvetic Airways For Swiss",Direct,CHF130.58,103
+ZRH,FCO,2025-08-12,ZRH,08:15,12 Aug,FCO,12:30,12 Aug,Lufthansa,1 stop,CHF138.15,103
+ZRH,FCO,2025-08-12,ZRH,09:30,12 Aug,FCO,13:50,12 Aug,"Lufthansa, operated by Air Dolomiti",1 stop,CHF138.15,103
+ZRH,FCO,2025-08-13,ZRH,08:30,13 Aug,FCO,10:05,13 Aug,Easyjet,Cheapest direct,CHF58.21,104
+ZRH,FCO,2025-08-13,ZRH,10:55,13 Aug,FCO,12:25,13 Aug,ITA Airways,Direct,CHF99.36,104
+ZRH,FCO,2025-08-13,ZRH,21:55,13 Aug,FCO,23:30,13 Aug,Easyjet,Direct,CHF58.21,104
+ZRH,FCO,2025-08-13,ZRH,19:05,13 Aug,FCO,20:35,13 Aug,ITA Airways,Direct,CHF99.36,104
+ZRH,FCO,2025-08-13,ZRH,07:20,13 Aug,FCO,08:50,13 Aug,Swiss,Direct,CHF105.36,104
+ZRH,FCO,2025-08-13,ZRH,12:45,13 Aug,FCO,14:15,13 Aug,Swiss,Direct,CHF105.36,104
+ZRH,FCO,2025-08-13,ZRH,17:45,13 Aug,FCO,19:20,13 Aug,"Swiss, operated by Helvetic Airways",Direct,CHF105.36,104
+ZRH,FCO,2025-08-13,ZRH,07:20,13 Aug,FCO,08:50,13 Aug,"ITA Airways, operated by Swiss",Direct,CHF162.25,104
+ZRH,FCO,2025-08-13,ZRH,12:45,13 Aug,FCO,14:15,13 Aug,"ITA Airways, operated by Swiss",Direct,CHF162.25,104
+ZRH,FCO,2025-08-13,ZRH,17:45,13 Aug,FCO,19:20,13 Aug,"ITA Airways, operated by Helvetic Airways For Swiss Int Air Lines",Direct,CHF161.98,104
+ZRH,FCO,2025-08-13,ZRH,10:55,13 Aug,FCO,12:25,13 Aug,"Swiss, operated by Ita Airways",Direct,CHF168.97,104
+ZRH,FCO,2025-08-13,ZRH,19:05,13 Aug,FCO,20:35,13 Aug,"Swiss, operated by Ita Airways",Direct,CHF168.97,104
+ZRH,FCO,2025-08-13,ZRH,14:35,13 Aug,FCO,19:40,13 Aug,Air Serbia,Direct,CHF92.64,104
+ZRH,FCO,2025-08-13,ZRH,07:15,13 Aug,FCO,11:35,13 Aug,"Lufthansa, operated by Helvetic Airways For Swiss",1 stop,CHF130.58,104
+ZRH,FCO,2025-08-13,ZRH,12:55,13 Aug,FCO,17:05,13 Aug,"Brussels Airlines, operated by Helvetic Airways For Swiss",1 stop,CHF134.89,104
+ZRH,FCO,2025-08-14,ZRH,08:30,14 Aug,FCO,10:05,14 Aug,Easyjet,Cheapest direct,CHF58.21,105
+ZRH,FCO,2025-08-14,ZRH,19:05,14 Aug,FCO,20:35,14 Aug,ITA Airways,Direct,CHF99.36,105
+ZRH,FCO,2025-08-14,ZRH,21:55,14 Aug,FCO,23:30,14 Aug,Easyjet,Direct,CHF58.21,105
+ZRH,FCO,2025-08-14,ZRH,07:20,14 Aug,FCO,08:50,14 Aug,"Swiss, operated by Helvetic Airways",Direct,CHF105.36,105
+ZRH,FCO,2025-08-14,ZRH,10:55,14 Aug,FCO,12:25,14 Aug,ITA Airways,Direct,CHF127.89,105
+ZRH,FCO,2025-08-14,ZRH,17:45,14 Aug,FCO,19:20,14 Aug,"Swiss, operated by Helvetic Airways",Direct,CHF128.29,105
+ZRH,FCO,2025-08-14,ZRH,07:20,14 Aug,FCO,08:50,14 Aug,"ITA Airways, operated by Helvetic Airways For Swiss Int Air Lines",Direct,CHF161.94,105
+ZRH,FCO,2025-08-14,ZRH,19:05,14 Aug,FCO,20:35,14 Aug,"Swiss, operated by Ita Airways",Direct,CHF168.97,105
+ZRH,FCO,2025-08-14,ZRH,12:45,14 Aug,FCO,14:15,14 Aug,"Swiss, operated by Air Baltic Corporation",Direct,CHF194.94,105
+ZRH,FCO,2025-08-14,ZRH,10:55,14 Aug,FCO,12:25,14 Aug,"Swiss, operated by Ita Airways",Direct,CHF259.81,105
+ZRH,FCO,2025-08-14,ZRH,17:45,14 Aug,FCO,19:20,14 Aug,"ITA Airways, operated by Helvetic Airways For Swiss Int Air Lines",Direct,CHF249.68,105
+ZRH,FCO,2025-08-14,ZRH,12:45,14 Aug,FCO,14:15,14 Aug,"ITA Airways, operated by Air Baltic For Swiss Int Air Lines",Direct,CHF286.59,105
+ZRH,FCO,2025-08-14,ZRH,18:55,14 Aug,FCO,23:10,14 Aug,"Lufthansa, operated by Swiss",Direct,CHF138.15,105
+ZRH,FCO,2025-08-14,ZRH,09:30,14 Aug,FCO,13:50,14 Aug,"Lufthansa, operated by Air Dolomiti",1 stop,CHF138.15,105
+ZRH,FCO,2025-08-14,ZRH,16:55,14 Aug,FCO,21:55,14 Aug,"Lufthansa, operated by Swiss",1 stop,CHF130.58,105
+ZRH,FCO,2025-08-15,ZRH,08:30,15 Aug,FCO,10:05,15 Aug,Easyjet,Cheapest direct,CHF58.21,106
+ZRH,FCO,2025-08-15,ZRH,21:55,15 Aug,FCO,23:30,15 Aug,Easyjet,Direct,CHF58.21,106
+ZRH,FCO,2025-08-15,ZRH,12:45,15 Aug,FCO,14:15,15 Aug,Swiss,Direct,CHF126.29,106
+ZRH,FCO,2025-08-15,ZRH,10:55,15 Aug,FCO,12:25,15 Aug,ITA Airways,Direct,CHF127.89,106
+ZRH,FCO,2025-08-15,ZRH,07:20,15 Aug,FCO,08:50,15 Aug,Swiss,Direct,CHF134.66,106
+ZRH,FCO,2025-08-15,ZRH,17:45,15 Aug,FCO,19:20,15 Aug,"Swiss, operated by Helvetic Airways",Direct,CHF133.59,106
+ZRH,FCO,2025-08-15,ZRH,19:05,15 Aug,FCO,20:35,15 Aug,ITA Airways,Direct,CHF156.95,106
+ZRH,FCO,2025-08-15,ZRH,07:20,15 Aug,FCO,08:50,15 Aug,"ITA Airways, operated by Swiss",Direct,CHF219.17,106
+ZRH,FCO,2025-08-15,ZRH,12:45,15 Aug,FCO,14:15,15 Aug,"ITA Airways, operated by Swiss",Direct,CHF219.17,106
+ZRH,FCO,2025-08-15,ZRH,10:55,15 Aug,FCO,12:25,15 Aug,"Swiss, operated by Ita Airways",Direct,CHF229.57,106
+ZRH,FCO,2025-08-15,ZRH,19:05,15 Aug,FCO,20:35,15 Aug,"Swiss, operated by Ita Airways",Direct,CHF229.57,106
+ZRH,FCO,2025-08-15,ZRH,09:30,15 Aug,FCO,13:55,15 Aug,"Air Serbia, operated by Getjet Airlines For Air Serbia",Direct,CHF92.64,106
+ZRH,FCO,2025-08-15,ZRH,17:45,15 Aug,FCO,19:20,15 Aug,"ITA Airways, operated by Helvetic Airways For Swiss Int Air Lines",1 stop,CHF249.68,106
+ZRH,FCO,2025-08-15,ZRH,15:10,15 Aug,FCO,19:40,15 Aug,Air Serbia,Direct,CHF115.36,106
+ZRH,FCO,2025-08-15,ZRH,07:15,15 Aug,FCO,11:35,15 Aug,"Lufthansa, operated by Helvetic Airways For Swiss",1 stop,CHF130.58,106
+ZRH,FCO,2025-08-16,ZRH,08:30,16 Aug,FCO,10:05,16 Aug,Easyjet,Cheapest direct,CHF58.21,107
+ZRH,FCO,2025-08-16,ZRH,19:05,16 Aug,FCO,20:35,16 Aug,ITA Airways,Direct,CHF99.36,107
+ZRH,FCO,2025-08-16,ZRH,21:55,16 Aug,FCO,23:30,16 Aug,Easyjet,Direct,CHF58.21,107
+ZRH,FCO,2025-08-16,ZRH,07:20,16 Aug,FCO,08:50,16 Aug,Swiss,Direct,CHF105.36,107
+ZRH,FCO,2025-08-16,ZRH,17:45,16 Aug,FCO,19:20,16 Aug,Swiss,Direct,CHF105.36,107
+ZRH,FCO,2025-08-16,ZRH,10:55,16 Aug,FCO,12:25,16 Aug,ITA Airways,Direct,CHF156.95,107
+ZRH,FCO,2025-08-16,ZRH,07:20,16 Aug,FCO,08:50,16 Aug,"ITA Airways, operated by Swiss",Direct,CHF162.25,107
+ZRH,FCO,2025-08-16,ZRH,19:05,16 Aug,FCO,20:35,16 Aug,"Swiss, operated by Ita Airways",Direct,CHF168.97,107
+ZRH,FCO,2025-08-16,ZRH,17:45,16 Aug,FCO,19:20,16 Aug,"ITA Airways, operated by Swiss",Direct,CHF162.29,107
+ZRH,FCO,2025-08-16,ZRH,12:45,16 Aug,FCO,14:15,16 Aug,"Swiss, operated by Helvetic Airways",Direct,CHF196.19,107
+ZRH,FCO,2025-08-16,ZRH,12:45,16 Aug,FCO,14:15,16 Aug,"ITA Airways, operated by Helvetic Airways For Swiss Int Air Lines",Direct,CHF286.59,107
+ZRH,FCO,2025-08-16,ZRH,10:55,16 Aug,FCO,12:25,16 Aug,"Swiss, operated by Ita Airways",Direct,CHF342.59,107
+ZRH,FCO,2025-08-16,ZRH,16:55,16 Aug,FCO,21:55,16 Aug,"Lufthansa, operated by Helvetic Airways For Swiss",Direct,CHF130.58,107
+ZRH,FCO,2025-08-16,ZRH,07:15,16 Aug,FCO,11:35,16 Aug,"Lufthansa, operated by Swiss",1 stop,CHF153.79,107
+ZRH,FCO,2025-08-16,ZRH,18:55,16 Aug,FCO,23:10,16 Aug,"Lufthansa, operated by Swiss",1 stop,CHF164.24,107
+ZRH,FCO,2025-08-18,ZRH,21:55,18 Aug,FCO,23:30,18 Aug,Easyjet,Cheapest direct,CHF58.21,109
+ZRH,FCO,2025-08-18,ZRH,19:05,18 Aug,FCO,20:35,18 Aug,ITA Airways,Direct,CHF99.37,109
+ZRH,FCO,2025-08-18,ZRH,08:30,18 Aug,FCO,10:05,18 Aug,Easyjet,Direct,CHF74.86,109
+ZRH,FCO,2025-08-18,ZRH,07:20,18 Aug,FCO,08:50,18 Aug,"Swiss, operated by Helvetic Airways",Direct,CHF126.23,109
+ZRH,FCO,2025-08-18,ZRH,10:55,18 Aug,FCO,12:25,18 Aug,ITA Airways,Direct,CHF127.90,109
+ZRH,FCO,2025-08-18,ZRH,17:45,18 Aug,FCO,19:20,18 Aug,"Swiss, operated by Helvetic Airways",Direct,CHF131.46,109
+ZRH,FCO,2025-08-18,ZRH,12:45,18 Aug,FCO,14:15,18 Aug,Swiss,Direct,CHF184.55,109
+ZRH,FCO,2025-08-18,ZRH,07:20,18 Aug,FCO,08:50,18 Aug,"ITA Airways, operated by Helvetic Airways For Swiss Int Air Lines",Direct,CHF220.76,109
+ZRH,FCO,2025-08-18,ZRH,10:55,18 Aug,FCO,12:25,18 Aug,"Swiss, operated by Ita Airways",Direct,CHF229.56,109
+ZRH,FCO,2025-08-18,ZRH,19:05,18 Aug,FCO,20:35,18 Aug,"Swiss, operated by Ita Airways",Direct,CHF229.56,109
+ZRH,FCO,2025-08-18,ZRH,17:45,18 Aug,FCO,19:20,18 Aug,"ITA Airways, operated by Helvetic Airways For Swiss Int Air Lines",Direct,CHF249.71,109
+ZRH,FCO,2025-08-18,ZRH,12:45,18 Aug,FCO,14:15,18 Aug,"ITA Airways, operated by Swiss",Direct,CHF286.04,109
+ZRH,FCO,2025-08-18,ZRH,07:15,18 Aug,FCO,11:35,18 Aug,"Lufthansa, operated by Helvetic Airways For Swiss",Direct,CHF130.58,109
+ZRH,FCO,2025-08-18,ZRH,09:30,18 Aug,FCO,13:50,18 Aug,"Lufthansa, operated by Air Dolomiti",1 stop,CHF138.15,109
+ZRH,FCO,2025-08-18,ZRH,16:55,18 Aug,FCO,21:55,18 Aug,"Lufthansa, operated by Swiss",1 stop,CHF130.58,109
+ZRH,FCO,2025-08-19,ZRH,08:30,19 Aug,FCO,10:05,19 Aug,Easyjet,Cheapest direct,CHF58.21,110
+ZRH,FCO,2025-08-19,ZRH,21:55,19 Aug,FCO,23:30,19 Aug,Easyjet,Direct,CHF58.21,110
+ZRH,FCO,2025-08-19,ZRH,19:05,19 Aug,FCO,20:35,19 Aug,ITA Airways,Direct,CHF99.37,110
+ZRH,FCO,2025-08-19,ZRH,07:20,19 Aug,FCO,08:50,19 Aug,"Swiss, operated by Helvetic Airways",Direct,CHF105.36,110
+ZRH,FCO,2025-08-19,ZRH,10:55,19 Aug,FCO,12:25,19 Aug,ITA Airways,Direct,CHF127.90,110
+ZRH,FCO,2025-08-19,ZRH,07:20,19 Aug,FCO,08:50,19 Aug,"ITA Airways, operated by Helvetic Airways For Swiss Int Air Lines",Direct,CHF161.96,110
+ZRH,FCO,2025-08-19,ZRH,17:45,19 Aug,FCO,19:20,19 Aug,"Swiss, operated by Helvetic Airways",Direct,CHF165.92,110
+ZRH,FCO,2025-08-19,ZRH,12:45,19 Aug,FCO,14:15,19 Aug,Swiss,Direct,CHF184.48,110
+ZRH,FCO,2025-08-19,ZRH,10:55,19 Aug,FCO,12:25,19 Aug,"Swiss, operated by Ita Airways",Direct,CHF229.56,110
+ZRH,FCO,2025-08-19,ZRH,19:05,19 Aug,FCO,20:35,19 Aug,"Swiss, operated by Ita Airways",Direct,CHF229.56,110
+ZRH,FCO,2025-08-19,ZRH,12:45,19 Aug,FCO,14:15,19 Aug,"ITA Airways, operated by Swiss",Direct,CHF286.04,110
+ZRH,FCO,2025-08-19,ZRH,17:45,19 Aug,FCO,19:20,19 Aug,"ITA Airways, operated by Helvetic Airways For Swiss Int Air Lines",Direct,CHF286.68,110
+ZRH,FCO,2025-08-19,ZRH,12:55,19 Aug,FCO,17:05,19 Aug,"Brussels Airlines, operated by Helvetic Airways For Swiss",Direct,CHF134.89,110
+ZRH,FCO,2025-08-19,ZRH,18:55,19 Aug,FCO,23:15,19 Aug,"Lufthansa, operated by Swiss",1 stop,CHF138.15,110
+ZRH,FCO,2025-08-19,ZRH,16:55,19 Aug,FCO,21:55,19 Aug,"Lufthansa, operated by Swiss",1 stop,CHF130.58,110
+ZRH,FCO,2025-08-20,ZRH,21:55,20 Aug,FCO,23:30,20 Aug,Easyjet,Direct,CHF58.21,111
+ZRH,FCO,2025-08-20,ZRH,08:30,20 Aug,FCO,10:05,20 Aug,Easyjet,Cheapest direct,CHF58.21,111
+ZRH,FCO,2025-08-20,ZRH,10:55,20 Aug,FCO,12:25,20 Aug,ITA Airways,Direct,CHF99.37,111
+ZRH,FCO,2025-08-20,ZRH,19:05,20 Aug,FCO,20:35,20 Aug,ITA Airways,Direct,CHF99.37,111
+ZRH,FCO,2025-08-20,ZRH,07:20,20 Aug,FCO,08:50,20 Aug,"Swiss, operated by Helvetic Airways",Direct,CHF105.36,111
+ZRH,FCO,2025-08-20,ZRH,17:45,20 Aug,FCO,19:20,20 Aug,"Swiss, operated by Helvetic Airways",Direct,CHF134.65,111
+ZRH,FCO,2025-08-20,ZRH,07:20,20 Aug,FCO,08:50,20 Aug,"ITA Airways, operated by Helvetic Airways For Swiss Int Air Lines",Direct,CHF161.96,111
+ZRH,FCO,2025-08-20,ZRH,10:55,20 Aug,FCO,12:25,20 Aug,"Swiss, operated by Ita Airways",Direct,CHF168.97,111
+ZRH,FCO,2025-08-20,ZRH,12:45,20 Aug,FCO,14:15,20 Aug,Swiss,Direct,CHF196.19,111
+ZRH,FCO,2025-08-20,ZRH,19:05,20 Aug,FCO,20:35,20 Aug,"Swiss, operated by Ita Airways",Direct,CHF199.28,111
+ZRH,FCO,2025-08-20,ZRH,17:45,20 Aug,FCO,19:20,20 Aug,"ITA Airways, operated by Helvetic Airways For Swiss Int Air Lines",Direct,CHF249.71,111
+ZRH,FCO,2025-08-20,ZRH,07:15,20 Aug,FCO,11:35,20 Aug,"Lufthansa, operated by Helvetic Airways For Swiss",Direct,CHF130.58,111
+ZRH,FCO,2025-08-20,ZRH,12:55,20 Aug,FCO,17:05,20 Aug,"Brussels Airlines, operated by Swiss",1 stop,CHF134.89,111
+ZRH,FCO,2025-08-20,ZRH,12:45,20 Aug,FCO,14:15,20 Aug,"ITA Airways, operated by Swiss",1 stop,CHF330.01,111
+ZRH,FCO,2025-08-20,ZRH,18:55,20 Aug,FCO,23:15,20 Aug,"Lufthansa, operated by Swiss",Direct,CHF138.15,111
+ZRH,FCO,2025-08-21,ZRH,21:55,21 Aug,FCO,23:30,21 Aug,Easyjet,Cheapest direct,CHF58.21,112
+ZRH,FCO,2025-08-21,ZRH,08:30,21 Aug,FCO,10:05,21 Aug,Easyjet,Direct,CHF59.22,112
+ZRH,FCO,2025-08-21,ZRH,19:05,21 Aug,FCO,20:35,21 Aug,ITA Airways,Direct,CHF99.39,112
+ZRH,FCO,2025-08-21,ZRH,10:55,21 Aug,FCO,12:25,21 Aug,ITA Airways,Direct,CHF127.92,112
+ZRH,FCO,2025-08-21,ZRH,07:20,21 Aug,FCO,08:50,21 Aug,"Swiss, operated by Helvetic Airways",Direct,CHF128.37,112
+ZRH,FCO,2025-08-21,ZRH,17:45,21 Aug,FCO,19:20,21 Aug,"Swiss, operated by Helvetic Airways",Direct,CHF161.01,112
+ZRH,FCO,2025-08-21,ZRH,07:20,21 Aug,FCO,08:50,21 Aug,"ITA Airways, operated by Helvetic Airways For Swiss Int Air Lines",Direct,CHF220.76,112
+ZRH,FCO,2025-08-21,ZRH,19:05,21 Aug,FCO,20:35,21 Aug,"Swiss, operated by Ita Airways",Direct,CHF229.56,112
+ZRH,FCO,2025-08-21,ZRH,12:45,21 Aug,FCO,14:15,21 Aug,"Swiss, operated by Air Baltic Corporation",Direct,CHF234.55,112
+ZRH,FCO,2025-08-21,ZRH,10:55,21 Aug,FCO,12:25,21 Aug,"Swiss, operated by Ita Airways",Direct,CHF259.81,112
+ZRH,FCO,2025-08-21,ZRH,17:45,21 Aug,FCO,19:20,21 Aug,"ITA Airways, operated by Helvetic Airways For Swiss Int Air Lines",Direct,CHF286.69,112
+ZRH,FCO,2025-08-21,ZRH,18:55,21 Aug,FCO,23:10,21 Aug,"Lufthansa, operated by Swiss",Direct,CHF138.15,112
+ZRH,FCO,2025-08-21,ZRH,16:55,21 Aug,FCO,21:55,21 Aug,"Lufthansa, operated by Swiss",1 stop,CHF130.58,112
+ZRH,FCO,2025-08-21,ZRH,07:00,21 Aug,FCO,11:45,21 Aug,KLM,1 stop,CHF153.31,112
+ZRH,FCO,2025-08-21,ZRH,09:30,21 Aug,FCO,13:50,21 Aug,"Lufthansa, operated by Air Dolomiti",1 stop,CHF168.61,112
+ZRH,FCO,2025-08-22,ZRH,21:55,22 Aug,FCO,23:30,22 Aug,Easyjet,Cheapest direct,CHF58.21,113
+ZRH,FCO,2025-08-22,ZRH,07:20,22 Aug,FCO,08:50,22 Aug,Swiss,Direct,CHF165.92,113
+ZRH,FCO,2025-08-22,ZRH,08:30,22 Aug,FCO,10:05,22 Aug,Easyjet,Direct,CHF59.22,113
+ZRH,FCO,2025-08-22,ZRH,10:55,22 Aug,FCO,12:25,22 Aug,ITA Airways,Direct,CHF185.51,113
+ZRH,FCO,2025-08-22,ZRH,19:05,22 Aug,FCO,20:35,22 Aug,ITA Airways,Direct,CHF185.51,113
+ZRH,FCO,2025-08-22,ZRH,17:45,22 Aug,FCO,19:20,22 Aug,"Swiss, operated by Helvetic Airways",Direct,CHF192.41,113
+ZRH,FCO,2025-08-22,ZRH,12:45,22 Aug,FCO,14:15,22 Aug,Swiss,Direct,CHF228.39,113
+ZRH,FCO,2025-08-22,ZRH,09:30,22 Aug,FCO,13:55,22 Aug,"Air Serbia, operated by Getjet Airlines For Air Serbia",Direct,CHF92.62,113
+ZRH,FCO,2025-08-22,ZRH,19:05,22 Aug,FCO,20:35,22 Aug,"Swiss, operated by Ita Airways",1 stop,CHF259.81,113
+ZRH,FCO,2025-08-22,ZRH,07:20,22 Aug,FCO,08:50,22 Aug,"ITA Airways, operated by Swiss",Direct,CHF286.04,113
+ZRH,FCO,2025-08-22,ZRH,10:55,22 Aug,FCO,12:25,22 Aug,"Swiss, operated by Ita Airways",Direct,CHF297.18,113
+ZRH,FCO,2025-08-22,ZRH,17:45,22 Aug,FCO,19:20,22 Aug,"ITA Airways, operated by Helvetic Airways For Swiss Int Air Lines",Direct,CHF286.47,113
+ZRH,FCO,2025-08-22,ZRH,15:10,22 Aug,FCO,19:40,22 Aug,Air Serbia,Direct,CHF130.30,113
+ZRH,FCO,2025-08-22,ZRH,18:55,22 Aug,FCO,23:40,22 Aug,"Lufthansa, operated by Swiss",1 stop,CHF138.15,113
+ZRH,FCO,2025-08-22,ZRH,12:45,22 Aug,FCO,14:15,22 Aug,"ITA Airways, operated by Swiss",1 stop,CHF387.22,113
+ZRH,FCO,2025-08-23,ZRH,08:30,23 Aug,FCO,10:05,23 Aug,Easyjet,Cheapest direct,CHF58.21,114
+ZRH,FCO,2025-08-23,ZRH,21:55,23 Aug,FCO,23:30,23 Aug,Easyjet,Direct,CHF58.21,114
+ZRH,FCO,2025-08-23,ZRH,19:05,23 Aug,FCO,20:35,23 Aug,ITA Airways,Direct,CHF99.27,114
+ZRH,FCO,2025-08-23,ZRH,07:20,23 Aug,FCO,08:50,23 Aug,Swiss,Direct,CHF105.36,114
+ZRH,FCO,2025-08-23,ZRH,07:20,23 Aug,FCO,08:50,23 Aug,"ITA Airways, operated by Swiss",Direct,CHF162.27,114
+ZRH,FCO,2025-08-23,ZRH,10:55,23 Aug,FCO,12:25,23 Aug,ITA Airways,Direct,CHF185.51,114
+ZRH,FCO,2025-08-23,ZRH,17:45,23 Aug,FCO,19:20,23 Aug,Swiss,Direct,CHF187.47,114
+ZRH,FCO,2025-08-23,ZRH,19:05,23 Aug,FCO,20:35,23 Aug,"Swiss, operated by Ita Airways",Direct,CHF199.28,114
+ZRH,FCO,2025-08-23,ZRH,12:45,23 Aug,FCO,14:15,23 Aug,Swiss,Direct,CHF234.55,114
+ZRH,FCO,2025-08-23,ZRH,17:45,23 Aug,FCO,19:20,23 Aug,"ITA Airways, operated by Swiss",Direct,CHF286.11,114
+ZRH,FCO,2025-08-23,ZRH,10:55,23 Aug,FCO,12:25,23 Aug,"Swiss, operated by Ita Airways",Direct,CHF403.15,114
+ZRH,FCO,2025-08-23,ZRH,14:20,23 Aug,FCO,18:50,23 Aug,"KLM, operated by KLM Cityhopper",Direct,CHF169.99,114
+ZRH,FCO,2025-08-23,ZRH,12:45,23 Aug,FCO,14:15,23 Aug,"ITA Airways, operated by Swiss",1 stop,CHF445.14,114
+ZRH,FCO,2025-08-23,ZRH,07:00,23 Aug,FCO,11:45,23 Aug,KLM,Direct,CHF169.99,114
+ZRH,FCO,2025-08-23,ZRH,17:35,23 Aug,FCO,22:45,23 Aug,KLM,1 stop,CHF169.99,114
+ZRH,FCO,2025-08-25,ZRH,21:55,25 Aug,FCO,23:30,25 Aug,Easyjet,Cheapest direct,CHF58.21,116
+ZRH,FCO,2025-08-25,ZRH,08:30,25 Aug,FCO,10:05,25 Aug,Easyjet,Direct,CHF59.22,116
+ZRH,FCO,2025-08-25,ZRH,10:55,25 Aug,FCO,12:25,25 Aug,ITA Airways,Direct,CHF99.27,116
+ZRH,FCO,2025-08-25,ZRH,19:05,25 Aug,FCO,20:35,25 Aug,ITA Airways,Direct,CHF99.27,116
+ZRH,FCO,2025-08-25,ZRH,17:45,25 Aug,FCO,19:20,25 Aug,"Swiss, operated by Helvetic Airways",Direct,CHF128.27,116
+ZRH,FCO,2025-08-25,ZRH,07:20,25 Aug,FCO,08:50,25 Aug,Swiss,Direct,CHF196.19,116
+ZRH,FCO,2025-08-25,ZRH,10:55,25 Aug,FCO,12:25,25 Aug,"Swiss, operated by Ita Airways",Direct,CHF229.56,116
+ZRH,FCO,2025-08-25,ZRH,19:05,25 Aug,FCO,20:35,25 Aug,"Swiss, operated by Ita Airways",Direct,CHF259.81,116
+ZRH,FCO,2025-08-25,ZRH,17:45,25 Aug,FCO,19:20,25 Aug,"ITA Airways, operated by Helvetic Airways For Swiss Int Air Lines",Direct,CHF249.51,116
+ZRH,FCO,2025-08-25,ZRH,12:45,25 Aug,FCO,14:15,25 Aug,Swiss,Direct,CHF279.96,116
+ZRH,FCO,2025-08-25,ZRH,08:30,25 Aug,FCO,12:20,25 Aug,"Easyjet, ITA Airways",Direct,CHF139.87,116
+ZRH,FCO,2025-08-25,ZRH,08:15,25 Aug,FCO,12:30,25 Aug,Lufthansa,1 stop,CHF138.15,116
+ZRH,FCO,2025-08-25,ZRH,16:55,25 Aug,FCO,21:55,25 Aug,"Lufthansa, operated by Swiss",1 stop,CHF130.58,116
+ZRH,FCO,2025-08-25,ZRH,18:55,25 Aug,FCO,23:40,25 Aug,"Lufthansa, operated by Swiss",1 stop,CHF138.15,116
+ZRH,FCO,2025-08-25,ZRH,07:15,25 Aug,FCO,11:35,25 Aug,"Lufthansa, operated by Helvetic Airways For Swiss",1 stop,CHF164.91,116
+ZRH,FCO,2025-08-26,ZRH,08:30,26 Aug,FCO,10:05,26 Aug,Easyjet,Cheapest direct,CHF58.21,117
+ZRH,FCO,2025-08-26,ZRH,21:55,26 Aug,FCO,23:30,26 Aug,Easyjet,Direct,CHF58.21,117
+ZRH,FCO,2025-08-26,ZRH,19:05,26 Aug,FCO,20:35,26 Aug,ITA Airways,Direct,CHF99.27,117
+ZRH,FCO,2025-08-26,ZRH,07:20,26 Aug,FCO,08:50,26 Aug,Swiss,Direct,CHF105.36,117
+ZRH,FCO,2025-08-26,ZRH,10:55,26 Aug,FCO,12:25,26 Aug,ITA Airways,Direct,CHF127.92,117
+ZRH,FCO,2025-08-26,ZRH,17:45,26 Aug,FCO,19:20,26 Aug,"Swiss, operated by Helvetic Airways",Direct,CHF129.32,117
+ZRH,FCO,2025-08-26,ZRH,07:20,26 Aug,FCO,08:50,26 Aug,"ITA Airways, operated by Swiss",Direct,CHF162.27,117
+ZRH,FCO,2025-08-26,ZRH,12:45,26 Aug,FCO,14:15,26 Aug,Swiss,Direct,CHF165.92,117
+ZRH,FCO,2025-08-26,ZRH,19:05,26 Aug,FCO,20:35,26 Aug,"Swiss, operated by Ita Airways",Direct,CHF229.56,117
+ZRH,FCO,2025-08-26,ZRH,10:55,26 Aug,FCO,12:25,26 Aug,"Swiss, operated by Ita Airways",Direct,CHF259.81,117
+ZRH,FCO,2025-08-26,ZRH,17:45,26 Aug,FCO,19:20,26 Aug,"ITA Airways, operated by Helvetic Airways For Swiss Int Air Lines",Direct,CHF249.51,117
+ZRH,FCO,2025-08-26,ZRH,12:45,26 Aug,FCO,14:15,26 Aug,"ITA Airways, operated by Swiss",Direct,CHF286.04,117
+ZRH,FCO,2025-08-26,ZRH,08:15,26 Aug,FCO,12:30,26 Aug,Lufthansa,Direct,CHF138.15,117
+ZRH,FCO,2025-08-26,ZRH,18:55,26 Aug,FCO,23:15,26 Aug,"Lufthansa, operated by Swiss",1 stop,CHF138.15,117
+ZRH,FCO,2025-08-26,ZRH,13:15,26 Aug,FCO,18:05,26 Aug,"Lufthansa, operated by Helvetic Airways For Swiss",1 stop,CHF130.59,117
+ZRH,FCO,2025-08-27,ZRH,21:55,27 Aug,FCO,23:30,27 Aug,Easyjet,Direct,CHF58.21,118
+ZRH,FCO,2025-08-27,ZRH,08:30,27 Aug,FCO,10:05,27 Aug,Easyjet,Cheapest direct,CHF58.21,118
+ZRH,FCO,2025-08-27,ZRH,10:55,27 Aug,FCO,12:25,27 Aug,ITA Airways,Direct,CHF99.27,118
+ZRH,FCO,2025-08-27,ZRH,07:20,27 Aug,FCO,08:50,27 Aug,"Swiss, operated by Helvetic Airways",Direct,CHF105.36,118
+ZRH,FCO,2025-08-27,ZRH,17:45,27 Aug,FCO,19:20,27 Aug,Swiss,Direct,CHF105.36,118
+ZRH,FCO,2025-08-27,ZRH,19:05,27 Aug,FCO,20:35,27 Aug,ITA Airways,Direct,CHF127.92,118
+ZRH,FCO,2025-08-27,ZRH,10:55,27 Aug,FCO,12:25,27 Aug,"Swiss, operated by Ita Airways",Direct,CHF168.97,118
+ZRH,FCO,2025-08-27,ZRH,17:45,27 Aug,FCO,19:20,27 Aug,"ITA Airways, operated by Swiss",Direct,CHF162.31,118
+ZRH,FCO,2025-08-27,ZRH,12:45,27 Aug,FCO,14:15,27 Aug,"Swiss, operated by Air Baltic Corporation",Direct,CHF196.19,118
+ZRH,FCO,2025-08-27,ZRH,07:20,27 Aug,FCO,08:50,27 Aug,"ITA Airways, operated by Helvetic Airways For Swiss Int Air Lines",Direct,CHF220.72,118
+ZRH,FCO,2025-08-27,ZRH,19:05,27 Aug,FCO,20:35,27 Aug,"Swiss, operated by Ita Airways",Direct,CHF229.56,118
+ZRH,FCO,2025-08-27,ZRH,12:45,27 Aug,FCO,14:15,27 Aug,"ITA Airways, operated by Air Baltic For Swiss Int Air Lines",Direct,CHF286.40,118
+ZRH,FCO,2025-08-27,ZRH,14:35,27 Aug,FCO,19:40,27 Aug,Air Serbia,Direct,CHF115.33,118
+ZRH,FCO,2025-08-27,ZRH,18:55,27 Aug,FCO,23:15,27 Aug,"Lufthansa, operated by Swiss",1 stop,CHF138.15,118
+ZRH,FCO,2025-08-27,ZRH,16:55,27 Aug,FCO,21:55,27 Aug,"Lufthansa, operated by Swiss",1 stop,CHF130.58,118
+ZRH,FCO,2025-08-28,ZRH,21:55,28 Aug,FCO,23:30,28 Aug,Easyjet,Cheapest direct,CHF58.21,119
+ZRH,FCO,2025-08-28,ZRH,08:30,28 Aug,FCO,10:05,28 Aug,Easyjet,Direct,CHF60.23,119
+ZRH,FCO,2025-08-28,ZRH,07:20,28 Aug,FCO,08:50,28 Aug,Swiss,Direct,CHF105.36,119
+ZRH,FCO,2025-08-28,ZRH,17:45,28 Aug,FCO,19:20,28 Aug,Swiss,Direct,CHF105.36,119
+ZRH,FCO,2025-08-28,ZRH,10:55,28 Aug,FCO,12:25,28 Aug,ITA Airways,Direct,CHF127.92,119
+ZRH,FCO,2025-08-28,ZRH,19:05,28 Aug,FCO,20:35,28 Aug,ITA Airways,Direct,CHF127.92,119
+ZRH,FCO,2025-08-28,ZRH,07:20,28 Aug,FCO,08:50,28 Aug,"ITA Airways, operated by Swiss",Direct,CHF162.27,119
+ZRH,FCO,2025-08-28,ZRH,17:45,28 Aug,FCO,19:20,28 Aug,"ITA Airways, operated by Swiss",Direct,CHF162.31,119
+ZRH,FCO,2025-08-28,ZRH,12:45,28 Aug,FCO,14:15,28 Aug,Swiss,Direct,CHF192.11,119
+ZRH,FCO,2025-08-28,ZRH,19:05,28 Aug,FCO,20:35,28 Aug,"Swiss, operated by Ita Airways",Direct,CHF229.56,119
+ZRH,FCO,2025-08-28,ZRH,10:55,28 Aug,FCO,12:25,28 Aug,"Swiss, operated by Ita Airways",Direct,CHF259.81,119
+ZRH,FCO,2025-08-28,ZRH,12:45,28 Aug,FCO,14:15,28 Aug,"ITA Airways, operated by Swiss",Direct,CHF286.04,119
+ZRH,FCO,2025-08-28,ZRH,18:55,28 Aug,FCO,23:10,28 Aug,"Lufthansa, operated by Swiss",Direct,CHF138.15,119
+ZRH,FCO,2025-08-28,ZRH,16:55,28 Aug,FCO,21:55,28 Aug,"Lufthansa, operated by Helvetic Airways For Swiss",1 stop,CHF130.58,119
+ZRH,FCO,2025-08-28,ZRH,12:55,28 Aug,FCO,17:05,28 Aug,"Brussels Airlines, operated by Helvetic Airways For Swiss",1 stop,CHF155.18,119
+ZRH,FCO,2025-08-29,ZRH,21:55,29 Aug,FCO,23:30,29 Aug,Easyjet,Cheapest direct,CHF58.21,120
+ZRH,FCO,2025-08-29,ZRH,08:30,29 Aug,FCO,10:05,29 Aug,Easyjet,Direct,CHF59.22,120
+ZRH,FCO,2025-08-29,ZRH,07:20,29 Aug,FCO,08:50,29 Aug,Swiss,Direct,CHF105.36,120
+ZRH,FCO,2025-08-29,ZRH,10:55,29 Aug,FCO,12:25,29 Aug,ITA Airways,Direct,CHF156.99,120
+ZRH,FCO,2025-08-29,ZRH,17:45,29 Aug,FCO,19:20,29 Aug,Swiss,Direct,CHF165.92,120
+ZRH,FCO,2025-08-29,ZRH,19:05,29 Aug,FCO,20:35,29 Aug,ITA Airways,Direct,CHF185.51,120
+ZRH,FCO,2025-08-29,ZRH,07:20,29 Aug,FCO,08:50,29 Aug,"ITA Airways, operated by Swiss",Direct,CHF219.15,120
+ZRH,FCO,2025-08-29,ZRH,09:30,29 Aug,FCO,13:55,29 Aug,"Air Serbia, operated by Getjet Airlines For Air Serbia",Direct,CHF92.62,120
+ZRH,FCO,2025-08-29,ZRH,12:45,29 Aug,FCO,14:15,29 Aug,Swiss,1 stop,CHF234.55,120
+ZRH,FCO,2025-08-29,ZRH,19:05,29 Aug,FCO,20:35,29 Aug,"Swiss, operated by Ita Airways",Direct,CHF297.18,120
+ZRH,FCO,2025-08-29,ZRH,17:45,29 Aug,FCO,19:20,29 Aug,"ITA Airways, operated by Swiss",Direct,CHF286.11,120
+ZRH,FCO,2025-08-29,ZRH,10:55,29 Aug,FCO,12:25,29 Aug,"Swiss, operated by Ita Airways",Direct,CHF342.59,120
+ZRH,FCO,2025-08-29,ZRH,18:55,29 Aug,FCO,23:40,29 Aug,"Lufthansa, operated by Swiss",Direct,CHF138.15,120
+ZRH,FCO,2025-08-29,ZRH,10:30,29 Aug,FCO,14:20,29 Aug,"Easyjet, Aeroitalia",1 stop,CHF185.20,120
+ZRH,FCO,2025-08-29,ZRH,14:20,29 Aug,FCO,18:50,29 Aug,"KLM, operated by KLM Cityhopper",1 stop,CHF169.99,120
+ZRH,FCO,2025-08-30,ZRH,08:30,30 Aug,FCO,10:05,30 Aug,Easyjet,Cheapest direct,CHF58.21,121
+ZRH,FCO,2025-08-30,ZRH,19:05,30 Aug,FCO,20:35,30 Aug,ITA Airways,Direct,CHF99.27,121
+ZRH,FCO,2025-08-30,ZRH,21:55,30 Aug,FCO,23:30,30 Aug,Easyjet,Direct,CHF58.21,121
+ZRH,FCO,2025-08-30,ZRH,07:20,30 Aug,FCO,08:50,30 Aug,Swiss,Direct,CHF130.46,121
+ZRH,FCO,2025-08-30,ZRH,17:45,30 Aug,FCO,19:20,30 Aug,Swiss,Direct,CHF159.72,121
+ZRH,FCO,2025-08-30,ZRH,10:55,30 Aug,FCO,12:25,30 Aug,ITA Airways,Direct,CHF185.51,121
+ZRH,FCO,2025-08-30,ZRH,19:05,30 Aug,FCO,20:35,30 Aug,"Swiss, operated by Ita Airways",Direct,CHF199.28,121
+ZRH,FCO,2025-08-30,ZRH,07:20,30 Aug,FCO,08:50,30 Aug,"ITA Airways, operated by Swiss",Direct,CHF219.15,121
+ZRH,FCO,2025-08-30,ZRH,12:45,30 Aug,FCO,14:15,30 Aug,"Swiss, operated by Air Baltic Corporation",Direct,CHF261.96,121
+ZRH,FCO,2025-08-30,ZRH,17:45,30 Aug,FCO,19:20,30 Aug,"ITA Airways, operated by Swiss",Direct,CHF286.11,121
+ZRH,FCO,2025-08-30,ZRH,10:55,30 Aug,FCO,12:25,30 Aug,"Swiss, operated by Ita Airways",Direct,CHF342.59,121
+ZRH,FCO,2025-08-30,ZRH,16:55,30 Aug,FCO,21:55,30 Aug,"Lufthansa, operated by Helvetic Airways For Swiss",Direct,CHF152.04,121
+ZRH,FCO,2025-08-30,ZRH,12:45,30 Aug,FCO,14:15,30 Aug,"ITA Airways, operated by Air Baltic For Swiss Int Air Lines",1 stop,CHF440.20,121
+ZRH,FCO,2025-08-30,ZRH,17:35,30 Aug,FCO,22:45,30 Aug,KLM,Direct,CHF169.99,121
+ZRH,FCO,2025-08-30,ZRH,17:00,30 Aug,FCO,20:35,30 Aug,Swiss,1 stop,CHF227.35,121
+ZRH,FCO,2025-08-31,ZRH,08:30,31 Aug,FCO,10:05,31 Aug,Easyjet,Cheapest direct,CHF58.21,122
+ZRH,FCO,2025-08-31,ZRH,21:55,31 Aug,FCO,23:30,31 Aug,Easyjet,Direct,CHF58.21,122
+ZRH,FCO,2025-08-31,ZRH,19:05,31 Aug,FCO,20:35,31 Aug,ITA Airways,Direct,CHF127.86,122
+ZRH,FCO,2025-08-31,ZRH,10:55,31 Aug,FCO,12:25,31 Aug,ITA Airways,Direct,CHF156.93,122
+ZRH,FCO,2025-08-31,ZRH,17:45,31 Aug,FCO,19:20,31 Aug,"Swiss, operated by Helvetic Airways",Direct,CHF188.45,122
+ZRH,FCO,2025-08-31,ZRH,12:45,31 Aug,FCO,14:15,31 Aug,Swiss,Direct,CHF225.09,122
+ZRH,FCO,2025-08-31,ZRH,07:20,31 Aug,FCO,08:50,31 Aug,"Swiss, operated by Helvetic Airways",Direct,CHF234.55,122
+ZRH,FCO,2025-08-31,ZRH,10:55,31 Aug,FCO,12:25,31 Aug,"Swiss, operated by Ita Airways",Direct,CHF259.81,122
+ZRH,FCO,2025-08-31,ZRH,19:05,31 Aug,FCO,20:35,31 Aug,"Swiss, operated by Ita Airways",Direct,CHF259.81,122
+ZRH,FCO,2025-08-31,ZRH,09:30,31 Aug,FCO,13:55,31 Aug,"Air Serbia, operated by Bulgaria Air For Air Serbia",Direct,CHF115.33,122
+ZRH,FCO,2025-08-31,ZRH,17:45,31 Aug,FCO,19:20,31 Aug,"ITA Airways, operated by Helvetic Airways For Swiss Int Air Lines",1 stop,CHF286.34,122
+ZRH,FCO,2025-08-31,ZRH,14:35,31 Aug,FCO,19:40,31 Aug,Air Serbia,Direct,CHF115.33,122
+ZRH,FCO,2025-08-31,ZRH,07:15,31 Aug,FCO,11:35,31 Aug,"Lufthansa, operated by Edelweiss Air For Swiss",1 stop,CHF130.58,122
+ZRH,FCO,2025-08-31,ZRH,18:55,31 Aug,FCO,23:10,31 Aug,"Lufthansa, operated by Swiss",1 stop,CHF138.15,122
+ZRH,FCO,2025-08-31,ZRH,12:45,31 Aug,FCO,14:15,31 Aug,"ITA Airways, operated by Swiss",1 stop,CHF387.28,122

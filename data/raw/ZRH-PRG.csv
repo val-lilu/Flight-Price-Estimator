@@ -1,0 +1,1306 @@
+origin,destination,date_queried,departure_airport,departure_time,departure_date,arrival_airport,arrival_time,arrival_date,airline,number_of_stops,price,days_until_flight
+ZRH,PRG,2025-06-01,ZRH,07:50,1 Jun,PRG,09:05,1 Jun,"Swiss, operated by Air Baltic Corporation",Cheapest direct,$328.64,31
+ZRH,PRG,2025-06-01,ZRH,22:05,1 Jun,PRG,23:20,1 Jun,Swiss,Direct,$328.64,31
+ZRH,PRG,2025-06-01,ZRH,12:45,1 Jun,PRG,14:05,1 Jun,Swiss,Direct,$328.64,31
+ZRH,PRG,2025-06-01,ZRH,17:05,1 Jun,PRG,18:25,1 Jun,"Swiss, operated by Air Baltic Corporation",Direct,$328.64,31
+ZRH,PRG,2025-06-01,ZRH,17:35,1 Jun,PRG,22:35,1 Jun,KLM,Direct,$171.92,31
+ZRH,PRG,2025-06-01,ZRH,13:20,1 Jun,PRG,16:05,1 Jun,Austrian Airlines,1 stop,$379.50,31
+ZRH,PRG,2025-06-01,ZRH,15:40,1 Jun,PRG,20:20,1 Jun,Eurowings,1 stop,$255.96,31
+ZRH,PRG,2025-06-01,ZRH,08:00,1 Jun,PRG,15:50,1 Jun,Condor,1 stop,$182.93,31
+ZRH,PRG,2025-06-01,ZRH,18:45,1 Jun,PRG,21:50,1 Jun,Austrian Airlines,1 stop,$379.50,31
+ZRH,PRG,2025-06-01,ZRH,14:40,1 Jun,PRG,17:50,1 Jun,"Lufthansa, operated by City Jet",1 stop,$382.50,31
+ZRH,PRG,2025-06-01,ZRH,07:20,1 Jun,PRG,10:35,1 Jun,"Austrian Airlines, operated by Swiss",1 stop,$379.61,31
+ZRH,PRG,2025-06-01,ZRH,20:00,1 Jun,PRG,23:15,1 Jun,Lufthansa,1 stop,$382.50,31
+ZRH,PRG,2025-06-01,ZRH,18:00,1 Jun,PRG,22:15,1 Jun,"Swiss, Eurowings, operated by Eurowings Europe Ltd",1 stop,$323.62,31
+ZRH,PRG,2025-06-01,ZRH,12:25,1 Jun,PRG,16:05,1 Jun,"Austrian Airlines, operated by Swiss",1 stop,$379.61,31
+ZRH,PRG,2025-06-01,ZRH,14:35,1 Jun,PRG,20:05,1 Jun,Air Serbia,1 stop,$293.74,31
+ZRH,PRG,2025-06-02,ZRH,07:50,2 Jun,PRG,09:05,2 Jun,"Swiss, operated by Air Baltic Corporation",Cheapest direct,CHF274.92,32
+ZRH,PRG,2025-06-02,ZRH,22:05,2 Jun,PRG,23:20,2 Jun,Swiss,Direct,CHF274.92,32
+ZRH,PRG,2025-06-02,ZRH,17:05,2 Jun,PRG,18:25,2 Jun,Swiss,Direct,CHF274.92,32
+ZRH,PRG,2025-06-02,ZRH,12:35,2 Jun,PRG,14:00,2 Jun,Swiss,Direct,CHF274.92,32
+ZRH,PRG,2025-06-02,ZRH,17:35,2 Jun,PRG,22:35,2 Jun,KLM,Direct,CHF111.36,32
+ZRH,PRG,2025-06-02,ZRH,15:40,2 Jun,PRG,20:05,2 Jun,Eurowings,1 stop,CHF154.58,32
+ZRH,PRG,2025-06-02,ZRH,14:35,2 Jun,PRG,20:05,2 Jun,"Air Serbia, operated by Getjet Airlines For Air Serbia",1 stop,CHF145.56,32
+ZRH,PRG,2025-06-02,ZRH,10:00,2 Jun,PRG,16:20,2 Jun,"Easyjet, Wizz Air UK",1 stop,CHF132.73,32
+ZRH,PRG,2025-06-02,ZRH,08:30,2 Jun,PRG,14:20,2 Jun,Easyjet,1 stop,CHF144.16,32
+ZRH,PRG,2025-06-02,ZRH,10:00,2 Jun,PRG,15:30,2 Jun,Easyjet,1 stop,CHF179.70,32
+ZRH,PRG,2025-06-02,ZRH,10:25,2 Jun,PRG,20:05,2 Jun,"Easyjet, Wizz Air UK",1 stop,CHF117.81,32
+ZRH,PRG,2025-06-02,ZRH,13:20,2 Jun,PRG,16:05,2 Jun,Austrian Airlines,1 stop,CHF317.22,32
+ZRH,PRG,2025-06-02,ZRH,08:00,2 Jun,PRG,15:50,2 Jun,Condor,1 stop,CHF145.96,32
+ZRH,PRG,2025-06-02,ZRH,18:45,2 Jun,PRG,21:50,2 Jun,Austrian Airlines,1 stop,CHF317.22,32
+ZRH,PRG,2025-06-02,ZRH,09:10,2 Jun,PRG,12:30,2 Jun,"Swiss, Easyjet",1 stop,CHF301.57,32
+ZRH,PRG,2025-06-03,ZRH,07:50,3 Jun,PRG,09:05,3 Jun,"Swiss, operated by Air Baltic Corporation",Cheapest direct,CHF274.92,33
+ZRH,PRG,2025-06-03,ZRH,10:25,3 Jun,PRG,09:00,4 Jun,"Easyjet, Wizz Air UK",Direct,CHF87.88,33
+ZRH,PRG,2025-06-03,ZRH,22:05,3 Jun,PRG,23:20,3 Jun,Swiss,1 stop,CHF274.92,33
+ZRH,PRG,2025-06-03,ZRH,12:45,3 Jun,PRG,14:05,3 Jun,Swiss,Direct,CHF274.92,33
+ZRH,PRG,2025-06-03,ZRH,17:05,3 Jun,PRG,18:25,3 Jun,"Swiss, operated by Air Baltic Corporation",Direct,CHF274.92,33
+ZRH,PRG,2025-06-03,ZRH,18:10,3 Jun,PRG,23:50,3 Jun,"Condor, SmartWings",Direct,CHF100.23,33
+ZRH,PRG,2025-06-03,ZRH,17:35,3 Jun,PRG,22:35,3 Jun,KLM,1 stop,CHF112.27,33
+ZRH,PRG,2025-06-03,ZRH,10:25,3 Jun,PRG,20:05,3 Jun,"Easyjet, Wizz Air UK",1 stop,CHF94.23,33
+ZRH,PRG,2025-06-03,ZRH,14:20,3 Jun,PRG,22:35,3 Jun,"KLM, operated by KLM Cityhopper",1 stop,CHF111.36,33
+ZRH,PRG,2025-06-03,ZRH,14:50,3 Jun,PRG,21:45,3 Jun,Air France,1 stop,CHF128.07,33
+ZRH,PRG,2025-06-03,ZRH,15:40,3 Jun,PRG,22:15,3 Jun,Eurowings,1 stop,CHF135.62,33
+ZRH,PRG,2025-06-03,ZRH,21:55,3 Jun,PRG,08:35,4 Jun,"Easyjet, Wizz Air Malta",1 stop,CHF95.69,33
+ZRH,PRG,2025-06-03,ZRH,17:55,3 Jun,PRG,22:15,3 Jun,"Swiss, Eurowings, operated by Eurowings Europe Ltd",1 stop,CHF193.14,33
+ZRH,PRG,2025-06-03,ZRH,08:30,3 Jun,PRG,14:40,3 Jun,"Easyjet, Eurowings, operated by Eurowings Europe Ltd",1 stop,CHF152.98,33
+ZRH,PRG,2025-06-03,ZRH,08:00,3 Jun,PRG,15:50,3 Jun,Condor,1 stop,CHF137.42,33
+ZRH,PRG,2025-06-04,ZRH,07:50,4 Jun,PRG,09:05,4 Jun,"Swiss, operated by Air Baltic Corporation",Cheapest direct,CHF274.92,34
+ZRH,PRG,2025-06-04,ZRH,22:05,4 Jun,PRG,23:20,4 Jun,Swiss,Direct,CHF274.92,34
+ZRH,PRG,2025-06-04,ZRH,12:45,4 Jun,PRG,14:05,4 Jun,Swiss,Direct,CHF274.92,34
+ZRH,PRG,2025-06-04,ZRH,17:05,4 Jun,PRG,18:25,4 Jun,Swiss,Direct,CHF274.92,34
+ZRH,PRG,2025-06-04,ZRH,17:35,4 Jun,PRG,22:35,4 Jun,KLM,Direct,CHF112.27,34
+ZRH,PRG,2025-06-04,ZRH,14:35,4 Jun,PRG,20:05,4 Jun,Air Serbia,1 stop,CHF110.76,34
+ZRH,PRG,2025-06-04,ZRH,10:25,4 Jun,PRG,17:50,4 Jun,"Easyjet, Wizz Air UK",1 stop,CHF93.66,34
+ZRH,PRG,2025-06-04,ZRH,11:50,4 Jun,PRG,17:40,4 Jun,KLM,1 stop,CHF112.27,34
+ZRH,PRG,2025-06-04,ZRH,14:20,4 Jun,PRG,20:45,4 Jun,"KLM, operated by KLM Cityhopper",1 stop,CHF111.36,34
+ZRH,PRG,2025-06-04,ZRH,14:50,4 Jun,PRG,19:35,4 Jun,Air France,1 stop,CHF169.81,34
+ZRH,PRG,2025-06-04,ZRH,14:20,4 Jun,PRG,22:35,4 Jun,"KLM, operated by KLM Cityhopper",1 stop,CHF112.27,34
+ZRH,PRG,2025-06-04,ZRH,09:20,4 Jun,PRG,17:40,4 Jun,KLM,1 stop,CHF112.27,34
+ZRH,PRG,2025-06-04,ZRH,09:20,4 Jun,PRG,13:45,4 Jun,KLM,1 stop,CHF182.18,34
+ZRH,PRG,2025-06-04,ZRH,21:55,4 Jun,PRG,08:35,5 Jun,"Easyjet, Wizz Air Malta",1 stop,CHF94.20,34
+ZRH,PRG,2025-06-04,ZRH,20:40,4 Jun,PRG,08:30,5 Jun,"Air Serbia, operated by Bulgaria Air For Air Serbia",1 stop,CHF88.05,34
+ZRH,PRG,2025-06-05,ZRH,07:50,5 Jun,PRG,09:05,5 Jun,"Swiss, operated by Air Baltic Corporation",Cheapest direct,CHF274.92,35
+ZRH,PRG,2025-06-05,ZRH,22:05,5 Jun,PRG,23:20,5 Jun,Swiss,Direct,CHF274.92,35
+ZRH,PRG,2025-06-05,ZRH,12:45,5 Jun,PRG,14:05,5 Jun,Swiss,Direct,CHF274.92,35
+ZRH,PRG,2025-06-05,ZRH,17:05,5 Jun,PRG,18:25,5 Jun,"Swiss, operated by Air Baltic Corporation",Direct,CHF274.92,35
+ZRH,PRG,2025-06-05,ZRH,14:50,5 Jun,PRG,19:35,5 Jun,Air France,Direct,CHF163.18,35
+ZRH,PRG,2025-06-05,ZRH,08:00,5 Jun,PRG,15:50,5 Jun,Condor,1 stop,CHF137.42,35
+ZRH,PRG,2025-06-05,ZRH,17:35,5 Jun,PRG,22:35,5 Jun,KLM,1 stop,CHF197.34,35
+ZRH,PRG,2025-06-05,ZRH,14:50,5 Jun,PRG,21:45,5 Jun,Air France,1 stop,CHF163.18,35
+ZRH,PRG,2025-06-05,ZRH,18:45,5 Jun,PRG,21:50,5 Jun,Austrian Airlines,1 stop,CHF317.22,35
+ZRH,PRG,2025-06-05,ZRH,21:55,5 Jun,PRG,08:35,6 Jun,"Easyjet, Wizz Air Malta",1 stop,CHF126.69,35
+ZRH,PRG,2025-06-05,ZRH,12:45,5 Jun,PRG,16:25,5 Jun,"Swiss, operated by Helvetic Airways, Eurowings, operated by Eurowings Europe Ltd",1 stop,CHF284.92,35
+ZRH,PRG,2025-06-05,ZRH,14:40,5 Jun,PRG,17:55,5 Jun,"Lufthansa, operated by City Jet",1 stop,CHF319.79,35
+ZRH,PRG,2025-06-05,ZRH,20:00,5 Jun,PRG,23:15,5 Jun,Lufthansa,1 stop,CHF319.79,35
+ZRH,PRG,2025-06-05,ZRH,13:20,5 Jun,PRG,16:05,5 Jun,Austrian Airlines,1 stop,CHF367.51,35
+ZRH,PRG,2025-06-05,ZRH,11:50,5 Jun,PRG,20:45,5 Jun,KLM,1 stop,CHF153.70,35
+ZRH,PRG,2025-06-06,ZRH,07:50,6 Jun,PRG,09:05,6 Jun,"Swiss, operated by Air Baltic Corporation",Cheapest direct,CHF274.92,36
+ZRH,PRG,2025-06-06,ZRH,21:35,6 Jun,PRG,20:05,7 Jun,"Easyjet, Wizz Air UK",Direct,CHF135.06,36
+ZRH,PRG,2025-06-06,ZRH,22:05,6 Jun,PRG,23:20,6 Jun,Swiss,1 stop,CHF274.92,36
+ZRH,PRG,2025-06-06,ZRH,12:45,6 Jun,PRG,14:05,6 Jun,Swiss,Direct,CHF274.92,36
+ZRH,PRG,2025-06-06,ZRH,17:05,6 Jun,PRG,18:25,6 Jun,"Swiss, operated by Air Baltic Corporation",Direct,CHF274.92,36
+ZRH,PRG,2025-06-06,ZRH,17:05,6 Jun,PRG,21:00,6 Jun,"Swiss, operated by Helvetic Airways, Eurowings, operated by Eurowings Europe Ltd",Direct,CHF233.62,36
+ZRH,PRG,2025-06-06,ZRH,07:20,6 Jun,PRG,10:35,6 Jun,"Austrian Airlines, operated by Swiss",1 stop,CHF317.23,36
+ZRH,PRG,2025-06-06,ZRH,20:00,6 Jun,PRG,23:15,6 Jun,Lufthansa,1 stop,CHF319.79,36
+ZRH,PRG,2025-06-06,ZRH,13:15,6 Jun,PRG,16:05,6 Jun,"Lufthansa, operated by Helvetic Airways For Swiss",1 stop,CHF385.48,36
+ZRH,PRG,2025-06-06,ZRH,15:40,6 Jun,PRG,21:00,6 Jun,"Eurowings, operated by Eurowings Europe Ltd",1 stop,CHF244.74,36
+ZRH,PRG,2025-06-06,ZRH,13:20,6 Jun,PRG,16:05,6 Jun,Austrian Airlines,1 stop,CHF403.01,36
+ZRH,PRG,2025-06-06,ZRH,17:05,6 Jun,PRG,21:00,6 Jun,"Swiss, operated by Helvetic Airways, SmartWings, operated by Eurowings",1 stop,CHF312.15,36
+ZRH,PRG,2025-06-06,ZRH,09:30,6 Jun,PRG,13:20,6 Jun,"Lufthansa, operated by Air Dolomiti",1 stop,CHF319.80,36
+ZRH,PRG,2025-06-06,ZRH,14:50,6 Jun,PRG,19:35,6 Jun,Air France,1 stop,CHF273.28,36
+ZRH,PRG,2025-06-06,ZRH,08:00,6 Jun,PRG,15:50,6 Jun,Condor,1 stop,CHF188.62,36
+ZRH,PRG,2025-06-07,ZRH,07:50,7 Jun,PRG,09:05,7 Jun,"Swiss, operated by Helvetic Airways",Cheapest direct,CHF274.92,37
+ZRH,PRG,2025-06-07,ZRH,19:25,7 Jun,PRG,08:20,8 Jun,"KLM, operated by KLM Cityhopper",Direct,CHF111.36,37
+ZRH,PRG,2025-06-07,ZRH,22:05,7 Jun,PRG,23:20,7 Jun,Swiss,1 stop,CHF274.92,37
+ZRH,PRG,2025-06-07,ZRH,12:45,7 Jun,PRG,14:05,7 Jun,Swiss,Direct,CHF274.92,37
+ZRH,PRG,2025-06-07,ZRH,17:05,7 Jun,PRG,18:25,7 Jun,Swiss,Direct,CHF274.92,37
+ZRH,PRG,2025-06-07,ZRH,17:35,7 Jun,PRG,22:35,7 Jun,KLM,Direct,CHF191.65,37
+ZRH,PRG,2025-06-07,ZRH,14:40,7 Jun,PRG,17:50,7 Jun,Lufthansa,1 stop,CHF319.79,37
+ZRH,PRG,2025-06-07,ZRH,07:20,7 Jun,PRG,10:35,7 Jun,"Austrian Airlines, operated by Swiss",1 stop,CHF317.23,37
+ZRH,PRG,2025-06-07,ZRH,20:00,7 Jun,PRG,23:15,7 Jun,Lufthansa,1 stop,CHF319.79,37
+ZRH,PRG,2025-06-07,ZRH,08:00,7 Jun,PRG,15:50,7 Jun,Condor,1 stop,CHF167.77,37
+ZRH,PRG,2025-06-07,ZRH,21:55,7 Jun,PRG,08:35,8 Jun,"Easyjet, Wizz Air Malta",1 stop,CHF137.43,37
+ZRH,PRG,2025-06-07,ZRH,20:55,7 Jun,PRG,09:00,8 Jun,"Easyjet, Wizz Air UK",1 stop,CHF139.05,37
+ZRH,PRG,2025-06-07,ZRH,06:55,7 Jun,PRG,10:55,7 Jun,"Lufthansa, operated by Helvetic Airways For Swiss",1 stop,CHF319.80,37
+ZRH,PRG,2025-06-07,ZRH,20:55,7 Jun,PRG,09:00,8 Jun,"Swiss, Wizz Air UK",1 stop,CHF143.97,37
+ZRH,PRG,2025-06-07,ZRH,16:55,7 Jun,PRG,21:20,7 Jun,"Lufthansa, operated by Helvetic Airways For Swiss",1 stop,CHF312.24,37
+ZRH,PRG,2025-06-08,ZRH,07:50,8 Jun,PRG,09:05,8 Jun,"Swiss, operated by Air Baltic Corporation",Cheapest direct,CHF274.92,38
+ZRH,PRG,2025-06-08,ZRH,21:55,8 Jun,PRG,21:30,9 Jun,"Easyjet, Wizz Air Malta",Direct,CHF109.21,38
+ZRH,PRG,2025-06-08,ZRH,22:05,8 Jun,PRG,23:20,8 Jun,Swiss,1 stop,CHF274.92,38
+ZRH,PRG,2025-06-08,ZRH,12:45,8 Jun,PRG,14:05,8 Jun,Swiss,Direct,CHF274.92,38
+ZRH,PRG,2025-06-08,ZRH,17:05,8 Jun,PRG,18:25,8 Jun,"Swiss, operated by Air Baltic Corporation",Direct,CHF274.92,38
+ZRH,PRG,2025-06-08,ZRH,17:35,8 Jun,PRG,22:35,8 Jun,KLM,Direct,CHF112.27,38
+ZRH,PRG,2025-06-08,ZRH,14:50,8 Jun,PRG,19:35,8 Jun,Air France,1 stop,CHF159.38,38
+ZRH,PRG,2025-06-08,ZRH,14:20,8 Jun,PRG,20:45,8 Jun,"KLM, operated by KLM Cityhopper",1 stop,CHF135.67,38
+ZRH,PRG,2025-06-08,ZRH,15:40,8 Jun,PRG,20:30,8 Jun,Eurowings,1 stop,CHF183.06,38
+ZRH,PRG,2025-06-08,ZRH,14:20,8 Jun,PRG,22:35,8 Jun,"KLM, operated by KLM Cityhopper",1 stop,CHF124.38,38
+ZRH,PRG,2025-06-08,ZRH,14:50,8 Jun,PRG,21:45,8 Jun,Air France,1 stop,CHF144.20,38
+ZRH,PRG,2025-06-08,ZRH,08:00,8 Jun,PRG,15:50,8 Jun,Condor,1 stop,CHF137.42,38
+ZRH,PRG,2025-06-08,ZRH,13:20,8 Jun,PRG,16:05,8 Jun,Austrian Airlines,1 stop,CHF317.22,38
+ZRH,PRG,2025-06-08,ZRH,17:05,8 Jun,PRG,20:30,8 Jun,"Swiss, Eurowings",1 stop,CHF270.96,38
+ZRH,PRG,2025-06-08,ZRH,07:20,8 Jun,PRG,10:35,8 Jun,"Austrian Airlines, operated by Helvetic Airways For Swiss",1 stop,CHF292.70,38
+ZRH,PRG,2025-06-09,ZRH,07:50,9 Jun,PRG,09:05,9 Jun,"Swiss, operated by Air Baltic Corporation",Cheapest direct,CHF210.35,39
+ZRH,PRG,2025-06-09,ZRH,21:55,9 Jun,PRG,08:35,10 Jun,"Easyjet, Wizz Air Malta",Direct,CHF94.20,39
+ZRH,PRG,2025-06-09,ZRH,22:05,9 Jun,PRG,23:20,9 Jun,Swiss,1 stop,CHF210.35,39
+ZRH,PRG,2025-06-09,ZRH,17:05,9 Jun,PRG,18:25,9 Jun,"Swiss, operated by Air Baltic Corporation",Direct,CHF210.35,39
+ZRH,PRG,2025-06-09,ZRH,12:35,9 Jun,PRG,14:00,9 Jun,Swiss,Direct,CHF210.35,39
+ZRH,PRG,2025-06-09,ZRH,14:30,9 Jun,PRG,19:00,9 Jun,Eurowings,Direct,CHF124.27,39
+ZRH,PRG,2025-06-09,ZRH,17:35,9 Jun,PRG,22:35,9 Jun,KLM,1 stop,CHF139.46,39
+ZRH,PRG,2025-06-09,ZRH,10:00,9 Jun,PRG,16:20,9 Jun,"Easyjet, Wizz Air UK",1 stop,CHF121.80,39
+ZRH,PRG,2025-06-09,ZRH,09:20,9 Jun,PRG,13:45,9 Jun,"KLM, operated by KLM Cityhopper",1 stop,CHF160.34,39
+ZRH,PRG,2025-06-09,ZRH,14:50,9 Jun,PRG,21:45,9 Jun,Air France,1 stop,CHF128.07,39
+ZRH,PRG,2025-06-09,ZRH,15:40,9 Jun,PRG,20:05,9 Jun,Eurowings,1 stop,CHF183.06,39
+ZRH,PRG,2025-06-09,ZRH,14:50,9 Jun,PRG,19:35,9 Jun,Air France,1 stop,CHF180.27,39
+ZRH,PRG,2025-06-09,ZRH,07:00,9 Jun,PRG,13:45,9 Jun,KLM,1 stop,CHF139.46,39
+ZRH,PRG,2025-06-09,ZRH,14:30,9 Jun,PRG,19:00,9 Jun,"Eurowings, SmartWings, operated by Eurowings",1 stop,CHF189.87,39
+ZRH,PRG,2025-06-09,ZRH,08:30,9 Jun,PRG,14:20,9 Jun,Easyjet,1 stop,CHF158.63,39
+ZRH,PRG,2025-06-10,ZRH,22:05,10 Jun,PRG,23:20,10 Jun,Swiss,Direct,CHF274.92,40
+ZRH,PRG,2025-06-10,ZRH,20:40,10 Jun,PRG,20:05,11 Jun,Air Serbia,1 stop,CHF92.87,40
+ZRH,PRG,2025-06-10,ZRH,07:50,10 Jun,PRG,09:05,10 Jun,"Swiss, operated by Air Baltic Corporation",Cheapest direct,CHF274.92,40
+ZRH,PRG,2025-06-10,ZRH,12:45,10 Jun,PRG,14:05,10 Jun,Swiss,Direct,CHF274.92,40
+ZRH,PRG,2025-06-10,ZRH,17:05,10 Jun,PRG,18:25,10 Jun,Swiss,Direct,CHF274.92,40
+ZRH,PRG,2025-06-10,ZRH,14:50,10 Jun,PRG,19:35,10 Jun,Air France,Direct,CHF140.40,40
+ZRH,PRG,2025-06-10,ZRH,15:40,10 Jun,PRG,20:25,10 Jun,Eurowings,1 stop,CHF164.07,40
+ZRH,PRG,2025-06-10,ZRH,14:50,10 Jun,PRG,21:45,10 Jun,Air France,1 stop,CHF128.07,40
+ZRH,PRG,2025-06-10,ZRH,21:55,10 Jun,PRG,08:35,11 Jun,"Easyjet, Wizz Air Malta",1 stop,CHF94.20,40
+ZRH,PRG,2025-06-10,ZRH,08:30,10 Jun,PRG,14:40,10 Jun,"Easyjet, Eurowings, operated by Eurowings Europe Ltd",1 stop,CHF152.98,40
+ZRH,PRG,2025-06-10,ZRH,18:10,10 Jun,PRG,23:50,10 Jun,"Condor, SmartWings",1 stop,CHF168.31,40
+ZRH,PRG,2025-06-10,ZRH,17:05,10 Jun,PRG,20:25,10 Jun,"Swiss, operated by Helvetic Airways, Eurowings, operated by Eurowings Europe Ltd",1 stop,CHF250.79,40
+ZRH,PRG,2025-06-10,ZRH,08:00,10 Jun,PRG,15:50,10 Jun,Condor,1 stop,CHF137.42,40
+ZRH,PRG,2025-06-10,ZRH,07:00,10 Jun,PRG,13:45,10 Jun,KLM,1 stop,CHF153.70,40
+ZRH,PRG,2025-06-10,ZRH,09:10,10 Jun,PRG,12:45,10 Jun,"Swiss, Easyjet",1 stop,CHF258.34,40
+ZRH,PRG,2025-06-11,ZRH,07:50,11 Jun,PRG,09:05,11 Jun,"Swiss, operated by Air Baltic Corporation",Cheapest direct,CHF274.92,41
+ZRH,PRG,2025-06-11,ZRH,22:05,11 Jun,PRG,23:20,11 Jun,Swiss,Direct,CHF274.92,41
+ZRH,PRG,2025-06-11,ZRH,12:45,11 Jun,PRG,14:05,11 Jun,Swiss,Direct,CHF274.92,41
+ZRH,PRG,2025-06-11,ZRH,17:05,11 Jun,PRG,18:25,11 Jun,Swiss,Direct,CHF274.92,41
+ZRH,PRG,2025-06-11,ZRH,14:35,11 Jun,PRG,20:05,11 Jun,Air Serbia,Direct,CHF88.05,41
+ZRH,PRG,2025-06-11,ZRH,17:35,11 Jun,PRG,22:35,11 Jun,KLM,1 stop,CHF112.26,41
+ZRH,PRG,2025-06-11,ZRH,11:50,11 Jun,PRG,17:40,11 Jun,KLM,1 stop,CHF112.26,41
+ZRH,PRG,2025-06-11,ZRH,09:20,11 Jun,PRG,13:45,11 Jun,KLM,1 stop,CHF139.46,41
+ZRH,PRG,2025-06-11,ZRH,10:25,11 Jun,PRG,17:50,11 Jun,"Easyjet, Wizz Air UK",1 stop,CHF103.43,41
+ZRH,PRG,2025-06-11,ZRH,09:30,11 Jun,PRG,20:05,11 Jun,Air Serbia,1 stop,CHF88.05,41
+ZRH,PRG,2025-06-11,ZRH,15:40,11 Jun,PRG,20:25,11 Jun,"Eurowings, operated by Eurowings Europe Ltd",1 stop,CHF164.07,41
+ZRH,PRG,2025-06-11,ZRH,08:45,11 Jun,PRG,13:40,11 Jun,Eurowings,1 stop,CHF164.07,41
+ZRH,PRG,2025-06-11,ZRH,09:20,11 Jun,PRG,17:40,11 Jun,KLM,1 stop,CHF112.26,41
+ZRH,PRG,2025-06-11,ZRH,14:50,11 Jun,PRG,19:35,11 Jun,Air France,1 stop,CHF174.56,41
+ZRH,PRG,2025-06-11,ZRH,14:20,11 Jun,PRG,20:45,11 Jun,"KLM, operated by KLM Cityhopper",1 stop,CHF139.46,41
+ZRH,PRG,2025-06-12,ZRH,22:05,12 Jun,PRG,23:20,12 Jun,Swiss,Direct,CHF274.92,42
+ZRH,PRG,2025-06-12,ZRH,15:10,12 Jun,PRG,08:45,13 Jun,"Air Serbia, operated by Bulgaria Air For Air Serbia",1 stop,CHF92.87,42
+ZRH,PRG,2025-06-12,ZRH,07:50,12 Jun,PRG,09:05,12 Jun,"Swiss, operated by Air Baltic Corporation",Cheapest direct,CHF274.92,42
+ZRH,PRG,2025-06-12,ZRH,17:05,12 Jun,PRG,18:25,12 Jun,"Swiss, operated by Helvetic Airways",Direct,CHF274.92,42
+ZRH,PRG,2025-06-12,ZRH,12:45,12 Jun,PRG,14:05,12 Jun,Swiss,Direct,CHF350.14,42
+ZRH,PRG,2025-06-12,ZRH,14:50,12 Jun,PRG,19:35,12 Jun,Air France,Direct,CHF128.07,42
+ZRH,PRG,2025-06-12,ZRH,17:35,12 Jun,PRG,22:35,12 Jun,KLM,1 stop,CHF145.16,42
+ZRH,PRG,2025-06-12,ZRH,14:50,12 Jun,PRG,21:45,12 Jun,Air France,1 stop,CHF128.07,42
+ZRH,PRG,2025-06-12,ZRH,14:20,12 Jun,PRG,20:45,12 Jun,"KLM, operated by KLM Cityhopper",1 stop,CHF135.67,42
+ZRH,PRG,2025-06-12,ZRH,14:20,12 Jun,PRG,22:35,12 Jun,"KLM, operated by KLM Cityhopper",1 stop,CHF116.02,42
+ZRH,PRG,2025-06-12,ZRH,11:50,12 Jun,PRG,20:45,12 Jun,KLM,1 stop,CHF112.26,42
+ZRH,PRG,2025-06-12,ZRH,10:25,12 Jun,PRG,20:05,12 Jun,"Easyjet, Wizz Air UK",1 stop,CHF109.18,42
+ZRH,PRG,2025-06-12,ZRH,11:20,12 Jun,PRG,19:35,12 Jun,Air France,1 stop,CHF128.07,42
+ZRH,PRG,2025-06-12,ZRH,07:00,12 Jun,PRG,13:45,12 Jun,KLM,1 stop,CHF149.91,42
+ZRH,PRG,2025-06-12,ZRH,08:00,12 Jun,PRG,15:50,12 Jun,Condor,1 stop,CHF137.42,42
+ZRH,PRG,2025-06-13,ZRH,22:05,13 Jun,PRG,23:20,13 Jun,Swiss,Cheapest direct,CHF274.92,43
+ZRH,PRG,2025-06-13,ZRH,12:45,13 Jun,PRG,14:05,13 Jun,Swiss,Direct,CHF274.92,43
+ZRH,PRG,2025-06-13,ZRH,17:05,13 Jun,PRG,18:25,13 Jun,Swiss,Direct,CHF351.62,43
+ZRH,PRG,2025-06-13,ZRH,07:50,13 Jun,PRG,09:05,13 Jun,"Swiss, operated by Air Baltic Corporation",Direct,CHF401.41,43
+ZRH,PRG,2025-06-13,ZRH,17:35,13 Jun,PRG,22:35,13 Jun,KLM,Direct,CHF139.46,43
+ZRH,PRG,2025-06-13,ZRH,08:00,13 Jun,PRG,15:50,13 Jun,Condor,1 stop,CHF137.42,43
+ZRH,PRG,2025-06-13,ZRH,17:05,13 Jun,PRG,21:00,13 Jun,"Swiss, operated by Helvetic Airways, Eurowings, operated by Eurowings Europe Ltd",1 stop,CHF237.51,43
+ZRH,PRG,2025-06-13,ZRH,15:10,13 Jun,PRG,20:05,13 Jun,Air Serbia,1 stop,CHF200.57,43
+ZRH,PRG,2025-06-13,ZRH,11:40,13 Jun,PRG,19:15,13 Jun,"AJET, Pegasus Airlines",1 stop,CHF147.38,43
+ZRH,PRG,2025-06-13,ZRH,11:35,13 Jun,PRG,19:15,13 Jun,Pegasus Airlines,1 stop,CHF155.68,43
+ZRH,PRG,2025-06-13,ZRH,17:55,13 Jun,PRG,21:50,13 Jun,"Swiss, Eurowings, operated by Eurowings Europe Ltd",1 stop,CHF258.69,43
+ZRH,PRG,2025-06-13,ZRH,09:20,13 Jun,PRG,13:45,13 Jun,"KLM, operated by KLM Cityhopper",1 stop,CHF236.76,43
+ZRH,PRG,2025-06-13,ZRH,14:50,13 Jun,PRG,19:35,13 Jun,Air France,1 stop,CHF226.95,43
+ZRH,PRG,2025-06-13,ZRH,15:40,13 Jun,PRG,21:00,13 Jun,Eurowings,1 stop,CHF216.25,43
+ZRH,PRG,2025-06-13,ZRH,14:40,13 Jun,PRG,17:50,13 Jun,"Lufthansa, operated by City Jet",1 stop,CHF319.79,43
+ZRH,PRG,2025-06-14,ZRH,07:50,14 Jun,PRG,09:05,14 Jun,"Swiss, operated by Air Baltic Corporation",Cheapest direct,CHF274.92,44
+ZRH,PRG,2025-06-14,ZRH,21:55,14 Jun,PRG,08:35,15 Jun,"Easyjet, Wizz Air Malta",Direct,CHF95.69,44
+ZRH,PRG,2025-06-14,ZRH,22:05,14 Jun,PRG,23:20,14 Jun,Swiss,1 stop,CHF274.92,44
+ZRH,PRG,2025-06-14,ZRH,12:45,14 Jun,PRG,14:05,14 Jun,Swiss,Direct,CHF274.92,44
+ZRH,PRG,2025-06-14,ZRH,17:05,14 Jun,PRG,18:25,14 Jun,Swiss,Direct,CHF274.92,44
+ZRH,PRG,2025-06-14,ZRH,17:35,14 Jun,PRG,22:35,14 Jun,KLM,Direct,CHF112.26,44
+ZRH,PRG,2025-06-14,ZRH,14:50,14 Jun,PRG,21:45,14 Jun,"Air France, operated by HOP",1 stop,CHF128.07,44
+ZRH,PRG,2025-06-14,ZRH,14:20,14 Jun,PRG,20:45,14 Jun,"KLM, operated by KLM Cityhopper",1 stop,CHF139.46,44
+ZRH,PRG,2025-06-14,ZRH,08:00,14 Jun,PRG,15:50,14 Jun,Condor,1 stop,CHF137.42,44
+ZRH,PRG,2025-06-14,ZRH,13:20,14 Jun,PRG,16:05,14 Jun,Austrian Airlines,1 stop,CHF317.22,44
+ZRH,PRG,2025-06-14,ZRH,14:20,14 Jun,PRG,22:35,14 Jun,"KLM, operated by KLM Cityhopper",1 stop,CHF139.46,44
+ZRH,PRG,2025-06-14,ZRH,20:55,14 Jun,PRG,09:00,15 Jun,"Swiss, Wizz Air UK",1 stop,CHF107.73,44
+ZRH,PRG,2025-06-14,ZRH,14:50,14 Jun,PRG,18:55,14 Jun,"Air France, operated by HOP",1 stop,CHF251.15,44
+ZRH,PRG,2025-06-14,ZRH,12:05,14 Jun,PRG,20:05,14 Jun,"Swiss, Wizz Air UK",1 stop,CHF152.64,44
+ZRH,PRG,2025-06-14,ZRH,11:20,14 Jun,PRG,21:45,14 Jun,Air France,1 stop,CHF128.07,44
+ZRH,PRG,2025-06-15,ZRH,07:50,15 Jun,PRG,09:05,15 Jun,"Swiss, operated by Air Baltic Corporation",Cheapest direct,CHF210.35,45
+ZRH,PRG,2025-06-15,ZRH,14:35,15 Jun,PRG,08:45,16 Jun,Air Serbia,Direct,CHF88.03,45
+ZRH,PRG,2025-06-15,ZRH,22:05,15 Jun,PRG,23:20,15 Jun,Swiss,1 stop,CHF210.35,45
+ZRH,PRG,2025-06-15,ZRH,12:45,15 Jun,PRG,14:05,15 Jun,Swiss,Direct,CHF210.35,45
+ZRH,PRG,2025-06-15,ZRH,17:05,15 Jun,PRG,18:25,15 Jun,Swiss,Direct,CHF210.35,45
+ZRH,PRG,2025-06-15,ZRH,17:35,15 Jun,PRG,22:35,15 Jun,KLM,Direct,CHF111.32,45
+ZRH,PRG,2025-06-15,ZRH,12:45,15 Jun,PRG,16:20,15 Jun,"Swiss, Eurowings, operated by Eurowings Europe Ltd",1 stop,CHF164.43,45
+ZRH,PRG,2025-06-15,ZRH,14:20,15 Jun,PRG,20:45,15 Jun,"KLM, operated by KLM Cityhopper",1 stop,CHF111.32,45
+ZRH,PRG,2025-06-15,ZRH,15:40,15 Jun,PRG,20:20,15 Jun,"Eurowings, operated by Eurowings Europe Ltd",1 stop,CHF164.07,45
+ZRH,PRG,2025-06-15,ZRH,13:20,15 Jun,PRG,16:05,15 Jun,Austrian Airlines,1 stop,CHF248.61,45
+ZRH,PRG,2025-06-15,ZRH,14:20,15 Jun,PRG,22:35,15 Jun,"KLM, operated by KLM Cityhopper",1 stop,CHF111.32,45
+ZRH,PRG,2025-06-15,ZRH,11:50,15 Jun,PRG,20:45,15 Jun,KLM,1 stop,CHF111.32,45
+ZRH,PRG,2025-06-15,ZRH,12:45,15 Jun,PRG,16:20,15 Jun,"Swiss, SmartWings, operated by Eurowings",1 stop,CHF221.85,45
+ZRH,PRG,2025-06-15,ZRH,18:45,15 Jun,PRG,21:50,15 Jun,Austrian Airlines,1 stop,CHF248.61,45
+ZRH,PRG,2025-06-15,ZRH,14:40,15 Jun,PRG,17:50,15 Jun,"Lufthansa, operated by City Jet",1 stop,CHF251.20,45
+ZRH,PRG,2025-06-16,ZRH,07:50,16 Jun,PRG,09:05,16 Jun,"Swiss, operated by Air Baltic Corporation",Cheapest direct,CHF210.35,46
+ZRH,PRG,2025-06-16,ZRH,22:05,16 Jun,PRG,23:20,16 Jun,Swiss,Direct,CHF210.35,46
+ZRH,PRG,2025-06-16,ZRH,17:05,16 Jun,PRG,18:25,16 Jun,Swiss,Direct,CHF210.35,46
+ZRH,PRG,2025-06-16,ZRH,12:35,16 Jun,PRG,14:00,16 Jun,Swiss,Direct,CHF210.35,46
+ZRH,PRG,2025-06-16,ZRH,17:35,16 Jun,PRG,22:35,16 Jun,KLM,Direct,CHF111.32,46
+ZRH,PRG,2025-06-16,ZRH,10:00,16 Jun,PRG,16:20,16 Jun,"Easyjet, Wizz Air UK",1 stop,CHF103.94,46
+ZRH,PRG,2025-06-16,ZRH,15:40,16 Jun,PRG,20:05,16 Jun,Eurowings,1 stop,CHF164.07,46
+ZRH,PRG,2025-06-16,ZRH,10:00,16 Jun,PRG,15:30,16 Jun,Easyjet,1 stop,CHF139.48,46
+ZRH,PRG,2025-06-16,ZRH,08:30,16 Jun,PRG,14:20,16 Jun,Easyjet,1 stop,CHF137.03,46
+ZRH,PRG,2025-06-16,ZRH,14:35,16 Jun,PRG,20:05,16 Jun,"Air Serbia, operated by Getjet Airlines For Air Serbia",1 stop,CHF145.54,46
+ZRH,PRG,2025-06-16,ZRH,13:20,16 Jun,PRG,16:05,16 Jun,Austrian Airlines,1 stop,CHF248.61,46
+ZRH,PRG,2025-06-16,ZRH,14:20,16 Jun,PRG,22:35,16 Jun,"KLM, operated by KLM Cityhopper",1 stop,CHF111.32,46
+ZRH,PRG,2025-06-16,ZRH,21:55,16 Jun,PRG,08:35,17 Jun,"Easyjet, Wizz Air Malta",1 stop,CHF94.20,46
+ZRH,PRG,2025-06-16,ZRH,18:45,16 Jun,PRG,21:50,16 Jun,Austrian Airlines,1 stop,CHF248.61,46
+ZRH,PRG,2025-06-16,ZRH,10:00,16 Jun,PRG,20:05,16 Jun,"Easyjet, Wizz Air UK",1 stop,CHF103.94,46
+ZRH,PRG,2025-06-17,ZRH,07:50,17 Jun,PRG,09:05,17 Jun,"Swiss, operated by Air Baltic Corporation",Cheapest direct,CHF274.92,47
+ZRH,PRG,2025-06-17,ZRH,22:05,17 Jun,PRG,23:20,17 Jun,Swiss,Direct,CHF274.92,47
+ZRH,PRG,2025-06-17,ZRH,12:45,17 Jun,PRG,14:05,17 Jun,Swiss,Direct,CHF274.92,47
+ZRH,PRG,2025-06-17,ZRH,17:05,17 Jun,PRG,18:25,17 Jun,"Swiss, operated by Air Baltic Corporation",Direct,CHF274.92,47
+ZRH,PRG,2025-06-17,ZRH,17:35,17 Jun,PRG,22:35,17 Jun,KLM,Direct,CHF112.22,47
+ZRH,PRG,2025-06-17,ZRH,09:20,17 Jun,PRG,13:45,17 Jun,KLM,1 stop,CHF124.33,47
+ZRH,PRG,2025-06-17,ZRH,18:10,17 Jun,PRG,23:50,17 Jun,"Condor, SmartWings",1 stop,CHF112.08,47
+ZRH,PRG,2025-06-17,ZRH,11:50,17 Jun,PRG,17:40,17 Jun,KLM,1 stop,CHF124.33,47
+ZRH,PRG,2025-06-17,ZRH,07:00,17 Jun,PRG,13:45,17 Jun,KLM,1 stop,CHF124.33,47
+ZRH,PRG,2025-06-17,ZRH,15:40,17 Jun,PRG,20:25,17 Jun,"Eurowings, operated by Eurowings Europe Ltd",1 stop,CHF164.07,47
+ZRH,PRG,2025-06-17,ZRH,14:20,17 Jun,PRG,22:35,17 Jun,"KLM, operated by KLM Cityhopper",1 stop,CHF111.32,47
+ZRH,PRG,2025-06-17,ZRH,14:50,17 Jun,PRG,19:35,17 Jun,Air France,1 stop,CHF174.56,47
+ZRH,PRG,2025-06-17,ZRH,21:55,17 Jun,PRG,08:35,18 Jun,"Easyjet, Wizz Air Malta",1 stop,CHF95.69,47
+ZRH,PRG,2025-06-17,ZRH,09:35,17 Jun,PRG,19:55,17 Jun,Vueling,1 stop,CHF103.25,47
+ZRH,PRG,2025-06-17,ZRH,09:20,17 Jun,PRG,17:40,17 Jun,KLM,1 stop,CHF124.33,47
+ZRH,PRG,2025-06-18,ZRH,07:50,18 Jun,PRG,09:05,18 Jun,"Swiss, operated by Air Baltic Corporation",Cheapest direct,CHF274.92,48
+ZRH,PRG,2025-06-18,ZRH,22:05,18 Jun,PRG,23:20,18 Jun,Swiss,Direct,CHF274.92,48
+ZRH,PRG,2025-06-18,ZRH,12:45,18 Jun,PRG,14:05,18 Jun,Swiss,Direct,CHF274.92,48
+ZRH,PRG,2025-06-18,ZRH,17:05,18 Jun,PRG,18:25,18 Jun,"Swiss, operated by Air Baltic Corporation",Direct,CHF274.92,48
+ZRH,PRG,2025-06-18,ZRH,17:35,18 Jun,PRG,22:35,18 Jun,KLM,Direct,CHF112.22,48
+ZRH,PRG,2025-06-18,ZRH,14:35,18 Jun,PRG,20:05,18 Jun,Air Serbia,1 stop,CHF110.74,48
+ZRH,PRG,2025-06-18,ZRH,10:25,18 Jun,PRG,17:50,18 Jun,"Easyjet, Wizz Air UK",1 stop,CHF122.92,48
+ZRH,PRG,2025-06-18,ZRH,14:50,18 Jun,PRG,19:35,18 Jun,Air France,1 stop,CHF174.56,48
+ZRH,PRG,2025-06-18,ZRH,20:40,18 Jun,PRG,08:45,19 Jun,"Air Serbia, operated by Bulgaria Air For Air Serbia",1 stop,CHF88.03,48
+ZRH,PRG,2025-06-18,ZRH,10:25,18 Jun,PRG,19:25,18 Jun,Easyjet,1 stop,CHF119.74,48
+ZRH,PRG,2025-06-18,ZRH,08:00,18 Jun,PRG,15:50,18 Jun,Condor,1 stop,CHF138.36,48
+ZRH,PRG,2025-06-18,ZRH,09:30,18 Jun,PRG,20:05,18 Jun,Air Serbia,1 stop,CHF110.74,48
+ZRH,PRG,2025-06-18,ZRH,09:10,18 Jun,PRG,12:35,18 Jun,"Swiss, Easyjet",1 stop,CHF263.41,48
+ZRH,PRG,2025-06-18,ZRH,09:20,18 Jun,PRG,13:45,18 Jun,KLM,1 stop,CHF228.30,48
+ZRH,PRG,2025-06-18,ZRH,15:40,18 Jun,PRG,20:25,18 Jun,"Eurowings, operated by Eurowings Europe Ltd",1 stop,CHF216.25,48
+ZRH,PRG,2025-06-19,ZRH,17:35,19 Jun,PRG,22:35,19 Jun,KLM,1 stop,CHF112.22,49
+ZRH,PRG,2025-06-19,ZRH,21:55,19 Jun,PRG,08:35,20 Jun,"Easyjet, Wizz Air Malta",1 stop,CHF98.76,49
+ZRH,PRG,2025-06-19,ZRH,07:50,19 Jun,PRG,09:05,19 Jun,"Swiss, operated by Air Baltic Corporation",Cheapest direct,CHF351.61,49
+ZRH,PRG,2025-06-19,ZRH,22:05,19 Jun,PRG,23:20,19 Jun,Swiss,Direct,CHF351.61,49
+ZRH,PRG,2025-06-19,ZRH,12:45,19 Jun,PRG,14:05,19 Jun,Swiss,Direct,CHF351.61,49
+ZRH,PRG,2025-06-19,ZRH,14:50,19 Jun,PRG,19:35,19 Jun,Air France,Direct,CHF128.06,49
+ZRH,PRG,2025-06-19,ZRH,17:05,19 Jun,PRG,18:25,19 Jun,Swiss,1 stop,CHF410.63,49
+ZRH,PRG,2025-06-19,ZRH,08:00,19 Jun,PRG,15:50,19 Jun,Condor,Direct,CHF136.48,49
+ZRH,PRG,2025-06-19,ZRH,14:50,19 Jun,PRG,21:45,19 Jun,Air France,1 stop,CHF155.58,49
+ZRH,PRG,2025-06-19,ZRH,18:00,19 Jun,PRG,21:50,19 Jun,"Swiss, Eurowings, operated by Eurowings Europe Ltd",1 stop,CHF244.17,49
+ZRH,PRG,2025-06-19,ZRH,11:50,19 Jun,PRG,17:40,19 Jun,KLM,1 stop,CHF186.91,49
+ZRH,PRG,2025-06-19,ZRH,20:40,19 Jun,PRG,08:45,20 Jun,"Air Serbia, operated by Bulgaria Air For Air Serbia",1 stop,CHF110.74,49
+ZRH,PRG,2025-06-19,ZRH,11:50,19 Jun,PRG,20:45,19 Jun,KLM,1 stop,CHF139.46,49
+ZRH,PRG,2025-06-19,ZRH,11:50,19 Jun,PRG,22:35,19 Jun,KLM,1 stop,CHF124.33,49
+ZRH,PRG,2025-06-19,ZRH,09:20,19 Jun,PRG,13:45,19 Jun,KLM,1 stop,CHF243.37,49
+ZRH,PRG,2025-06-20,ZRH,07:50,20 Jun,PRG,09:05,20 Jun,"Swiss, operated by Air Baltic Corporation",Cheapest direct,CHF274.92,50
+ZRH,PRG,2025-06-20,ZRH,21:55,20 Jun,PRG,08:35,21 Jun,"Easyjet, Wizz Air Malta",Direct,CHF95.34,50
+ZRH,PRG,2025-06-20,ZRH,22:05,20 Jun,PRG,23:20,20 Jun,Swiss,1 stop,CHF274.92,50
+ZRH,PRG,2025-06-20,ZRH,12:45,20 Jun,PRG,14:05,20 Jun,Swiss,Direct,CHF274.92,50
+ZRH,PRG,2025-06-20,ZRH,17:05,20 Jun,PRG,18:25,20 Jun,Swiss,Direct,CHF274.92,50
+ZRH,PRG,2025-06-20,ZRH,17:35,20 Jun,PRG,22:35,20 Jun,KLM,Direct,CHF160.34,50
+ZRH,PRG,2025-06-20,ZRH,15:40,20 Jun,PRG,21:00,20 Jun,Eurowings,1 stop,CHF164.07,50
+ZRH,PRG,2025-06-20,ZRH,21:35,20 Jun,PRG,09:00,21 Jun,"Easyjet, Wizz Air UK",1 stop,CHF101.63,50
+ZRH,PRG,2025-06-20,ZRH,08:00,20 Jun,PRG,15:50,20 Jun,Condor,1 stop,CHF136.48,50
+ZRH,PRG,2025-06-20,ZRH,15:10,20 Jun,PRG,20:05,20 Jun,Air Serbia,1 stop,CHF200.55,50
+ZRH,PRG,2025-06-20,ZRH,08:45,20 Jun,PRG,15:25,20 Jun,Eurowings,1 stop,CHF164.07,50
+ZRH,PRG,2025-06-20,ZRH,20:40,20 Jun,PRG,08:45,21 Jun,Air Serbia,1 stop,CHF110.74,50
+ZRH,PRG,2025-06-20,ZRH,20:55,20 Jun,PRG,09:00,21 Jun,"Easyjet, Wizz Air UK",1 stop,CHF110.83,50
+ZRH,PRG,2025-06-20,ZRH,18:45,20 Jun,PRG,21:50,20 Jun,Austrian Airlines,1 stop,CHF317.22,50
+ZRH,PRG,2025-06-20,ZRH,19:25,20 Jun,PRG,08:20,21 Jun,KLM,1 stop,CHF111.32,50
+ZRH,PRG,2025-06-21,ZRH,07:50,21 Jun,PRG,09:05,21 Jun,"Swiss, operated by Air Baltic Corporation",Cheapest direct,CHF274.92,51
+ZRH,PRG,2025-06-21,ZRH,19:25,21 Jun,PRG,08:20,22 Jun,"KLM, operated by KLM Cityhopper",Direct,CHF111.32,51
+ZRH,PRG,2025-06-21,ZRH,22:05,21 Jun,PRG,23:20,21 Jun,Swiss,1 stop,CHF274.92,51
+ZRH,PRG,2025-06-21,ZRH,12:45,21 Jun,PRG,14:05,21 Jun,Swiss,Direct,CHF274.92,51
+ZRH,PRG,2025-06-21,ZRH,17:05,21 Jun,PRG,18:25,21 Jun,"Swiss, operated by Air Baltic Corporation",Direct,CHF274.92,51
+ZRH,PRG,2025-06-21,ZRH,17:35,21 Jun,PRG,22:35,21 Jun,KLM,Direct,CHF112.22,51
+ZRH,PRG,2025-06-21,ZRH,09:20,21 Jun,PRG,13:45,21 Jun,KLM,1 stop,CHF139.46,51
+ZRH,PRG,2025-06-21,ZRH,14:20,21 Jun,PRG,20:45,21 Jun,"KLM, operated by KLM Cityhopper",1 stop,CHF153.70,51
+ZRH,PRG,2025-06-21,ZRH,08:00,21 Jun,PRG,15:50,21 Jun,Condor,1 stop,CHF137.42,51
+ZRH,PRG,2025-06-21,ZRH,21:55,21 Jun,PRG,08:35,22 Jun,"Easyjet, Wizz Air Malta",1 stop,CHF113.49,51
+ZRH,PRG,2025-06-21,ZRH,13:20,21 Jun,PRG,16:05,21 Jun,Austrian Airlines,1 stop,CHF317.22,51
+ZRH,PRG,2025-06-21,ZRH,09:20,21 Jun,PRG,17:40,21 Jun,KLM,1 stop,CHF139.46,51
+ZRH,PRG,2025-06-21,ZRH,14:20,21 Jun,PRG,22:35,21 Jun,"KLM, operated by KLM Cityhopper",1 stop,CHF153.70,51
+ZRH,PRG,2025-06-21,ZRH,14:40,21 Jun,PRG,17:50,21 Jun,Lufthansa,1 stop,CHF319.78,51
+ZRH,PRG,2025-06-21,ZRH,07:20,21 Jun,PRG,10:35,21 Jun,"Austrian Airlines, operated by Swiss",1 stop,CHF317.23,51
+ZRH,PRG,2025-06-22,ZRH,07:50,22 Jun,PRG,09:05,22 Jun,"Swiss, operated by Air Baltic Corporation",Cheapest direct,CHF210.35,52
+ZRH,PRG,2025-06-22,ZRH,22:05,22 Jun,PRG,23:20,22 Jun,Swiss,Direct,CHF210.35,52
+ZRH,PRG,2025-06-22,ZRH,12:45,22 Jun,PRG,14:05,22 Jun,Swiss,Direct,CHF210.35,52
+ZRH,PRG,2025-06-22,ZRH,17:05,22 Jun,PRG,18:25,22 Jun,Swiss,Direct,CHF210.35,52
+ZRH,PRG,2025-06-22,ZRH,19:25,22 Jun,PRG,23:45,22 Jun,"KLM, operated by KLM Cityhopper",Direct,CHF120.70,52
+ZRH,PRG,2025-06-22,ZRH,17:35,22 Jun,PRG,23:45,22 Jun,KLM,1 stop,CHF115.98,52
+ZRH,PRG,2025-06-22,ZRH,13:20,22 Jun,PRG,16:05,22 Jun,Austrian Airlines,1 stop,CHF248.61,52
+ZRH,PRG,2025-06-22,ZRH,22:05,22 Jun,PRG,08:50,23 Jun,Vueling,1 stop,CHF95.22,52
+ZRH,PRG,2025-06-22,ZRH,18:45,22 Jun,PRG,21:50,22 Jun,Austrian Airlines,1 stop,CHF248.61,52
+ZRH,PRG,2025-06-22,ZRH,15:40,22 Jun,PRG,20:20,22 Jun,Eurowings,1 stop,CHF183.06,52
+ZRH,PRG,2025-06-22,ZRH,14:40,22 Jun,PRG,17:50,22 Jun,"Lufthansa, operated by City Jet",1 stop,CHF251.20,52
+ZRH,PRG,2025-06-22,ZRH,07:20,22 Jun,PRG,10:35,22 Jun,"Austrian Airlines, operated by Swiss",1 stop,CHF248.62,52
+ZRH,PRG,2025-06-22,ZRH,20:00,22 Jun,PRG,23:15,22 Jun,Lufthansa,1 stop,CHF251.20,52
+ZRH,PRG,2025-06-22,ZRH,14:35,22 Jun,PRG,20:05,22 Jun,Air Serbia,1 stop,CHF170.06,52
+ZRH,PRG,2025-06-22,ZRH,16:55,22 Jun,PRG,20:45,22 Jun,"Swiss, Easyjet",1 stop,CHF229.67,52
+ZRH,PRG,2025-06-23,ZRH,07:50,23 Jun,PRG,09:05,23 Jun,Swiss,Cheapest direct,CHF210.35,53
+ZRH,PRG,2025-06-23,ZRH,22:05,23 Jun,PRG,23:20,23 Jun,Swiss,Direct,CHF210.35,53
+ZRH,PRG,2025-06-23,ZRH,17:05,23 Jun,PRG,18:25,23 Jun,Swiss,Direct,CHF210.35,53
+ZRH,PRG,2025-06-23,ZRH,12:35,23 Jun,PRG,14:00,23 Jun,Swiss,Direct,CHF210.35,53
+ZRH,PRG,2025-06-23,ZRH,19:25,23 Jun,PRG,23:45,23 Jun,KLM,Direct,CHF111.32,53
+ZRH,PRG,2025-06-23,ZRH,10:00,23 Jun,PRG,16:20,23 Jun,"Easyjet, Wizz Air UK",1 stop,CHF97.33,53
+ZRH,PRG,2025-06-23,ZRH,10:00,23 Jun,PRG,15:30,23 Jun,Easyjet,1 stop,CHF131.62,53
+ZRH,PRG,2025-06-23,ZRH,15:30,23 Jun,PRG,20:05,23 Jun,Eurowings,1 stop,CHF164.07,53
+ZRH,PRG,2025-06-23,ZRH,10:00,23 Jun,PRG,20:05,23 Jun,"Easyjet, Wizz Air UK",1 stop,CHF94.81,53
+ZRH,PRG,2025-06-23,ZRH,17:35,23 Jun,PRG,23:45,23 Jun,KLM,1 stop,CHF139.46,53
+ZRH,PRG,2025-06-23,ZRH,21:55,23 Jun,PRG,08:35,24 Jun,"Easyjet, Wizz Air Malta",1 stop,CHF95.69,53
+ZRH,PRG,2025-06-23,ZRH,10:25,23 Jun,PRG,20:05,23 Jun,"Easyjet, Wizz Air UK",1 stop,CHF104.01,53
+ZRH,PRG,2025-06-23,ZRH,20:40,23 Jun,PRG,08:45,24 Jun,Air Serbia,1 stop,CHF88.03,53
+ZRH,PRG,2025-06-23,ZRH,18:45,23 Jun,PRG,21:50,23 Jun,Austrian Airlines,1 stop,CHF248.61,53
+ZRH,PRG,2025-06-23,ZRH,14:40,23 Jun,PRG,17:50,23 Jun,"Lufthansa, operated by City Jet",1 stop,CHF251.20,53
+ZRH,PRG,2025-06-24,ZRH,22:05,24 Jun,PRG,23:20,24 Jun,Swiss,Direct,CHF274.92,54
+ZRH,PRG,2025-06-24,ZRH,18:10,24 Jun,PRG,09:00,25 Jun,"Easyjet, Wizz Air UK",1 stop,CHF94.78,54
+ZRH,PRG,2025-06-24,ZRH,07:50,24 Jun,PRG,09:05,24 Jun,"Swiss, operated by Air Baltic Corporation",Cheapest direct,CHF274.92,54
+ZRH,PRG,2025-06-24,ZRH,12:45,24 Jun,PRG,14:05,24 Jun,Swiss,Direct,CHF274.92,54
+ZRH,PRG,2025-06-24,ZRH,17:05,24 Jun,PRG,18:25,24 Jun,"Swiss, operated by Air Baltic Corporation",Direct,CHF274.92,54
+ZRH,PRG,2025-06-24,ZRH,19:25,24 Jun,PRG,23:45,24 Jun,KLM,Direct,CHF111.32,54
+ZRH,PRG,2025-06-24,ZRH,17:35,24 Jun,PRG,23:45,24 Jun,"KLM, operated by KLM Cityhopper",1 stop,CHF111.32,54
+ZRH,PRG,2025-06-24,ZRH,15:40,24 Jun,PRG,20:25,24 Jun,Eurowings,1 stop,CHF154.58,54
+ZRH,PRG,2025-06-24,ZRH,08:30,24 Jun,PRG,14:40,24 Jun,"Easyjet, Eurowings, operated by Eurowings Europe Ltd",1 stop,CHF131.35,54
+ZRH,PRG,2025-06-24,ZRH,21:55,24 Jun,PRG,08:35,25 Jun,"Easyjet, Wizz Air Malta",1 stop,CHF95.69,54
+ZRH,PRG,2025-06-24,ZRH,17:05,24 Jun,PRG,20:25,24 Jun,"Swiss, operated by Helvetic Airways, Eurowings, operated by Eurowings Europe Ltd",1 stop,CHF230.75,54
+ZRH,PRG,2025-06-24,ZRH,08:00,24 Jun,PRG,15:50,24 Jun,Condor,1 stop,CHF137.42,54
+ZRH,PRG,2025-06-24,ZRH,18:10,24 Jun,PRG,23:50,24 Jun,"Condor, SmartWings",1 stop,CHF177.96,54
+ZRH,PRG,2025-06-24,ZRH,14:50,24 Jun,PRG,21:45,24 Jun,Air France,1 stop,CHF155.58,54
+ZRH,PRG,2025-06-24,ZRH,13:15,24 Jun,PRG,16:00,24 Jun,"Lufthansa, operated by Helvetic Airways For Swiss",1 stop,CHF312.24,54
+ZRH,PRG,2025-06-25,ZRH,07:50,25 Jun,PRG,09:05,25 Jun,"Swiss, operated by Air Baltic Corporation",Cheapest direct,CHF274.91,55
+ZRH,PRG,2025-06-25,ZRH,22:05,25 Jun,PRG,23:20,25 Jun,Swiss,Direct,CHF274.91,55
+ZRH,PRG,2025-06-25,ZRH,12:45,25 Jun,PRG,14:05,25 Jun,Swiss,Direct,CHF274.91,55
+ZRH,PRG,2025-06-25,ZRH,17:05,25 Jun,PRG,18:25,25 Jun,Swiss,Direct,CHF274.91,55
+ZRH,PRG,2025-06-25,ZRH,19:25,25 Jun,PRG,23:45,25 Jun,KLM,Direct,CHF112.06,55
+ZRH,PRG,2025-06-25,ZRH,17:35,25 Jun,PRG,23:45,25 Jun,KLM,1 stop,CHF111.16,55
+ZRH,PRG,2025-06-25,ZRH,14:20,25 Jun,PRG,20:15,25 Jun,Easyjet,1 stop,CHF137.17,55
+ZRH,PRG,2025-06-25,ZRH,07:45,25 Jun,PRG,11:45,25 Jun,Air France,1 stop,CHF184.06,55
+ZRH,PRG,2025-06-25,ZRH,15:40,25 Jun,PRG,20:25,25 Jun,"Eurowings, operated by Eurowings Europe Ltd",1 stop,CHF164.07,55
+ZRH,PRG,2025-06-25,ZRH,08:45,25 Jun,PRG,13:40,25 Jun,Eurowings,1 stop,CHF164.07,55
+ZRH,PRG,2025-06-25,ZRH,21:55,25 Jun,PRG,08:35,26 Jun,"Easyjet, Wizz Air Malta",1 stop,CHF95.69,55
+ZRH,PRG,2025-06-25,ZRH,17:05,25 Jun,PRG,20:25,25 Jun,"Swiss, operated by Helvetic Airways, Eurowings",1 stop,CHF250.66,55
+ZRH,PRG,2025-06-25,ZRH,21:40,25 Jun,PRG,08:50,26 Jun,Vueling,1 stop,CHF101.65,55
+ZRH,PRG,2025-06-25,ZRH,14:50,25 Jun,PRG,19:35,25 Jun,Air France,1 stop,CHF198.83,55
+ZRH,PRG,2025-06-25,ZRH,08:00,25 Jun,PRG,15:50,25 Jun,Condor,1 stop,CHF137.42,55
+ZRH,PRG,2025-06-26,ZRH,07:50,26 Jun,PRG,09:05,26 Jun,"Swiss, operated by Air Baltic Corporation",Cheapest direct,CHF274.91,56
+ZRH,PRG,2025-06-26,ZRH,21:55,26 Jun,PRG,08:35,27 Jun,"Easyjet, Wizz Air Malta",Direct,CHF95.69,56
+ZRH,PRG,2025-06-26,ZRH,22:05,26 Jun,PRG,23:20,26 Jun,Swiss,1 stop,CHF274.91,56
+ZRH,PRG,2025-06-26,ZRH,12:45,26 Jun,PRG,14:05,26 Jun,Swiss,Direct,CHF274.91,56
+ZRH,PRG,2025-06-26,ZRH,17:05,26 Jun,PRG,18:25,26 Jun,"Swiss, operated by Air Baltic Corporation",Direct,CHF274.91,56
+ZRH,PRG,2025-06-26,ZRH,14:50,26 Jun,PRG,19:35,26 Jun,Air France,Direct,CHF128.05,56
+ZRH,PRG,2025-06-26,ZRH,19:25,26 Jun,PRG,23:45,26 Jun,"KLM, operated by KLM Cityhopper",1 stop,CHF169.81,56
+ZRH,PRG,2025-06-26,ZRH,17:35,26 Jun,PRG,23:45,26 Jun,KLM,1 stop,CHF139.46,56
+ZRH,PRG,2025-06-26,ZRH,10:25,26 Jun,PRG,20:05,26 Jun,"Easyjet, Wizz Air UK",1 stop,CHF101.71,56
+ZRH,PRG,2025-06-26,ZRH,08:00,26 Jun,PRG,15:50,26 Jun,Condor,1 stop,CHF137.42,56
+ZRH,PRG,2025-06-26,ZRH,14:50,26 Jun,PRG,21:45,26 Jun,Air France,1 stop,CHF155.57,56
+ZRH,PRG,2025-06-26,ZRH,13:20,26 Jun,PRG,16:05,26 Jun,Austrian Airlines,1 stop,CHF317.21,56
+ZRH,PRG,2025-06-26,ZRH,18:00,26 Jun,PRG,21:50,26 Jun,"Swiss, Eurowings, operated by Eurowings Europe Ltd",1 stop,CHF252.08,56
+ZRH,PRG,2025-06-26,ZRH,16:55,26 Jun,PRG,21:50,26 Jun,"Swiss, Eurowings, operated by Eurowings Europe Ltd",1 stop,CHF212.95,56
+ZRH,PRG,2025-06-26,ZRH,18:45,26 Jun,PRG,21:50,26 Jun,Austrian Airlines,1 stop,CHF317.21,56
+ZRH,PRG,2025-06-27,ZRH,07:50,27 Jun,PRG,09:05,27 Jun,"Swiss, operated by Air Baltic Corporation",Cheapest direct,CHF274.91,57
+ZRH,PRG,2025-06-27,ZRH,22:05,27 Jun,PRG,23:20,27 Jun,Swiss,Direct,CHF274.91,57
+ZRH,PRG,2025-06-27,ZRH,12:45,27 Jun,PRG,14:05,27 Jun,Swiss,Direct,CHF274.91,57
+ZRH,PRG,2025-06-27,ZRH,17:05,27 Jun,PRG,18:25,27 Jun,"Swiss, operated by Air Baltic Corporation",Direct,CHF274.91,57
+ZRH,PRG,2025-06-27,ZRH,17:05,27 Jun,PRG,21:00,27 Jun,"Swiss, Eurowings, operated by Eurowings Europe Ltd",Direct,CHF191.12,57
+ZRH,PRG,2025-06-27,ZRH,21:35,27 Jun,PRG,09:00,28 Jun,"Easyjet, Wizz Air UK",1 stop,CHF97.65,57
+ZRH,PRG,2025-06-27,ZRH,17:35,27 Jun,PRG,22:35,27 Jun,KLM,1 stop,CHF182.08,57
+ZRH,PRG,2025-06-27,ZRH,21:55,27 Jun,PRG,08:35,28 Jun,"Easyjet, Wizz Air Malta",1 stop,CHF106.17,57
+ZRH,PRG,2025-06-27,ZRH,14:50,27 Jun,PRG,19:35,27 Jun,Air France,1 stop,CHF195.07,57
+ZRH,PRG,2025-06-27,ZRH,15:40,27 Jun,PRG,21:00,27 Jun,Eurowings,1 stop,CHF183.05,57
+ZRH,PRG,2025-06-27,ZRH,08:00,27 Jun,PRG,15:50,27 Jun,Condor,1 stop,CHF137.42,57
+ZRH,PRG,2025-06-27,ZRH,15:10,27 Jun,PRG,20:05,27 Jun,Air Serbia,1 stop,CHF200.46,57
+ZRH,PRG,2025-06-27,ZRH,17:55,27 Jun,PRG,21:50,27 Jun,"Swiss, Eurowings, operated by Eurowings Europe Ltd",1 stop,CHF239.52,57
+ZRH,PRG,2025-06-27,ZRH,07:45,27 Jun,PRG,11:45,27 Jun,Air France,1 stop,CHF236.26,57
+ZRH,PRG,2025-06-27,ZRH,17:05,27 Jun,PRG,21:00,27 Jun,"Swiss, SmartWings, operated by Eurowings",1 stop,CHF248.52,57
+ZRH,PRG,2025-06-28,ZRH,07:50,28 Jun,PRG,09:05,28 Jun,"Swiss, operated by Air Baltic Corporation",Cheapest direct,CHF274.91,58
+ZRH,PRG,2025-06-28,ZRH,22:05,28 Jun,PRG,23:20,28 Jun,Swiss,Direct,CHF274.91,58
+ZRH,PRG,2025-06-28,ZRH,12:45,28 Jun,PRG,14:05,28 Jun,Swiss,Direct,CHF274.91,58
+ZRH,PRG,2025-06-28,ZRH,17:05,28 Jun,PRG,18:25,28 Jun,Swiss,Direct,CHF274.91,58
+ZRH,PRG,2025-06-28,ZRH,17:35,28 Jun,PRG,22:35,28 Jun,KLM,Direct,CHF111.16,58
+ZRH,PRG,2025-06-28,ZRH,07:00,28 Jun,PRG,11:10,28 Jun,KLM,1 stop,CHF166.02,58
+ZRH,PRG,2025-06-28,ZRH,14:20,28 Jun,PRG,22:35,28 Jun,"KLM, operated by KLM Cityhopper",1 stop,CHF111.16,58
+ZRH,PRG,2025-06-28,ZRH,14:20,28 Jun,PRG,20:45,28 Jun,"KLM, operated by KLM Cityhopper",1 stop,CHF145.16,58
+ZRH,PRG,2025-06-28,ZRH,14:50,28 Jun,PRG,18:55,28 Jun,"Air France, operated by HOP",1 stop,CHF207.81,58
+ZRH,PRG,2025-06-28,ZRH,14:50,28 Jun,PRG,21:45,28 Jun,"Air France, operated by HOP",1 stop,CHF144.19,58
+ZRH,PRG,2025-06-28,ZRH,09:20,28 Jun,PRG,13:45,28 Jun,KLM,1 stop,CHF204.69,58
+ZRH,PRG,2025-06-28,ZRH,07:45,28 Jun,PRG,11:45,28 Jun,Air France,1 stop,CHF226.78,58
+ZRH,PRG,2025-06-28,ZRH,08:00,28 Jun,PRG,15:50,28 Jun,Condor,1 stop,CHF137.42,58
+ZRH,PRG,2025-06-28,ZRH,21:55,28 Jun,PRG,08:35,29 Jun,"Easyjet, Wizz Air Malta",1 stop,CHF109.21,58
+ZRH,PRG,2025-06-28,ZRH,14:40,28 Jun,PRG,17:50,28 Jun,Lufthansa,1 stop,CHF319.78,58
+ZRH,PRG,2025-06-29,ZRH,07:50,29 Jun,PRG,09:05,29 Jun,"Swiss, operated by Air Baltic Corporation",Cheapest direct,CHF210.34,59
+ZRH,PRG,2025-06-29,ZRH,21:55,29 Jun,PRG,21:30,30 Jun,"Easyjet, Wizz Air Malta",Direct,CHF102.78,59
+ZRH,PRG,2025-06-29,ZRH,22:05,29 Jun,PRG,23:20,29 Jun,Swiss,1 stop,CHF210.34,59
+ZRH,PRG,2025-06-29,ZRH,12:45,29 Jun,PRG,14:05,29 Jun,Swiss,Direct,CHF210.34,59
+ZRH,PRG,2025-06-29,ZRH,17:05,29 Jun,PRG,18:25,29 Jun,"Swiss, operated by Air Baltic Corporation",Direct,CHF210.34,59
+ZRH,PRG,2025-06-29,ZRH,17:35,29 Jun,PRG,22:35,29 Jun,KLM,Direct,CHF111.16,59
+ZRH,PRG,2025-06-29,ZRH,15:40,29 Jun,PRG,20:20,29 Jun,Eurowings,1 stop,CHF145.90,59
+ZRH,PRG,2025-06-29,ZRH,18:45,29 Jun,PRG,21:50,29 Jun,Austrian Airlines,1 stop,CHF248.60,59
+ZRH,PRG,2025-06-29,ZRH,20:00,29 Jun,PRG,23:15,29 Jun,Lufthansa,1 stop,CHF251.19,59
+ZRH,PRG,2025-06-29,ZRH,18:00,29 Jun,PRG,22:15,29 Jun,"Swiss, Eurowings, operated by Eurowings Europe Ltd",1 stop,CHF206.32,59
+ZRH,PRG,2025-06-29,ZRH,08:00,29 Jun,PRG,15:50,29 Jun,Condor,1 stop,CHF137.42,59
+ZRH,PRG,2025-06-29,ZRH,09:30,29 Jun,PRG,13:10,29 Jun,"Lufthansa, operated by Swiss",1 stop,CHF243.65,59
+ZRH,PRG,2025-06-29,ZRH,07:00,29 Jun,PRG,17:40,29 Jun,KLM,1 stop,CHF111.16,59
+ZRH,PRG,2025-06-29,ZRH,14:50,29 Jun,PRG,19:35,29 Jun,Air France,1 stop,CHF204.47,59
+ZRH,PRG,2025-06-29,ZRH,07:05,29 Jun,PRG,12:10,29 Jun,"Swiss, Easyjet",1 stop,CHF199.12,59
+ZRH,PRG,2025-06-30,ZRH,07:50,30 Jun,PRG,09:05,30 Jun,"Swiss, operated by Air Baltic Corporation",Cheapest direct,CHF210.34,60
+ZRH,PRG,2025-06-30,ZRH,22:05,30 Jun,PRG,23:20,30 Jun,Swiss,Direct,CHF210.34,60
+ZRH,PRG,2025-06-30,ZRH,17:05,30 Jun,PRG,18:25,30 Jun,Swiss,Direct,CHF210.34,60
+ZRH,PRG,2025-06-30,ZRH,12:35,30 Jun,PRG,14:00,30 Jun,Swiss,Direct,CHF210.34,60
+ZRH,PRG,2025-06-30,ZRH,17:35,30 Jun,PRG,22:35,30 Jun,"KLM, operated by KLM Cityhopper",Direct,CHF111.12,60
+ZRH,PRG,2025-06-30,ZRH,10:00,30 Jun,PRG,16:20,30 Jun,"Easyjet, Wizz Air UK",1 stop,CHF108.53,60
+ZRH,PRG,2025-06-30,ZRH,10:00,30 Jun,PRG,15:30,30 Jun,Easyjet,1 stop,CHF133.92,60
+ZRH,PRG,2025-06-30,ZRH,15:40,30 Jun,PRG,20:05,30 Jun,Eurowings,1 stop,CHF164.07,60
+ZRH,PRG,2025-06-30,ZRH,14:35,30 Jun,PRG,20:05,30 Jun,"Air Serbia, operated by Getjet Airlines For Air Serbia",1 stop,CHF145.42,60
+ZRH,PRG,2025-06-30,ZRH,13:20,30 Jun,PRG,16:05,30 Jun,Austrian Airlines,1 stop,CHF248.60,60
+ZRH,PRG,2025-06-30,ZRH,14:20,30 Jun,PRG,22:35,30 Jun,"KLM, operated by KLM Cityhopper",1 stop,CHF111.12,60
+ZRH,PRG,2025-06-30,ZRH,14:50,30 Jun,PRG,21:45,30 Jun,Air France,1 stop,CHF128.05,60
+ZRH,PRG,2025-06-30,ZRH,21:55,30 Jun,PRG,08:35,1 Jul,"Easyjet, Wizz Air Malta",1 stop,CHF95.69,60
+ZRH,PRG,2025-06-30,ZRH,18:45,30 Jun,PRG,21:50,30 Jun,Austrian Airlines,1 stop,CHF248.60,60
+ZRH,PRG,2025-06-30,ZRH,14:40,30 Jun,PRG,17:50,30 Jun,"Lufthansa, operated by City Jet",1 stop,CHF251.19,60
+ZRH,PRG,2025-07-01,ZRH,07:50,1 Jul,PRG,09:05,1 Jul,"Swiss, operated by Air Baltic Corporation",Cheapest direct,CHF274.91,61
+ZRH,PRG,2025-07-01,ZRH,22:05,1 Jul,PRG,23:20,1 Jul,Swiss,Direct,CHF274.91,61
+ZRH,PRG,2025-07-01,ZRH,12:45,1 Jul,PRG,14:05,1 Jul,Swiss,Direct,CHF274.91,61
+ZRH,PRG,2025-07-01,ZRH,17:05,1 Jul,PRG,18:25,1 Jul,Swiss,Direct,CHF274.91,61
+ZRH,PRG,2025-07-01,ZRH,15:40,1 Jul,PRG,20:25,1 Jul,Eurowings,Direct,CHF135.61,61
+ZRH,PRG,2025-07-01,ZRH,09:20,1 Jul,PRG,13:45,1 Jul,KLM,1 stop,CHF153.69,61
+ZRH,PRG,2025-07-01,ZRH,11:50,1 Jul,PRG,17:40,1 Jul,KLM,1 stop,CHF135.67,61
+ZRH,PRG,2025-07-01,ZRH,07:45,1 Jul,PRG,11:45,1 Jul,Air France,1 stop,CHF180.26,61
+ZRH,PRG,2025-07-01,ZRH,17:35,1 Jul,PRG,22:35,1 Jul,"KLM, operated by KLM Cityhopper",1 stop,CHF153.69,61
+ZRH,PRG,2025-07-01,ZRH,14:20,1 Jul,PRG,22:35,1 Jul,"KLM, operated by KLM Cityhopper",1 stop,CHF111.12,61
+ZRH,PRG,2025-07-01,ZRH,18:10,1 Jul,PRG,23:50,1 Jul,"Condor, SmartWings",1 stop,CHF147.63,61
+ZRH,PRG,2025-07-01,ZRH,14:50,1 Jul,PRG,19:35,1 Jul,Air France,1 stop,CHF180.26,61
+ZRH,PRG,2025-07-01,ZRH,14:50,1 Jul,PRG,21:45,1 Jul,Air France,1 stop,CHF136.60,61
+ZRH,PRG,2025-07-01,ZRH,21:55,1 Jul,PRG,08:35,2 Jul,"Easyjet, Wizz Air Malta",1 stop,CHF103.16,61
+ZRH,PRG,2025-07-01,ZRH,07:00,1 Jul,PRG,13:45,1 Jul,KLM,1 stop,CHF149.90,61
+ZRH,PRG,2025-07-02,ZRH,07:50,2 Jul,PRG,09:05,2 Jul,"Swiss, operated by Air Baltic Corporation",Cheapest direct,CHF274.91,62
+ZRH,PRG,2025-07-02,ZRH,20:40,2 Jul,PRG,08:45,3 Jul,"Air Serbia, operated by Bulgaria Air For Air Serbia",Direct,CHF87.91,62
+ZRH,PRG,2025-07-02,ZRH,22:05,2 Jul,PRG,23:20,2 Jul,Swiss,1 stop,CHF274.91,62
+ZRH,PRG,2025-07-02,ZRH,12:45,2 Jul,PRG,14:05,2 Jul,Swiss,Direct,CHF274.91,62
+ZRH,PRG,2025-07-02,ZRH,17:05,2 Jul,PRG,18:25,2 Jul,Swiss,Direct,CHF274.91,62
+ZRH,PRG,2025-07-02,ZRH,17:35,2 Jul,PRG,22:35,2 Jul,KLM,Direct,CHF111.12,62
+ZRH,PRG,2025-07-02,ZRH,11:50,2 Jul,PRG,17:40,2 Jul,KLM,1 stop,CHF111.12,62
+ZRH,PRG,2025-07-02,ZRH,14:20,2 Jul,PRG,20:45,2 Jul,"KLM, operated by KLM Cityhopper",1 stop,CHF111.12,62
+ZRH,PRG,2025-07-02,ZRH,15:40,2 Jul,PRG,20:25,2 Jul,"Eurowings, operated by Eurowings Europe Ltd",1 stop,CHF154.57,62
+ZRH,PRG,2025-07-02,ZRH,14:50,2 Jul,PRG,19:35,2 Jul,Air France,1 stop,CHF155.57,62
+ZRH,PRG,2025-07-02,ZRH,11:55,2 Jul,PRG,15:15,2 Jul,"Swiss, Easyjet",1 stop,CHF203.11,62
+ZRH,PRG,2025-07-02,ZRH,09:20,2 Jul,PRG,13:45,2 Jul,KLM,1 stop,CHF166.00,62
+ZRH,PRG,2025-07-02,ZRH,17:05,2 Jul,PRG,20:25,2 Jul,"Swiss, operated by Helvetic Airways, Eurowings",1 stop,CHF210.60,62
+ZRH,PRG,2025-07-02,ZRH,14:20,2 Jul,PRG,20:15,2 Jul,Easyjet,1 stop,CHF138.72,62
+ZRH,PRG,2025-07-02,ZRH,14:20,2 Jul,PRG,22:35,2 Jul,"KLM, operated by KLM Cityhopper",1 stop,CHF111.12,62
+ZRH,PRG,2025-07-04,ZRH,07:50,4 Jul,PRG,09:05,4 Jul,"Swiss, operated by Air Baltic Corporation",Cheapest direct,CHF274.91,64
+ZRH,PRG,2025-07-04,ZRH,22:05,4 Jul,PRG,23:20,4 Jul,Swiss,Direct,CHF274.91,64
+ZRH,PRG,2025-07-04,ZRH,17:05,4 Jul,PRG,18:25,4 Jul,Swiss,Direct,CHF274.91,64
+ZRH,PRG,2025-07-04,ZRH,12:45,4 Jul,PRG,14:05,4 Jul,Swiss,Direct,CHF340.84,64
+ZRH,PRG,2025-07-04,ZRH,15:40,4 Jul,PRG,21:00,4 Jul,Eurowings,Direct,CHF135.61,64
+ZRH,PRG,2025-07-04,ZRH,14:50,4 Jul,PRG,19:35,4 Jul,Air France,1 stop,CHF198.79,64
+ZRH,PRG,2025-07-04,ZRH,21:55,4 Jul,PRG,08:35,5 Jul,"Easyjet, Wizz Air Malta",1 stop,CHF109.02,64
+ZRH,PRG,2025-07-04,ZRH,13:20,4 Jul,PRG,16:05,4 Jul,Austrian Airlines,1 stop,CHF317.21,64
+ZRH,PRG,2025-07-04,ZRH,15:40,4 Jul,PRG,21:00,4 Jul,"Eurowings, SmartWings, operated by Eurowings",1 stop,CHF193.49,64
+ZRH,PRG,2025-07-04,ZRH,18:45,4 Jul,PRG,21:50,4 Jul,Austrian Airlines,1 stop,CHF317.21,64
+ZRH,PRG,2025-07-04,ZRH,07:20,4 Jul,PRG,10:35,4 Jul,"Austrian Airlines, operated by Swiss",1 stop,CHF317.22,64
+ZRH,PRG,2025-07-04,ZRH,14:50,4 Jul,PRG,21:45,4 Jul,Air France,1 stop,CHF180.26,64
+ZRH,PRG,2025-07-04,ZRH,20:00,4 Jul,PRG,23:15,4 Jul,Lufthansa,1 stop,CHF319.77,64
+ZRH,PRG,2025-07-04,ZRH,17:05,4 Jul,PRG,21:00,4 Jul,"Swiss, SmartWings, operated by Eurowings",1 stop,CHF279.03,64
+ZRH,PRG,2025-07-04,ZRH,17:05,4 Jul,PRG,21:00,4 Jul,"Swiss, Eurowings, operated by Eurowings Europe Ltd",1 stop,CHF295.92,64
+ZRH,PRG,2025-07-05,ZRH,07:50,5 Jul,PRG,09:05,5 Jul,"Swiss, operated by Air Baltic Corporation",Cheapest direct,CHF274.90,65
+ZRH,PRG,2025-07-05,ZRH,22:05,5 Jul,PRG,23:20,5 Jul,Swiss,Direct,CHF274.90,65
+ZRH,PRG,2025-07-05,ZRH,17:05,5 Jul,PRG,18:25,5 Jul,"Swiss, operated by Air Baltic Corporation",Direct,CHF274.90,65
+ZRH,PRG,2025-07-05,ZRH,12:45,5 Jul,PRG,14:05,5 Jul,Swiss,Direct,CHF340.02,65
+ZRH,PRG,2025-07-05,ZRH,21:55,5 Jul,PRG,08:35,6 Jul,"Easyjet, Wizz Air Malta",Direct,CHF103.16,65
+ZRH,PRG,2025-07-05,ZRH,07:00,5 Jul,PRG,11:10,5 Jul,KLM,1 stop,CHF246.10,65
+ZRH,PRG,2025-07-05,ZRH,20:00,5 Jul,PRG,23:15,5 Jul,Lufthansa,1 stop,CHF319.77,65
+ZRH,PRG,2025-07-05,ZRH,14:50,5 Jul,PRG,21:45,5 Jul,Air France,1 stop,CHF184.05,65
+ZRH,PRG,2025-07-05,ZRH,13:20,5 Jul,PRG,16:05,5 Jul,Austrian Airlines,1 stop,CHF376.10,65
+ZRH,PRG,2025-07-05,ZRH,17:35,5 Jul,PRG,22:35,5 Jul,KLM,1 stop,CHF246.10,65
+ZRH,PRG,2025-07-05,ZRH,17:50,5 Jul,PRG,21:50,5 Jul,"Austrian Airlines, operated by Swiss",1 stop,CHF317.21,65
+ZRH,PRG,2025-07-05,ZRH,16:55,5 Jul,PRG,21:20,5 Jul,"Lufthansa, operated by Helvetic Airways For Swiss",1 stop,CHF312.22,65
+ZRH,PRG,2025-07-05,ZRH,14:20,5 Jul,PRG,22:35,5 Jul,"KLM, operated by KLM Cityhopper",1 stop,CHF197.20,65
+ZRH,PRG,2025-07-05,ZRH,18:55,5 Jul,PRG,23:15,5 Jul,"Lufthansa, operated by Swiss",1 stop,CHF319.78,65
+ZRH,PRG,2025-07-05,ZRH,14:20,5 Jul,PRG,20:45,5 Jul,"KLM, operated by KLM Cityhopper",1 stop,CHF243.27,65
+ZRH,PRG,2025-07-06,ZRH,07:50,6 Jul,PRG,09:05,6 Jul,"Swiss, operated by Air Baltic Corporation",Cheapest direct,CHF274.90,66
+ZRH,PRG,2025-07-06,ZRH,20:40,6 Jul,PRG,08:45,7 Jul,Air Serbia,Direct,CHF125.50,66
+ZRH,PRG,2025-07-06,ZRH,22:05,6 Jul,PRG,23:20,6 Jul,Swiss,1 stop,CHF274.90,66
+ZRH,PRG,2025-07-06,ZRH,12:45,6 Jul,PRG,14:05,6 Jul,Swiss,Direct,CHF274.90,66
+ZRH,PRG,2025-07-06,ZRH,17:05,6 Jul,PRG,18:25,6 Jul,Swiss,Direct,CHF274.90,66
+ZRH,PRG,2025-07-06,ZRH,15:40,6 Jul,PRG,20:20,6 Jul,Eurowings,Direct,CHF154.57,66
+ZRH,PRG,2025-07-06,ZRH,14:35,6 Jul,PRG,20:05,6 Jul,Air Serbia,1 stop,CHF169.95,66
+ZRH,PRG,2025-07-06,ZRH,13:20,6 Jul,PRG,16:05,6 Jul,Austrian Airlines,1 stop,CHF317.20,66
+ZRH,PRG,2025-07-06,ZRH,18:00,6 Jul,PRG,22:15,6 Jul,"Swiss, Eurowings, operated by Eurowings Europe Ltd",1 stop,CHF236.83,66
+ZRH,PRG,2025-07-06,ZRH,18:45,6 Jul,PRG,21:50,6 Jul,Austrian Airlines,1 stop,CHF317.20,66
+ZRH,PRG,2025-07-06,ZRH,07:05,6 Jul,PRG,12:10,6 Jul,"Swiss, Easyjet",1 stop,CHF227.13,66
+ZRH,PRG,2025-07-06,ZRH,14:50,6 Jul,PRG,20:35,6 Jul,Air France,1 stop,CHF207.93,66
+ZRH,PRG,2025-07-06,ZRH,17:35,6 Jul,PRG,22:35,6 Jul,KLM,1 stop,CHF246.10,66
+ZRH,PRG,2025-07-06,ZRH,15:40,6 Jul,PRG,20:20,6 Jul,"Swiss, operated by Eurowings, Eurowings, operated by Eurowings Europe Ltd",1 stop,CHF272.93,66
+ZRH,PRG,2025-07-06,ZRH,17:05,6 Jul,PRG,20:20,6 Jul,"Swiss, Eurowings, operated by Eurowings Europe Ltd",1 stop,CHF363.14,66
+ZRH,PRG,2025-07-07,ZRH,07:50,7 Jul,PRG,09:05,7 Jul,"Swiss, operated by Air Baltic Corporation",Cheapest direct,CHF274.90,67
+ZRH,PRG,2025-07-07,ZRH,22:05,7 Jul,PRG,23:20,7 Jul,Swiss,Direct,CHF274.90,67
+ZRH,PRG,2025-07-07,ZRH,17:05,7 Jul,PRG,18:25,7 Jul,Swiss,Direct,CHF274.90,67
+ZRH,PRG,2025-07-07,ZRH,12:35,7 Jul,PRG,14:00,7 Jul,Swiss,Direct,CHF274.90,67
+ZRH,PRG,2025-07-07,ZRH,15:40,7 Jul,PRG,20:05,7 Jul,Eurowings,Direct,CHF135.61,67
+ZRH,PRG,2025-07-07,ZRH,21:55,7 Jul,PRG,08:35,8 Jul,"Easyjet, Wizz Air Malta",1 stop,CHF103.16,67
+ZRH,PRG,2025-07-07,ZRH,14:35,7 Jul,PRG,20:05,7 Jul,"Air Serbia, operated by Getjet Airlines For Air Serbia",1 stop,CHF169.95,67
+ZRH,PRG,2025-07-07,ZRH,15:40,7 Jul,PRG,20:05,7 Jul,"Eurowings, SmartWings, operated by Eurowings",1 stop,CHF204.19,67
+ZRH,PRG,2025-07-07,ZRH,13:20,7 Jul,PRG,16:05,7 Jul,Austrian Airlines,1 stop,CHF317.20,67
+ZRH,PRG,2025-07-07,ZRH,17:35,7 Jul,PRG,22:35,7 Jul,"KLM, operated by KLM Cityhopper",1 stop,CHF204.66,67
+ZRH,PRG,2025-07-07,ZRH,20:40,7 Jul,PRG,08:45,8 Jul,Air Serbia,1 stop,CHF110.54,67
+ZRH,PRG,2025-07-07,ZRH,18:45,7 Jul,PRG,21:50,7 Jul,Austrian Airlines,1 stop,CHF317.20,67
+ZRH,PRG,2025-07-07,ZRH,19:25,7 Jul,PRG,08:10,8 Jul,KLM,1 stop,CHF110.98,67
+ZRH,PRG,2025-07-07,ZRH,07:25,7 Jul,PRG,12:00,7 Jul,"Swiss, Easyjet",1 stop,CHF239.61,67
+ZRH,PRG,2025-07-07,ZRH,14:40,7 Jul,PRG,17:50,7 Jul,"Lufthansa, operated by City Jet",1 stop,CHF319.77,67
+ZRH,PRG,2025-07-08,ZRH,07:50,8 Jul,PRG,09:05,8 Jul,"Swiss, operated by Air Baltic Corporation",Cheapest direct,CHF274.90,68
+ZRH,PRG,2025-07-08,ZRH,22:05,8 Jul,PRG,23:20,8 Jul,Swiss,Direct,CHF274.90,68
+ZRH,PRG,2025-07-08,ZRH,12:45,8 Jul,PRG,14:05,8 Jul,Swiss,Direct,CHF274.90,68
+ZRH,PRG,2025-07-08,ZRH,07:45,8 Jul,PRG,11:45,8 Jul,Air France,Direct,CHF128.05,68
+ZRH,PRG,2025-07-08,ZRH,17:05,8 Jul,PRG,18:25,8 Jul,Swiss,1 stop,CHF366.56,68
+ZRH,PRG,2025-07-08,ZRH,15:40,8 Jul,PRG,20:25,8 Jul,Eurowings,Direct,CHF154.57,68
+ZRH,PRG,2025-07-08,ZRH,18:10,8 Jul,PRG,23:50,8 Jul,"Condor, SmartWings",1 stop,CHF150.20,68
+ZRH,PRG,2025-07-08,ZRH,17:05,8 Jul,PRG,20:25,8 Jul,"Swiss, operated by Helvetic Airways, Eurowings, operated by Eurowings Europe Ltd",1 stop,CHF230.68,68
+ZRH,PRG,2025-07-08,ZRH,11:50,8 Jul,PRG,17:40,8 Jul,KLM,1 stop,CHF153.69,68
+ZRH,PRG,2025-07-08,ZRH,17:35,8 Jul,PRG,22:35,8 Jul,KLM,1 stop,CHF182.06,68
+ZRH,PRG,2025-07-08,ZRH,21:55,8 Jul,PRG,08:35,9 Jul,"Easyjet, Wizz Air Malta",1 stop,CHF103.16,68
+ZRH,PRG,2025-07-08,ZRH,13:20,8 Jul,PRG,16:05,8 Jul,Austrian Airlines,1 stop,CHF317.20,68
+ZRH,PRG,2025-07-08,ZRH,15:40,8 Jul,PRG,20:25,8 Jul,"Eurowings, SmartWings, operated by Eurowings",1 stop,CHF223.38,68
+ZRH,PRG,2025-07-08,ZRH,18:45,8 Jul,PRG,21:50,8 Jul,Austrian Airlines,1 stop,CHF317.20,68
+ZRH,PRG,2025-07-08,ZRH,19:25,8 Jul,PRG,08:20,9 Jul,KLM,1 stop,CHF110.98,68
+ZRH,PRG,2025-07-09,ZRH,22:05,9 Jul,PRG,23:20,9 Jul,Swiss,Cheapest direct,CHF274.90,69
+ZRH,PRG,2025-07-09,ZRH,17:05,9 Jul,PRG,18:25,9 Jul,Swiss,Direct,CHF274.90,69
+ZRH,PRG,2025-07-09,ZRH,12:45,9 Jul,PRG,14:05,9 Jul,Swiss,Direct,CHF328.08,69
+ZRH,PRG,2025-07-09,ZRH,07:50,9 Jul,PRG,09:05,9 Jul,"Swiss, operated by Air Baltic Corporation",Direct,CHF415.15,69
+ZRH,PRG,2025-07-09,ZRH,14:35,9 Jul,PRG,20:05,9 Jul,Air Serbia,Direct,CHF145.53,69
+ZRH,PRG,2025-07-09,ZRH,15:40,9 Jul,PRG,20:25,9 Jul,"Eurowings, operated by Eurowings Europe Ltd",1 stop,CHF164.07,69
+ZRH,PRG,2025-07-09,ZRH,18:45,9 Jul,PRG,21:50,9 Jul,Austrian Airlines,1 stop,CHF243.23,69
+ZRH,PRG,2025-07-09,ZRH,21:55,9 Jul,PRG,08:35,10 Jul,"Easyjet, Wizz Air Malta",1 stop,CHF103.16,69
+ZRH,PRG,2025-07-09,ZRH,11:50,9 Jul,PRG,17:40,9 Jul,KLM,1 stop,CHF169.79,69
+ZRH,PRG,2025-07-09,ZRH,11:55,9 Jul,PRG,15:15,9 Jul,"Swiss, Easyjet",1 stop,CHF263.94,69
+ZRH,PRG,2025-07-09,ZRH,14:20,9 Jul,PRG,20:15,9 Jul,Easyjet,1 stop,CHF173.50,69
+ZRH,PRG,2025-07-09,ZRH,13:20,9 Jul,PRG,16:05,9 Jul,Austrian Airlines,1 stop,CHF317.20,69
+ZRH,PRG,2025-07-09,ZRH,17:50,9 Jul,PRG,21:50,9 Jul,"Austrian Airlines, operated by Swiss",1 stop,CHF243.23,69
+ZRH,PRG,2025-07-09,ZRH,09:20,9 Jul,PRG,13:45,9 Jul,KLM,1 stop,CHF228.20,69
+ZRH,PRG,2025-07-09,ZRH,11:15,9 Jul,PRG,17:55,9 Jul,Aegean Airlines,1 stop,CHF180.43,69
+ZRH,PRG,2025-07-10,ZRH,07:50,10 Jul,PRG,09:05,10 Jul,"Swiss, operated by Air Baltic Corporation",Cheapest direct,CHF274.90,70
+ZRH,PRG,2025-07-10,ZRH,21:55,10 Jul,PRG,08:35,11 Jul,"Easyjet, Wizz Air Malta",Direct,CHF102.75,70
+ZRH,PRG,2025-07-10,ZRH,22:05,10 Jul,PRG,23:20,10 Jul,Swiss,1 stop,CHF274.90,70
+ZRH,PRG,2025-07-10,ZRH,17:05,10 Jul,PRG,18:25,10 Jul,Swiss,Direct,CHF274.90,70
+ZRH,PRG,2025-07-10,ZRH,12:45,10 Jul,PRG,14:05,10 Jul,Swiss,Direct,CHF381.86,70
+ZRH,PRG,2025-07-10,ZRH,18:00,10 Jul,PRG,21:50,10 Jul,"Swiss, Eurowings, operated by Eurowings Europe Ltd",Direct,CHF191.39,70
+ZRH,PRG,2025-07-10,ZRH,07:45,10 Jul,PRG,11:45,10 Jul,Air France,1 stop,CHF236.26,70
+ZRH,PRG,2025-07-10,ZRH,13:20,10 Jul,PRG,16:05,10 Jul,Austrian Airlines,1 stop,CHF317.20,70
+ZRH,PRG,2025-07-10,ZRH,18:45,10 Jul,PRG,21:50,10 Jul,Austrian Airlines,1 stop,CHF317.20,70
+ZRH,PRG,2025-07-10,ZRH,17:35,10 Jul,PRG,22:35,10 Jul,"KLM, operated by KLM Cityhopper",1 stop,CHF222.55,70
+ZRH,PRG,2025-07-10,ZRH,07:20,10 Jul,PRG,10:35,10 Jul,"Austrian Airlines, operated by Swiss",1 stop,CHF317.21,70
+ZRH,PRG,2025-07-10,ZRH,20:00,10 Jul,PRG,23:15,10 Jul,Lufthansa,1 stop,CHF319.77,70
+ZRH,PRG,2025-07-10,ZRH,07:25,10 Jul,PRG,11:00,10 Jul,"Brussels Airlines, operated by Swiss",1 stop,CHF316.57,70
+ZRH,PRG,2025-07-10,ZRH,08:30,10 Jul,PRG,16:35,10 Jul,"Easyjet, Wizz Air Malta, SmartWings",1 stop,CHF161.68,70
+ZRH,PRG,2025-07-10,ZRH,15:40,10 Jul,PRG,19:40,10 Jul,Croatia Airlines,2 stops,CHF303.24,70
+ZRH,PRG,2025-07-11,ZRH,22:05,11 Jul,PRG,23:20,11 Jul,Swiss,Direct,CHF274.90,71
+ZRH,PRG,2025-07-11,ZRH,21:55,11 Jul,PRG,08:35,12 Jul,"Easyjet, Wizz Air Malta",1 stop,CHF116.43,71
+ZRH,PRG,2025-07-11,ZRH,07:50,11 Jul,PRG,09:05,11 Jul,"Swiss, operated by Air Baltic Corporation",Cheapest direct,CHF274.90,71
+ZRH,PRG,2025-07-11,ZRH,17:05,11 Jul,PRG,18:25,11 Jul,Swiss,Direct,CHF274.90,71
+ZRH,PRG,2025-07-11,ZRH,12:45,11 Jul,PRG,14:05,11 Jul,Swiss,Direct,CHF342.29,71
+ZRH,PRG,2025-07-11,ZRH,15:40,11 Jul,PRG,21:00,11 Jul,Eurowings,Direct,CHF135.61,71
+ZRH,PRG,2025-07-11,ZRH,17:05,11 Jul,PRG,21:00,11 Jul,"Swiss, operated by Air Baltic, Eurowings, operated by Eurowings Europe Ltd",1 stop,CHF228.42,71
+ZRH,PRG,2025-07-11,ZRH,07:00,11 Jul,PRG,13:45,11 Jul,KLM,1 stop,CHF169.79,71
+ZRH,PRG,2025-07-11,ZRH,18:45,11 Jul,PRG,21:50,11 Jul,Austrian Airlines,1 stop,CHF317.20,71
+ZRH,PRG,2025-07-11,ZRH,15:40,11 Jul,PRG,21:00,11 Jul,"Eurowings, SmartWings, operated by Eurowings",1 stop,CHF212.48,71
+ZRH,PRG,2025-07-11,ZRH,07:20,11 Jul,PRG,10:35,11 Jul,"Austrian Airlines, operated by Swiss",1 stop,CHF317.21,71
+ZRH,PRG,2025-07-11,ZRH,20:00,11 Jul,PRG,23:15,11 Jul,Lufthansa,1 stop,CHF319.77,71
+ZRH,PRG,2025-07-11,ZRH,15:10,11 Jul,PRG,20:05,11 Jul,Air Serbia,1 stop,CHF235.20,71
+ZRH,PRG,2025-07-11,ZRH,17:35,11 Jul,PRG,22:35,11 Jul,"KLM, operated by KLM Cityhopper",1 stop,CHF236.64,71
+ZRH,PRG,2025-07-11,ZRH,17:05,11 Jul,PRG,21:00,11 Jul,"Swiss, operated by Air Baltic, SmartWings, operated by Eurowings",1 stop,CHF285.73,71
+ZRH,PRG,2025-07-12,ZRH,07:50,12 Jul,PRG,09:05,12 Jul,"Swiss, operated by Air Baltic Corporation",Cheapest direct,CHF274.90,72
+ZRH,PRG,2025-07-12,ZRH,22:05,12 Jul,PRG,23:20,12 Jul,Swiss,Direct,CHF274.90,72
+ZRH,PRG,2025-07-12,ZRH,12:45,12 Jul,PRG,14:05,12 Jul,Swiss,Direct,CHF274.90,72
+ZRH,PRG,2025-07-12,ZRH,17:05,12 Jul,PRG,18:25,12 Jul,Swiss,Direct,CHF274.90,72
+ZRH,PRG,2025-07-12,ZRH,21:55,12 Jul,PRG,08:35,13 Jul,"Easyjet, Wizz Air Malta",Direct,CHF116.62,72
+ZRH,PRG,2025-07-12,ZRH,17:35,12 Jul,PRG,22:35,12 Jul,KLM,1 stop,CHF246.10,72
+ZRH,PRG,2025-07-12,ZRH,17:30,12 Jul,PRG,21:55,12 Jul,"Swiss, operated by Air Baltic, SmartWings",1 stop,CHF300.92,72
+ZRH,PRG,2025-07-12,ZRH,16:55,12 Jul,PRG,21:20,12 Jul,"Lufthansa, operated by Helvetic Airways For Swiss",1 stop,CHF312.22,72
+ZRH,PRG,2025-07-12,ZRH,13:20,12 Jul,PRG,16:05,12 Jul,Austrian Airlines,1 stop,CHF454.25,72
+ZRH,PRG,2025-07-12,ZRH,08:00,12 Jul,PRG,15:50,12 Jul,Condor,1 stop,CHF221.80,72
+ZRH,PRG,2025-07-12,ZRH,14:40,12 Jul,PRG,17:50,12 Jul,Lufthansa,1 stop,CHF482.22,72
+ZRH,PRG,2025-07-12,ZRH,13:20,12 Jul,PRG,16:05,12 Jul,"Swiss, operated by Austrian Airlines, Austrian Airlines",1 stop,CHF536.93,72
+ZRH,PRG,2025-07-12,ZRH,17:55,12 Jul,PRG,09:00,13 Jul,"Brussels Airlines, operated by Swiss, Wizz Air UK",1 stop,CHF149.63,72
+ZRH,PRG,2025-07-12,ZRH,14:50,12 Jul,PRG,21:45,12 Jul,Air France,2 stops,CHF297.95,72
+ZRH,PRG,2025-07-12,ZRH,17:50,12 Jul,PRG,21:50,12 Jul,"Austrian Airlines, operated by Swiss",1 stop,CHF454.27,72
+ZRH,PRG,2025-07-13,ZRH,07:50,13 Jul,PRG,09:05,13 Jul,"Swiss, operated by Air Baltic Corporation",Cheapest direct,CHF274.90,73
+ZRH,PRG,2025-07-13,ZRH,22:05,13 Jul,PRG,23:20,13 Jul,Swiss,Direct,CHF274.90,73
+ZRH,PRG,2025-07-13,ZRH,12:45,13 Jul,PRG,14:05,13 Jul,Swiss,Direct,CHF274.90,73
+ZRH,PRG,2025-07-13,ZRH,17:05,13 Jul,PRG,18:25,13 Jul,Swiss,Direct,CHF274.90,73
+ZRH,PRG,2025-07-13,ZRH,15:40,13 Jul,PRG,20:20,13 Jul,Eurowings,Direct,CHF154.57,73
+ZRH,PRG,2025-07-13,ZRH,17:35,13 Jul,PRG,22:35,13 Jul,KLM,1 stop,CHF156.53,73
+ZRH,PRG,2025-07-13,ZRH,18:00,13 Jul,PRG,22:15,13 Jul,"Swiss, Eurowings, operated by Eurowings Europe Ltd",1 stop,CHF202.04,73
+ZRH,PRG,2025-07-13,ZRH,15:40,13 Jul,PRG,20:20,13 Jul,"Eurowings, SmartWings, operated by Eurowings",1 stop,CHF233.92,73
+ZRH,PRG,2025-07-13,ZRH,14:35,13 Jul,PRG,20:05,13 Jul,Air Serbia,1 stop,CHF235.20,73
+ZRH,PRG,2025-07-13,ZRH,17:50,13 Jul,PRG,21:50,13 Jul,"Austrian Airlines, operated by Swiss",1 stop,CHF317.21,73
+ZRH,PRG,2025-07-13,ZRH,17:05,13 Jul,PRG,20:20,13 Jul,"Swiss, Eurowings, operated by Eurowings Europe Ltd",1 stop,CHF373.16,73
+ZRH,PRG,2025-07-13,ZRH,16:55,13 Jul,PRG,21:20,13 Jul,"Lufthansa, operated by Air Baltic Corporation For Swiss",1 stop,CHF312.22,73
+ZRH,PRG,2025-07-13,ZRH,19:25,13 Jul,PRG,08:20,14 Jul,KLM,1 stop,CHF153.69,73
+ZRH,PRG,2025-07-13,ZRH,08:30,13 Jul,PRG,16:45,13 Jul,"Easyjet, Wizz Air Malta, Transavia France",1 stop,CHF195.12,73
+ZRH,PRG,2025-07-13,ZRH,15:40,13 Jul,PRG,20:20,13 Jul,"Swiss, operated by Eurowings, SmartWings, operated by Eurowings",2 stops,CHF337.16,73
+ZRH,PRG,2025-07-14,ZRH,07:50,14 Jul,PRG,09:05,14 Jul,"Swiss, operated by Air Baltic Corporation",Cheapest direct,CHF274.90,74
+ZRH,PRG,2025-07-14,ZRH,21:55,14 Jul,PRG,08:35,15 Jul,"Easyjet, Wizz Air Malta",Direct,CHF103.16,74
+ZRH,PRG,2025-07-14,ZRH,22:05,14 Jul,PRG,23:20,14 Jul,Swiss,1 stop,CHF274.90,74
+ZRH,PRG,2025-07-14,ZRH,17:05,14 Jul,PRG,18:25,14 Jul,Swiss,Direct,CHF274.90,74
+ZRH,PRG,2025-07-14,ZRH,12:35,14 Jul,PRG,14:00,14 Jul,Swiss,Direct,CHF274.90,74
+ZRH,PRG,2025-07-14,ZRH,14:35,14 Jul,PRG,20:05,14 Jul,"Air Serbia, operated by Getjet Airlines For Air Serbia",Direct,CHF200.35,74
+ZRH,PRG,2025-07-14,ZRH,18:45,14 Jul,PRG,21:50,14 Jul,Austrian Airlines,1 stop,CHF317.20,74
+ZRH,PRG,2025-07-14,ZRH,07:25,14 Jul,PRG,12:00,14 Jul,"Swiss, Easyjet",1 stop,CHF237.38,74
+ZRH,PRG,2025-07-14,ZRH,14:40,14 Jul,PRG,17:50,14 Jul,"Lufthansa, operated by City Jet",1 stop,CHF319.77,74
+ZRH,PRG,2025-07-14,ZRH,11:50,14 Jul,PRG,17:40,14 Jul,KLM,1 stop,CHF204.66,74
+ZRH,PRG,2025-07-14,ZRH,20:00,14 Jul,PRG,23:15,14 Jul,Lufthansa,1 stop,CHF319.77,74
+ZRH,PRG,2025-07-14,ZRH,14:20,14 Jul,PRG,22:35,14 Jul,"KLM, operated by KLM Cityhopper",1 stop,CHF166.00,74
+ZRH,PRG,2025-07-14,ZRH,17:35,14 Jul,PRG,22:35,14 Jul,"KLM, operated by KLM Cityhopper",1 stop,CHF246.10,74
+ZRH,PRG,2025-07-14,ZRH,17:50,14 Jul,PRG,21:50,14 Jul,"Austrian Airlines, operated by Swiss",1 stop,CHF317.21,74
+ZRH,PRG,2025-07-14,ZRH,08:45,14 Jul,PRG,15:35,14 Jul,Eurowings,1 stop,CHF216.25,74
+ZRH,PRG,2025-07-15,ZRH,07:50,15 Jul,PRG,09:05,15 Jul,"Swiss, operated by Air Baltic Corporation",Cheapest direct,CHF274.90,75
+ZRH,PRG,2025-07-15,ZRH,21:55,15 Jul,PRG,08:35,16 Jul,"Easyjet, Wizz Air Malta",Direct,CHF103.16,75
+ZRH,PRG,2025-07-15,ZRH,22:05,15 Jul,PRG,23:20,15 Jul,Swiss,1 stop,CHF274.90,75
+ZRH,PRG,2025-07-15,ZRH,12:45,15 Jul,PRG,14:05,15 Jul,Swiss,Direct,CHF274.90,75
+ZRH,PRG,2025-07-15,ZRH,17:05,15 Jul,PRG,18:25,15 Jul,Swiss,Direct,CHF274.90,75
+ZRH,PRG,2025-07-15,ZRH,13:20,15 Jul,PRG,16:05,15 Jul,Austrian Airlines,Direct,CHF317.20,75
+ZRH,PRG,2025-07-15,ZRH,09:20,15 Jul,PRG,13:45,15 Jul,KLM,1 stop,CHF236.64,75
+ZRH,PRG,2025-07-15,ZRH,18:45,15 Jul,PRG,21:50,15 Jul,Austrian Airlines,1 stop,CHF317.20,75
+ZRH,PRG,2025-07-15,ZRH,14:40,15 Jul,PRG,17:50,15 Jul,"Lufthansa, operated by City Jet",1 stop,CHF319.77,75
+ZRH,PRG,2025-07-15,ZRH,17:35,15 Jul,PRG,22:35,15 Jul,"KLM, operated by KLM Cityhopper",1 stop,CHF228.20,75
+ZRH,PRG,2025-07-15,ZRH,07:20,15 Jul,PRG,10:35,15 Jul,"Austrian Airlines, operated by Swiss",1 stop,CHF317.21,75
+ZRH,PRG,2025-07-15,ZRH,11:50,15 Jul,PRG,17:40,15 Jul,KLM,1 stop,CHF204.66,75
+ZRH,PRG,2025-07-15,ZRH,20:00,15 Jul,PRG,23:15,15 Jul,Lufthansa,1 stop,CHF319.77,75
+ZRH,PRG,2025-07-15,ZRH,09:30,15 Jul,PRG,12:55,15 Jul,"Lufthansa, operated by Helvetic Airways For Swiss",1 stop,CHF312.22,75
+ZRH,PRG,2025-07-15,ZRH,07:00,15 Jul,PRG,13:45,15 Jul,KLM,1 stop,CHF197.20,75
+ZRH,PRG,2025-07-16,ZRH,07:50,16 Jul,PRG,09:05,16 Jul,"Swiss, operated by Air Baltic Corporation",Cheapest direct,CHF274.90,76
+ZRH,PRG,2025-07-16,ZRH,21:55,16 Jul,PRG,08:35,17 Jul,"Easyjet, Wizz Air Malta",Direct,CHF103.16,76
+ZRH,PRG,2025-07-16,ZRH,22:05,16 Jul,PRG,23:20,16 Jul,Swiss,1 stop,CHF274.90,76
+ZRH,PRG,2025-07-16,ZRH,12:45,16 Jul,PRG,14:05,16 Jul,Swiss,Direct,CHF274.90,76
+ZRH,PRG,2025-07-16,ZRH,17:05,16 Jul,PRG,18:25,16 Jul,Swiss,Direct,CHF274.90,76
+ZRH,PRG,2025-07-16,ZRH,09:20,16 Jul,PRG,13:45,16 Jul,KLM,Direct,CHF124.26,76
+ZRH,PRG,2025-07-16,ZRH,11:50,16 Jul,PRG,17:40,16 Jul,KLM,1 stop,CHF110.98,76
+ZRH,PRG,2025-07-16,ZRH,17:35,16 Jul,PRG,22:35,16 Jul,"KLM, operated by KLM Cityhopper",1 stop,CHF131.86,76
+ZRH,PRG,2025-07-16,ZRH,11:55,16 Jul,PRG,15:15,16 Jul,"Swiss, Easyjet",1 stop,CHF215.54,76
+ZRH,PRG,2025-07-16,ZRH,09:20,16 Jul,PRG,17:40,16 Jul,KLM,1 stop,CHF110.98,76
+ZRH,PRG,2025-07-16,ZRH,11:50,16 Jul,PRG,20:45,16 Jul,KLM,1 stop,CHF110.98,76
+ZRH,PRG,2025-07-16,ZRH,07:00,16 Jul,PRG,13:45,16 Jul,KLM,1 stop,CHF139.45,76
+ZRH,PRG,2025-07-16,ZRH,14:20,16 Jul,PRG,20:45,16 Jul,"KLM, operated by KLM Cityhopper",1 stop,CHF149.90,76
+ZRH,PRG,2025-07-16,ZRH,14:35,16 Jul,PRG,20:05,16 Jul,Air Serbia,1 stop,CHF169.97,76
+ZRH,PRG,2025-07-16,ZRH,11:20,16 Jul,PRG,19:35,16 Jul,Air France,1 stop,CHF128.05,76
+ZRH,PRG,2025-07-17,ZRH,07:50,17 Jul,PRG,09:05,17 Jul,"Swiss, operated by Air Baltic Corporation",Cheapest direct,CHF210.34,77
+ZRH,PRG,2025-07-17,ZRH,22:05,17 Jul,PRG,23:20,17 Jul,Swiss,Direct,CHF210.34,77
+ZRH,PRG,2025-07-17,ZRH,17:05,17 Jul,PRG,18:25,17 Jul,Swiss,Direct,CHF210.34,77
+ZRH,PRG,2025-07-17,ZRH,12:45,17 Jul,PRG,14:05,17 Jul,Swiss,Direct,CHF274.90,77
+ZRH,PRG,2025-07-17,ZRH,09:20,17 Jul,PRG,13:45,17 Jul,KLM,Direct,CHF139.45,77
+ZRH,PRG,2025-07-17,ZRH,14:20,17 Jul,PRG,20:45,17 Jul,"KLM, operated by KLM Cityhopper",1 stop,CHF124.26,77
+ZRH,PRG,2025-07-17,ZRH,17:35,17 Jul,PRG,22:35,17 Jul,"KLM, operated by KLM Cityhopper",1 stop,CHF153.69,77
+ZRH,PRG,2025-07-17,ZRH,14:20,17 Jul,PRG,22:35,17 Jul,"KLM, operated by KLM Cityhopper",1 stop,CHF110.98,77
+ZRH,PRG,2025-07-17,ZRH,18:00,17 Jul,PRG,21:50,17 Jul,"Swiss, Eurowings, operated by Eurowings Europe Ltd",1 stop,CHF202.02,77
+ZRH,PRG,2025-07-17,ZRH,07:00,17 Jul,PRG,13:45,17 Jul,KLM,1 stop,CHF135.66,77
+ZRH,PRG,2025-07-17,ZRH,11:50,17 Jul,PRG,17:40,17 Jul,KLM,1 stop,CHF153.69,77
+ZRH,PRG,2025-07-17,ZRH,14:40,17 Jul,PRG,17:55,17 Jul,"Lufthansa, operated by City Jet",1 stop,CHF251.18,77
+ZRH,PRG,2025-07-17,ZRH,20:00,17 Jul,PRG,23:15,17 Jul,Lufthansa,1 stop,CHF251.18,77
+ZRH,PRG,2025-07-17,ZRH,11:50,17 Jul,PRG,20:45,17 Jul,KLM,1 stop,CHF120.48,77
+ZRH,PRG,2025-07-17,ZRH,11:50,17 Jul,PRG,22:35,17 Jul,KLM,1 stop,CHF110.98,77
+ZRH,PRG,2025-07-18,ZRH,07:50,18 Jul,PRG,09:05,18 Jul,"Swiss, operated by Air Baltic Corporation",Cheapest direct,CHF210.34,78
+ZRH,PRG,2025-07-18,ZRH,21:55,18 Jul,PRG,08:35,19 Jul,"Easyjet, Wizz Air Malta",Direct,CHF102.75,78
+ZRH,PRG,2025-07-18,ZRH,22:05,18 Jul,PRG,23:20,18 Jul,Swiss,1 stop,CHF210.34,78
+ZRH,PRG,2025-07-18,ZRH,17:05,18 Jul,PRG,18:25,18 Jul,Swiss,Direct,CHF210.34,78
+ZRH,PRG,2025-07-18,ZRH,12:45,18 Jul,PRG,14:05,18 Jul,Swiss,Direct,CHF252.38,78
+ZRH,PRG,2025-07-18,ZRH,15:40,18 Jul,PRG,21:00,18 Jul,Eurowings,Direct,CHF135.61,78
+ZRH,PRG,2025-07-18,ZRH,20:00,18 Jul,PRG,23:15,18 Jul,Lufthansa,1 stop,CHF251.18,78
+ZRH,PRG,2025-07-18,ZRH,09:20,18 Jul,PRG,13:45,18 Jul,KLM,1 stop,CHF236.64,78
+ZRH,PRG,2025-07-18,ZRH,18:45,18 Jul,PRG,21:50,18 Jul,Austrian Airlines,1 stop,CHF317.20,78
+ZRH,PRG,2025-07-18,ZRH,17:35,18 Jul,PRG,22:35,18 Jul,"KLM, operated by KLM Cityhopper",1 stop,CHF222.55,78
+ZRH,PRG,2025-07-18,ZRH,18:55,18 Jul,PRG,23:15,18 Jul,"Lufthansa, operated by Swiss",1 stop,CHF251.19,78
+ZRH,PRG,2025-07-18,ZRH,15:10,18 Jul,PRG,20:05,18 Jul,Air Serbia,1 stop,CHF235.20,78
+ZRH,PRG,2025-07-18,ZRH,07:25,18 Jul,PRG,11:00,18 Jul,"Brussels Airlines, operated by Swiss",1 stop,CHF316.57,78
+ZRH,PRG,2025-07-18,ZRH,07:00,18 Jul,PRG,13:45,18 Jul,KLM,1 stop,CHF204.66,78
+ZRH,PRG,2025-07-18,ZRH,17:05,18 Jul,PRG,21:00,18 Jul,"Swiss, operated by Helvetic Airways, SmartWings, operated by Eurowings",1 stop,CHF309.07,78
+ZRH,PRG,2025-07-19,ZRH,07:50,19 Jul,PRG,09:05,19 Jul,"Swiss, operated by Air Baltic Corporation",Cheapest direct,CHF210.34,79
+ZRH,PRG,2025-07-19,ZRH,22:05,19 Jul,PRG,23:20,19 Jul,Swiss,Direct,CHF274.90,79
+ZRH,PRG,2025-07-19,ZRH,12:45,19 Jul,PRG,14:05,19 Jul,Swiss,Direct,CHF274.90,79
+ZRH,PRG,2025-07-19,ZRH,17:05,19 Jul,PRG,18:25,19 Jul,"Swiss, operated by Air Baltic Corporation",Direct,CHF274.90,79
+ZRH,PRG,2025-07-19,ZRH,17:35,19 Jul,PRG,22:35,19 Jul,KLM,Direct,CHF145.15,79
+ZRH,PRG,2025-07-19,ZRH,14:40,19 Jul,PRG,17:50,19 Jul,Lufthansa,1 stop,CHF319.77,79
+ZRH,PRG,2025-07-19,ZRH,20:00,19 Jul,PRG,23:15,19 Jul,Lufthansa,1 stop,CHF319.77,79
+ZRH,PRG,2025-07-19,ZRH,21:55,19 Jul,PRG,08:35,20 Jul,"Easyjet, Wizz Air Malta",1 stop,CHF138.05,79
+ZRH,PRG,2025-07-19,ZRH,14:20,19 Jul,PRG,22:35,19 Jul,"KLM, operated by KLM Cityhopper",1 stop,CHF186.83,79
+ZRH,PRG,2025-07-19,ZRH,16:55,19 Jul,PRG,21:20,19 Jul,"Lufthansa, operated by Helvetic Airways For Swiss",1 stop,CHF312.22,79
+ZRH,PRG,2025-07-19,ZRH,18:55,19 Jul,PRG,23:15,19 Jul,"Lufthansa, operated by Swiss",1 stop,CHF319.78,79
+ZRH,PRG,2025-07-19,ZRH,17:30,19 Jul,PRG,21:55,19 Jul,"Swiss, SmartWings",1 stop,CHF346.86,79
+ZRH,PRG,2025-07-19,ZRH,17:35,19 Jul,PRG,08:20,20 Jul,KLM,1 stop,CHF145.15,79
+ZRH,PRG,2025-07-19,ZRH,18:00,19 Jul,PRG,23:15,19 Jul,"Condor, Lufthansa",1 stop,CHF317.95,79
+ZRH,PRG,2025-07-19,ZRH,11:20,19 Jul,PRG,16:45,19 Jul,"Air France, SmartWings",1 stop,CHF328.44,79
+ZRH,PRG,2025-07-20,ZRH,07:50,20 Jul,PRG,09:05,20 Jul,"Swiss, operated by Air Baltic Corporation",Cheapest direct,CHF210.34,80
+ZRH,PRG,2025-07-20,ZRH,21:55,20 Jul,PRG,21:30,21 Jul,"Easyjet, Wizz Air Malta",Direct,CHF116.62,80
+ZRH,PRG,2025-07-20,ZRH,17:05,20 Jul,PRG,18:25,20 Jul,"Swiss, operated by Air Baltic Corporation",1 stop,CHF250.10,80
+ZRH,PRG,2025-07-20,ZRH,22:05,20 Jul,PRG,23:20,20 Jul,Swiss,Direct,CHF274.90,80
+ZRH,PRG,2025-07-20,ZRH,12:45,20 Jul,PRG,14:05,20 Jul,Swiss,Direct,CHF273.89,80
+ZRH,PRG,2025-07-20,ZRH,15:40,20 Jul,PRG,20:20,20 Jul,Eurowings,Direct,CHF164.07,80
+ZRH,PRG,2025-07-20,ZRH,20:00,20 Jul,PRG,23:15,20 Jul,Lufthansa,1 stop,CHF251.18,80
+ZRH,PRG,2025-07-20,ZRH,14:35,20 Jul,PRG,20:05,20 Jul,Air Serbia,1 stop,CHF169.97,80
+ZRH,PRG,2025-07-20,ZRH,07:00,20 Jul,PRG,13:45,20 Jul,KLM,1 stop,CHF166.00,80
+ZRH,PRG,2025-07-20,ZRH,06:55,20 Jul,PRG,10:55,20 Jul,"Lufthansa, operated by Helvetic Airways For Swiss",1 stop,CHF251.19,80
+ZRH,PRG,2025-07-20,ZRH,15:40,20 Jul,PRG,20:20,20 Jul,"Eurowings, SmartWings, operated by Eurowings",1 stop,CHF236.73,80
+ZRH,PRG,2025-07-20,ZRH,18:55,20 Jul,PRG,23:15,20 Jul,"Lufthansa, operated by Swiss",1 stop,CHF251.19,80
+ZRH,PRG,2025-07-20,ZRH,14:40,20 Jul,PRG,17:50,20 Jul,"Lufthansa, operated by City Jet",1 stop,CHF319.77,80
+ZRH,PRG,2025-07-20,ZRH,09:20,20 Jul,PRG,13:45,20 Jul,"KLM, operated by KLM Cityhopper",1 stop,CHF263.09,80
+ZRH,PRG,2025-07-20,ZRH,17:35,20 Jul,PRG,22:35,20 Jul,KLM,1 stop,CHF246.10,80
+ZRH,PRG,2025-07-21,ZRH,12:35,21 Jul,PRG,14:00,21 Jul,Swiss,Cheapest direct,CHF210.34,81
+ZRH,PRG,2025-07-21,ZRH,21:55,21 Jul,PRG,08:35,22 Jul,"Easyjet, Wizz Air Malta",Direct,CHF103.16,81
+ZRH,PRG,2025-07-21,ZRH,07:50,21 Jul,PRG,09:05,21 Jul,"Swiss, operated by Air Baltic Corporation",1 stop,CHF274.90,81
+ZRH,PRG,2025-07-21,ZRH,22:05,21 Jul,PRG,23:20,21 Jul,Swiss,Direct,CHF274.90,81
+ZRH,PRG,2025-07-21,ZRH,17:05,21 Jul,PRG,18:25,21 Jul,Swiss,Direct,CHF274.90,81
+ZRH,PRG,2025-07-21,ZRH,17:35,21 Jul,PRG,22:35,21 Jul,"KLM, operated by KLM Cityhopper",Direct,CHF131.86,81
+ZRH,PRG,2025-07-21,ZRH,14:35,21 Jul,PRG,20:05,21 Jul,"Air Serbia, operated by Getjet Airlines For Air Serbia",1 stop,CHF169.97,81
+ZRH,PRG,2025-07-21,ZRH,13:20,21 Jul,PRG,16:05,21 Jul,Austrian Airlines,1 stop,CHF317.20,81
+ZRH,PRG,2025-07-21,ZRH,20:40,21 Jul,PRG,08:45,22 Jul,Air Serbia,1 stop,CHF110.54,81
+ZRH,PRG,2025-07-21,ZRH,14:40,21 Jul,PRG,17:50,21 Jul,"Lufthansa, operated by City Jet",1 stop,CHF310.36,81
+ZRH,PRG,2025-07-21,ZRH,18:45,21 Jul,PRG,21:50,21 Jul,Austrian Airlines,1 stop,CHF317.20,81
+ZRH,PRG,2025-07-21,ZRH,19:25,21 Jul,PRG,08:10,22 Jul,KLM,1 stop,CHF110.98,81
+ZRH,PRG,2025-07-21,ZRH,07:25,21 Jul,PRG,12:00,21 Jul,"Swiss, Easyjet",1 stop,CHF240.40,81
+ZRH,PRG,2025-07-21,ZRH,08:45,21 Jul,PRG,15:35,21 Jul,Eurowings,1 stop,CHF183.05,81
+ZRH,PRG,2025-07-21,ZRH,20:00,21 Jul,PRG,23:15,21 Jul,Lufthansa,1 stop,CHF319.77,81
+ZRH,PRG,2025-07-22,ZRH,07:50,22 Jul,PRG,09:05,22 Jul,"Swiss, operated by Air Baltic Corporation",Cheapest direct,CHF210.34,82
+ZRH,PRG,2025-07-22,ZRH,12:45,22 Jul,PRG,14:05,22 Jul,Swiss,Direct,CHF210.34,82
+ZRH,PRG,2025-07-22,ZRH,22:05,22 Jul,PRG,23:20,22 Jul,Swiss,Direct,CHF274.90,82
+ZRH,PRG,2025-07-22,ZRH,17:05,22 Jul,PRG,18:25,22 Jul,Swiss,Direct,CHF274.90,82
+ZRH,PRG,2025-07-22,ZRH,13:20,22 Jul,PRG,16:05,22 Jul,Austrian Airlines,Direct,CHF248.59,82
+ZRH,PRG,2025-07-22,ZRH,11:50,22 Jul,PRG,17:40,22 Jul,KLM,1 stop,CHF153.69,82
+ZRH,PRG,2025-07-22,ZRH,14:40,22 Jul,PRG,17:50,22 Jul,"Lufthansa, operated by City Jet",1 stop,CHF251.18,82
+ZRH,PRG,2025-07-22,ZRH,17:35,22 Jul,PRG,22:35,22 Jul,"KLM, operated by KLM Cityhopper",1 stop,CHF178.33,82
+ZRH,PRG,2025-07-22,ZRH,07:20,22 Jul,PRG,10:35,22 Jul,"Austrian Airlines, operated by Swiss",1 stop,CHF248.60,82
+ZRH,PRG,2025-07-22,ZRH,21:55,22 Jul,PRG,08:35,23 Jul,"Easyjet, Wizz Air Malta",1 stop,CHF103.16,82
+ZRH,PRG,2025-07-22,ZRH,06:55,22 Jul,PRG,10:55,22 Jul,"Lufthansa, operated by Helvetic Airways For Swiss",1 stop,CHF251.19,82
+ZRH,PRG,2025-07-22,ZRH,09:20,22 Jul,PRG,13:45,22 Jul,KLM,1 stop,CHF236.64,82
+ZRH,PRG,2025-07-22,ZRH,18:45,22 Jul,PRG,21:50,22 Jul,Austrian Airlines,1 stop,CHF317.20,82
+ZRH,PRG,2025-07-22,ZRH,20:00,22 Jul,PRG,23:15,22 Jul,Lufthansa,1 stop,CHF319.77,82
+ZRH,PRG,2025-07-22,ZRH,09:30,22 Jul,PRG,12:55,22 Jul,"Lufthansa, operated by Helvetic Airways For Swiss",1 stop,CHF312.22,82
+ZRH,PRG,2025-07-23,ZRH,12:45,23 Jul,PRG,14:05,23 Jul,Swiss,Cheapest direct,CHF210.34,83
+ZRH,PRG,2025-07-23,ZRH,07:50,23 Jul,PRG,09:05,23 Jul,"Swiss, operated by Air Baltic Corporation",Direct,CHF274.90,83
+ZRH,PRG,2025-07-23,ZRH,22:05,23 Jul,PRG,23:20,23 Jul,Swiss,Direct,CHF274.90,83
+ZRH,PRG,2025-07-23,ZRH,17:05,23 Jul,PRG,18:25,23 Jul,Swiss,Direct,CHF274.90,83
+ZRH,PRG,2025-07-23,ZRH,17:35,23 Jul,PRG,22:35,23 Jul,"KLM, operated by KLM Cityhopper",Direct,CHF139.45,83
+ZRH,PRG,2025-07-23,ZRH,14:20,23 Jul,PRG,20:45,23 Jul,"KLM, operated by KLM Cityhopper",1 stop,CHF115.72,83
+ZRH,PRG,2025-07-23,ZRH,09:20,23 Jul,PRG,13:45,23 Jul,KLM,1 stop,CHF160.33,83
+ZRH,PRG,2025-07-23,ZRH,11:50,23 Jul,PRG,17:40,23 Jul,KLM,1 stop,CHF139.45,83
+ZRH,PRG,2025-07-23,ZRH,13:20,23 Jul,PRG,16:05,23 Jul,Austrian Airlines,1 stop,CHF248.59,83
+ZRH,PRG,2025-07-23,ZRH,09:20,23 Jul,PRG,17:40,23 Jul,KLM,1 stop,CHF120.48,83
+ZRH,PRG,2025-07-23,ZRH,14:40,23 Jul,PRG,17:50,23 Jul,"Lufthansa, operated by City Jet",1 stop,CHF251.18,83
+ZRH,PRG,2025-07-23,ZRH,21:55,23 Jul,PRG,08:35,24 Jul,"Easyjet, Wizz Air Malta",1 stop,CHF103.16,83
+ZRH,PRG,2025-07-23,ZRH,11:55,23 Jul,PRG,15:15,23 Jul,"Swiss, Easyjet",1 stop,CHF261.09,83
+ZRH,PRG,2025-07-23,ZRH,14:20,23 Jul,PRG,22:35,23 Jul,"KLM, operated by KLM Cityhopper",1 stop,CHF135.66,83
+ZRH,PRG,2025-07-23,ZRH,07:00,23 Jul,PRG,13:45,23 Jul,KLM,1 stop,CHF160.33,83
+ZRH,PRG,2025-07-24,ZRH,07:50,24 Jul,PRG,09:05,24 Jul,"Swiss, operated by Air Baltic Corporation",Cheapest direct,CHF210.34,84
+ZRH,PRG,2025-07-24,ZRH,22:05,24 Jul,PRG,23:20,24 Jul,Swiss,Direct,CHF210.34,84
+ZRH,PRG,2025-07-24,ZRH,17:05,24 Jul,PRG,18:25,24 Jul,Swiss,Direct,CHF210.34,84
+ZRH,PRG,2025-07-24,ZRH,12:45,24 Jul,PRG,14:05,24 Jul,Swiss,Direct,CHF274.90,84
+ZRH,PRG,2025-07-24,ZRH,17:35,24 Jul,PRG,22:35,24 Jul,"KLM, operated by KLM Cityhopper",Direct,CHF139.45,84
+ZRH,PRG,2025-07-24,ZRH,09:20,24 Jul,PRG,13:45,24 Jul,KLM,1 stop,CHF166.00,84
+ZRH,PRG,2025-07-24,ZRH,18:00,24 Jul,PRG,21:50,24 Jul,"Swiss, Eurowings, operated by Eurowings Europe Ltd",1 stop,CHF202.10,84
+ZRH,PRG,2025-07-24,ZRH,07:45,24 Jul,PRG,11:45,24 Jul,Air France,1 stop,CHF207.93,84
+ZRH,PRG,2025-07-24,ZRH,11:50,24 Jul,PRG,17:40,24 Jul,KLM,1 stop,CHF160.33,84
+ZRH,PRG,2025-07-24,ZRH,07:00,24 Jul,PRG,13:45,24 Jul,KLM,1 stop,CHF145.15,84
+ZRH,PRG,2025-07-24,ZRH,14:40,24 Jul,PRG,17:55,24 Jul,"Lufthansa, operated by City Jet",1 stop,CHF251.18,84
+ZRH,PRG,2025-07-24,ZRH,20:00,24 Jul,PRG,23:15,24 Jul,Lufthansa,1 stop,CHF251.18,84
+ZRH,PRG,2025-07-24,ZRH,21:55,24 Jul,PRG,08:35,25 Jul,"Easyjet, Wizz Air Malta",1 stop,CHF103.16,84
+ZRH,PRG,2025-07-24,ZRH,18:45,24 Jul,PRG,21:50,24 Jul,Austrian Airlines,1 stop,CHF281.31,84
+ZRH,PRG,2025-07-24,ZRH,13:20,24 Jul,PRG,16:05,24 Jul,Austrian Airlines,1 stop,CHF317.20,84
+ZRH,PRG,2025-07-25,ZRH,22:05,25 Jul,PRG,23:20,25 Jul,Swiss,Direct,CHF210.34,85
+ZRH,PRG,2025-07-25,ZRH,21:55,25 Jul,PRG,08:35,26 Jul,"Easyjet, Wizz Air Malta",1 stop,CHF111.33,85
+ZRH,PRG,2025-07-25,ZRH,07:50,25 Jul,PRG,09:05,25 Jul,"Swiss, operated by Air Baltic Corporation",Cheapest direct,CHF210.34,85
+ZRH,PRG,2025-07-25,ZRH,17:05,25 Jul,PRG,18:25,25 Jul,Swiss,Direct,CHF210.34,85
+ZRH,PRG,2025-07-25,ZRH,12:45,25 Jul,PRG,14:05,25 Jul,Swiss,Direct,CHF248.48,85
+ZRH,PRG,2025-07-25,ZRH,17:35,25 Jul,PRG,22:35,25 Jul,"KLM, operated by KLM Cityhopper",Direct,CHF131.86,85
+ZRH,PRG,2025-07-25,ZRH,15:40,25 Jul,PRG,21:00,25 Jul,Eurowings,1 stop,CHF135.61,85
+ZRH,PRG,2025-07-25,ZRH,11:50,25 Jul,PRG,17:40,25 Jul,KLM,1 stop,CHF131.86,85
+ZRH,PRG,2025-07-25,ZRH,13:20,25 Jul,PRG,16:05,25 Jul,Austrian Airlines,1 stop,CHF243.52,85
+ZRH,PRG,2025-07-25,ZRH,09:20,25 Jul,PRG,13:45,25 Jul,KLM,1 stop,CHF191.52,85
+ZRH,PRG,2025-07-25,ZRH,07:20,25 Jul,PRG,10:35,25 Jul,"Austrian Airlines, operated by Swiss",1 stop,CHF248.60,85
+ZRH,PRG,2025-07-25,ZRH,20:00,25 Jul,PRG,23:15,25 Jul,Lufthansa,1 stop,CHF251.18,85
+ZRH,PRG,2025-07-25,ZRH,09:20,25 Jul,PRG,17:40,25 Jul,KLM,1 stop,CHF131.86,85
+ZRH,PRG,2025-07-25,ZRH,18:45,25 Jul,PRG,21:50,25 Jul,Austrian Airlines,1 stop,CHF279.32,85
+ZRH,PRG,2025-07-25,ZRH,13:15,25 Jul,PRG,16:05,25 Jul,"Lufthansa, operated by Helvetic Airways For Swiss",1 stop,CHF312.22,85
+ZRH,PRG,2025-07-26,ZRH,07:50,26 Jul,PRG,09:05,26 Jul,"Swiss, operated by Air Baltic Corporation",Cheapest direct,CHF210.34,86
+ZRH,PRG,2025-07-26,ZRH,12:45,26 Jul,PRG,14:05,26 Jul,Swiss,Direct,CHF210.34,86
+ZRH,PRG,2025-07-26,ZRH,22:05,26 Jul,PRG,23:20,26 Jul,Swiss,Direct,CHF274.90,86
+ZRH,PRG,2025-07-26,ZRH,17:05,26 Jul,PRG,18:25,26 Jul,"Swiss, operated by Air Baltic Corporation",Direct,CHF274.90,86
+ZRH,PRG,2025-07-26,ZRH,07:00,26 Jul,PRG,11:10,26 Jul,KLM,Direct,CHF149.90,86
+ZRH,PRG,2025-07-26,ZRH,17:35,26 Jul,PRG,22:35,26 Jul,KLM,1 stop,CHF139.45,86
+ZRH,PRG,2025-07-26,ZRH,11:50,26 Jul,PRG,17:40,26 Jul,KLM,1 stop,CHF153.69,86
+ZRH,PRG,2025-07-26,ZRH,14:40,26 Jul,PRG,17:50,26 Jul,Lufthansa,1 stop,CHF251.18,86
+ZRH,PRG,2025-07-26,ZRH,21:55,26 Jul,PRG,08:35,27 Jul,"Easyjet, Wizz Air Malta",1 stop,CHF103.16,86
+ZRH,PRG,2025-07-26,ZRH,07:00,26 Jul,PRG,17:40,26 Jul,KLM,1 stop,CHF110.98,86
+ZRH,PRG,2025-07-26,ZRH,14:20,26 Jul,PRG,22:35,26 Jul,"KLM, operated by KLM Cityhopper",1 stop,CHF139.45,86
+ZRH,PRG,2025-07-26,ZRH,20:00,26 Jul,PRG,23:15,26 Jul,Lufthansa,1 stop,CHF319.77,86
+ZRH,PRG,2025-07-26,ZRH,09:30,26 Jul,PRG,12:55,26 Jul,"Lufthansa, operated by Helvetic Airways For Swiss",1 stop,CHF312.22,86
+ZRH,PRG,2025-07-26,ZRH,13:20,26 Jul,PRG,16:05,26 Jul,Austrian Airlines,1 stop,CHF370.98,86
+ZRH,PRG,2025-07-26,ZRH,14:20,26 Jul,PRG,20:45,26 Jul,"KLM, operated by KLM Cityhopper",1 stop,CHF197.20,86
+ZRH,PRG,2025-07-27,ZRH,07:50,27 Jul,PRG,09:05,27 Jul,"Swiss, operated by Air Baltic Corporation",Cheapest direct,CHF210.34,87
+ZRH,PRG,2025-07-27,ZRH,21:55,27 Jul,PRG,21:30,28 Jul,"Easyjet, Wizz Air Malta",Direct,CHF103.16,87
+ZRH,PRG,2025-07-27,ZRH,12:45,27 Jul,PRG,14:05,27 Jul,Swiss,1 stop,CHF210.34,87
+ZRH,PRG,2025-07-27,ZRH,17:05,27 Jul,PRG,18:25,27 Jul,"Swiss, operated by Air Baltic Corporation",Direct,CHF210.34,87
+ZRH,PRG,2025-07-27,ZRH,22:05,27 Jul,PRG,23:20,27 Jul,Swiss,Direct,CHF274.90,87
+ZRH,PRG,2025-07-27,ZRH,15:40,27 Jul,PRG,20:20,27 Jul,Eurowings,Direct,CHF154.57,87
+ZRH,PRG,2025-07-27,ZRH,17:35,27 Jul,PRG,22:35,27 Jul,KLM,1 stop,CHF149.90,87
+ZRH,PRG,2025-07-27,ZRH,18:45,27 Jul,PRG,21:50,27 Jul,Austrian Airlines,1 stop,CHF248.59,87
+ZRH,PRG,2025-07-27,ZRH,14:40,27 Jul,PRG,17:50,27 Jul,"Lufthansa, operated by City Jet",1 stop,CHF251.18,87
+ZRH,PRG,2025-07-27,ZRH,13:20,27 Jul,PRG,16:05,27 Jul,Austrian Airlines,1 stop,CHF281.14,87
+ZRH,PRG,2025-07-27,ZRH,20:00,27 Jul,PRG,23:15,27 Jul,Lufthansa,1 stop,CHF251.18,87
+ZRH,PRG,2025-07-27,ZRH,14:35,27 Jul,PRG,20:05,27 Jul,Air Serbia,1 stop,CHF169.97,87
+ZRH,PRG,2025-07-27,ZRH,18:00,27 Jul,PRG,22:15,27 Jul,"Swiss, Eurowings, operated by Eurowings Europe Ltd",1 stop,CHF212.63,87
+ZRH,PRG,2025-07-27,ZRH,17:50,27 Jul,PRG,21:50,27 Jul,"Austrian Airlines, operated by Swiss",1 stop,CHF248.60,87
+ZRH,PRG,2025-07-27,ZRH,20:40,27 Jul,PRG,08:45,28 Jul,Air Serbia,1 stop,CHF110.54,87
+ZRH,PRG,2025-07-28,ZRH,12:35,28 Jul,PRG,14:00,28 Jul,Swiss,Cheapest direct,CHF210.34,88
+ZRH,PRG,2025-07-28,ZRH,07:50,28 Jul,PRG,09:05,28 Jul,"Swiss, operated by Air Baltic Corporation",Direct,CHF274.90,88
+ZRH,PRG,2025-07-28,ZRH,22:05,28 Jul,PRG,23:20,28 Jul,Swiss,Direct,CHF274.90,88
+ZRH,PRG,2025-07-28,ZRH,17:05,28 Jul,PRG,18:25,28 Jul,Swiss,Direct,CHF274.90,88
+ZRH,PRG,2025-07-28,ZRH,17:35,28 Jul,PRG,22:35,28 Jul,"KLM, operated by KLM Cityhopper",Direct,CHF139.45,88
+ZRH,PRG,2025-07-28,ZRH,14:35,28 Jul,PRG,20:05,28 Jul,"Air Serbia, operated by Getjet Airlines For Air Serbia",1 stop,CHF145.51,88
+ZRH,PRG,2025-07-28,ZRH,11:50,28 Jul,PRG,17:40,28 Jul,KLM,1 stop,CHF139.45,88
+ZRH,PRG,2025-07-28,ZRH,14:20,28 Jul,PRG,22:35,28 Jul,"KLM, operated by KLM Cityhopper",1 stop,CHF120.48,88
+ZRH,PRG,2025-07-28,ZRH,14:40,28 Jul,PRG,17:50,28 Jul,"Lufthansa, operated by City Jet",1 stop,CHF251.18,88
+ZRH,PRG,2025-07-28,ZRH,13:20,28 Jul,PRG,16:05,28 Jul,Austrian Airlines,1 stop,CHF284.00,88
+ZRH,PRG,2025-07-28,ZRH,21:55,28 Jul,PRG,08:35,29 Jul,"Easyjet, Wizz Air Malta",1 stop,CHF103.16,88
+ZRH,PRG,2025-07-28,ZRH,07:25,28 Jul,PRG,12:00,28 Jul,"Swiss, Easyjet",1 stop,CHF213.21,88
+ZRH,PRG,2025-07-28,ZRH,08:45,28 Jul,PRG,15:35,28 Jul,Eurowings,1 stop,CHF164.07,88
+ZRH,PRG,2025-07-28,ZRH,08:30,28 Jul,PRG,21:30,28 Jul,"Easyjet, Wizz Air Malta",1 stop,CHF103.16,88
+ZRH,PRG,2025-07-28,ZRH,11:50,28 Jul,PRG,22:35,28 Jul,KLM,1 stop,CHF120.48,88
+ZRH,PRG,2025-07-29,ZRH,07:50,29 Jul,PRG,09:05,29 Jul,"Swiss, operated by Air Baltic Corporation",Cheapest direct,CHF210.34,89
+ZRH,PRG,2025-07-29,ZRH,21:55,29 Jul,PRG,08:35,30 Jul,"Easyjet, Wizz Air Malta",Direct,CHF103.16,89
+ZRH,PRG,2025-07-29,ZRH,12:45,29 Jul,PRG,14:05,29 Jul,Swiss,1 stop,CHF210.34,89
+ZRH,PRG,2025-07-29,ZRH,22:05,29 Jul,PRG,23:20,29 Jul,Swiss,Direct,CHF274.90,89
+ZRH,PRG,2025-07-29,ZRH,17:05,29 Jul,PRG,18:25,29 Jul,"Swiss, operated by Air Baltic Corporation",Direct,CHF274.90,89
+ZRH,PRG,2025-07-29,ZRH,17:35,29 Jul,PRG,22:35,29 Jul,"KLM, operated by KLM Cityhopper",Direct,CHF110.98,89
+ZRH,PRG,2025-07-29,ZRH,07:45,29 Jul,PRG,11:45,29 Jul,Air France,1 stop,CHF144.19,89
+ZRH,PRG,2025-07-29,ZRH,11:50,29 Jul,PRG,17:40,29 Jul,KLM,1 stop,CHF131.86,89
+ZRH,PRG,2025-07-29,ZRH,18:10,29 Jul,PRG,23:50,29 Jul,"Condor, SmartWings",1 stop,CHF134.82,89
+ZRH,PRG,2025-07-29,ZRH,13:20,29 Jul,PRG,16:05,29 Jul,Austrian Airlines,1 stop,CHF248.59,89
+ZRH,PRG,2025-07-29,ZRH,14:20,29 Jul,PRG,22:35,29 Jul,"KLM, operated by KLM Cityhopper",1 stop,CHF110.98,89
+ZRH,PRG,2025-07-29,ZRH,09:20,29 Jul,PRG,13:45,29 Jul,KLM,1 stop,CHF182.06,89
+ZRH,PRG,2025-07-29,ZRH,14:40,29 Jul,PRG,17:50,29 Jul,"Lufthansa, operated by City Jet",1 stop,CHF251.18,89
+ZRH,PRG,2025-07-29,ZRH,07:20,29 Jul,PRG,10:35,29 Jul,"Austrian Airlines, operated by Swiss",1 stop,CHF248.60,89
+ZRH,PRG,2025-07-29,ZRH,09:20,29 Jul,PRG,17:40,29 Jul,KLM,1 stop,CHF124.26,89
+ZRH,PRG,2025-07-30,ZRH,12:45,30 Jul,PRG,14:05,30 Jul,Swiss,Cheapest direct,CHF210.34,90
+ZRH,PRG,2025-07-30,ZRH,07:50,30 Jul,PRG,09:05,30 Jul,"Swiss, operated by Air Baltic Corporation",Direct,CHF274.90,90
+ZRH,PRG,2025-07-30,ZRH,22:05,30 Jul,PRG,23:20,30 Jul,Swiss,Direct,CHF274.90,90
+ZRH,PRG,2025-07-30,ZRH,17:05,30 Jul,PRG,18:25,30 Jul,"Swiss, operated by Air Baltic Corporation",Direct,CHF274.90,90
+ZRH,PRG,2025-07-30,ZRH,09:20,30 Jul,PRG,13:45,30 Jul,KLM,Direct,CHF131.86,90
+ZRH,PRG,2025-07-30,ZRH,11:50,30 Jul,PRG,17:40,30 Jul,KLM,1 stop,CHF120.48,90
+ZRH,PRG,2025-07-30,ZRH,14:20,30 Jul,PRG,20:45,30 Jul,"KLM, operated by KLM Cityhopper",1 stop,CHF124.26,90
+ZRH,PRG,2025-07-30,ZRH,07:00,30 Jul,PRG,13:45,30 Jul,KLM,1 stop,CHF124.26,90
+ZRH,PRG,2025-07-30,ZRH,13:20,30 Jul,PRG,16:05,30 Jul,Austrian Airlines,1 stop,CHF248.59,90
+ZRH,PRG,2025-07-30,ZRH,09:20,30 Jul,PRG,17:40,30 Jul,KLM,1 stop,CHF110.98,90
+ZRH,PRG,2025-07-30,ZRH,17:35,30 Jul,PRG,22:35,30 Jul,"KLM, operated by KLM Cityhopper",1 stop,CHF166.00,90
+ZRH,PRG,2025-07-30,ZRH,14:20,30 Jul,PRG,22:35,30 Jul,"KLM, operated by KLM Cityhopper",1 stop,CHF120.48,90
+ZRH,PRG,2025-07-30,ZRH,14:40,30 Jul,PRG,17:50,30 Jul,"Lufthansa, operated by City Jet",1 stop,CHF251.18,90
+ZRH,PRG,2025-07-30,ZRH,21:55,30 Jul,PRG,08:35,31 Jul,"Easyjet, Wizz Air Malta",1 stop,CHF103.16,90
+ZRH,PRG,2025-07-30,ZRH,11:50,30 Jul,PRG,20:45,30 Jul,KLM,1 stop,CHF124.26,90
+ZRH,PRG,2025-07-31,ZRH,07:50,31 Jul,PRG,09:05,31 Jul,"Swiss, operated by Air Baltic Corporation",Cheapest direct,CHF210.34,91
+ZRH,PRG,2025-07-31,ZRH,22:05,31 Jul,PRG,23:20,31 Jul,Swiss,Direct,CHF210.34,91
+ZRH,PRG,2025-07-31,ZRH,17:05,31 Jul,PRG,18:25,31 Jul,Swiss,Direct,CHF210.34,91
+ZRH,PRG,2025-07-31,ZRH,12:45,31 Jul,PRG,14:05,31 Jul,Swiss,Direct,CHF251.08,91
+ZRH,PRG,2025-07-31,ZRH,09:20,31 Jul,PRG,13:45,31 Jul,KLM,Direct,CHF182.06,91
+ZRH,PRG,2025-07-31,ZRH,14:20,31 Jul,PRG,20:45,31 Jul,"KLM, operated by KLM Cityhopper",1 stop,CHF139.45,91
+ZRH,PRG,2025-07-31,ZRH,07:45,31 Jul,PRG,11:45,31 Jul,Air France,1 stop,CHF204.29,91
+ZRH,PRG,2025-07-31,ZRH,14:40,31 Jul,PRG,17:55,31 Jul,"Lufthansa, operated by City Jet",1 stop,CHF251.18,91
+ZRH,PRG,2025-07-31,ZRH,20:00,31 Jul,PRG,23:15,31 Jul,Lufthansa,1 stop,CHF251.18,91
+ZRH,PRG,2025-07-31,ZRH,11:50,31 Jul,PRG,17:40,31 Jul,KLM,1 stop,CHF169.79,91
+ZRH,PRG,2025-07-31,ZRH,14:20,31 Jul,PRG,22:35,31 Jul,"KLM, operated by KLM Cityhopper",1 stop,CHF132.07,91
+ZRH,PRG,2025-07-31,ZRH,07:00,31 Jul,PRG,13:45,31 Jul,KLM,1 stop,CHF153.69,91
+ZRH,PRG,2025-07-31,ZRH,13:20,31 Jul,PRG,16:05,31 Jul,Austrian Airlines,1 stop,CHF317.20,91
+ZRH,PRG,2025-07-31,ZRH,06:55,31 Jul,PRG,10:55,31 Jul,"Lufthansa, operated by Helvetic Airways For Swiss",1 stop,CHF251.19,91
+ZRH,PRG,2025-07-31,ZRH,18:00,31 Jul,PRG,21:50,31 Jul,"Swiss, Eurowings, operated by Eurowings Europe Ltd",1 stop,CHF263.59,91
+ZRH,PRG,2025-08-01,ZRH,07:50,1 Aug,PRG,09:05,1 Aug,"Swiss, operated by Air Baltic Corporation",Cheapest direct,CHF210.34,92
+ZRH,PRG,2025-08-01,ZRH,22:05,1 Aug,PRG,23:20,1 Aug,Swiss,Direct,CHF210.34,92
+ZRH,PRG,2025-08-01,ZRH,17:05,1 Aug,PRG,18:25,1 Aug,"Swiss, operated by Helvetic Airways",Direct,CHF210.34,92
+ZRH,PRG,2025-08-01,ZRH,12:45,1 Aug,PRG,14:05,1 Aug,Swiss,Direct,CHF240.71,92
+ZRH,PRG,2025-08-01,ZRH,17:35,1 Aug,PRG,22:35,1 Aug,"KLM, operated by KLM Cityhopper",Direct,CHF139.45,92
+ZRH,PRG,2025-08-01,ZRH,11:50,1 Aug,PRG,17:40,1 Aug,KLM,1 stop,CHF124.26,92
+ZRH,PRG,2025-08-01,ZRH,15:40,1 Aug,PRG,21:00,1 Aug,Eurowings,1 stop,CHF135.61,92
+ZRH,PRG,2025-08-01,ZRH,13:20,1 Aug,PRG,16:05,1 Aug,Austrian Airlines,1 stop,CHF248.59,92
+ZRH,PRG,2025-08-01,ZRH,18:45,1 Aug,PRG,21:50,1 Aug,Austrian Airlines,1 stop,CHF248.59,92
+ZRH,PRG,2025-08-01,ZRH,20:00,1 Aug,PRG,23:15,1 Aug,Lufthansa,1 stop,CHF251.18,92
+ZRH,PRG,2025-08-01,ZRH,11:50,1 Aug,PRG,22:35,1 Aug,KLM,1 stop,CHF110.98,92
+ZRH,PRG,2025-08-01,ZRH,13:15,1 Aug,PRG,16:05,1 Aug,"Lufthansa, operated by Helvetic Airways For Swiss",1 stop,CHF312.22,92
+ZRH,PRG,2025-08-01,ZRH,14:40,1 Aug,PRG,17:50,1 Aug,"Lufthansa, operated by City Jet",1 stop,CHF287.41,92
+ZRH,PRG,2025-08-01,ZRH,09:20,1 Aug,PRG,13:45,1 Aug,KLM,1 stop,CHF228.20,92
+ZRH,PRG,2025-08-01,ZRH,17:50,1 Aug,PRG,21:50,1 Aug,"Austrian Airlines, operated by Swiss",1 stop,CHF248.60,92
+ZRH,PRG,2025-08-02,ZRH,07:50,2 Aug,PRG,09:05,2 Aug,"Swiss, operated by Air Baltic Corporation",Cheapest direct,CHF210.34,93
+ZRH,PRG,2025-08-02,ZRH,14:20,2 Aug,PRG,22:35,2 Aug,"KLM, operated by KLM Cityhopper",Direct,CHF110.98,93
+ZRH,PRG,2025-08-02,ZRH,12:45,2 Aug,PRG,14:05,2 Aug,Swiss,1 stop,CHF210.34,93
+ZRH,PRG,2025-08-02,ZRH,22:05,2 Aug,PRG,23:20,2 Aug,Swiss,Direct,CHF274.90,93
+ZRH,PRG,2025-08-02,ZRH,17:05,2 Aug,PRG,18:25,2 Aug,"Swiss, operated by Helvetic Airways",Direct,CHF274.90,93
+ZRH,PRG,2025-08-02,ZRH,11:50,2 Aug,PRG,17:40,2 Aug,KLM,Direct,CHF139.45,93
+ZRH,PRG,2025-08-02,ZRH,14:40,2 Aug,PRG,17:50,2 Aug,Lufthansa,1 stop,CHF251.18,93
+ZRH,PRG,2025-08-02,ZRH,14:20,2 Aug,PRG,20:45,2 Aug,"KLM, operated by KLM Cityhopper",1 stop,CHF153.69,93
+ZRH,PRG,2025-08-02,ZRH,13:20,2 Aug,PRG,16:05,2 Aug,Austrian Airlines,1 stop,CHF309.68,93
+ZRH,PRG,2025-08-02,ZRH,17:35,2 Aug,PRG,22:35,2 Aug,KLM,1 stop,CHF204.66,93
+ZRH,PRG,2025-08-02,ZRH,21:55,2 Aug,PRG,08:35,3 Aug,"Easyjet, Wizz Air Malta",1 stop,CHF120.90,93
+ZRH,PRG,2025-08-02,ZRH,09:30,2 Aug,PRG,12:55,2 Aug,"Lufthansa, operated by Helvetic Airways For Swiss",1 stop,CHF297.97,93
+ZRH,PRG,2025-08-02,ZRH,20:00,2 Aug,PRG,23:15,2 Aug,Lufthansa,1 stop,CHF319.77,93
+ZRH,PRG,2025-08-02,ZRH,07:00,2 Aug,PRG,11:10,2 Aug,KLM,1 stop,CHF281.08,93
+ZRH,PRG,2025-08-02,ZRH,11:50,2 Aug,PRG,20:45,2 Aug,KLM,1 stop,CHF160.33,93
+ZRH,PRG,2025-08-03,ZRH,07:50,3 Aug,PRG,09:05,3 Aug,"Swiss, operated by Air Baltic Corporation",Cheapest direct,CHF210.34,94
+ZRH,PRG,2025-08-03,ZRH,12:45,3 Aug,PRG,14:05,3 Aug,Swiss,Direct,CHF210.34,94
+ZRH,PRG,2025-08-03,ZRH,17:05,3 Aug,PRG,18:25,3 Aug,"Swiss, operated by Air Baltic Corporation",Direct,CHF210.34,94
+ZRH,PRG,2025-08-03,ZRH,22:05,3 Aug,PRG,23:20,3 Aug,Swiss,Direct,CHF274.90,94
+ZRH,PRG,2025-08-03,ZRH,15:40,3 Aug,PRG,20:20,3 Aug,Eurowings,Direct,CHF154.57,94
+ZRH,PRG,2025-08-03,ZRH,17:35,3 Aug,PRG,22:35,3 Aug,KLM,1 stop,CHF153.69,94
+ZRH,PRG,2025-08-03,ZRH,14:40,3 Aug,PRG,17:50,3 Aug,"Lufthansa, operated by City Jet",1 stop,CHF251.18,94
+ZRH,PRG,2025-08-03,ZRH,20:00,3 Aug,PRG,23:15,3 Aug,Lufthansa,1 stop,CHF251.18,94
+ZRH,PRG,2025-08-03,ZRH,09:20,3 Aug,PRG,13:45,3 Aug,"KLM, operated by KLM Cityhopper",1 stop,CHF200.99,94
+ZRH,PRG,2025-08-03,ZRH,14:20,3 Aug,PRG,20:45,3 Aug,"KLM, operated by KLM Cityhopper",1 stop,CHF166.00,94
+ZRH,PRG,2025-08-03,ZRH,13:20,3 Aug,PRG,16:05,3 Aug,Austrian Airlines,1 stop,CHF317.20,94
+ZRH,PRG,2025-08-03,ZRH,18:45,3 Aug,PRG,21:50,3 Aug,Austrian Airlines,1 stop,CHF317.20,94
+ZRH,PRG,2025-08-03,ZRH,18:00,3 Aug,PRG,22:15,3 Aug,"Swiss, Eurowings, operated by Eurowings Europe Ltd",1 stop,CHF253.06,94
+ZRH,PRG,2025-08-03,ZRH,09:20,3 Aug,PRG,17:40,3 Aug,"KLM, operated by KLM Cityhopper",1 stop,CHF153.69,94
+ZRH,PRG,2025-08-03,ZRH,18:55,3 Aug,PRG,23:15,3 Aug,"Lufthansa, operated by Swiss",1 stop,CHF251.19,94
+ZRH,PRG,2025-08-04,ZRH,12:35,4 Aug,PRG,14:00,4 Aug,Swiss,Cheapest direct,CHF210.34,95
+ZRH,PRG,2025-08-04,ZRH,07:50,4 Aug,PRG,09:05,4 Aug,"Swiss, operated by Air Baltic Corporation",Direct,CHF274.90,95
+ZRH,PRG,2025-08-04,ZRH,22:05,4 Aug,PRG,23:20,4 Aug,Swiss,Direct,CHF274.90,95
+ZRH,PRG,2025-08-04,ZRH,17:05,4 Aug,PRG,18:25,4 Aug,"Swiss, operated by Helvetic Airways",Direct,CHF274.90,95
+ZRH,PRG,2025-08-04,ZRH,17:35,4 Aug,PRG,22:35,4 Aug,"KLM, operated by KLM Cityhopper",Direct,CHF149.90,95
+ZRH,PRG,2025-08-04,ZRH,11:50,4 Aug,PRG,17:40,4 Aug,KLM,1 stop,CHF139.45,95
+ZRH,PRG,2025-08-04,ZRH,14:35,4 Aug,PRG,20:05,4 Aug,"Air Serbia, operated by Getjet Airlines For Air Serbia",1 stop,CHF150.16,95
+ZRH,PRG,2025-08-04,ZRH,14:40,4 Aug,PRG,17:50,4 Aug,"Lufthansa, operated by City Jet",1 stop,CHF251.18,95
+ZRH,PRG,2025-08-04,ZRH,20:40,4 Aug,PRG,08:45,5 Aug,Air Serbia,1 stop,CHF92.64,95
+ZRH,PRG,2025-08-04,ZRH,13:20,4 Aug,PRG,16:05,4 Aug,Austrian Airlines,1 stop,CHF282.34,95
+ZRH,PRG,2025-08-04,ZRH,21:55,4 Aug,PRG,08:35,5 Aug,"Easyjet, Wizz Air Malta",1 stop,CHF103.16,95
+ZRH,PRG,2025-08-04,ZRH,07:00,4 Aug,PRG,17:40,4 Aug,KLM,1 stop,CHF115.72,95
+ZRH,PRG,2025-08-04,ZRH,08:45,4 Aug,PRG,15:35,4 Aug,Eurowings,1 stop,CHF164.07,95
+ZRH,PRG,2025-08-04,ZRH,09:20,4 Aug,PRG,13:45,4 Aug,KLM,1 stop,CHF228.20,95
+ZRH,PRG,2025-08-04,ZRH,14:20,4 Aug,PRG,22:35,4 Aug,"KLM, operated by KLM Cityhopper",1 stop,CHF145.15,95
+ZRH,PRG,2025-08-05,ZRH,07:50,5 Aug,PRG,09:05,5 Aug,"Swiss, operated by Air Baltic Corporation",Cheapest direct,CHF210.34,96
+ZRH,PRG,2025-08-05,ZRH,12:45,5 Aug,PRG,14:05,5 Aug,Swiss,Direct,CHF210.34,96
+ZRH,PRG,2025-08-05,ZRH,22:05,5 Aug,PRG,23:20,5 Aug,Swiss,Direct,CHF274.90,96
+ZRH,PRG,2025-08-05,ZRH,17:05,5 Aug,PRG,18:25,5 Aug,Swiss,Direct,CHF274.90,96
+ZRH,PRG,2025-08-05,ZRH,17:35,5 Aug,PRG,22:35,5 Aug,"KLM, operated by KLM Cityhopper",Direct,CHF110.98,96
+ZRH,PRG,2025-08-05,ZRH,13:15,5 Aug,PRG,16:00,5 Aug,"Lufthansa, operated by Helvetic Airways For Swiss",1 stop,CHF243.64,96
+ZRH,PRG,2025-08-05,ZRH,11:50,5 Aug,PRG,17:40,5 Aug,KLM,1 stop,CHF139.45,96
+ZRH,PRG,2025-08-05,ZRH,13:20,5 Aug,PRG,16:05,5 Aug,Austrian Airlines,1 stop,CHF248.59,96
+ZRH,PRG,2025-08-05,ZRH,14:20,5 Aug,PRG,22:35,5 Aug,"KLM, operated by KLM Cityhopper",1 stop,CHF110.98,96
+ZRH,PRG,2025-08-05,ZRH,14:40,5 Aug,PRG,17:50,5 Aug,"Lufthansa, operated by City Jet",1 stop,CHF251.18,96
+ZRH,PRG,2025-08-05,ZRH,07:20,5 Aug,PRG,10:35,5 Aug,"Austrian Airlines, operated by Swiss",1 stop,CHF248.60,96
+ZRH,PRG,2025-08-05,ZRH,21:55,5 Aug,PRG,08:35,6 Aug,"Easyjet, Wizz Air Malta",1 stop,CHF103.16,96
+ZRH,PRG,2025-08-05,ZRH,18:10,5 Aug,PRG,23:50,5 Aug,"Condor, SmartWings",1 stop,CHF170.61,96
+ZRH,PRG,2025-08-05,ZRH,11:50,5 Aug,PRG,22:35,5 Aug,KLM,1 stop,CHF110.98,96
+ZRH,PRG,2025-08-05,ZRH,06:55,5 Aug,PRG,10:55,5 Aug,"Lufthansa, operated by Helvetic Airways For Swiss",1 stop,CHF251.19,96
+ZRH,PRG,2025-08-06,ZRH,12:45,6 Aug,PRG,14:05,6 Aug,Swiss,Cheapest direct,CHF248.14,97
+ZRH,PRG,2025-08-06,ZRH,21:55,6 Aug,PRG,08:35,7 Aug,"Easyjet, Wizz Air Malta",Direct,CHF103.16,97
+ZRH,PRG,2025-08-06,ZRH,07:50,6 Aug,PRG,09:05,6 Aug,"Swiss, operated by Air Baltic Corporation",1 stop,CHF274.90,97
+ZRH,PRG,2025-08-06,ZRH,22:05,6 Aug,PRG,23:20,6 Aug,Swiss,Direct,CHF274.90,97
+ZRH,PRG,2025-08-06,ZRH,17:05,6 Aug,PRG,18:25,6 Aug,"Swiss, operated by Helvetic Airways",Direct,CHF274.90,97
+ZRH,PRG,2025-08-06,ZRH,17:35,6 Aug,PRG,22:35,6 Aug,KLM,Direct,CHF110.98,97
+ZRH,PRG,2025-08-06,ZRH,09:20,6 Aug,PRG,13:45,6 Aug,"KLM, operated by KLM Cityhopper",1 stop,CHF135.66,97
+ZRH,PRG,2025-08-06,ZRH,14:20,6 Aug,PRG,20:45,6 Aug,"KLM, operated by KLM Cityhopper",1 stop,CHF110.98,97
+ZRH,PRG,2025-08-06,ZRH,14:35,6 Aug,PRG,20:05,6 Aug,Air Serbia,1 stop,CHF125.50,97
+ZRH,PRG,2025-08-06,ZRH,11:50,6 Aug,PRG,17:40,6 Aug,KLM,1 stop,CHF124.26,97
+ZRH,PRG,2025-08-06,ZRH,11:55,6 Aug,PRG,15:15,6 Aug,"Swiss, Easyjet",1 stop,CHF213.28,97
+ZRH,PRG,2025-08-06,ZRH,13:20,6 Aug,PRG,16:05,6 Aug,Austrian Airlines,1 stop,CHF248.59,97
+ZRH,PRG,2025-08-06,ZRH,14:20,6 Aug,PRG,22:35,6 Aug,"KLM, operated by KLM Cityhopper",1 stop,CHF110.98,97
+ZRH,PRG,2025-08-06,ZRH,07:00,6 Aug,PRG,13:45,6 Aug,KLM,1 stop,CHF135.66,97
+ZRH,PRG,2025-08-06,ZRH,11:50,6 Aug,PRG,20:45,6 Aug,KLM,1 stop,CHF110.98,97
+ZRH,PRG,2025-08-07,ZRH,22:05,7 Aug,PRG,23:20,7 Aug,Swiss,Direct,CHF210.34,98
+ZRH,PRG,2025-08-07,ZRH,20:40,7 Aug,PRG,08:45,8 Aug,"Air Serbia, operated by Bulgaria Air For Air Serbia",1 stop,CHF87.82,98
+ZRH,PRG,2025-08-07,ZRH,07:50,7 Aug,PRG,09:05,7 Aug,"Swiss, operated by Air Baltic Corporation",Cheapest direct,CHF210.34,98
+ZRH,PRG,2025-08-07,ZRH,17:05,7 Aug,PRG,18:25,7 Aug,Swiss,Direct,CHF210.34,98
+ZRH,PRG,2025-08-07,ZRH,12:45,7 Aug,PRG,14:05,7 Aug,Swiss,Direct,CHF274.90,98
+ZRH,PRG,2025-08-07,ZRH,14:20,7 Aug,PRG,20:45,7 Aug,"KLM, operated by KLM Cityhopper",Direct,CHF110.98,98
+ZRH,PRG,2025-08-07,ZRH,17:35,7 Aug,PRG,22:35,7 Aug,"KLM, operated by KLM Cityhopper",1 stop,CHF139.45,98
+ZRH,PRG,2025-08-07,ZRH,09:20,7 Aug,PRG,13:45,7 Aug,"KLM, operated by KLM Cityhopper",1 stop,CHF153.69,98
+ZRH,PRG,2025-08-07,ZRH,07:00,7 Aug,PRG,13:45,7 Aug,KLM,1 stop,CHF120.48,98
+ZRH,PRG,2025-08-07,ZRH,11:50,7 Aug,PRG,17:40,7 Aug,KLM,1 stop,CHF139.45,98
+ZRH,PRG,2025-08-07,ZRH,15:40,7 Aug,PRG,19:40,7 Aug,Croatia Airlines,1 stop,CHF187.73,98
+ZRH,PRG,2025-08-07,ZRH,14:20,7 Aug,PRG,22:35,7 Aug,"KLM, operated by KLM Cityhopper",1 stop,CHF110.98,98
+ZRH,PRG,2025-08-07,ZRH,11:50,7 Aug,PRG,20:45,7 Aug,KLM,1 stop,CHF110.98,98
+ZRH,PRG,2025-08-07,ZRH,18:45,7 Aug,PRG,21:50,7 Aug,Austrian Airlines,1 stop,CHF248.59,98
+ZRH,PRG,2025-08-07,ZRH,14:40,7 Aug,PRG,17:55,7 Aug,"Lufthansa, operated by City Jet",1 stop,CHF251.18,98
+ZRH,PRG,2025-08-09,ZRH,07:50,9 Aug,PRG,09:05,9 Aug,"Swiss, operated by Air Baltic Corporation",Cheapest direct,CHF210.34,100
+ZRH,PRG,2025-08-09,ZRH,14:20,9 Aug,PRG,22:35,9 Aug,"KLM, operated by KLM Cityhopper",Direct,CHF110.98,100
+ZRH,PRG,2025-08-09,ZRH,12:45,9 Aug,PRG,14:05,9 Aug,Swiss,1 stop,CHF210.34,100
+ZRH,PRG,2025-08-09,ZRH,22:05,9 Aug,PRG,23:20,9 Aug,Swiss,Direct,CHF274.90,100
+ZRH,PRG,2025-08-09,ZRH,17:05,9 Aug,PRG,18:25,9 Aug,"Swiss, operated by Helvetic Airways",Direct,CHF274.90,100
+ZRH,PRG,2025-08-09,ZRH,14:20,9 Aug,PRG,20:45,9 Aug,"KLM, operated by KLM Cityhopper",Direct,CHF115.72,100
+ZRH,PRG,2025-08-09,ZRH,17:35,9 Aug,PRG,22:35,9 Aug,KLM,1 stop,CHF153.69,100
+ZRH,PRG,2025-08-09,ZRH,07:00,9 Aug,PRG,11:10,9 Aug,KLM,1 stop,CHF186.83,100
+ZRH,PRG,2025-08-09,ZRH,14:40,9 Aug,PRG,17:50,9 Aug,Lufthansa,1 stop,CHF251.18,100
+ZRH,PRG,2025-08-09,ZRH,07:00,9 Aug,PRG,17:40,9 Aug,KLM,1 stop,CHF110.98,100
+ZRH,PRG,2025-08-09,ZRH,13:20,9 Aug,PRG,16:05,9 Aug,Austrian Airlines,1 stop,CHF316.19,100
+ZRH,PRG,2025-08-09,ZRH,06:55,9 Aug,PRG,10:55,9 Aug,"Lufthansa, operated by Helvetic Airways For Swiss",1 stop,CHF251.19,100
+ZRH,PRG,2025-08-09,ZRH,11:50,9 Aug,PRG,17:40,9 Aug,KLM,1 stop,CHF204.66,100
+ZRH,PRG,2025-08-09,ZRH,07:45,9 Aug,PRG,11:45,9 Aug,Air France,1 stop,CHF273.28,100
+ZRH,PRG,2025-08-09,ZRH,20:00,9 Aug,PRG,23:15,9 Aug,Lufthansa,1 stop,CHF319.77,100
+ZRH,PRG,2025-08-10,ZRH,07:50,10 Aug,PRG,09:05,10 Aug,"Swiss, operated by Air Baltic Corporation",Cheapest direct,CHF210.34,101
+ZRH,PRG,2025-08-10,ZRH,12:45,10 Aug,PRG,14:05,10 Aug,Swiss,Direct,CHF210.34,101
+ZRH,PRG,2025-08-10,ZRH,17:05,10 Aug,PRG,18:25,10 Aug,"Swiss, operated by Air Baltic Corporation",Direct,CHF210.34,101
+ZRH,PRG,2025-08-10,ZRH,22:05,10 Aug,PRG,23:20,10 Aug,Swiss,Direct,CHF274.90,101
+ZRH,PRG,2025-08-10,ZRH,09:20,10 Aug,PRG,13:45,10 Aug,"KLM, operated by KLM Cityhopper",Direct,CHF131.86,101
+ZRH,PRG,2025-08-10,ZRH,11:50,10 Aug,PRG,17:40,10 Aug,KLM,1 stop,CHF110.98,101
+ZRH,PRG,2025-08-10,ZRH,07:00,10 Aug,PRG,13:45,10 Aug,KLM,1 stop,CHF110.98,101
+ZRH,PRG,2025-08-10,ZRH,15:40,10 Aug,PRG,20:20,10 Aug,Eurowings,1 stop,CHF154.57,101
+ZRH,PRG,2025-08-10,ZRH,17:35,10 Aug,PRG,22:35,10 Aug,KLM,1 stop,CHF153.69,101
+ZRH,PRG,2025-08-10,ZRH,09:20,10 Aug,PRG,17:40,10 Aug,"KLM, operated by KLM Cityhopper",1 stop,CHF110.98,101
+ZRH,PRG,2025-08-10,ZRH,14:20,10 Aug,PRG,20:45,10 Aug,"KLM, operated by KLM Cityhopper",1 stop,CHF139.45,101
+ZRH,PRG,2025-08-10,ZRH,11:50,10 Aug,PRG,20:45,10 Aug,KLM,1 stop,CHF110.98,101
+ZRH,PRG,2025-08-10,ZRH,14:20,10 Aug,PRG,22:35,10 Aug,"KLM, operated by KLM Cityhopper",1 stop,CHF120.48,101
+ZRH,PRG,2025-08-10,ZRH,20:00,10 Aug,PRG,23:15,10 Aug,Lufthansa,1 stop,CHF251.18,101
+ZRH,PRG,2025-08-10,ZRH,07:45,10 Aug,PRG,11:45,10 Aug,Air France,1 stop,CHF226.77,101
+ZRH,PRG,2025-08-11,ZRH,12:35,11 Aug,PRG,14:00,11 Aug,Swiss,Cheapest direct,CHF210.34,102
+ZRH,PRG,2025-08-11,ZRH,20:40,11 Aug,PRG,08:45,12 Aug,Air Serbia,Direct,CHF92.64,102
+ZRH,PRG,2025-08-11,ZRH,07:50,11 Aug,PRG,09:05,11 Aug,"Swiss, operated by Air Baltic Corporation",1 stop,CHF274.90,102
+ZRH,PRG,2025-08-11,ZRH,22:05,11 Aug,PRG,23:20,11 Aug,Swiss,Direct,CHF274.90,102
+ZRH,PRG,2025-08-11,ZRH,17:05,11 Aug,PRG,18:25,11 Aug,Swiss,Direct,CHF274.90,102
+ZRH,PRG,2025-08-11,ZRH,17:35,11 Aug,PRG,22:35,11 Aug,"KLM, operated by KLM Cityhopper",Direct,CHF110.98,102
+ZRH,PRG,2025-08-11,ZRH,13:20,11 Aug,PRG,16:05,11 Aug,Austrian Airlines,1 stop,CHF248.59,102
+ZRH,PRG,2025-08-11,ZRH,14:35,11 Aug,PRG,20:05,11 Aug,"Air Serbia, operated by Getjet Airlines For Air Serbia",1 stop,CHF150.16,102
+ZRH,PRG,2025-08-11,ZRH,14:20,11 Aug,PRG,22:35,11 Aug,"KLM, operated by KLM Cityhopper",1 stop,CHF110.98,102
+ZRH,PRG,2025-08-11,ZRH,11:50,11 Aug,PRG,17:40,11 Aug,KLM,1 stop,CHF153.69,102
+ZRH,PRG,2025-08-11,ZRH,14:40,11 Aug,PRG,17:50,11 Aug,"Lufthansa, operated by City Jet",1 stop,CHF251.18,102
+ZRH,PRG,2025-08-11,ZRH,21:55,11 Aug,PRG,08:35,12 Aug,"Easyjet, Wizz Air Malta",1 stop,CHF103.16,102
+ZRH,PRG,2025-08-11,ZRH,07:25,11 Aug,PRG,12:00,11 Aug,"Swiss, Easyjet",1 stop,CHF208.12,102
+ZRH,PRG,2025-08-11,ZRH,12:25,11 Aug,PRG,16:05,11 Aug,"Austrian Airlines, operated by Swiss",1 stop,CHF248.60,102
+ZRH,PRG,2025-08-11,ZRH,11:50,11 Aug,PRG,22:35,11 Aug,KLM,1 stop,CHF110.98,102
+ZRH,PRG,2025-08-12,ZRH,07:50,12 Aug,PRG,09:05,12 Aug,"Swiss, operated by Air Baltic Corporation",Cheapest direct,CHF210.34,103
+ZRH,PRG,2025-08-12,ZRH,21:55,12 Aug,PRG,08:35,13 Aug,"Easyjet, Wizz Air Malta",Direct,CHF103.16,103
+ZRH,PRG,2025-08-12,ZRH,12:45,12 Aug,PRG,14:05,12 Aug,Swiss,1 stop,CHF251.31,103
+ZRH,PRG,2025-08-12,ZRH,22:05,12 Aug,PRG,23:20,12 Aug,Swiss,Direct,CHF274.90,103
+ZRH,PRG,2025-08-12,ZRH,17:05,12 Aug,PRG,18:25,12 Aug,"Swiss, operated by Helvetic Airways",Direct,CHF274.90,103
+ZRH,PRG,2025-08-12,ZRH,17:35,12 Aug,PRG,22:35,12 Aug,"KLM, operated by KLM Cityhopper",Direct,CHF110.98,103
+ZRH,PRG,2025-08-12,ZRH,11:50,12 Aug,PRG,17:40,12 Aug,KLM,1 stop,CHF120.48,103
+ZRH,PRG,2025-08-12,ZRH,09:20,12 Aug,PRG,13:45,12 Aug,"KLM, operated by KLM Cityhopper",1 stop,CHF169.79,103
+ZRH,PRG,2025-08-12,ZRH,13:20,12 Aug,PRG,16:05,12 Aug,Austrian Airlines,1 stop,CHF248.59,103
+ZRH,PRG,2025-08-12,ZRH,14:40,12 Aug,PRG,17:50,12 Aug,"Lufthansa, operated by City Jet",1 stop,CHF251.18,103
+ZRH,PRG,2025-08-12,ZRH,07:00,12 Aug,PRG,13:45,12 Aug,KLM,1 stop,CHF153.69,103
+ZRH,PRG,2025-08-12,ZRH,07:25,12 Aug,PRG,11:00,12 Aug,"Brussels Airlines, operated by Swiss",1 stop,CHF247.96,103
+ZRH,PRG,2025-08-12,ZRH,12:25,12 Aug,PRG,16:05,12 Aug,"Austrian Airlines, operated by Helvetic Airways For Swiss",1 stop,CHF248.60,103
+ZRH,PRG,2025-08-12,ZRH,11:50,12 Aug,PRG,22:35,12 Aug,KLM,1 stop,CHF110.98,103
+ZRH,PRG,2025-08-12,ZRH,09:20,12 Aug,PRG,17:40,12 Aug,"KLM, operated by KLM Cityhopper",1 stop,CHF139.45,103
+ZRH,PRG,2025-08-13,ZRH,12:45,13 Aug,PRG,14:05,13 Aug,Swiss,Cheapest direct,CHF258.15,104
+ZRH,PRG,2025-08-13,ZRH,07:50,13 Aug,PRG,09:05,13 Aug,"Swiss, operated by Air Baltic Corporation",Direct,CHF274.90,104
+ZRH,PRG,2025-08-13,ZRH,22:05,13 Aug,PRG,23:20,13 Aug,Swiss,Direct,CHF274.90,104
+ZRH,PRG,2025-08-13,ZRH,17:05,13 Aug,PRG,18:25,13 Aug,"Swiss, operated by Helvetic Airways",Direct,CHF274.90,104
+ZRH,PRG,2025-08-13,ZRH,09:20,13 Aug,PRG,13:45,13 Aug,KLM,Direct,CHF110.98,104
+ZRH,PRG,2025-08-13,ZRH,17:35,13 Aug,PRG,22:35,13 Aug,"KLM, operated by KLM Cityhopper",1 stop,CHF110.98,104
+ZRH,PRG,2025-08-13,ZRH,11:50,13 Aug,PRG,17:40,13 Aug,KLM,1 stop,CHF110.98,104
+ZRH,PRG,2025-08-13,ZRH,07:00,13 Aug,PRG,13:45,13 Aug,KLM,1 stop,CHF110.98,104
+ZRH,PRG,2025-08-13,ZRH,14:35,13 Aug,PRG,20:05,13 Aug,Air Serbia,1 stop,CHF145.44,104
+ZRH,PRG,2025-08-13,ZRH,13:20,13 Aug,PRG,16:05,13 Aug,Austrian Airlines,1 stop,CHF248.59,104
+ZRH,PRG,2025-08-13,ZRH,09:20,13 Aug,PRG,17:40,13 Aug,KLM,1 stop,CHF110.98,104
+ZRH,PRG,2025-08-13,ZRH,14:20,13 Aug,PRG,20:45,13 Aug,"KLM, operated by KLM Cityhopper",1 stop,CHF139.45,104
+ZRH,PRG,2025-08-13,ZRH,11:50,13 Aug,PRG,20:45,13 Aug,KLM,1 stop,CHF110.98,104
+ZRH,PRG,2025-08-13,ZRH,14:20,13 Aug,PRG,20:15,13 Aug,Easyjet,1 stop,CHF151.87,104
+ZRH,PRG,2025-08-13,ZRH,14:40,13 Aug,PRG,17:50,13 Aug,"Lufthansa, operated by City Jet",1 stop,CHF251.18,104
+ZRH,PRG,2025-08-15,ZRH,07:50,15 Aug,PRG,09:05,15 Aug,"Swiss, operated by Air Baltic Corporation",Cheapest direct,CHF210.34,106
+ZRH,PRG,2025-08-15,ZRH,22:05,15 Aug,PRG,23:20,15 Aug,Swiss,Direct,CHF210.34,106
+ZRH,PRG,2025-08-15,ZRH,12:45,15 Aug,PRG,14:05,15 Aug,Swiss,Direct,CHF210.34,106
+ZRH,PRG,2025-08-15,ZRH,17:05,15 Aug,PRG,18:25,15 Aug,"Swiss, operated by Helvetic Airways",Direct,CHF210.34,106
+ZRH,PRG,2025-08-15,ZRH,15:10,15 Aug,PRG,20:05,15 Aug,Air Serbia,Direct,CHF125.50,106
+ZRH,PRG,2025-08-15,ZRH,09:20,15 Aug,PRG,13:45,15 Aug,KLM,1 stop,CHF139.45,106
+ZRH,PRG,2025-08-15,ZRH,15:40,15 Aug,PRG,21:00,15 Aug,Eurowings,1 stop,CHF135.61,106
+ZRH,PRG,2025-08-15,ZRH,11:50,15 Aug,PRG,17:40,15 Aug,KLM,1 stop,CHF139.45,106
+ZRH,PRG,2025-08-15,ZRH,13:20,15 Aug,PRG,16:05,15 Aug,Austrian Airlines,1 stop,CHF248.59,106
+ZRH,PRG,2025-08-15,ZRH,20:40,15 Aug,PRG,08:45,16 Aug,Air Serbia,1 stop,CHF87.82,106
+ZRH,PRG,2025-08-15,ZRH,18:45,15 Aug,PRG,21:50,15 Aug,Austrian Airlines,1 stop,CHF248.59,106
+ZRH,PRG,2025-08-15,ZRH,14:40,15 Aug,PRG,17:50,15 Aug,"Lufthansa, operated by City Jet",1 stop,CHF251.18,106
+ZRH,PRG,2025-08-15,ZRH,07:20,15 Aug,PRG,10:35,15 Aug,"Austrian Airlines, operated by Swiss",1 stop,CHF248.60,106
+ZRH,PRG,2025-08-15,ZRH,07:00,15 Aug,PRG,13:45,15 Aug,KLM,1 stop,CHF145.15,106
+ZRH,PRG,2025-08-15,ZRH,20:00,15 Aug,PRG,23:15,15 Aug,Lufthansa,1 stop,CHF251.18,106
+ZRH,PRG,2025-08-16,ZRH,07:50,16 Aug,PRG,09:05,16 Aug,"Swiss, operated by Air Baltic Corporation",Cheapest direct,CHF210.34,107
+ZRH,PRG,2025-08-16,ZRH,09:20,16 Aug,PRG,22:35,16 Aug,KLM,Direct,CHF115.72,107
+ZRH,PRG,2025-08-16,ZRH,12:45,16 Aug,PRG,14:05,16 Aug,Swiss,1 stop,CHF210.34,107
+ZRH,PRG,2025-08-16,ZRH,22:05,16 Aug,PRG,23:20,16 Aug,Swiss,Direct,CHF274.90,107
+ZRH,PRG,2025-08-16,ZRH,17:05,16 Aug,PRG,18:25,16 Aug,"Swiss, operated by Air Baltic Corporation",Direct,CHF274.90,107
+ZRH,PRG,2025-08-16,ZRH,17:35,16 Aug,PRG,22:35,16 Aug,KLM,Direct,CHF139.45,107
+ZRH,PRG,2025-08-16,ZRH,14:20,16 Aug,PRG,20:45,16 Aug,"KLM, operated by KLM Cityhopper",1 stop,CHF145.15,107
+ZRH,PRG,2025-08-16,ZRH,14:20,16 Aug,PRG,22:35,16 Aug,"KLM, operated by KLM Cityhopper",1 stop,CHF120.48,107
+ZRH,PRG,2025-08-16,ZRH,14:40,16 Aug,PRG,17:50,16 Aug,Lufthansa,1 stop,CHF251.18,107
+ZRH,PRG,2025-08-16,ZRH,09:20,16 Aug,PRG,13:45,16 Aug,KLM,1 stop,CHF197.20,107
+ZRH,PRG,2025-08-16,ZRH,09:20,16 Aug,PRG,17:40,16 Aug,KLM,1 stop,CHF124.26,107
+ZRH,PRG,2025-08-16,ZRH,13:20,16 Aug,PRG,16:05,16 Aug,Austrian Airlines,1 stop,CHF315.63,107
+ZRH,PRG,2025-08-16,ZRH,21:55,16 Aug,PRG,08:35,17 Aug,"Easyjet, Wizz Air Malta",1 stop,CHF116.62,107
+ZRH,PRG,2025-08-16,ZRH,07:00,16 Aug,PRG,11:10,16 Aug,KLM,1 stop,CHF246.10,107
+ZRH,PRG,2025-08-16,ZRH,11:50,16 Aug,PRG,17:40,16 Aug,KLM,1 stop,CHF204.66,107
+ZRH,PRG,2025-08-17,ZRH,07:50,17 Aug,PRG,09:05,17 Aug,"Swiss, operated by Air Baltic Corporation",Cheapest direct,CHF210.33,108
+ZRH,PRG,2025-08-17,ZRH,20:40,17 Aug,PRG,09:00,18 Aug,"Easyjet, Wizz Air UK",Direct,CHF109.68,108
+ZRH,PRG,2025-08-17,ZRH,12:45,17 Aug,PRG,14:05,17 Aug,Swiss,1 stop,CHF210.33,108
+ZRH,PRG,2025-08-17,ZRH,17:05,17 Aug,PRG,18:25,17 Aug,"Swiss, operated by Air Baltic Corporation",Direct,CHF210.33,108
+ZRH,PRG,2025-08-17,ZRH,22:05,17 Aug,PRG,23:20,17 Aug,Swiss,Direct,CHF274.90,108
+ZRH,PRG,2025-08-17,ZRH,07:45,17 Aug,PRG,11:45,17 Aug,Air France,Direct,CHF128.04,108
+ZRH,PRG,2025-08-17,ZRH,14:35,17 Aug,PRG,20:05,17 Aug,Air Serbia,1 stop,CHF125.47,108
+ZRH,PRG,2025-08-17,ZRH,09:20,17 Aug,PRG,13:45,17 Aug,"KLM, operated by KLM Cityhopper",1 stop,CHF149.90,108
+ZRH,PRG,2025-08-17,ZRH,15:40,17 Aug,PRG,20:20,17 Aug,Eurowings,1 stop,CHF154.57,108
+ZRH,PRG,2025-08-17,ZRH,17:35,17 Aug,PRG,22:35,17 Aug,KLM,1 stop,CHF153.69,108
+ZRH,PRG,2025-08-17,ZRH,11:50,17 Aug,PRG,17:40,17 Aug,KLM,1 stop,CHF139.45,108
+ZRH,PRG,2025-08-17,ZRH,13:20,17 Aug,PRG,16:05,17 Aug,Austrian Airlines,1 stop,CHF248.59,108
+ZRH,PRG,2025-08-17,ZRH,14:40,17 Aug,PRG,17:50,17 Aug,"Lufthansa, operated by City Jet",1 stop,CHF251.18,108
+ZRH,PRG,2025-08-17,ZRH,20:00,17 Aug,PRG,23:15,17 Aug,Lufthansa,1 stop,CHF251.18,108
+ZRH,PRG,2025-08-17,ZRH,07:00,17 Aug,PRG,13:45,17 Aug,KLM,1 stop,CHF165.98,108
+ZRH,PRG,2025-08-18,ZRH,12:35,18 Aug,PRG,14:00,18 Aug,Swiss,Cheapest direct,CHF210.33,109
+ZRH,PRG,2025-08-18,ZRH,07:50,18 Aug,PRG,09:05,18 Aug,"Swiss, operated by Air Baltic Corporation",Direct,CHF274.90,109
+ZRH,PRG,2025-08-18,ZRH,22:05,18 Aug,PRG,23:20,18 Aug,Swiss,Direct,CHF274.90,109
+ZRH,PRG,2025-08-18,ZRH,17:05,18 Aug,PRG,18:25,18 Aug,"Swiss, operated by Air Baltic Corporation",Direct,CHF274.90,109
+ZRH,PRG,2025-08-18,ZRH,17:35,18 Aug,PRG,22:35,18 Aug,"KLM, operated by KLM Cityhopper",Direct,CHF110.97,109
+ZRH,PRG,2025-08-18,ZRH,09:20,18 Aug,PRG,13:45,18 Aug,KLM,1 stop,CHF135.66,109
+ZRH,PRG,2025-08-18,ZRH,14:35,18 Aug,PRG,20:05,18 Aug,"Air Serbia, operated by Getjet Airlines For Air Serbia",1 stop,CHF125.47,109
+ZRH,PRG,2025-08-18,ZRH,07:00,18 Aug,PRG,13:45,18 Aug,KLM,1 stop,CHF124.26,109
+ZRH,PRG,2025-08-18,ZRH,11:50,18 Aug,PRG,17:40,18 Aug,KLM,1 stop,CHF139.45,109
+ZRH,PRG,2025-08-18,ZRH,13:20,18 Aug,PRG,16:05,18 Aug,Austrian Airlines,1 stop,CHF248.59,109
+ZRH,PRG,2025-08-18,ZRH,14:20,18 Aug,PRG,22:35,18 Aug,"KLM, operated by KLM Cityhopper",1 stop,CHF110.97,109
+ZRH,PRG,2025-08-18,ZRH,10:00,18 Aug,PRG,15:30,18 Aug,Easyjet,1 stop,CHF155.98,109
+ZRH,PRG,2025-08-18,ZRH,14:40,18 Aug,PRG,17:50,18 Aug,"Lufthansa, operated by City Jet",1 stop,CHF251.18,109
+ZRH,PRG,2025-08-18,ZRH,10:00,18 Aug,PRG,16:20,18 Aug,"Easyjet, Wizz Air UK",1 stop,CHF157.25,109
+ZRH,PRG,2025-08-18,ZRH,12:25,18 Aug,PRG,16:05,18 Aug,"Austrian Airlines, operated by Swiss",1 stop,CHF248.60,109
+ZRH,PRG,2025-08-19,ZRH,07:50,19 Aug,PRG,09:05,19 Aug,"Swiss, operated by Air Baltic Corporation",Cheapest direct,CHF210.33,110
+ZRH,PRG,2025-08-19,ZRH,20:40,19 Aug,PRG,20:05,20 Aug,Air Serbia,Direct,CHF87.79,110
+ZRH,PRG,2025-08-19,ZRH,12:45,19 Aug,PRG,14:05,19 Aug,Swiss,1 stop,CHF210.33,110
+ZRH,PRG,2025-08-19,ZRH,22:05,19 Aug,PRG,23:20,19 Aug,Swiss,Direct,CHF274.90,110
+ZRH,PRG,2025-08-19,ZRH,17:05,19 Aug,PRG,18:25,19 Aug,"Swiss, operated by Helvetic Airways",Direct,CHF274.90,110
+ZRH,PRG,2025-08-19,ZRH,17:35,19 Aug,PRG,22:35,19 Aug,"KLM, operated by KLM Cityhopper",Direct,CHF110.97,110
+ZRH,PRG,2025-08-19,ZRH,09:20,19 Aug,PRG,13:45,19 Aug,"KLM, operated by KLM Cityhopper",1 stop,CHF135.66,110
+ZRH,PRG,2025-08-19,ZRH,11:50,19 Aug,PRG,17:40,19 Aug,KLM,1 stop,CHF110.97,110
+ZRH,PRG,2025-08-19,ZRH,18:10,19 Aug,PRG,23:50,19 Aug,"Condor, SmartWings",1 stop,CHF139.48,110
+ZRH,PRG,2025-08-19,ZRH,13:20,19 Aug,PRG,16:05,19 Aug,Austrian Airlines,1 stop,CHF248.59,110
+ZRH,PRG,2025-08-19,ZRH,14:20,19 Aug,PRG,22:35,19 Aug,"KLM, operated by KLM Cityhopper",1 stop,CHF110.97,110
+ZRH,PRG,2025-08-19,ZRH,09:20,19 Aug,PRG,17:40,19 Aug,"KLM, operated by KLM Cityhopper",1 stop,CHF110.97,110
+ZRH,PRG,2025-08-19,ZRH,07:00,19 Aug,PRG,13:45,19 Aug,KLM,1 stop,CHF131.86,110
+ZRH,PRG,2025-08-19,ZRH,14:40,19 Aug,PRG,17:50,19 Aug,"Lufthansa, operated by City Jet",1 stop,CHF251.18,110
+ZRH,PRG,2025-08-19,ZRH,07:20,19 Aug,PRG,10:35,19 Aug,"Austrian Airlines, operated by Swiss",1 stop,CHF248.60,110
+ZRH,PRG,2025-08-20,ZRH,12:45,20 Aug,PRG,14:05,20 Aug,Swiss,Cheapest direct,CHF210.33,111
+ZRH,PRG,2025-08-20,ZRH,14:35,20 Aug,PRG,20:05,20 Aug,Air Serbia,Direct,CHF87.79,111
+ZRH,PRG,2025-08-20,ZRH,07:50,20 Aug,PRG,09:05,20 Aug,"Swiss, operated by Air Baltic Corporation",1 stop,CHF274.90,111
+ZRH,PRG,2025-08-20,ZRH,22:05,20 Aug,PRG,23:20,20 Aug,Swiss,Direct,CHF274.90,111
+ZRH,PRG,2025-08-20,ZRH,17:05,20 Aug,PRG,18:25,20 Aug,"Swiss, operated by Air Baltic Corporation",Direct,CHF274.90,111
+ZRH,PRG,2025-08-20,ZRH,17:35,20 Aug,PRG,22:35,20 Aug,"KLM, operated by KLM Cityhopper",Direct,CHF110.97,111
+ZRH,PRG,2025-08-20,ZRH,11:50,20 Aug,PRG,17:40,20 Aug,KLM,1 stop,CHF110.97,111
+ZRH,PRG,2025-08-20,ZRH,14:20,20 Aug,PRG,20:15,20 Aug,Easyjet,1 stop,CHF117.08,111
+ZRH,PRG,2025-08-20,ZRH,14:20,20 Aug,PRG,20:45,20 Aug,"KLM, operated by KLM Cityhopper",1 stop,CHF110.97,111
+ZRH,PRG,2025-08-20,ZRH,09:30,20 Aug,PRG,20:05,20 Aug,Air Serbia,1 stop,CHF87.79,111
+ZRH,PRG,2025-08-20,ZRH,14:20,20 Aug,PRG,22:35,20 Aug,"KLM, operated by KLM Cityhopper",1 stop,CHF110.97,111
+ZRH,PRG,2025-08-20,ZRH,09:20,20 Aug,PRG,17:40,20 Aug,KLM,1 stop,CHF110.97,111
+ZRH,PRG,2025-08-20,ZRH,11:50,20 Aug,PRG,20:45,20 Aug,KLM,1 stop,CHF110.97,111
+ZRH,PRG,2025-08-20,ZRH,14:40,20 Aug,PRG,17:50,20 Aug,"Lufthansa, operated by City Jet",1 stop,CHF251.18,111
+ZRH,PRG,2025-08-20,ZRH,13:20,20 Aug,PRG,16:05,20 Aug,Austrian Airlines,1 stop,CHF280.57,111
+ZRH,PRG,2025-08-21,ZRH,07:50,21 Aug,PRG,09:05,21 Aug,"Swiss, operated by Air Baltic Corporation",Cheapest direct,CHF210.33,112
+ZRH,PRG,2025-08-21,ZRH,22:05,21 Aug,PRG,23:20,21 Aug,Swiss,Direct,CHF210.33,112
+ZRH,PRG,2025-08-21,ZRH,17:05,21 Aug,PRG,18:25,21 Aug,"Swiss, operated by Air Baltic Corporation",Direct,CHF210.33,112
+ZRH,PRG,2025-08-21,ZRH,12:45,21 Aug,PRG,14:05,21 Aug,Swiss,Direct,CHF271.83,112
+ZRH,PRG,2025-08-21,ZRH,07:45,21 Aug,PRG,11:45,21 Aug,Air France,Direct,CHF128.04,112
+ZRH,PRG,2025-08-21,ZRH,09:20,21 Aug,PRG,13:45,21 Aug,KLM,1 stop,CHF120.47,112
+ZRH,PRG,2025-08-21,ZRH,17:35,21 Aug,PRG,22:35,21 Aug,"KLM, operated by KLM Cityhopper",1 stop,CHF110.97,112
+ZRH,PRG,2025-08-21,ZRH,11:50,21 Aug,PRG,17:40,21 Aug,KLM,1 stop,CHF110.97,112
+ZRH,PRG,2025-08-21,ZRH,14:20,21 Aug,PRG,20:45,21 Aug,"KLM, operated by KLM Cityhopper",1 stop,CHF110.97,112
+ZRH,PRG,2025-08-21,ZRH,07:00,21 Aug,PRG,13:45,21 Aug,KLM,1 stop,CHF120.47,112
+ZRH,PRG,2025-08-21,ZRH,15:40,21 Aug,PRG,19:40,21 Aug,Croatia Airlines,1 stop,CHF187.68,112
+ZRH,PRG,2025-08-21,ZRH,14:20,21 Aug,PRG,22:35,21 Aug,"KLM, operated by KLM Cityhopper",1 stop,CHF110.97,112
+ZRH,PRG,2025-08-21,ZRH,09:20,21 Aug,PRG,17:40,21 Aug,KLM,1 stop,CHF110.97,112
+ZRH,PRG,2025-08-21,ZRH,11:50,21 Aug,PRG,20:45,21 Aug,KLM,1 stop,CHF110.97,112
+ZRH,PRG,2025-08-21,ZRH,18:45,21 Aug,PRG,21:50,21 Aug,Austrian Airlines,1 stop,CHF248.59,112
+ZRH,PRG,2025-08-22,ZRH,07:50,22 Aug,PRG,09:05,22 Aug,"Swiss, operated by Air Baltic Corporation",Cheapest direct,CHF210.33,113
+ZRH,PRG,2025-08-22,ZRH,22:05,22 Aug,PRG,23:20,22 Aug,Swiss,Direct,CHF210.33,113
+ZRH,PRG,2025-08-22,ZRH,17:05,22 Aug,PRG,18:25,22 Aug,"Swiss, operated by Helvetic Airways",Direct,CHF210.33,113
+ZRH,PRG,2025-08-22,ZRH,12:45,22 Aug,PRG,14:05,22 Aug,Swiss,Direct,CHF274.90,113
+ZRH,PRG,2025-08-22,ZRH,15:10,22 Aug,PRG,20:05,22 Aug,Air Serbia,Direct,CHF125.47,113
+ZRH,PRG,2025-08-22,ZRH,13:20,22 Aug,PRG,16:05,22 Aug,Austrian Airlines,1 stop,CHF248.59,113
+ZRH,PRG,2025-08-22,ZRH,15:40,22 Aug,PRG,21:00,22 Aug,Eurowings,1 stop,CHF154.57,113
+ZRH,PRG,2025-08-22,ZRH,09:30,22 Aug,PRG,20:05,22 Aug,"Air Serbia, operated by Getjet Airlines For Air Serbia",1 stop,CHF92.62,113
+ZRH,PRG,2025-08-22,ZRH,14:40,22 Aug,PRG,17:50,22 Aug,"Lufthansa, operated by City Jet",1 stop,CHF251.18,113
+ZRH,PRG,2025-08-22,ZRH,07:20,22 Aug,PRG,10:35,22 Aug,"Austrian Airlines, operated by Swiss",1 stop,CHF248.60,113
+ZRH,PRG,2025-08-22,ZRH,20:00,22 Aug,PRG,23:15,22 Aug,Lufthansa,1 stop,CHF251.18,113
+ZRH,PRG,2025-08-22,ZRH,21:55,22 Aug,PRG,08:35,23 Aug,"Easyjet, Wizz Air Malta",1 stop,CHF103.16,113
+ZRH,PRG,2025-08-22,ZRH,11:50,22 Aug,PRG,17:40,22 Aug,KLM,1 stop,CHF165.98,113
+ZRH,PRG,2025-08-22,ZRH,18:45,22 Aug,PRG,21:50,22 Aug,Austrian Airlines,1 stop,CHF279.32,113
+ZRH,PRG,2025-08-22,ZRH,08:30,22 Aug,PRG,15:45,22 Aug,"Easyjet, Eurowings, operated by Eurowings Europe Ltd",1 stop,CHF161.61,113
+ZRH,PRG,2025-08-23,ZRH,07:50,23 Aug,PRG,09:05,23 Aug,"Swiss, operated by Air Baltic Corporation",Cheapest direct,CHF210.33,114
+ZRH,PRG,2025-08-23,ZRH,12:45,23 Aug,PRG,14:05,23 Aug,Swiss,Direct,CHF210.33,114
+ZRH,PRG,2025-08-23,ZRH,22:05,23 Aug,PRG,23:20,23 Aug,Swiss,Direct,CHF274.90,114
+ZRH,PRG,2025-08-23,ZRH,17:05,23 Aug,PRG,18:25,23 Aug,"Swiss, operated by Helvetic Airways",Direct,CHF274.90,114
+ZRH,PRG,2025-08-23,ZRH,14:20,23 Aug,PRG,20:45,23 Aug,"KLM, operated by KLM Cityhopper",Direct,CHF110.97,114
+ZRH,PRG,2025-08-23,ZRH,17:35,23 Aug,PRG,22:35,23 Aug,KLM,1 stop,CHF139.45,114
+ZRH,PRG,2025-08-23,ZRH,14:20,23 Aug,PRG,22:35,23 Aug,"KLM, operated by KLM Cityhopper",1 stop,CHF110.97,114
+ZRH,PRG,2025-08-23,ZRH,21:55,23 Aug,PRG,08:35,24 Aug,"Easyjet, Wizz Air Malta",1 stop,CHF103.17,114
+ZRH,PRG,2025-08-23,ZRH,07:00,23 Aug,PRG,11:10,23 Aug,KLM,1 stop,CHF222.53,114
+ZRH,PRG,2025-08-23,ZRH,06:55,23 Aug,PRG,10:55,23 Aug,"Lufthansa, operated by Helvetic Airways For Swiss",1 stop,CHF251.19,114
+ZRH,PRG,2025-08-23,ZRH,07:25,23 Aug,PRG,11:00,23 Aug,"Brussels Airlines, operated by Swiss",1 stop,CHF286.71,114
+ZRH,PRG,2025-08-23,ZRH,07:45,23 Aug,PRG,11:45,23 Aug,Air France,1 stop,CHF264.72,114
+ZRH,PRG,2025-08-23,ZRH,07:20,23 Aug,PRG,10:30,23 Aug,"Austrian Airlines, operated by Swiss",1 stop,CHF317.21,114
+ZRH,PRG,2025-08-23,ZRH,11:50,23 Aug,PRG,17:40,23 Aug,KLM,1 stop,CHF204.63,114
+ZRH,PRG,2025-08-23,ZRH,20:00,23 Aug,PRG,23:15,23 Aug,Lufthansa,1 stop,CHF319.76,114
+ZRH,PRG,2025-08-25,ZRH,12:35,25 Aug,PRG,14:00,25 Aug,Swiss,Cheapest direct,CHF210.33,116
+ZRH,PRG,2025-08-25,ZRH,08:30,25 Aug,PRG,21:30,25 Aug,"Easyjet, Wizz Air Malta",Direct,CHF104.31,116
+ZRH,PRG,2025-08-25,ZRH,07:50,25 Aug,PRG,09:05,25 Aug,"Swiss, operated by Air Baltic Corporation",1 stop,CHF274.90,116
+ZRH,PRG,2025-08-25,ZRH,22:05,25 Aug,PRG,23:20,25 Aug,Swiss,Direct,CHF274.90,116
+ZRH,PRG,2025-08-25,ZRH,17:05,25 Aug,PRG,18:25,25 Aug,"Swiss, operated by Helvetic Airways",Direct,CHF274.90,116
+ZRH,PRG,2025-08-25,ZRH,17:35,25 Aug,PRG,22:35,25 Aug,KLM,Direct,CHF110.97,116
+ZRH,PRG,2025-08-25,ZRH,11:50,25 Aug,PRG,17:40,25 Aug,KLM,1 stop,CHF110.97,116
+ZRH,PRG,2025-08-25,ZRH,09:20,25 Aug,PRG,13:45,25 Aug,KLM,1 stop,CHF160.33,116
+ZRH,PRG,2025-08-25,ZRH,13:20,25 Aug,PRG,16:05,25 Aug,Austrian Airlines,1 stop,CHF248.59,116
+ZRH,PRG,2025-08-25,ZRH,14:35,25 Aug,PRG,20:05,25 Aug,"Air Serbia, operated by Getjet Airlines For Air Serbia",1 stop,CHF150.13,116
+ZRH,PRG,2025-08-25,ZRH,14:20,25 Aug,PRG,22:35,25 Aug,"KLM, operated by KLM Cityhopper",1 stop,CHF110.97,116
+ZRH,PRG,2025-08-25,ZRH,09:20,25 Aug,PRG,17:40,25 Aug,KLM,1 stop,CHF110.97,116
+ZRH,PRG,2025-08-25,ZRH,14:40,25 Aug,PRG,17:50,25 Aug,"Lufthansa, operated by City Jet",1 stop,CHF251.18,116
+ZRH,PRG,2025-08-25,ZRH,21:55,25 Aug,PRG,08:35,26 Aug,"Easyjet, Wizz Air Malta",1 stop,CHF110.19,116
+ZRH,PRG,2025-08-25,ZRH,07:00,25 Aug,PRG,17:40,25 Aug,KLM,1 stop,CHF110.97,116
+ZRH,PRG,2025-08-27,ZRH,12:45,27 Aug,PRG,14:05,27 Aug,Swiss,Cheapest direct,CHF251.69,118
+ZRH,PRG,2025-08-27,ZRH,07:50,27 Aug,PRG,09:05,27 Aug,"Swiss, operated by Air Baltic Corporation",Direct,CHF274.90,118
+ZRH,PRG,2025-08-27,ZRH,22:05,27 Aug,PRG,23:20,27 Aug,Swiss,Direct,CHF274.90,118
+ZRH,PRG,2025-08-27,ZRH,17:05,27 Aug,PRG,18:25,27 Aug,"Swiss, operated by Air Baltic Corporation",Direct,CHF274.90,118
+ZRH,PRG,2025-08-27,ZRH,09:20,27 Aug,PRG,13:45,27 Aug,KLM,Direct,CHF120.47,118
+ZRH,PRG,2025-08-27,ZRH,17:35,27 Aug,PRG,22:35,27 Aug,KLM,1 stop,CHF110.97,118
+ZRH,PRG,2025-08-27,ZRH,14:35,27 Aug,PRG,20:05,27 Aug,Air Serbia,1 stop,CHF115.33,118
+ZRH,PRG,2025-08-27,ZRH,07:00,27 Aug,PRG,13:45,27 Aug,KLM,1 stop,CHF120.47,118
+ZRH,PRG,2025-08-27,ZRH,14:20,27 Aug,PRG,20:15,27 Aug,Easyjet,1 stop,CHF137.57,118
+ZRH,PRG,2025-08-27,ZRH,11:50,27 Aug,PRG,17:40,27 Aug,KLM,1 stop,CHF139.45,118
+ZRH,PRG,2025-08-27,ZRH,09:20,27 Aug,PRG,17:40,27 Aug,KLM,1 stop,CHF110.97,118
+ZRH,PRG,2025-08-27,ZRH,14:20,27 Aug,PRG,20:45,27 Aug,"KLM, operated by KLM Cityhopper",1 stop,CHF139.45,118
+ZRH,PRG,2025-08-27,ZRH,14:40,27 Aug,PRG,17:50,27 Aug,"Lufthansa, operated by City Jet",1 stop,CHF251.18,118
+ZRH,PRG,2025-08-27,ZRH,21:55,27 Aug,PRG,08:35,28 Aug,"Easyjet, Wizz Air Malta",1 stop,CHF103.16,118
+ZRH,PRG,2025-08-27,ZRH,13:20,27 Aug,PRG,16:05,27 Aug,Austrian Airlines,1 stop,CHF286.07,118
+ZRH,PRG,2025-08-28,ZRH,07:50,28 Aug,PRG,09:05,28 Aug,"Swiss, operated by Air Baltic Corporation",Cheapest direct,CHF210.33,119
+ZRH,PRG,2025-08-28,ZRH,22:05,28 Aug,PRG,23:20,28 Aug,Swiss,Direct,CHF210.33,119
+ZRH,PRG,2025-08-28,ZRH,17:05,28 Aug,PRG,18:25,28 Aug,"Swiss, operated by Helvetic Airways",Direct,CHF274.90,119
+ZRH,PRG,2025-08-28,ZRH,07:45,28 Aug,PRG,11:45,28 Aug,Air France,Direct,CHF144.18,119
+ZRH,PRG,2025-08-28,ZRH,07:00,28 Aug,PRG,13:45,28 Aug,KLM,1 stop,CHF115.72,119
+ZRH,PRG,2025-08-28,ZRH,15:40,28 Aug,PRG,19:40,28 Aug,Croatia Airlines,1 stop,CHF187.68,119
+ZRH,PRG,2025-08-28,ZRH,12:45,28 Aug,PRG,14:05,28 Aug,Swiss,1 stop,CHF476.60,119
+ZRH,PRG,2025-08-28,ZRH,17:35,28 Aug,PRG,22:35,28 Aug,KLM,Direct,CHF169.77,119
+ZRH,PRG,2025-08-28,ZRH,20:40,28 Aug,PRG,08:45,29 Aug,"Air Serbia, operated by Bulgaria Air For Air Serbia",1 stop,CHF92.62,119
+ZRH,PRG,2025-08-28,ZRH,14:40,28 Aug,PRG,17:55,28 Aug,"Lufthansa, operated by City Jet",1 stop,CHF251.18,119
+ZRH,PRG,2025-08-28,ZRH,20:00,28 Aug,PRG,23:15,28 Aug,Lufthansa,1 stop,CHF251.18,119
+ZRH,PRG,2025-08-28,ZRH,21:55,28 Aug,PRG,08:35,29 Aug,"Easyjet, Wizz Air Malta",1 stop,CHF103.16,119
+ZRH,PRG,2025-08-28,ZRH,18:00,28 Aug,PRG,21:50,28 Aug,"Swiss, Eurowings, operated by Eurowings Europe Ltd",1 stop,CHF226.34,119
+ZRH,PRG,2025-08-28,ZRH,09:20,28 Aug,PRG,13:45,28 Aug,KLM,1 stop,CHF204.63,119
+ZRH,PRG,2025-08-28,ZRH,07:25,28 Aug,PRG,11:00,28 Aug,"Brussels Airlines, operated by Swiss",1 stop,CHF247.95,119
+ZRH,PRG,2025-08-29,ZRH,07:50,29 Aug,PRG,09:05,29 Aug,"Swiss, operated by Air Baltic Corporation",Cheapest direct,CHF210.33,120
+ZRH,PRG,2025-08-29,ZRH,22:05,29 Aug,PRG,23:20,29 Aug,Swiss,Direct,CHF210.33,120
+ZRH,PRG,2025-08-29,ZRH,17:05,29 Aug,PRG,18:25,29 Aug,"Swiss, operated by Helvetic Airways",Direct,CHF245.14,120
+ZRH,PRG,2025-08-29,ZRH,12:45,29 Aug,PRG,14:05,29 Aug,Swiss,Direct,CHF248.47,120
+ZRH,PRG,2025-08-29,ZRH,09:20,29 Aug,PRG,13:45,29 Aug,KLM,Direct,CHF160.33,120
+ZRH,PRG,2025-08-29,ZRH,09:20,29 Aug,PRG,17:40,29 Aug,KLM,1 stop,CHF110.97,120
+ZRH,PRG,2025-08-29,ZRH,14:20,29 Aug,PRG,22:35,29 Aug,"KLM, operated by KLM Cityhopper",1 stop,CHF115.72,120
+ZRH,PRG,2025-08-29,ZRH,20:40,29 Aug,PRG,08:45,30 Aug,Air Serbia,1 stop,CHF87.79,120
+ZRH,PRG,2025-08-29,ZRH,15:40,29 Aug,PRG,21:00,29 Aug,Eurowings,1 stop,CHF164.07,120
+ZRH,PRG,2025-08-29,ZRH,14:40,29 Aug,PRG,17:50,29 Aug,"Lufthansa, operated by City Jet",1 stop,CHF251.18,120
+ZRH,PRG,2025-08-29,ZRH,20:00,29 Aug,PRG,23:15,29 Aug,Lufthansa,1 stop,CHF251.18,120
+ZRH,PRG,2025-08-29,ZRH,21:55,29 Aug,PRG,08:35,30 Aug,"Easyjet, Wizz Air Malta",1 stop,CHF103.17,120
+ZRH,PRG,2025-08-29,ZRH,08:30,29 Aug,PRG,15:45,29 Aug,"Easyjet, Eurowings, operated by Eurowings Europe Ltd",1 stop,CHF140.00,120
+ZRH,PRG,2025-08-29,ZRH,13:20,29 Aug,PRG,16:05,29 Aug,Austrian Airlines,1 stop,CHF305.51,120
+ZRH,PRG,2025-08-29,ZRH,15:10,29 Aug,PRG,20:05,29 Aug,Air Serbia,1 stop,CHF200.32,120
+ZRH,PRG,2025-08-30,ZRH,07:50,30 Aug,PRG,09:05,30 Aug,"Swiss, operated by Helvetic Airways",Cheapest direct,CHF210.33,121
+ZRH,PRG,2025-08-30,ZRH,21:55,30 Aug,PRG,08:35,31 Aug,"Easyjet, Wizz Air Malta",Direct,CHF110.19,121
+ZRH,PRG,2025-08-30,ZRH,12:45,30 Aug,PRG,14:05,30 Aug,Swiss,1 stop,CHF239.66,121
+ZRH,PRG,2025-08-30,ZRH,22:05,30 Aug,PRG,23:20,30 Aug,Swiss,Direct,CHF274.90,121
+ZRH,PRG,2025-08-30,ZRH,17:05,30 Aug,PRG,18:25,30 Aug,"Swiss, operated by Air Baltic Corporation",Direct,CHF274.90,121
+ZRH,PRG,2025-08-30,ZRH,17:35,30 Aug,PRG,22:35,30 Aug,KLM,Direct,CHF110.97,121
+ZRH,PRG,2025-08-30,ZRH,09:20,30 Aug,PRG,13:45,30 Aug,KLM,1 stop,CHF139.45,121
+ZRH,PRG,2025-08-30,ZRH,11:50,30 Aug,PRG,17:40,30 Aug,KLM,1 stop,CHF139.45,121
+ZRH,PRG,2025-08-30,ZRH,14:40,30 Aug,PRG,17:50,30 Aug,Lufthansa,1 stop,CHF251.18,121
+ZRH,PRG,2025-08-30,ZRH,14:20,30 Aug,PRG,20:45,30 Aug,"KLM, operated by KLM Cityhopper",1 stop,CHF149.90,121
+ZRH,PRG,2025-08-30,ZRH,13:20,30 Aug,PRG,16:05,30 Aug,Austrian Airlines,1 stop,CHF295.34,121
+ZRH,PRG,2025-08-30,ZRH,14:20,30 Aug,PRG,22:35,30 Aug,"KLM, operated by KLM Cityhopper",1 stop,CHF139.45,121
+ZRH,PRG,2025-08-30,ZRH,09:20,30 Aug,PRG,17:40,30 Aug,KLM,1 stop,CHF139.45,121
+ZRH,PRG,2025-08-30,ZRH,11:50,30 Aug,PRG,20:45,30 Aug,KLM,1 stop,CHF139.45,121
+ZRH,PRG,2025-08-30,ZRH,19:25,30 Aug,PRG,08:20,31 Aug,"KLM, operated by KLM Cityhopper",1 stop,CHF110.97,121
+ZRH,PRG,2025-08-31,ZRH,07:50,31 Aug,PRG,09:05,31 Aug,"Swiss, operated by Air Baltic Corporation",Cheapest direct,CHF210.33,122
+ZRH,PRG,2025-08-31,ZRH,17:05,31 Aug,PRG,18:25,31 Aug,"Swiss, operated by Air Baltic Corporation",Direct,CHF210.33,122
+ZRH,PRG,2025-08-31,ZRH,12:45,31 Aug,PRG,14:05,31 Aug,Swiss,Direct,CHF241.50,122
+ZRH,PRG,2025-08-31,ZRH,22:05,31 Aug,PRG,23:20,31 Aug,Swiss,Direct,CHF274.90,122
+ZRH,PRG,2025-08-31,ZRH,14:35,31 Aug,PRG,20:05,31 Aug,Air Serbia,Direct,CHF92.62,122
+ZRH,PRG,2025-08-31,ZRH,09:20,31 Aug,PRG,13:45,31 Aug,"KLM, operated by KLM Cityhopper",1 stop,CHF139.45,122
+ZRH,PRG,2025-08-31,ZRH,17:35,31 Aug,PRG,22:35,31 Aug,KLM,1 stop,CHF139.45,122
+ZRH,PRG,2025-08-31,ZRH,15:40,31 Aug,PRG,20:20,31 Aug,Eurowings,1 stop,CHF154.57,122
+ZRH,PRG,2025-08-31,ZRH,11:50,31 Aug,PRG,17:40,31 Aug,KLM,1 stop,CHF139.45,122
+ZRH,PRG,2025-08-31,ZRH,07:00,31 Aug,PRG,13:45,31 Aug,KLM,1 stop,CHF139.45,122
+ZRH,PRG,2025-08-31,ZRH,07:45,31 Aug,PRG,11:45,31 Aug,Air France,1 stop,CHF207.77,122
+ZRH,PRG,2025-08-31,ZRH,14:40,31 Aug,PRG,17:50,31 Aug,"Lufthansa, operated by City Jet",1 stop,CHF251.18,122
+ZRH,PRG,2025-08-31,ZRH,13:20,31 Aug,PRG,16:05,31 Aug,Austrian Airlines,1 stop,CHF283.07,122
+ZRH,PRG,2025-08-31,ZRH,14:20,31 Aug,PRG,22:35,31 Aug,"KLM, operated by KLM Cityhopper",1 stop,CHF124.26,122
+ZRH,PRG,2025-08-31,ZRH,20:00,31 Aug,PRG,23:15,31 Aug,Lufthansa,1 stop,CHF251.18,122

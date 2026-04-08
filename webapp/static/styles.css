@@ -1,0 +1,61 @@
+body {
+    background-image: url("Beach.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+
+.container {
+    background-color: rgba(255, 255, 255, 0.9);  /* semi-transparent white */
+    padding: 30px;
+    border-radius: 15px;
+    max-width: 500px;
+    margin: 60px auto;
+    box-shadow: 0 0 20px rgba(0,0,0,0.3);
+}
+
+
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+    font-family: 'Georgia', serif;
+    font-weight: bold;
+    color: #2a2a2a;
+}
+
+form select, button {
+    width: 100%;
+    margin: 10px 0;
+    padding: 12px;
+    font-size: 16px;
+    border-radius: 25px;
+    border: none;
+    outline: none;
+}
+
+button {
+    background-color: #d24a1d;
+    color: white;
+    font-weight: bold;
+}
+
+.result {
+    background-color: #2a9d8f;  /* deep teal from the ocean */
+    color: white;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 12px;
+    text-align: center;
+    font-weight: bold;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.15);
+}
+
+
+
+.error {
+    color: red;
+    font-weight: bold;
+}

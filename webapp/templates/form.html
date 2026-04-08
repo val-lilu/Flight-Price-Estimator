@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Flight Price Estimator</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+<div class="container">
+    <h1>Flight Price Estimator</h1>
+
+    <form method="POST">
+        <label for="origin">Departure:</label>
+        <select name="origin" id="origin" required>
+            <option value="" disabled selected>Select departure</option>
+            {% for city in cities %}
+                <option value="{{ city }}">{{ city }}</option>
+            {% endfor %}
+        </select>
+
+        <label for="destination">Destination:</label>
+        <select name="destination" id="destination" required>
+            <option value="" disabled selected>Select destination</option>
+            {% for city in cities %}
+                <option value="{{ city }}">{{ city }}</option>
+            {% endfor %}
+        </select>
+
+        <label for="flight_date">Date (June–August 2025):</label>
+        <input type="date" name="flight_date" id="flight_date" min="2025-06-01" max="2025-08-31" required>
+
+        <button type="submit">Estimate Price</button>
+    </form>
+
+    {% if error %}
+        <p class="error">{{ error }}</p>
+    {% elif prediction %}
+    <div class="result">
+        <h2>Estimated price for {{ origin }} to {{ destination }} on {{ flight_date }} is:</h2>
+        <p>CHF {{ prediction | round(2) }}</p>
+    </div>
+{% endif %}
+
+</div>
+</body>
+</html>

@@ -1,0 +1,33 @@
+# Use official Python slim image
+FROM python:3.9-slim
+
+# Install system dependencies
+RUN apt-get update && apt-get install -y --no-install-recommends gcc g++ build-essential curl && rm -rf /var/lib/apt/lists/*
+
+# Set work directory
+RUN mkdir /app
+
+# Set workdir
+WORKDIR /app
+
+
+
+
+# Copy requirements and install Python deps
+COPY ./requirements.txt /app/
+RUN pip install --upgrade pip
+RUN pip install -r /app/requirements.txt
+
+# Copy Flask app code
+COPY . .
+
+# Expose Flask app port (adjust if different)
+EXPOSE 5002
+
+# Set MLflow tracking URI environment variable (adjust to your MLflow server IP/hostname)
+ENV MLFLOW_TRACKING_URI=http://mlflow-server:5003
+
+# Run Flask app
+CMD ["python", "web_app.py"]
+
+

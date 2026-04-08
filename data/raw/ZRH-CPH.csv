@@ -1,0 +1,1276 @@
+origin,destination,date_queried,departure_airport,departure_time,departure_date,arrival_airport,arrival_time,arrival_date,airline,number_of_stops,price,days_until_flight
+ZRH,CPH,2025-06-01,ZRH,07:10,1 Jun,CPH,08:55,1 Jun,"Swiss, operated by Helvetic Airways",Cheapest direct,CHF277.96,31
+ZRH,CPH,2025-06-01,ZRH,10:20,1 Jun,CPH,12:05,1 Jun,"Scandinavian Airlines, operated by Sas Connect",Direct,CHF317.79,31
+ZRH,CPH,2025-06-01,ZRH,20:25,1 Jun,CPH,22:10,1 Jun,"Scandinavian Airlines, operated by Sas Link",Direct,CHF317.79,31
+ZRH,CPH,2025-06-01,ZRH,21:35,1 Jun,CPH,23:25,1 Jun,Swiss,Direct,CHF315.91,31
+ZRH,CPH,2025-06-01,ZRH,12:30,1 Jun,CPH,14:15,1 Jun,Swiss,Direct,CHF384.90,31
+ZRH,CPH,2025-06-01,ZRH,07:10,1 Jun,CPH,11:15,1 Jun,"Swiss, operated by Helvetic Airways, Scandinavian Airlines",Direct,CHF213.38,31
+ZRH,CPH,2025-06-01,ZRH,17:30,1 Jun,CPH,19:20,1 Jun,Swiss,1 stop,CHF452.53,31
+ZRH,CPH,2025-06-01,ZRH,15:40,1 Jun,CPH,20:15,1 Jun,Eurowings,Direct,CHF244.74,31
+ZRH,CPH,2025-06-01,ZRH,10:50,1 Jun,CPH,16:15,1 Jun,Finnair,1 stop,CHF220.87,31
+ZRH,CPH,2025-06-01,ZRH,10:50,1 Jun,CPH,23:10,1 Jun,Finnair,1 stop,CHF135.78,31
+ZRH,CPH,2025-06-01,ZRH,19:15,1 Jun,CPH,23:30,1 Jun,"Lufthansa, operated by Swiss",1 stop,CHF324.37,31
+ZRH,CPH,2025-06-01,ZRH,14:40,1 Jun,CPH,18:25,1 Jun,"Lufthansa, operated by City Jet",1 stop,CHF387.41,31
+ZRH,CPH,2025-06-01,ZRH,17:35,1 Jun,CPH,22:30,1 Jun,KLM,1 stop,CHF319.65,31
+ZRH,CPH,2025-06-01,ZRH,18:45,1 Jun,CPH,22:40,1 Jun,Austrian Airlines,1 stop,CHF384.84,31
+ZRH,CPH,2025-06-01,ZRH,16:00,1 Jun,CPH,20:55,1 Jun,"Eurowings, Scandinavian Airlines, operated by City Jet",1 stop,CHF328.61,31
+ZRH,CPH,2025-06-02,ZRH,21:35,2 Jun,CPH,23:25,2 Jun,Swiss,Cheapest direct,CHF150.83,32
+ZRH,CPH,2025-06-02,ZRH,07:10,2 Jun,CPH,08:55,2 Jun,"Swiss, operated by Air Baltic Corporation",Direct,CHF229.52,32
+ZRH,CPH,2025-06-02,ZRH,17:30,2 Jun,CPH,19:20,2 Jun,Swiss,Direct,CHF229.52,32
+ZRH,CPH,2025-06-02,ZRH,10:20,2 Jun,CPH,12:05,2 Jun,Scandinavian Airlines,Direct,CHF241.40,32
+ZRH,CPH,2025-06-02,ZRH,20:25,2 Jun,CPH,22:10,2 Jun,"Scandinavian Airlines, operated by Jettime A/S",Direct,CHF241.40,32
+ZRH,CPH,2025-06-02,ZRH,12:30,2 Jun,CPH,14:15,2 Jun,Swiss,Direct,CHF267.37,32
+ZRH,CPH,2025-06-02,ZRH,17:35,2 Jun,CPH,22:30,2 Jun,KLM,Direct,CHF113.21,32
+ZRH,CPH,2025-06-02,ZRH,15:40,2 Jun,CPH,20:05,2 Jun,Eurowings,1 stop,CHF154.58,32
+ZRH,CPH,2025-06-02,ZRH,14:40,2 Jun,CPH,18:25,2 Jun,"Lufthansa, operated by City Jet",1 stop,CHF187.63,32
+ZRH,CPH,2025-06-02,ZRH,08:10,2 Jun,CPH,12:05,2 Jun,Easyjet,1 stop,CHF195.74,32
+ZRH,CPH,2025-06-02,ZRH,10:50,2 Jun,CPH,16:15,2 Jun,Finnair,1 stop,CHF163.60,32
+ZRH,CPH,2025-06-02,ZRH,17:30,2 Jun,CPH,21:05,2 Jun,"Swiss, operated by Air Baltic, Easyjet",1 stop,CHF254.01,32
+ZRH,CPH,2025-06-02,ZRH,21:15,2 Jun,CPH,07:25,3 Jun,Easyjet,1 stop,CHF117.63,32
+ZRH,CPH,2025-06-02,ZRH,17:05,2 Jun,CPH,20:40,2 Jun,"Swiss, operated by Helvetic Airways, Scandinavian Airlines",1 stop,CHF271.13,32
+ZRH,CPH,2025-06-02,ZRH,17:00,2 Jun,CPH,21:20,2 Jun,"Swiss, Scandinavian Airlines",1 stop,CHF238.05,32
+ZRH,CPH,2025-06-03,ZRH,16:45,3 Jun,CPH,18:30,3 Jun,"Swiss, operated by Helvetic Airways",Cheapest direct,CHF150.83,33
+ZRH,CPH,2025-06-03,ZRH,08:50,3 Jun,CPH,20:50,3 Jun,Easyjet,Direct,CHF96.18,33
+ZRH,CPH,2025-06-03,ZRH,21:35,3 Jun,CPH,23:25,3 Jun,Swiss,1 stop,CHF150.83,33
+ZRH,CPH,2025-06-03,ZRH,12:30,3 Jun,CPH,14:15,3 Jun,Swiss,Direct,CHF185.02,33
+ZRH,CPH,2025-06-03,ZRH,07:10,3 Jun,CPH,08:55,3 Jun,"Swiss, operated by Helvetic Airways",Direct,CHF229.52,33
+ZRH,CPH,2025-06-03,ZRH,10:20,3 Jun,CPH,12:05,3 Jun,Scandinavian Airlines,Direct,CHF241.40,33
+ZRH,CPH,2025-06-03,ZRH,20:25,3 Jun,CPH,22:10,3 Jun,Scandinavian Airlines,Direct,CHF241.40,33
+ZRH,CPH,2025-06-03,ZRH,17:35,3 Jun,CPH,22:30,3 Jun,KLM,Direct,CHF114.15,33
+ZRH,CPH,2025-06-03,ZRH,15:40,3 Jun,CPH,19:55,3 Jun,Eurowings,1 stop,CHF135.62,33
+ZRH,CPH,2025-06-03,ZRH,18:10,3 Jun,CPH,23:35,3 Jun,"Easyjet, Norwegian Air Sweden",1 stop,CHF123.32,33
+ZRH,CPH,2025-06-03,ZRH,16:55,3 Jun,CPH,20:40,3 Jun,"Lufthansa, operated by Helvetic Airways For Swiss",1 stop,CHF180.08,33
+ZRH,CPH,2025-06-03,ZRH,14:20,3 Jun,CPH,18:20,3 Jun,"KLM, operated by KLM Cityhopper",1 stop,CHF174.58,33
+ZRH,CPH,2025-06-03,ZRH,15:10,3 Jun,CPH,20:45,3 Jun,"Air Serbia, Wizz Air",1 stop,CHF137.20,33
+ZRH,CPH,2025-06-03,ZRH,14:40,3 Jun,CPH,18:25,3 Jun,"Lufthansa, operated by City Jet",1 stop,CHF187.63,33
+ZRH,CPH,2025-06-03,ZRH,08:50,3 Jun,CPH,18:25,3 Jun,"Easyjet, Norwegian Air Sweden",1 stop,CHF99.39,33
+ZRH,CPH,2025-06-04,ZRH,07:10,4 Jun,CPH,08:55,4 Jun,"Swiss, operated by Helvetic Airways",Cheapest direct,CHF150.83,34
+ZRH,CPH,2025-06-04,ZRH,08:05,4 Jun,CPH,20:45,4 Jun,Easyjet,Direct,CHF101.05,34
+ZRH,CPH,2025-06-04,ZRH,17:15,4 Jun,CPH,19:05,4 Jun,"Swiss, operated by Helvetic Airways",1 stop,CHF150.83,34
+ZRH,CPH,2025-06-04,ZRH,21:35,4 Jun,CPH,23:25,4 Jun,Swiss,Direct,CHF150.83,34
+ZRH,CPH,2025-06-04,ZRH,12:30,4 Jun,CPH,14:15,4 Jun,Swiss,Direct,CHF187.14,34
+ZRH,CPH,2025-06-04,ZRH,14:20,4 Jun,CPH,18:20,4 Jun,"KLM, operated by KLM Cityhopper",Direct,CHF113.21,34
+ZRH,CPH,2025-06-04,ZRH,07:00,4 Jun,CPH,11:05,4 Jun,KLM,1 stop,CHF113.21,34
+ZRH,CPH,2025-06-04,ZRH,10:20,4 Jun,CPH,12:05,4 Jun,Scandinavian Airlines,1 stop,CHF241.40,34
+ZRH,CPH,2025-06-04,ZRH,20:25,4 Jun,CPH,22:10,4 Jun,Scandinavian Airlines,Direct,CHF241.40,34
+ZRH,CPH,2025-06-04,ZRH,11:50,4 Jun,CPH,15:45,4 Jun,KLM,Direct,CHF122.50,34
+ZRH,CPH,2025-06-04,ZRH,17:35,4 Jun,CPH,22:30,4 Jun,KLM,1 stop,CHF113.21,34
+ZRH,CPH,2025-06-04,ZRH,14:35,4 Jun,CPH,19:35,4 Jun,Air Serbia,1 stop,CHF130.61,34
+ZRH,CPH,2025-06-04,ZRH,09:20,4 Jun,CPH,15:45,4 Jun,KLM,1 stop,CHF114.15,34
+ZRH,CPH,2025-06-04,ZRH,11:50,4 Jun,CPH,18:20,4 Jun,KLM,1 stop,CHF114.15,34
+ZRH,CPH,2025-06-04,ZRH,15:40,4 Jun,CPH,20:05,4 Jun,"Eurowings, operated by Eurowings Europe Ltd",1 stop,CHF154.58,34
+ZRH,CPH,2025-06-05,ZRH,21:35,5 Jun,CPH,23:25,5 Jun,Swiss,Cheapest direct,CHF150.83,35
+ZRH,CPH,2025-06-05,ZRH,11:50,5 Jun,CPH,22:30,5 Jun,KLM,Direct,CHF141.36,35
+ZRH,CPH,2025-06-05,ZRH,10:20,5 Jun,CPH,12:05,5 Jun,Scandinavian Airlines,1 stop,CHF241.40,35
+ZRH,CPH,2025-06-05,ZRH,20:25,5 Jun,CPH,22:10,5 Jun,Scandinavian Airlines,Direct,CHF241.40,35
+ZRH,CPH,2025-06-05,ZRH,07:10,5 Jun,CPH,08:55,5 Jun,"Swiss, operated by Helvetic Airways",Direct,CHF242.15,35
+ZRH,CPH,2025-06-05,ZRH,16:25,5 Jun,CPH,18:10,5 Jun,"Swiss, operated by Air Baltic Corporation",Direct,CHF264.43,35
+ZRH,CPH,2025-06-05,ZRH,12:30,5 Jun,CPH,14:15,5 Jun,Swiss,Direct,CHF267.37,35
+ZRH,CPH,2025-06-05,ZRH,14:40,5 Jun,CPH,18:25,5 Jun,"Lufthansa, operated by City Jet",Direct,CHF187.63,35
+ZRH,CPH,2025-06-05,ZRH,08:35,5 Jun,CPH,12:45,5 Jun,Eurowings,1 stop,CHF173.56,35
+ZRH,CPH,2025-06-05,ZRH,11:50,5 Jun,CPH,15:45,5 Jun,KLM,1 stop,CHF187.86,35
+ZRH,CPH,2025-06-05,ZRH,15:40,5 Jun,CPH,20:05,5 Jun,Eurowings,1 stop,CHF173.56,35
+ZRH,CPH,2025-06-05,ZRH,18:05,5 Jun,CPH,22:15,5 Jun,Lufthansa,1 stop,CHF187.63,35
+ZRH,CPH,2025-06-05,ZRH,08:20,5 Jun,CPH,12:25,5 Jun,Easyjet,1 stop,CHF192.00,35
+ZRH,CPH,2025-06-05,ZRH,17:35,5 Jun,CPH,22:30,5 Jun,KLM,1 stop,CHF170.78,35
+ZRH,CPH,2025-06-05,ZRH,07:30,5 Jun,CPH,12:45,5 Jun,"Swiss, Eurowings",1 stop,CHF193.15,35
+ZRH,CPH,2025-06-06,ZRH,21:35,6 Jun,CPH,23:25,6 Jun,Swiss,Cheapest direct,CHF229.52,36
+ZRH,CPH,2025-06-06,ZRH,19:05,6 Jun,CPH,11:40,7 Jun,Finnair,Direct,CHF150.89,36
+ZRH,CPH,2025-06-06,ZRH,10:20,6 Jun,CPH,12:05,6 Jun,Scandinavian Airlines,1 stop,CHF277.77,36
+ZRH,CPH,2025-06-06,ZRH,20:15,6 Jun,CPH,22:00,6 Jun,"Scandinavian Airlines, operated by Jettime A/S",Direct,CHF277.77,36
+ZRH,CPH,2025-06-06,ZRH,17:30,6 Jun,CPH,19:20,6 Jun,"Swiss, operated by Air Baltic Corporation",Direct,CHF312.73,36
+ZRH,CPH,2025-06-06,ZRH,07:10,6 Jun,CPH,08:55,6 Jun,"Swiss, operated by Helvetic Airways",Direct,CHF324.38,36
+ZRH,CPH,2025-06-06,ZRH,12:30,6 Jun,CPH,14:15,6 Jun,Swiss,Direct,CHF360.72,36
+ZRH,CPH,2025-06-06,ZRH,07:25,6 Jun,CPH,11:05,6 Jun,"Brussels Airlines, operated by Swiss",Direct,CHF304.53,36
+ZRH,CPH,2025-06-06,ZRH,10:50,6 Jun,CPH,18:40,6 Jun,Finnair,1 stop,CHF180.18,36
+ZRH,CPH,2025-06-06,ZRH,15:40,6 Jun,CPH,20:05,6 Jun,"Eurowings, operated by Eurowings Europe Ltd",1 stop,CHF282.68,36
+ZRH,CPH,2025-06-06,ZRH,14:40,6 Jun,CPH,18:25,6 Jun,"Lufthansa, operated by City Jet",1 stop,CHF331.91,36
+ZRH,CPH,2025-06-06,ZRH,18:05,6 Jun,CPH,22:05,6 Jun,Lufthansa,1 stop,CHF319.75,36
+ZRH,CPH,2025-06-06,ZRH,19:15,6 Jun,CPH,23:30,6 Jun,"Lufthansa, operated by Swiss",1 stop,CHF324.37,36
+ZRH,CPH,2025-06-06,ZRH,17:35,6 Jun,CPH,22:30,6 Jun,KLM,1 stop,CHF300.84,36
+ZRH,CPH,2025-06-06,ZRH,12:55,6 Jun,CPH,17:20,6 Jun,"Brussels Airlines, operated by Swiss",1 stop,CHF328.71,36
+ZRH,CPH,2025-06-07,ZRH,21:35,7 Jun,CPH,23:25,7 Jun,Swiss,Cheapest direct,CHF150.83,37
+ZRH,CPH,2025-06-07,ZRH,19:05,7 Jun,CPH,08:05,8 Jun,Finnair,Direct,CHF135.83,37
+ZRH,CPH,2025-06-07,ZRH,16:50,7 Jun,CPH,18:35,7 Jun,"Swiss, operated by Air Baltic Corporation",1 stop,CHF221.52,37
+ZRH,CPH,2025-06-07,ZRH,20:25,7 Jun,CPH,22:10,7 Jun,"Scandinavian Airlines, operated by City Jet",Direct,CHF241.87,37
+ZRH,CPH,2025-06-07,ZRH,10:20,7 Jun,CPH,12:05,7 Jun,"Scandinavian Airlines, operated by Sas Link",Direct,CHF317.79,37
+ZRH,CPH,2025-06-07,ZRH,07:10,7 Jun,CPH,08:55,7 Jun,"Swiss, operated by Helvetic Airways",Direct,CHF329.43,37
+ZRH,CPH,2025-06-07,ZRH,12:30,7 Jun,CPH,14:15,7 Jun,Swiss,Direct,CHF329.43,37
+ZRH,CPH,2025-06-07,ZRH,18:05,7 Jun,CPH,22:15,7 Jun,Lufthansa,Direct,CHF187.63,37
+ZRH,CPH,2025-06-07,ZRH,17:55,7 Jun,CPH,22:35,7 Jun,"Brussels Airlines, operated by Swiss",1 stop,CHF184.40,37
+ZRH,CPH,2025-06-07,ZRH,17:35,7 Jun,CPH,22:30,7 Jun,KLM,1 stop,CHF187.86,37
+ZRH,CPH,2025-06-07,ZRH,18:00,7 Jun,CPH,22:05,7 Jun,"Scandinavian Airlines, operated by Sas Connect",1 stop,CHF242.45,37
+ZRH,CPH,2025-06-07,ZRH,14:40,7 Jun,CPH,18:25,7 Jun,Lufthansa,1 stop,CHF274.37,37
+ZRH,CPH,2025-06-07,ZRH,11:50,7 Jun,CPH,15:45,7 Jun,KLM,1 stop,CHF283.08,37
+ZRH,CPH,2025-06-07,ZRH,19:15,7 Jun,CPH,23:30,7 Jun,"Lufthansa, operated by Swiss",1 stop,CHF266.81,37
+ZRH,CPH,2025-06-07,ZRH,14:20,7 Jun,CPH,18:20,7 Jun,"KLM, operated by KLM Cityhopper",1 stop,CHF292.49,37
+ZRH,CPH,2025-06-09,ZRH,21:35,9 Jun,CPH,23:25,9 Jun,Swiss,Cheapest direct,CHF150.83,39
+ZRH,CPH,2025-06-09,ZRH,20:40,9 Jun,CPH,08:50,10 Jun,Air Serbia,Direct,CHF110.74,39
+ZRH,CPH,2025-06-09,ZRH,07:10,9 Jun,CPH,08:55,9 Jun,Swiss,1 stop,CHF229.52,39
+ZRH,CPH,2025-06-09,ZRH,12:30,9 Jun,CPH,14:15,9 Jun,Swiss,Direct,CHF229.52,39
+ZRH,CPH,2025-06-09,ZRH,17:30,9 Jun,CPH,19:20,9 Jun,Swiss,Direct,CHF229.52,39
+ZRH,CPH,2025-06-09,ZRH,10:20,9 Jun,CPH,12:05,9 Jun,Scandinavian Airlines,Direct,CHF241.40,39
+ZRH,CPH,2025-06-09,ZRH,20:25,9 Jun,CPH,22:10,9 Jun,Scandinavian Airlines,Direct,CHF241.40,39
+ZRH,CPH,2025-06-09,ZRH,17:35,9 Jun,CPH,22:30,9 Jun,KLM,Direct,CHF141.36,39
+ZRH,CPH,2025-06-09,ZRH,08:10,9 Jun,CPH,12:05,9 Jun,Easyjet,1 stop,CHF185.39,39
+ZRH,CPH,2025-06-09,ZRH,17:05,9 Jun,CPH,20:40,9 Jun,"Swiss, operated by Helvetic Airways, Scandinavian Airlines",1 stop,CHF198.78,39
+ZRH,CPH,2025-06-09,ZRH,15:40,9 Jun,CPH,20:05,9 Jun,Eurowings,1 stop,CHF173.56,39
+ZRH,CPH,2025-06-09,ZRH,07:20,9 Jun,CPH,12:05,9 Jun,"Swiss, operated by Helvetic Airways, Easyjet",1 stop,CHF169.71,39
+ZRH,CPH,2025-06-09,ZRH,12:45,9 Jun,CPH,16:45,9 Jun,"Swiss, Scandinavian Airlines, operated by City Jet",1 stop,CHF198.78,39
+ZRH,CPH,2025-06-09,ZRH,08:15,9 Jun,CPH,12:05,9 Jun,"Swiss, operated by Helvetic Airways, Easyjet",1 stop,CHF210.40,39
+ZRH,CPH,2025-06-09,ZRH,07:20,9 Jun,CPH,11:10,9 Jun,"Swiss, operated by Helvetic Airways, Scandinavian Airlines",1 stop,CHF211.50,39
+ZRH,CPH,2025-06-10,ZRH,16:45,10 Jun,CPH,18:30,10 Jun,Swiss,Cheapest direct,CHF150.83,40
+ZRH,CPH,2025-06-10,ZRH,21:35,10 Jun,CPH,23:25,10 Jun,Swiss,Direct,CHF150.83,40
+ZRH,CPH,2025-06-10,ZRH,07:10,10 Jun,CPH,08:55,10 Jun,"Swiss, operated by Air Baltic Corporation",Direct,CHF229.52,40
+ZRH,CPH,2025-06-10,ZRH,12:30,10 Jun,CPH,14:15,10 Jun,Swiss,Direct,CHF229.52,40
+ZRH,CPH,2025-06-10,ZRH,10:20,10 Jun,CPH,12:05,10 Jun,Scandinavian Airlines,Direct,CHF241.40,40
+ZRH,CPH,2025-06-10,ZRH,20:25,10 Jun,CPH,22:10,10 Jun,Scandinavian Airlines,Direct,CHF241.40,40
+ZRH,CPH,2025-06-10,ZRH,07:00,10 Jun,CPH,11:05,10 Jun,KLM,Direct,CHF156.54,40
+ZRH,CPH,2025-06-10,ZRH,18:10,10 Jun,CPH,23:35,10 Jun,"Easyjet, Norwegian Air Sweden",1 stop,CHF134.58,40
+ZRH,CPH,2025-06-10,ZRH,15:10,10 Jun,CPH,20:45,10 Jun,"Air Serbia, Wizz Air",1 stop,CHF139.41,40
+ZRH,CPH,2025-06-10,ZRH,17:05,10 Jun,CPH,20:40,10 Jun,"Swiss, operated by Helvetic Airways, Scandinavian Airlines",1 stop,CHF198.75,40
+ZRH,CPH,2025-06-10,ZRH,21:30,10 Jun,CPH,07:10,11 Jun,Easyjet,1 stop,CHF96.18,40
+ZRH,CPH,2025-06-10,ZRH,07:00,10 Jun,CPH,11:50,10 Jun,KLM,1 stop,CHF172.31,40
+ZRH,CPH,2025-06-10,ZRH,10:50,10 Jun,CPH,16:15,10 Jun,Finnair,1 stop,CHF163.94,40
+ZRH,CPH,2025-06-10,ZRH,14:40,10 Jun,CPH,18:25,10 Jun,"Lufthansa, operated by City Jet",1 stop,CHF228.00,40
+ZRH,CPH,2025-06-10,ZRH,20:15,10 Jun,CPH,07:10,11 Jun,"Eurowings, Easyjet",1 stop,CHF104.85,40
+ZRH,CPH,2025-06-11,ZRH,07:10,11 Jun,CPH,08:55,11 Jun,"Swiss, operated by Air Baltic Corporation",Cheapest direct,CHF150.83,41
+ZRH,CPH,2025-06-11,ZRH,21:40,11 Jun,CPH,08:50,12 Jun,Vueling,Direct,CHF93.88,41
+ZRH,CPH,2025-06-11,ZRH,17:15,11 Jun,CPH,19:05,11 Jun,"Swiss, operated by Helvetic Airways",1 stop,CHF150.83,41
+ZRH,CPH,2025-06-11,ZRH,21:35,11 Jun,CPH,23:25,11 Jun,Swiss,Direct,CHF150.83,41
+ZRH,CPH,2025-06-11,ZRH,10:20,11 Jun,CPH,12:05,11 Jun,Scandinavian Airlines,Direct,CHF241.40,41
+ZRH,CPH,2025-06-11,ZRH,20:25,11 Jun,CPH,22:10,11 Jun,Scandinavian Airlines,Direct,CHF241.40,41
+ZRH,CPH,2025-06-11,ZRH,12:30,11 Jun,CPH,14:15,11 Jun,Swiss,Direct,CHF267.51,41
+ZRH,CPH,2025-06-11,ZRH,17:35,11 Jun,CPH,22:30,11 Jun,KLM,Direct,CHF114.14,41
+ZRH,CPH,2025-06-11,ZRH,14:20,11 Jun,CPH,18:20,11 Jun,"KLM, operated by KLM Cityhopper",1 stop,CHF141.36,41
+ZRH,CPH,2025-06-11,ZRH,14:35,11 Jun,CPH,19:35,11 Jun,Air Serbia,1 stop,CHF130.61,41
+ZRH,CPH,2025-06-11,ZRH,11:50,11 Jun,CPH,18:20,11 Jun,KLM,1 stop,CHF114.14,41
+ZRH,CPH,2025-06-11,ZRH,15:40,11 Jun,CPH,20:05,11 Jun,"Eurowings, operated by Eurowings Europe Ltd",1 stop,CHF154.58,41
+ZRH,CPH,2025-06-11,ZRH,16:55,11 Jun,CPH,20:40,11 Jun,"Lufthansa, operated by Swiss",1 stop,CHF180.08,41
+ZRH,CPH,2025-06-11,ZRH,07:25,11 Jun,CPH,11:05,11 Jun,"Brussels Airlines, operated by Swiss",1 stop,CHF184.40,41
+ZRH,CPH,2025-06-11,ZRH,14:40,11 Jun,CPH,18:25,11 Jun,"Lufthansa, operated by City Jet",1 stop,CHF187.63,41
+ZRH,CPH,2025-06-12,ZRH,07:10,12 Jun,CPH,08:55,12 Jun,"Swiss, operated by Helvetic Airways",Cheapest direct,CHF150.83,42
+ZRH,CPH,2025-06-12,ZRH,08:20,12 Jun,CPH,22:55,12 Jun,"Easyjet, Norwegian Air Sweden",Direct,CHF102.84,42
+ZRH,CPH,2025-06-12,ZRH,21:35,12 Jun,CPH,23:25,12 Jun,Swiss,1 stop,CHF150.83,42
+ZRH,CPH,2025-06-12,ZRH,12:30,12 Jun,CPH,14:15,12 Jun,Swiss,Direct,CHF229.52,42
+ZRH,CPH,2025-06-12,ZRH,10:20,12 Jun,CPH,12:05,12 Jun,Scandinavian Airlines,Direct,CHF241.40,42
+ZRH,CPH,2025-06-12,ZRH,20:25,12 Jun,CPH,22:10,12 Jun,"Scandinavian Airlines, operated by Sas Link",Direct,CHF241.40,42
+ZRH,CPH,2025-06-12,ZRH,16:25,12 Jun,CPH,18:10,12 Jun,"Swiss, operated by Helvetic Airways",Direct,CHF261.28,42
+ZRH,CPH,2025-06-12,ZRH,08:20,12 Jun,CPH,12:25,12 Jun,Easyjet,Direct,CHF154.76,42
+ZRH,CPH,2025-06-12,ZRH,07:00,12 Jun,CPH,11:05,12 Jun,KLM,1 stop,CHF156.79,42
+ZRH,CPH,2025-06-12,ZRH,11:50,12 Jun,CPH,15:45,12 Jun,KLM,1 stop,CHF166.88,42
+ZRH,CPH,2025-06-12,ZRH,17:35,12 Jun,CPH,22:30,12 Jun,KLM,1 stop,CHF143.47,42
+ZRH,CPH,2025-06-12,ZRH,07:25,12 Jun,CPH,11:05,12 Jun,"Brussels Airlines, operated by Swiss",1 stop,CHF184.40,42
+ZRH,CPH,2025-06-12,ZRH,11:20,12 Jun,CPH,17:05,12 Jun,Air France,1 stop,CHF135.22,42
+ZRH,CPH,2025-06-12,ZRH,14:40,12 Jun,CPH,18:25,12 Jun,"Lufthansa, operated by City Jet",1 stop,CHF187.63,42
+ZRH,CPH,2025-06-12,ZRH,08:35,12 Jun,CPH,12:45,12 Jun,"Eurowings, operated by Eurowings Europe Ltd",1 stop,CHF173.56,42
+ZRH,CPH,2025-06-13,ZRH,07:10,13 Jun,CPH,08:55,13 Jun,Swiss,Cheapest direct,CHF216.42,43
+ZRH,CPH,2025-06-13,ZRH,07:00,13 Jun,CPH,18:20,13 Jun,KLM,Direct,CHF113.20,43
+ZRH,CPH,2025-06-13,ZRH,12:30,13 Jun,CPH,14:15,13 Jun,Swiss,1 stop,CHF229.52,43
+ZRH,CPH,2025-06-13,ZRH,17:30,13 Jun,CPH,19:20,13 Jun,"Swiss, operated by Air Baltic Corporation",Direct,CHF229.52,43
+ZRH,CPH,2025-06-13,ZRH,21:35,13 Jun,CPH,23:25,13 Jun,Swiss,Direct,CHF229.52,43
+ZRH,CPH,2025-06-13,ZRH,10:20,13 Jun,CPH,12:05,13 Jun,Scandinavian Airlines,Direct,CHF241.40,43
+ZRH,CPH,2025-06-13,ZRH,20:15,13 Jun,CPH,22:00,13 Jun,"Scandinavian Airlines, operated by Jettime A/S",Direct,CHF241.40,43
+ZRH,CPH,2025-06-13,ZRH,17:35,13 Jun,CPH,22:30,13 Jun,KLM,Direct,CHF141.36,43
+ZRH,CPH,2025-06-13,ZRH,14:20,13 Jun,CPH,18:20,13 Jun,"KLM, operated by KLM Cityhopper",1 stop,CHF206.68,43
+ZRH,CPH,2025-06-13,ZRH,11:20,13 Jun,CPH,17:05,13 Jun,Air France,1 stop,CHF169.81,43
+ZRH,CPH,2025-06-13,ZRH,11:50,13 Jun,CPH,18:20,13 Jun,KLM,1 stop,CHF156.54,43
+ZRH,CPH,2025-06-13,ZRH,14:50,13 Jun,CPH,22:55,13 Jun,Air France,1 stop,CHF134.71,43
+ZRH,CPH,2025-06-13,ZRH,17:05,13 Jun,CPH,20:40,13 Jun,"Swiss, operated by Helvetic Airways, Scandinavian Airlines",1 stop,CHF249.69,43
+ZRH,CPH,2025-06-13,ZRH,07:00,13 Jun,CPH,11:05,13 Jun,KLM,1 stop,CHF244.33,43
+ZRH,CPH,2025-06-13,ZRH,09:20,13 Jun,CPH,14:00,13 Jun,"KLM, operated by KLM Cityhopper",1 stop,CHF225.51,43
+ZRH,CPH,2025-06-14,ZRH,16:50,14 Jun,CPH,18:35,14 Jun,"Swiss, operated by Air Baltic Corporation",Cheapest direct,CHF150.83,44
+ZRH,CPH,2025-06-14,ZRH,21:35,14 Jun,CPH,23:25,14 Jun,Swiss,Direct,CHF150.83,44
+ZRH,CPH,2025-06-14,ZRH,07:10,14 Jun,CPH,08:55,14 Jun,"Swiss, operated by Air Baltic Corporation",Direct,CHF201.67,44
+ZRH,CPH,2025-06-14,ZRH,12:30,14 Jun,CPH,14:15,14 Jun,Swiss,Direct,CHF229.52,44
+ZRH,CPH,2025-06-14,ZRH,10:20,14 Jun,CPH,12:05,14 Jun,"Scandinavian Airlines, operated by Sas Link",Direct,CHF241.40,44
+ZRH,CPH,2025-06-14,ZRH,20:25,14 Jun,CPH,22:10,14 Jun,"Scandinavian Airlines, operated by City Jet",Direct,CHF241.87,44
+ZRH,CPH,2025-06-14,ZRH,17:35,14 Jun,CPH,22:30,14 Jun,KLM,Direct,CHF114.14,44
+ZRH,CPH,2025-06-14,ZRH,14:20,14 Jun,CPH,18:20,14 Jun,"KLM, operated by KLM Cityhopper",1 stop,CHF141.36,44
+ZRH,CPH,2025-06-14,ZRH,19:15,14 Jun,CPH,23:30,14 Jun,"Lufthansa, operated by Swiss",1 stop,CHF180.08,44
+ZRH,CPH,2025-06-14,ZRH,18:05,14 Jun,CPH,22:15,14 Jun,Lufthansa,1 stop,CHF187.63,44
+ZRH,CPH,2025-06-14,ZRH,07:00,14 Jun,CPH,11:05,14 Jun,KLM,1 stop,CHF192.60,44
+ZRH,CPH,2025-06-14,ZRH,14:35,14 Jun,CPH,20:40,14 Jun,"Air Serbia, Wizz Air",1 stop,CHF148.89,44
+ZRH,CPH,2025-06-14,ZRH,14:50,14 Jun,CPH,22:55,14 Jun,"Air France, operated by HOP",1 stop,CHF134.71,44
+ZRH,CPH,2025-06-14,ZRH,14:20,14 Jun,CPH,22:30,14 Jun,"KLM, operated by KLM Cityhopper",1 stop,CHF141.36,44
+ZRH,CPH,2025-06-14,ZRH,14:40,14 Jun,CPH,18:25,14 Jun,Lufthansa,1 stop,CHF254.21,44
+ZRH,CPH,2025-06-16,ZRH,21:35,16 Jun,CPH,23:25,16 Jun,Swiss,Cheapest direct,CHF150.82,46
+ZRH,CPH,2025-06-16,ZRH,07:10,16 Jun,CPH,08:55,16 Jun,Swiss,Direct,CHF229.52,46
+ZRH,CPH,2025-06-16,ZRH,14:20,16 Jun,CPH,18:20,16 Jun,"KLM, operated by KLM Cityhopper",Direct,CHF113.16,46
+ZRH,CPH,2025-06-16,ZRH,17:30,16 Jun,CPH,19:20,16 Jun,Swiss,1 stop,CHF229.52,46
+ZRH,CPH,2025-06-16,ZRH,10:20,16 Jun,CPH,12:05,16 Jun,Scandinavian Airlines,Direct,CHF241.38,46
+ZRH,CPH,2025-06-16,ZRH,20:25,16 Jun,CPH,22:10,16 Jun,"Scandinavian Airlines, operated by Jettime A/S",Direct,CHF241.38,46
+ZRH,CPH,2025-06-16,ZRH,08:10,16 Jun,CPH,12:05,16 Jun,Easyjet,Direct,CHF130.82,46
+ZRH,CPH,2025-06-16,ZRH,17:35,16 Jun,CPH,22:30,16 Jun,KLM,1 stop,CHF113.16,46
+ZRH,CPH,2025-06-16,ZRH,08:15,16 Jun,CPH,12:05,16 Jun,"Swiss, operated by Helvetic Airways, Easyjet",1 stop,CHF151.18,46
+ZRH,CPH,2025-06-16,ZRH,11:50,16 Jun,CPH,18:20,16 Jun,KLM,1 stop,CHF113.16,46
+ZRH,CPH,2025-06-16,ZRH,07:00,16 Jun,CPH,11:05,16 Jun,KLM,1 stop,CHF166.99,46
+ZRH,CPH,2025-06-16,ZRH,07:20,16 Jun,CPH,12:05,16 Jun,"Swiss, operated by Helvetic Airways, Easyjet",1 stop,CHF151.18,46
+ZRH,CPH,2025-06-16,ZRH,14:40,16 Jun,CPH,18:25,16 Jun,"Lufthansa, operated by City Jet",1 stop,CHF187.63,46
+ZRH,CPH,2025-06-16,ZRH,12:30,16 Jun,CPH,14:15,16 Jun,Swiss,1 stop,CHF384.90,46
+ZRH,CPH,2025-06-16,ZRH,14:20,16 Jun,CPH,22:30,16 Jun,"KLM, operated by KLM Cityhopper",Direct,CHF113.16,46
+ZRH,CPH,2025-06-17,ZRH,16:45,17 Jun,CPH,18:30,17 Jun,Swiss,Cheapest direct,CHF150.82,47
+ZRH,CPH,2025-06-17,ZRH,21:35,17 Jun,CPH,23:25,17 Jun,Swiss,Direct,CHF150.82,47
+ZRH,CPH,2025-06-17,ZRH,12:30,17 Jun,CPH,14:15,17 Jun,Swiss,Direct,CHF214.93,47
+ZRH,CPH,2025-06-17,ZRH,07:10,17 Jun,CPH,08:55,17 Jun,Swiss,Direct,CHF229.52,47
+ZRH,CPH,2025-06-17,ZRH,10:20,17 Jun,CPH,12:05,17 Jun,Scandinavian Airlines,Direct,CHF241.38,47
+ZRH,CPH,2025-06-17,ZRH,20:25,17 Jun,CPH,22:10,17 Jun,Scandinavian Airlines,Direct,CHF241.38,47
+ZRH,CPH,2025-06-17,ZRH,17:35,17 Jun,CPH,22:30,17 Jun,KLM,Direct,CHF114.10,47
+ZRH,CPH,2025-06-17,ZRH,14:20,17 Jun,CPH,18:20,17 Jun,"KLM, operated by KLM Cityhopper",1 stop,CHF141.36,47
+ZRH,CPH,2025-06-17,ZRH,18:10,17 Jun,CPH,23:35,17 Jun,"Easyjet, Norwegian Air Sweden",1 stop,CHF123.32,47
+ZRH,CPH,2025-06-17,ZRH,11:50,17 Jun,CPH,15:45,17 Jun,KLM,1 stop,CHF160.34,47
+ZRH,CPH,2025-06-17,ZRH,15:10,17 Jun,CPH,20:45,17 Jun,"Air Serbia, Wizz Air",1 stop,CHF128.20,47
+ZRH,CPH,2025-06-17,ZRH,14:40,17 Jun,CPH,18:25,17 Jun,"Lufthansa, operated by City Jet",1 stop,CHF187.63,47
+ZRH,CPH,2025-06-17,ZRH,11:50,17 Jun,CPH,16:10,17 Jun,KLM,1 stop,CHF172.31,47
+ZRH,CPH,2025-06-17,ZRH,14:20,17 Jun,CPH,22:30,17 Jun,"KLM, operated by KLM Cityhopper",1 stop,CHF113.16,47
+ZRH,CPH,2025-06-17,ZRH,17:10,17 Jun,CPH,23:35,17 Jun,"Swiss, Norwegian Air Sweden",1 stop,CHF135.76,47
+ZRH,CPH,2025-06-18,ZRH,21:35,18 Jun,CPH,23:25,18 Jun,Swiss,Cheapest direct,CHF187.13,48
+ZRH,CPH,2025-06-18,ZRH,10:20,18 Jun,CPH,12:05,18 Jun,Scandinavian Airlines,Direct,CHF241.38,48
+ZRH,CPH,2025-06-18,ZRH,20:25,18 Jun,CPH,22:10,18 Jun,"Scandinavian Airlines, operated by Sas Connect",Direct,CHF241.38,48
+ZRH,CPH,2025-06-18,ZRH,14:35,18 Jun,CPH,19:35,18 Jun,Air Serbia,Direct,CHF110.72,48
+ZRH,CPH,2025-06-18,ZRH,17:35,18 Jun,CPH,22:30,18 Jun,KLM,1 stop,CHF114.10,48
+ZRH,CPH,2025-06-18,ZRH,14:20,18 Jun,CPH,18:20,18 Jun,"KLM, operated by KLM Cityhopper",1 stop,CHF143.26,48
+ZRH,CPH,2025-06-18,ZRH,12:30,18 Jun,CPH,14:15,18 Jun,Swiss,1 stop,CHF308.40,48
+ZRH,CPH,2025-06-18,ZRH,07:10,18 Jun,CPH,08:55,18 Jun,Swiss,Direct,CHF316.98,48
+ZRH,CPH,2025-06-18,ZRH,11:50,18 Jun,CPH,15:45,18 Jun,KLM,Direct,CHF160.34,48
+ZRH,CPH,2025-06-18,ZRH,17:15,18 Jun,CPH,19:05,18 Jun,Swiss,1 stop,CHF320.06,48
+ZRH,CPH,2025-06-18,ZRH,08:05,18 Jun,CPH,18:25,18 Jun,"Easyjet, Norwegian Air Sweden",Direct,CHF99.39,48
+ZRH,CPH,2025-06-18,ZRH,11:50,18 Jun,CPH,18:20,18 Jun,KLM,1 stop,CHF141.36,48
+ZRH,CPH,2025-06-18,ZRH,09:05,18 Jun,CPH,18:25,18 Jun,"Eurowings, Norwegian Air Sweden",1 stop,CHF108.06,48
+ZRH,CPH,2025-06-18,ZRH,10:50,18 Jun,CPH,16:15,18 Jun,Finnair,1 stop,CHF164.23,48
+ZRH,CPH,2025-06-18,ZRH,09:20,18 Jun,CPH,18:20,18 Jun,KLM,1 stop,CHF113.16,48
+ZRH,CPH,2025-06-19,ZRH,21:35,19 Jun,CPH,23:25,19 Jun,Swiss,Cheapest direct,CHF150.82,49
+ZRH,CPH,2025-06-19,ZRH,20:25,19 Jun,CPH,22:10,19 Jun,Scandinavian Airlines,Direct,CHF241.38,49
+ZRH,CPH,2025-06-19,ZRH,16:25,19 Jun,CPH,18:10,19 Jun,"Swiss, operated by Air Baltic Corporation",Direct,CHF268.41,49
+ZRH,CPH,2025-06-19,ZRH,17:35,19 Jun,CPH,22:30,19 Jun,KLM,Direct,CHF113.16,49
+ZRH,CPH,2025-06-19,ZRH,10:20,19 Jun,CPH,12:05,19 Jun,Scandinavian Airlines,1 stop,CHF278.29,49
+ZRH,CPH,2025-06-19,ZRH,11:50,19 Jun,CPH,15:45,19 Jun,KLM,Direct,CHF174.58,49
+ZRH,CPH,2025-06-19,ZRH,07:25,19 Jun,CPH,11:05,19 Jun,"Brussels Airlines, operated by Swiss",1 stop,CHF184.39,49
+ZRH,CPH,2025-06-19,ZRH,12:30,19 Jun,CPH,14:15,19 Jun,Swiss,1 stop,CHF371.95,49
+ZRH,CPH,2025-06-19,ZRH,17:05,19 Jun,CPH,20:40,19 Jun,"Swiss, operated by Helvetic Airways, Scandinavian Airlines",Direct,CHF224.89,49
+ZRH,CPH,2025-06-19,ZRH,07:10,19 Jun,CPH,08:55,19 Jun,"Swiss, operated by Air Baltic Corporation",1 stop,CHF431.03,49
+ZRH,CPH,2025-06-19,ZRH,14:20,19 Jun,CPH,18:20,19 Jun,"KLM, operated by KLM Cityhopper",Direct,CHF211.38,49
+ZRH,CPH,2025-06-19,ZRH,07:00,19 Jun,CPH,11:05,19 Jun,KLM,1 stop,CHF211.38,49
+ZRH,CPH,2025-06-19,ZRH,11:50,19 Jun,CPH,18:20,19 Jun,KLM,1 stop,CHF152.76,49
+ZRH,CPH,2025-06-19,ZRH,14:50,19 Jun,CPH,22:55,19 Jun,Air France,1 stop,CHF134.71,49
+ZRH,CPH,2025-06-19,ZRH,16:55,19 Jun,CPH,20:40,19 Jun,"Lufthansa, operated by Helvetic Airways For Swiss",1 stop,CHF246.33,49
+ZRH,CPH,2025-06-20,ZRH,07:10,20 Jun,CPH,08:55,20 Jun,Swiss,Cheapest direct,CHF229.52,50
+ZRH,CPH,2025-06-20,ZRH,07:00,20 Jun,CPH,11:05,20 Jun,KLM,Direct,CHF113.16,50
+ZRH,CPH,2025-06-20,ZRH,12:30,20 Jun,CPH,14:15,20 Jun,Swiss,1 stop,CHF229.52,50
+ZRH,CPH,2025-06-20,ZRH,17:30,20 Jun,CPH,19:20,20 Jun,Swiss,Direct,CHF229.52,50
+ZRH,CPH,2025-06-20,ZRH,21:35,20 Jun,CPH,23:25,20 Jun,Swiss,Direct,CHF229.52,50
+ZRH,CPH,2025-06-20,ZRH,10:20,20 Jun,CPH,12:05,20 Jun,Scandinavian Airlines,Direct,CHF241.38,50
+ZRH,CPH,2025-06-20,ZRH,20:15,20 Jun,CPH,22:00,20 Jun,Scandinavian Airlines,Direct,CHF241.38,50
+ZRH,CPH,2025-06-20,ZRH,17:35,20 Jun,CPH,22:30,20 Jun,KLM,Direct,CHF137.56,50
+ZRH,CPH,2025-06-20,ZRH,07:00,20 Jun,CPH,14:00,20 Jun,KLM,1 stop,CHF113.16,50
+ZRH,CPH,2025-06-20,ZRH,11:50,20 Jun,CPH,15:45,20 Jun,KLM,1 stop,CHF206.65,50
+ZRH,CPH,2025-06-20,ZRH,07:25,20 Jun,CPH,11:05,20 Jun,"Brussels Airlines, operated by Swiss",1 stop,CHF224.77,50
+ZRH,CPH,2025-06-20,ZRH,07:30,20 Jun,CPH,11:25,20 Jun,"Swiss, Scandinavian Airlines",1 stop,CHF224.85,50
+ZRH,CPH,2025-06-20,ZRH,14:20,20 Jun,CPH,18:20,20 Jun,"KLM, operated by KLM Cityhopper",1 stop,CHF239.58,50
+ZRH,CPH,2025-06-20,ZRH,06:55,20 Jun,CPH,11:35,20 Jun,"Lufthansa, operated by Helvetic Airways For Swiss",1 stop,CHF215.07,50
+ZRH,CPH,2025-06-20,ZRH,17:10,20 Jun,CPH,23:35,20 Jun,"Swiss, Norwegian Air Sweden",1 stop,CHF171.89,50
+ZRH,CPH,2025-06-21,ZRH,16:50,21 Jun,CPH,18:35,21 Jun,"Swiss, operated by Air Baltic Corporation",Cheapest direct,CHF150.82,51
+ZRH,CPH,2025-06-21,ZRH,21:35,21 Jun,CPH,23:25,21 Jun,Swiss,Direct,CHF150.82,51
+ZRH,CPH,2025-06-21,ZRH,07:10,21 Jun,CPH,08:55,21 Jun,"Swiss, operated by Air Baltic Corporation",Direct,CHF202.23,51
+ZRH,CPH,2025-06-21,ZRH,12:30,21 Jun,CPH,14:15,21 Jun,Swiss,Direct,CHF218.99,51
+ZRH,CPH,2025-06-21,ZRH,20:25,21 Jun,CPH,22:10,21 Jun,"Scandinavian Airlines, operated by City Jet",Direct,CHF241.85,51
+ZRH,CPH,2025-06-21,ZRH,17:35,21 Jun,CPH,22:30,21 Jun,KLM,Direct,CHF114.10,51
+ZRH,CPH,2025-06-21,ZRH,10:20,21 Jun,CPH,12:05,21 Jun,"Scandinavian Airlines, operated by Sas Link",1 stop,CHF278.29,51
+ZRH,CPH,2025-06-21,ZRH,14:20,21 Jun,CPH,18:20,21 Jun,"KLM, operated by KLM Cityhopper",Direct,CHF156.54,51
+ZRH,CPH,2025-06-21,ZRH,09:20,21 Jun,CPH,15:45,21 Jun,KLM,1 stop,CHF141.36,51
+ZRH,CPH,2025-06-21,ZRH,14:35,21 Jun,CPH,20:40,21 Jun,"Air Serbia, Wizz Air",1 stop,CHF150.61,51
+ZRH,CPH,2025-06-21,ZRH,17:55,21 Jun,CPH,22:35,21 Jun,"Brussels Airlines, operated by Swiss",1 stop,CHF184.39,51
+ZRH,CPH,2025-06-21,ZRH,11:50,21 Jun,CPH,15:45,21 Jun,KLM,1 stop,CHF211.38,51
+ZRH,CPH,2025-06-21,ZRH,09:20,21 Jun,CPH,14:00,21 Jun,KLM,1 stop,CHF192.58,51
+ZRH,CPH,2025-06-21,ZRH,08:25,21 Jun,CPH,15:00,21 Jun,"Easyjet, Norwegian Air Sweden",1 stop,CHF149.96,51
+ZRH,CPH,2025-06-21,ZRH,07:15,21 Jun,CPH,10:45,21 Jun,"Swiss, Scandinavian Airlines, operated by City Jet",1 stop,CHF254.80,51
+ZRH,CPH,2025-06-22,ZRH,07:10,22 Jun,CPH,08:55,22 Jun,Swiss,Cheapest direct,CHF150.82,52
+ZRH,CPH,2025-06-22,ZRH,17:30,22 Jun,CPH,19:20,22 Jun,Swiss,Direct,CHF150.82,52
+ZRH,CPH,2025-06-22,ZRH,21:35,22 Jun,CPH,23:25,22 Jun,Swiss,Direct,CHF150.82,52
+ZRH,CPH,2025-06-22,ZRH,12:30,22 Jun,CPH,14:15,22 Jun,Swiss,Direct,CHF227.66,52
+ZRH,CPH,2025-06-22,ZRH,10:20,22 Jun,CPH,12:05,22 Jun,"Scandinavian Airlines, operated by Sas Connect",Direct,CHF241.38,52
+ZRH,CPH,2025-06-22,ZRH,20:25,22 Jun,CPH,22:10,22 Jun,"Scandinavian Airlines, operated by Sas Link",Direct,CHF241.38,52
+ZRH,CPH,2025-06-22,ZRH,07:25,22 Jun,CPH,11:05,22 Jun,"Brussels Airlines, operated by Swiss",Direct,CHF184.39,52
+ZRH,CPH,2025-06-22,ZRH,07:00,22 Jun,CPH,11:05,22 Jun,KLM,1 stop,CHF184.07,52
+ZRH,CPH,2025-06-22,ZRH,09:55,22 Jun,CPH,14:00,22 Jun,Easyjet,1 stop,CHF194.12,52
+ZRH,CPH,2025-06-22,ZRH,07:10,22 Jun,CPH,11:15,22 Jun,"Swiss, operated by Helvetic Airways, Scandinavian Airlines",1 stop,CHF198.76,52
+ZRH,CPH,2025-06-22,ZRH,10:50,22 Jun,CPH,16:15,22 Jun,Finnair,1 stop,CHF164.24,52
+ZRH,CPH,2025-06-22,ZRH,17:55,22 Jun,CPH,22:35,22 Jun,"Brussels Airlines, operated by Swiss",1 stop,CHF184.39,52
+ZRH,CPH,2025-06-22,ZRH,19:25,22 Jun,CPH,23:25,22 Jun,"KLM, operated by KLM Cityhopper",1 stop,CHF211.38,52
+ZRH,CPH,2025-06-22,ZRH,22:05,22 Jun,CPH,09:30,23 Jun,Vueling,1 stop,CHF98.63,52
+ZRH,CPH,2025-06-22,ZRH,08:30,22 Jun,CPH,14:30,22 Jun,"Easyjet, Scandinavian Airlines",1 stop,CHF160.41,52
+ZRH,CPH,2025-06-23,ZRH,21:35,23 Jun,CPH,23:25,23 Jun,Swiss,Cheapest direct,CHF206.14,53
+ZRH,CPH,2025-06-23,ZRH,15:35,23 Jun,CPH,08:50,24 Jun,Vueling,Direct,CHF97.36,53
+ZRH,CPH,2025-06-23,ZRH,10:20,23 Jun,CPH,12:05,23 Jun,Scandinavian Airlines,1 stop,CHF241.38,53
+ZRH,CPH,2025-06-23,ZRH,19:25,23 Jun,CPH,23:25,23 Jun,KLM,Direct,CHF113.16,53
+ZRH,CPH,2025-06-23,ZRH,20:25,23 Jun,CPH,22:10,23 Jun,"Scandinavian Airlines, operated by Jettime A/S",1 stop,CHF241.38,53
+ZRH,CPH,2025-06-23,ZRH,07:10,23 Jun,CPH,08:55,23 Jun,Swiss,Direct,CHF284.27,53
+ZRH,CPH,2025-06-23,ZRH,12:30,23 Jun,CPH,14:15,23 Jun,Swiss,Direct,CHF284.27,53
+ZRH,CPH,2025-06-23,ZRH,17:30,23 Jun,CPH,19:20,23 Jun,Swiss,Direct,CHF284.27,53
+ZRH,CPH,2025-06-23,ZRH,17:05,23 Jun,CPH,20:40,23 Jun,"Swiss, operated by Helvetic Airways, Scandinavian Airlines, operated by City Jet",Direct,CHF198.77,53
+ZRH,CPH,2025-06-23,ZRH,17:35,23 Jun,CPH,23:25,23 Jun,KLM,1 stop,CHF141.36,53
+ZRH,CPH,2025-06-23,ZRH,10:50,23 Jun,CPH,16:15,23 Jun,Finnair,1 stop,CHF164.24,53
+ZRH,CPH,2025-06-23,ZRH,12:45,23 Jun,CPH,16:45,23 Jun,"Swiss, Scandinavian Airlines, operated by City Jet",1 stop,CHF216.54,53
+ZRH,CPH,2025-06-23,ZRH,16:55,23 Jun,CPH,20:40,23 Jun,"Lufthansa, operated by Swiss",1 stop,CHF232.02,53
+ZRH,CPH,2025-06-23,ZRH,15:30,23 Jun,CPH,20:05,23 Jun,Eurowings,1 stop,CHF199.93,53
+ZRH,CPH,2025-06-23,ZRH,07:00,23 Jun,CPH,11:50,23 Jun,KLM,1 stop,CHF194.09,53
+ZRH,CPH,2025-06-24,ZRH,16:45,24 Jun,CPH,18:30,24 Jun,"Swiss, operated by Helvetic Airways",Cheapest direct,CHF150.82,54
+ZRH,CPH,2025-06-24,ZRH,21:00,24 Jun,CPH,08:50,25 Jun,Vueling,Direct,CHF98.63,54
+ZRH,CPH,2025-06-24,ZRH,21:35,24 Jun,CPH,23:25,24 Jun,Swiss,1 stop,CHF150.82,54
+ZRH,CPH,2025-06-24,ZRH,07:10,24 Jun,CPH,08:55,24 Jun,"Swiss, operated by Air Baltic Corporation",Direct,CHF229.52,54
+ZRH,CPH,2025-06-24,ZRH,12:30,24 Jun,CPH,14:15,24 Jun,Swiss,Direct,CHF229.52,54
+ZRH,CPH,2025-06-24,ZRH,19:25,24 Jun,CPH,23:25,24 Jun,KLM,Direct,CHF113.16,54
+ZRH,CPH,2025-06-24,ZRH,10:20,24 Jun,CPH,12:05,24 Jun,Scandinavian Airlines,1 stop,CHF241.38,54
+ZRH,CPH,2025-06-24,ZRH,20:25,24 Jun,CPH,22:10,24 Jun,"Scandinavian Airlines, operated by Jettime A/S",Direct,CHF241.38,54
+ZRH,CPH,2025-06-24,ZRH,15:40,24 Jun,CPH,19:55,24 Jun,Eurowings,Direct,CHF124.26,54
+ZRH,CPH,2025-06-24,ZRH,17:35,24 Jun,CPH,23:25,24 Jun,"KLM, operated by KLM Cityhopper",1 stop,CHF113.16,54
+ZRH,CPH,2025-06-24,ZRH,18:10,24 Jun,CPH,23:35,24 Jun,"Easyjet, Norwegian Air Sweden",1 stop,CHF121.59,54
+ZRH,CPH,2025-06-24,ZRH,15:10,24 Jun,CPH,20:45,24 Jun,"Air Serbia, Wizz Air",1 stop,CHF128.20,54
+ZRH,CPH,2025-06-24,ZRH,16:55,24 Jun,CPH,20:40,24 Jun,"Lufthansa, operated by Swiss",1 stop,CHF180.08,54
+ZRH,CPH,2025-06-24,ZRH,14:40,24 Jun,CPH,18:25,24 Jun,"Lufthansa, operated by City Jet",1 stop,CHF187.63,54
+ZRH,CPH,2025-06-24,ZRH,17:10,24 Jun,CPH,23:35,24 Jun,"Swiss, Norwegian Air Sweden",1 stop,CHF134.07,54
+ZRH,CPH,2025-06-25,ZRH,07:10,25 Jun,CPH,08:55,25 Jun,Swiss,Cheapest direct,CHF150.82,55
+ZRH,CPH,2025-06-25,ZRH,21:35,25 Jun,CPH,23:25,25 Jun,Swiss,Direct,CHF150.82,55
+ZRH,CPH,2025-06-25,ZRH,17:15,25 Jun,CPH,19:05,25 Jun,"Swiss, operated by Helvetic Airways",Direct,CHF206.74,55
+ZRH,CPH,2025-06-25,ZRH,12:30,25 Jun,CPH,14:15,25 Jun,Swiss,Direct,CHF229.51,55
+ZRH,CPH,2025-06-25,ZRH,19:25,25 Jun,CPH,23:25,25 Jun,KLM,Direct,CHF113.94,55
+ZRH,CPH,2025-06-25,ZRH,10:20,25 Jun,CPH,12:05,25 Jun,"Scandinavian Airlines, operated by Sas Link",1 stop,CHF241.19,55
+ZRH,CPH,2025-06-25,ZRH,20:25,25 Jun,CPH,22:10,25 Jun,"Scandinavian Airlines, operated by Jettime A/S",Direct,CHF241.19,55
+ZRH,CPH,2025-06-25,ZRH,17:35,25 Jun,CPH,23:25,25 Jun,KLM,Direct,CHF113.00,55
+ZRH,CPH,2025-06-25,ZRH,16:10,25 Jun,CPH,21:10,25 Jun,Easyjet,1 stop,CHF137.51,55
+ZRH,CPH,2025-06-25,ZRH,18:10,25 Jun,CPH,23:35,25 Jun,"Easyjet, Norwegian Air Sweden",1 stop,CHF129.64,55
+ZRH,CPH,2025-06-25,ZRH,07:25,25 Jun,CPH,11:05,25 Jun,"Brussels Airlines, operated by Swiss",1 stop,CHF184.38,55
+ZRH,CPH,2025-06-25,ZRH,14:40,25 Jun,CPH,18:25,25 Jun,"Lufthansa, operated by City Jet",1 stop,CHF187.62,55
+ZRH,CPH,2025-06-25,ZRH,18:05,25 Jun,CPH,22:05,25 Jun,Lufthansa,1 stop,CHF187.62,55
+ZRH,CPH,2025-06-25,ZRH,12:55,25 Jun,CPH,17:20,25 Jun,"Brussels Airlines, operated by Swiss",1 stop,CHF184.38,55
+ZRH,CPH,2025-06-25,ZRH,14:35,25 Jun,CPH,19:35,25 Jun,Air Serbia,1 stop,CHF173.18,55
+ZRH,CPH,2025-06-26,ZRH,07:10,26 Jun,CPH,08:55,26 Jun,Swiss,Cheapest direct,CHF150.82,56
+ZRH,CPH,2025-06-26,ZRH,22:05,26 Jun,CPH,08:45,27 Jun,Vueling,Direct,CHF103.38,56
+ZRH,CPH,2025-06-26,ZRH,16:25,26 Jun,CPH,18:10,26 Jun,Swiss,1 stop,CHF150.82,56
+ZRH,CPH,2025-06-26,ZRH,21:35,26 Jun,CPH,23:25,26 Jun,Swiss,Direct,CHF150.82,56
+ZRH,CPH,2025-06-26,ZRH,12:30,26 Jun,CPH,14:15,26 Jun,Swiss,Direct,CHF217.59,56
+ZRH,CPH,2025-06-26,ZRH,10:20,26 Jun,CPH,12:05,26 Jun,Scandinavian Airlines,Direct,CHF241.19,56
+ZRH,CPH,2025-06-26,ZRH,20:25,26 Jun,CPH,22:10,26 Jun,"Scandinavian Airlines, operated by Jettime A/S",Direct,CHF241.19,56
+ZRH,CPH,2025-06-26,ZRH,08:35,26 Jun,CPH,12:45,26 Jun,Eurowings,Direct,CHF154.57,56
+ZRH,CPH,2025-06-26,ZRH,15:40,26 Jun,CPH,20:05,26 Jun,Eurowings,1 stop,CHF156.69,56
+ZRH,CPH,2025-06-26,ZRH,19:25,26 Jun,CPH,23:25,26 Jun,"KLM, operated by KLM Cityhopper",1 stop,CHF174.57,56
+ZRH,CPH,2025-06-26,ZRH,14:40,26 Jun,CPH,18:25,26 Jun,"Lufthansa, operated by City Jet",1 stop,CHF187.62,56
+ZRH,CPH,2025-06-26,ZRH,17:35,26 Jun,CPH,23:25,26 Jun,KLM,1 stop,CHF143.26,56
+ZRH,CPH,2025-06-26,ZRH,12:55,26 Jun,CPH,17:20,26 Jun,"Brussels Airlines, operated by Swiss",1 stop,CHF184.38,56
+ZRH,CPH,2025-06-26,ZRH,07:15,26 Jun,CPH,12:00,26 Jun,"Lufthansa, operated by Helvetic Airways For Swiss",1 stop,CHF180.07,56
+ZRH,CPH,2025-06-26,ZRH,10:25,26 Jun,CPH,18:25,26 Jun,"Easyjet, Norwegian Air Sweden",1 stop,CHF122.17,56
+ZRH,CPH,2025-06-27,ZRH,07:10,27 Jun,CPH,08:55,27 Jun,Swiss,Cheapest direct,CHF150.82,57
+ZRH,CPH,2025-06-27,ZRH,12:30,27 Jun,CPH,14:15,27 Jun,Swiss,Direct,CHF229.51,57
+ZRH,CPH,2025-06-27,ZRH,17:30,27 Jun,CPH,19:20,27 Jun,Swiss,Direct,CHF229.51,57
+ZRH,CPH,2025-06-27,ZRH,21:35,27 Jun,CPH,23:25,27 Jun,Swiss,Direct,CHF229.51,57
+ZRH,CPH,2025-06-27,ZRH,10:20,27 Jun,CPH,12:05,27 Jun,"Scandinavian Airlines, operated by Sas Link",Direct,CHF241.19,57
+ZRH,CPH,2025-06-27,ZRH,20:15,27 Jun,CPH,22:00,27 Jun,Scandinavian Airlines,Direct,CHF241.19,57
+ZRH,CPH,2025-06-27,ZRH,17:35,27 Jun,CPH,22:30,27 Jun,KLM,Direct,CHF170.77,57
+ZRH,CPH,2025-06-27,ZRH,07:25,27 Jun,CPH,11:05,27 Jun,"Brussels Airlines, operated by Swiss",1 stop,CHF249.86,57
+ZRH,CPH,2025-06-27,ZRH,15:40,27 Jun,CPH,20:05,27 Jun,Eurowings,1 stop,CHF218.98,57
+ZRH,CPH,2025-06-27,ZRH,14:40,27 Jun,CPH,18:25,27 Jun,"Lufthansa, operated by City Jet",1 stop,CHF251.55,57
+ZRH,CPH,2025-06-27,ZRH,16:55,27 Jun,CPH,20:40,27 Jun,"Lufthansa, operated by Swiss",1 stop,CHF254.07,57
+ZRH,CPH,2025-06-27,ZRH,07:00,27 Jun,CPH,11:05,27 Jun,KLM,1 stop,CHF239.50,57
+ZRH,CPH,2025-06-27,ZRH,16:30,27 Jun,CPH,20:45,27 Jun,"Swiss, operated by Helvetic Airways, Easyjet",1 stop,CHF233.59,57
+ZRH,CPH,2025-06-27,ZRH,17:05,27 Jun,CPH,20:40,27 Jun,"Swiss, Scandinavian Airlines, operated by City Jet",1 stop,CHF270.89,57
+ZRH,CPH,2025-06-27,ZRH,06:55,27 Jun,CPH,11:35,27 Jun,"Lufthansa, operated by Helvetic Airways For Swiss",1 stop,CHF228.00,57
+ZRH,CPH,2025-06-29,ZRH,07:10,29 Jun,CPH,08:55,29 Jun,Swiss,Cheapest direct,CHF150.82,59
+ZRH,CPH,2025-06-29,ZRH,17:35,29 Jun,CPH,22:30,29 Jun,KLM,Direct,CHF113.00,59
+ZRH,CPH,2025-06-29,ZRH,17:30,29 Jun,CPH,19:20,29 Jun,Swiss,1 stop,CHF150.82,59
+ZRH,CPH,2025-06-29,ZRH,21:35,29 Jun,CPH,23:25,29 Jun,Swiss,Direct,CHF150.82,59
+ZRH,CPH,2025-06-29,ZRH,12:30,29 Jun,CPH,14:15,29 Jun,Swiss,Direct,CHF212.69,59
+ZRH,CPH,2025-06-29,ZRH,20:25,29 Jun,CPH,22:10,29 Jun,"Scandinavian Airlines, operated by City Jet",Direct,CHF231.27,59
+ZRH,CPH,2025-06-29,ZRH,14:50,29 Jun,CPH,16:35,29 Jun,"Scandinavian Airlines, operated by Sas Link",Direct,CHF231.35,59
+ZRH,CPH,2025-06-29,ZRH,14:20,29 Jun,CPH,18:20,29 Jun,"KLM, operated by KLM Cityhopper",Direct,CHF170.77,59
+ZRH,CPH,2025-06-29,ZRH,07:00,29 Jun,CPH,14:00,29 Jun,KLM,1 stop,CHF113.00,59
+ZRH,CPH,2025-06-29,ZRH,07:25,29 Jun,CPH,11:05,29 Jun,"Brussels Airlines, operated by Swiss",1 stop,CHF184.38,59
+ZRH,CPH,2025-06-29,ZRH,07:00,29 Jun,CPH,15:45,29 Jun,KLM,1 stop,CHF113.00,59
+ZRH,CPH,2025-06-29,ZRH,17:55,29 Jun,CPH,22:35,29 Jun,"Brussels Airlines, operated by Swiss",1 stop,CHF184.38,59
+ZRH,CPH,2025-06-29,ZRH,06:55,29 Jun,CPH,11:35,29 Jun,"Lufthansa, operated by Helvetic Airways For Swiss",1 stop,CHF187.63,59
+ZRH,CPH,2025-06-29,ZRH,09:20,29 Jun,CPH,14:00,29 Jun,"KLM, operated by KLM Cityhopper",1 stop,CHF187.80,59
+ZRH,CPH,2025-06-29,ZRH,08:30,29 Jun,CPH,13:55,29 Jun,"Easyjet, Scandinavian Airlines",1 stop,CHF169.99,59
+ZRH,CPH,2025-06-30,ZRH,21:35,30 Jun,CPH,23:25,30 Jun,Swiss,Cheapest direct,CHF150.81,60
+ZRH,CPH,2025-06-30,ZRH,15:35,30 Jun,CPH,08:50,1 Jul,Vueling,Direct,CHF90.93,60
+ZRH,CPH,2025-06-30,ZRH,20:25,30 Jun,CPH,22:10,30 Jun,"Scandinavian Airlines, operated by City Jet",1 stop,CHF171.83,60
+ZRH,CPH,2025-06-30,ZRH,07:10,30 Jun,CPH,08:55,30 Jun,Swiss,Direct,CHF229.51,60
+ZRH,CPH,2025-06-30,ZRH,12:30,30 Jun,CPH,14:15,30 Jun,Swiss,Direct,CHF229.51,60
+ZRH,CPH,2025-06-30,ZRH,10:20,30 Jun,CPH,12:05,30 Jun,"Scandinavian Airlines, operated by City Jet",Direct,CHF231.31,60
+ZRH,CPH,2025-06-30,ZRH,14:20,30 Jun,CPH,18:20,30 Jun,"KLM, operated by KLM Cityhopper",Direct,CHF112.96,60
+ZRH,CPH,2025-06-30,ZRH,17:30,30 Jun,CPH,19:20,30 Jun,Swiss,1 stop,CHF229.51,60
+ZRH,CPH,2025-06-30,ZRH,11:50,30 Jun,CPH,18:20,30 Jun,KLM,Direct,CHF112.96,60
+ZRH,CPH,2025-06-30,ZRH,15:40,30 Jun,CPH,20:05,30 Jun,Eurowings,1 stop,CHF164.29,60
+ZRH,CPH,2025-06-30,ZRH,14:40,30 Jun,CPH,18:25,30 Jun,"Lufthansa, operated by City Jet",1 stop,CHF187.62,60
+ZRH,CPH,2025-06-30,ZRH,17:35,30 Jun,CPH,22:30,30 Jun,"KLM, operated by KLM Cityhopper",1 stop,CHF166.95,60
+ZRH,CPH,2025-06-30,ZRH,15:40,30 Jun,CPH,20:05,30 Jun,"Swiss, operated by Eurowings, Eurowings",1 stop,CHF194.50,60
+ZRH,CPH,2025-06-30,ZRH,17:30,30 Jun,CPH,21:05,30 Jun,"Swiss, operated by Air Baltic, Easyjet",1 stop,CHF235.71,60
+ZRH,CPH,2025-06-30,ZRH,14:20,30 Jun,CPH,19:00,30 Jun,"KLM, operated by KLM Cityhopper",1 stop,CHF193.98,60
+ZRH,CPH,2025-07-01,ZRH,21:35,1 Jul,CPH,23:25,1 Jul,Swiss,Cheapest direct,CHF150.81,61
+ZRH,CPH,2025-07-01,ZRH,21:00,1 Jul,CPH,08:50,2 Jul,Vueling,Direct,CHF67.84,61
+ZRH,CPH,2025-07-01,ZRH,10:20,1 Jul,CPH,12:05,1 Jul,"Scandinavian Airlines, operated by Sas Link",1 stop,CHF171.62,61
+ZRH,CPH,2025-07-01,ZRH,20:25,1 Jul,CPH,22:10,1 Jul,"Scandinavian Airlines, operated by City Jet",Direct,CHF192.34,61
+ZRH,CPH,2025-07-01,ZRH,12:30,1 Jul,CPH,14:15,1 Jul,Swiss,Direct,CHF209.73,61
+ZRH,CPH,2025-07-01,ZRH,07:10,1 Jul,CPH,08:55,1 Jul,Swiss,Direct,CHF229.51,61
+ZRH,CPH,2025-07-01,ZRH,14:20,1 Jul,CPH,18:20,1 Jul,"KLM, operated by KLM Cityhopper",Direct,CHF112.96,61
+ZRH,CPH,2025-07-01,ZRH,18:10,1 Jul,CPH,23:35,1 Jul,"Easyjet, Norwegian Air Sweden",1 stop,CHF123.32,61
+ZRH,CPH,2025-07-01,ZRH,11:50,1 Jul,CPH,18:20,1 Jul,KLM,1 stop,CHF112.96,61
+ZRH,CPH,2025-07-01,ZRH,16:55,1 Jul,CPH,20:40,1 Jul,"Lufthansa, operated by Swiss",1 stop,CHF180.07,61
+ZRH,CPH,2025-07-01,ZRH,17:35,1 Jul,CPH,22:30,1 Jul,"KLM, operated by KLM Cityhopper",1 stop,CHF152.75,61
+ZRH,CPH,2025-07-01,ZRH,14:20,1 Jul,CPH,22:30,1 Jul,"KLM, operated by KLM Cityhopper",1 stop,CHF112.96,61
+ZRH,CPH,2025-07-01,ZRH,14:20,1 Jul,CPH,19:00,1 Jul,"KLM, operated by KLM Cityhopper",1 stop,CHF172.26,61
+ZRH,CPH,2025-07-01,ZRH,15:10,1 Jul,CPH,20:45,1 Jul,"Air Serbia, Wizz Air",1 stop,CHF150.61,61
+ZRH,CPH,2025-07-01,ZRH,11:50,1 Jul,CPH,15:45,1 Jul,KLM,1 stop,CHF202.81,61
+ZRH,CPH,2025-07-02,ZRH,07:10,2 Jul,CPH,08:55,2 Jul,Swiss,Cheapest direct,CHF150.81,62
+ZRH,CPH,2025-07-02,ZRH,16:25,2 Jul,CPH,18:10,2 Jul,Swiss,Direct,CHF150.81,62
+ZRH,CPH,2025-07-02,ZRH,10:20,2 Jul,CPH,12:05,2 Jul,"Scandinavian Airlines, operated by Sas Link",Direct,CHF152.51,62
+ZRH,CPH,2025-07-02,ZRH,21:35,2 Jul,CPH,23:25,2 Jul,Swiss,Direct,CHF150.81,62
+ZRH,CPH,2025-07-02,ZRH,20:25,2 Jul,CPH,22:10,2 Jul,"Scandinavian Airlines, operated by City Jet",Direct,CHF192.61,62
+ZRH,CPH,2025-07-02,ZRH,12:30,2 Jul,CPH,14:15,2 Jul,Swiss,Direct,CHF222.51,62
+ZRH,CPH,2025-07-02,ZRH,14:20,2 Jul,CPH,18:20,2 Jul,"KLM, operated by KLM Cityhopper",Direct,CHF112.96,62
+ZRH,CPH,2025-07-02,ZRH,16:10,2 Jul,CPH,21:10,2 Jul,Easyjet,1 stop,CHF129.15,62
+ZRH,CPH,2025-07-02,ZRH,11:50,2 Jul,CPH,18:20,2 Jul,KLM,1 stop,CHF112.96,62
+ZRH,CPH,2025-07-02,ZRH,10:15,2 Jul,CPH,14:45,2 Jul,"Scandinavian Airlines, operated by Sas Connect",1 stop,CHF169.83,62
+ZRH,CPH,2025-07-02,ZRH,14:20,2 Jul,CPH,19:00,2 Jul,"KLM, operated by KLM Cityhopper",1 stop,CHF172.26,62
+ZRH,CPH,2025-07-02,ZRH,12:55,2 Jul,CPH,17:20,2 Jul,"Brussels Airlines, operated by Helvetic Airways For Swiss",1 stop,CHF184.38,62
+ZRH,CPH,2025-07-02,ZRH,17:35,2 Jul,CPH,22:30,2 Jul,KLM,1 stop,CHF170.74,62
+ZRH,CPH,2025-07-02,ZRH,18:10,2 Jul,CPH,23:35,2 Jul,"Easyjet, Norwegian Air Sweden",1 stop,CHF158.81,62
+ZRH,CPH,2025-07-02,ZRH,07:15,2 Jul,CPH,12:00,2 Jul,"Lufthansa, operated by Swiss",1 stop,CHF180.07,62
+ZRH,CPH,2025-07-03,ZRH,07:10,3 Jul,CPH,08:55,3 Jul,Swiss,Cheapest direct,CHF150.81,63
+ZRH,CPH,2025-07-03,ZRH,09:35,3 Jul,CPH,20:50,3 Jul,Vueling,Direct,CHF98.62,63
+ZRH,CPH,2025-07-03,ZRH,21:35,3 Jul,CPH,23:25,3 Jul,Swiss,1 stop,CHF150.81,63
+ZRH,CPH,2025-07-03,ZRH,10:20,3 Jul,CPH,12:05,3 Jul,"Scandinavian Airlines, operated by Sas Link",Direct,CHF171.87,63
+ZRH,CPH,2025-07-03,ZRH,17:20,3 Jul,CPH,19:05,3 Jul,Swiss,Direct,CHF187.12,63
+ZRH,CPH,2025-07-03,ZRH,20:25,3 Jul,CPH,22:10,3 Jul,"Scandinavian Airlines, operated by City Jet",Direct,CHF192.61,63
+ZRH,CPH,2025-07-03,ZRH,12:30,3 Jul,CPH,14:15,3 Jul,Swiss,Direct,CHF262.84,63
+ZRH,CPH,2025-07-03,ZRH,14:20,3 Jul,CPH,18:20,3 Jul,"KLM, operated by KLM Cityhopper",Direct,CHF141.35,63
+ZRH,CPH,2025-07-03,ZRH,11:50,3 Jul,CPH,15:45,3 Jul,KLM,1 stop,CHF187.77,63
+ZRH,CPH,2025-07-03,ZRH,11:50,3 Jul,CPH,18:20,3 Jul,KLM,1 stop,CHF137.56,63
+ZRH,CPH,2025-07-03,ZRH,10:50,3 Jul,CPH,16:15,3 Jul,Finnair,1 stop,CHF163.92,63
+ZRH,CPH,2025-07-03,ZRH,07:25,3 Jul,CPH,12:15,3 Jul,Swiss,1 stop,CHF178.88,63
+ZRH,CPH,2025-07-03,ZRH,14:40,3 Jul,CPH,18:25,3 Jul,"Lufthansa, operated by City Jet",1 stop,CHF227.99,63
+ZRH,CPH,2025-07-03,ZRH,07:00,3 Jul,CPH,11:50,3 Jul,KLM,1 stop,CHF193.98,63
+ZRH,CPH,2025-07-03,ZRH,14:50,3 Jul,CPH,22:55,3 Jul,Air France,1 stop,CHF134.70,63
+ZRH,CPH,2025-07-04,ZRH,10:20,4 Jul,CPH,12:05,4 Jul,"Scandinavian Airlines, operated by Sas Link",Cheapest direct,CHF192.65,64
+ZRH,CPH,2025-07-04,ZRH,07:10,4 Jul,CPH,08:55,4 Jul,Swiss,Direct,CHF217.61,64
+ZRH,CPH,2025-07-04,ZRH,11:50,4 Jul,CPH,15:45,4 Jul,KLM,Direct,CHF112.96,64
+ZRH,CPH,2025-07-04,ZRH,12:30,4 Jul,CPH,14:15,4 Jul,Swiss,1 stop,CHF229.51,64
+ZRH,CPH,2025-07-04,ZRH,20:15,4 Jul,CPH,22:00,4 Jul,"Scandinavian Airlines, operated by City Jet",Direct,CHF231.79,64
+ZRH,CPH,2025-07-04,ZRH,17:30,4 Jul,CPH,19:20,4 Jul,Swiss,Direct,CHF229.51,64
+ZRH,CPH,2025-07-04,ZRH,21:35,4 Jul,CPH,23:25,4 Jul,Swiss,Direct,CHF229.51,64
+ZRH,CPH,2025-07-04,ZRH,11:50,4 Jul,CPH,18:20,4 Jul,KLM,Direct,CHF112.96,64
+ZRH,CPH,2025-07-04,ZRH,14:20,4 Jul,CPH,18:20,4 Jul,"KLM, operated by KLM Cityhopper",1 stop,CHF170.74,64
+ZRH,CPH,2025-07-04,ZRH,07:00,4 Jul,CPH,15:45,4 Jul,KLM,1 stop,CHF112.96,64
+ZRH,CPH,2025-07-04,ZRH,15:40,4 Jul,CPH,20:05,4 Jul,Eurowings,1 stop,CHF189.13,64
+ZRH,CPH,2025-07-04,ZRH,14:50,4 Jul,CPH,22:55,4 Jul,Air France,1 stop,CHF134.70,64
+ZRH,CPH,2025-07-04,ZRH,15:40,4 Jul,CPH,20:40,4 Jul,"Eurowings, Scandinavian Airlines, operated by City Jet",1 stop,CHF196.20,64
+ZRH,CPH,2025-07-04,ZRH,07:00,4 Jul,CPH,14:00,4 Jul,KLM,1 stop,CHF152.75,64
+ZRH,CPH,2025-07-04,ZRH,16:55,4 Jul,CPH,20:40,4 Jul,"Lufthansa, operated by Swiss",1 stop,CHF247.17,64
+ZRH,CPH,2025-07-05,ZRH,21:35,5 Jul,CPH,23:25,5 Jul,Swiss,Cheapest direct,CHF150.81,65
+ZRH,CPH,2025-07-05,ZRH,16:50,5 Jul,CPH,18:35,5 Jul,Swiss,Direct,CHF224.91,65
+ZRH,CPH,2025-07-05,ZRH,07:10,5 Jul,CPH,08:55,5 Jul,Swiss,Direct,CHF229.50,65
+ZRH,CPH,2025-07-05,ZRH,10:20,5 Jul,CPH,12:05,5 Jul,"Scandinavian Airlines, operated by City Jet",Direct,CHF231.72,65
+ZRH,CPH,2025-07-05,ZRH,12:30,5 Jul,CPH,14:15,5 Jul,Swiss,Direct,CHF322.52,65
+ZRH,CPH,2025-07-05,ZRH,17:55,5 Jul,CPH,22:35,5 Jul,"Brussels Airlines, operated by Swiss",Direct,CHF184.38,65
+ZRH,CPH,2025-07-05,ZRH,11:50,5 Jul,CPH,15:45,5 Jul,KLM,1 stop,CHF252.71,65
+ZRH,CPH,2025-07-05,ZRH,07:25,5 Jul,CPH,11:05,5 Jul,"Brussels Airlines, operated by Swiss",1 stop,CHF271.14,65
+ZRH,CPH,2025-07-05,ZRH,14:40,5 Jul,CPH,18:25,5 Jul,Lufthansa,1 stop,CHF273.14,65
+ZRH,CPH,2025-07-05,ZRH,19:15,5 Jul,CPH,23:30,5 Jul,"Lufthansa, operated by Swiss",1 stop,CHF253.74,65
+ZRH,CPH,2025-07-05,ZRH,18:05,5 Jul,CPH,22:15,5 Jul,Lufthansa,1 stop,CHF262.41,65
+ZRH,CPH,2025-07-05,ZRH,14:20,5 Jul,CPH,18:20,5 Jul,"KLM, operated by KLM Cityhopper",1 stop,CHF278.27,65
+ZRH,CPH,2025-07-05,ZRH,14:20,5 Jul,CPH,22:30,5 Jul,"KLM, operated by KLM Cityhopper",1 stop,CHF170.74,65
+ZRH,CPH,2025-07-05,ZRH,17:35,5 Jul,CPH,22:30,5 Jul,KLM,1 stop,CHF252.71,65
+ZRH,CPH,2025-07-05,ZRH,14:50,5 Jul,CPH,22:55,5 Jul,Air France,1 stop,CHF201.47,65
+ZRH,CPH,2025-07-06,ZRH,21:35,6 Jul,CPH,23:25,6 Jul,Swiss,Cheapest direct,CHF150.81,66
+ZRH,CPH,2025-07-06,ZRH,17:30,6 Jul,CPH,19:20,6 Jul,Swiss,Direct,CHF204.14,66
+ZRH,CPH,2025-07-06,ZRH,07:10,6 Jul,CPH,08:55,6 Jul,Swiss,Direct,CHF213.41,66
+ZRH,CPH,2025-07-06,ZRH,20:25,6 Jul,CPH,22:10,6 Jul,"Scandinavian Airlines, operated by City Jet",Direct,CHF231.72,66
+ZRH,CPH,2025-07-06,ZRH,14:50,6 Jul,CPH,16:35,6 Jul,"Scandinavian Airlines, operated by Sas Link",Direct,CHF232.11,66
+ZRH,CPH,2025-07-06,ZRH,12:30,6 Jul,CPH,14:15,6 Jul,Swiss,Direct,CHF275.05,66
+ZRH,CPH,2025-07-06,ZRH,07:25,6 Jul,CPH,11:05,6 Jul,"Brussels Airlines, operated by Swiss",Direct,CHF184.38,66
+ZRH,CPH,2025-07-06,ZRH,19:15,6 Jul,CPH,23:30,6 Jul,"Lufthansa, operated by Swiss",1 stop,CHF180.06,66
+ZRH,CPH,2025-07-06,ZRH,07:15,6 Jul,CPH,10:45,6 Jul,"Swiss, operated by Air Baltic, Scandinavian Airlines, operated by BRA",1 stop,CHF210.38,66
+ZRH,CPH,2025-07-06,ZRH,14:20,6 Jul,CPH,18:20,6 Jul,"KLM, operated by KLM Cityhopper",1 stop,CHF202.81,66
+ZRH,CPH,2025-07-06,ZRH,15:40,6 Jul,CPH,20:15,6 Jul,Eurowings,1 stop,CHF224.81,66
+ZRH,CPH,2025-07-06,ZRH,14:40,6 Jul,CPH,18:25,6 Jul,"Lufthansa, operated by City Jet",1 stop,CHF274.35,66
+ZRH,CPH,2025-07-06,ZRH,18:05,6 Jul,CPH,22:15,6 Jul,Lufthansa,1 stop,CHF256.61,66
+ZRH,CPH,2025-07-06,ZRH,20:55,6 Jul,CPH,07:10,7 Jul,Easyjet,1 stop,CHF136.55,66
+ZRH,CPH,2025-07-06,ZRH,08:30,6 Jul,CPH,13:55,6 Jul,"Easyjet, Scandinavian Airlines",1 stop,CHF220.85,66
+ZRH,CPH,2025-07-07,ZRH,21:35,7 Jul,CPH,23:25,7 Jul,Swiss,Cheapest direct,CHF150.81,67
+ZRH,CPH,2025-07-07,ZRH,20:35,7 Jul,CPH,13:20,8 Jul,"Eurowings, operated by Atlantic Express Airline, Wizz Air",Direct,CHF96.34,67
+ZRH,CPH,2025-07-07,ZRH,07:10,7 Jul,CPH,08:55,7 Jul,Swiss,2 stops,CHF229.50,67
+ZRH,CPH,2025-07-07,ZRH,17:30,7 Jul,CPH,19:20,7 Jul,Swiss,Direct,CHF187.12,67
+ZRH,CPH,2025-07-07,ZRH,12:30,7 Jul,CPH,14:15,7 Jul,Swiss,Direct,CHF277.94,67
+ZRH,CPH,2025-07-07,ZRH,14:40,7 Jul,CPH,18:25,7 Jul,"Lufthansa, operated by City Jet",Direct,CHF187.61,67
+ZRH,CPH,2025-07-07,ZRH,08:30,7 Jul,CPH,13:45,7 Jul,"Easyjet, Scandinavian Airlines",1 stop,CHF146.57,67
+ZRH,CPH,2025-07-07,ZRH,20:25,7 Jul,CPH,22:10,7 Jul,"Scandinavian Airlines, operated by City Jet",1 stop,CHF432.22,67
+ZRH,CPH,2025-07-07,ZRH,10:20,7 Jul,CPH,12:05,7 Jul,"Scandinavian Airlines, operated by Sas Link",Direct,CHF433.04,67
+ZRH,CPH,2025-07-07,ZRH,17:00,7 Jul,CPH,20:35,7 Jul,"Swiss, Scandinavian Airlines, operated by BRA",Direct,CHF233.63,67
+ZRH,CPH,2025-07-07,ZRH,15:55,7 Jul,CPH,20:35,7 Jul,"Eurowings, Scandinavian Airlines, operated by BRA",1 stop,CHF192.98,67
+ZRH,CPH,2025-07-07,ZRH,15:40,7 Jul,CPH,20:05,7 Jul,Eurowings,1 stop,CHF204.77,67
+ZRH,CPH,2025-07-07,ZRH,17:30,7 Jul,CPH,21:05,7 Jul,"Swiss, Easyjet",1 stop,CHF241.02,67
+ZRH,CPH,2025-07-07,ZRH,15:40,7 Jul,CPH,20:40,7 Jul,"Eurowings, Scandinavian Airlines, operated by City Jet",1 stop,CHF207.88,67
+ZRH,CPH,2025-07-07,ZRH,17:35,7 Jul,CPH,22:30,7 Jul,"KLM, operated by KLM Cityhopper",1 stop,CHF211.29,67
+ZRH,CPH,2025-07-08,ZRH,21:35,8 Jul,CPH,23:25,8 Jul,Swiss,Cheapest direct,CHF150.81,68
+ZRH,CPH,2025-07-08,ZRH,07:10,8 Jul,CPH,08:55,8 Jul,Swiss,Direct,CHF187.12,68
+ZRH,CPH,2025-07-08,ZRH,17:35,8 Jul,CPH,22:30,8 Jul,KLM,Direct,CHF112.87,68
+ZRH,CPH,2025-07-08,ZRH,12:30,8 Jul,CPH,14:15,8 Jul,Swiss,1 stop,CHF274.38,68
+ZRH,CPH,2025-07-08,ZRH,14:20,8 Jul,CPH,18:20,8 Jul,"KLM, operated by KLM Cityhopper",Direct,CHF141.35,68
+ZRH,CPH,2025-07-08,ZRH,11:50,8 Jul,CPH,18:20,8 Jul,KLM,1 stop,CHF112.87,68
+ZRH,CPH,2025-07-08,ZRH,19:15,8 Jul,CPH,23:30,8 Jul,"Lufthansa, operated by Edelweiss Air For Swiss",1 stop,CHF180.06,68
+ZRH,CPH,2025-07-08,ZRH,18:10,8 Jul,CPH,23:35,8 Jul,"Easyjet, Norwegian Air Sweden",1 stop,CHF153.42,68
+ZRH,CPH,2025-07-08,ZRH,18:05,8 Jul,CPH,22:15,8 Jul,Lufthansa,1 stop,CHF187.61,68
+ZRH,CPH,2025-07-08,ZRH,07:00,8 Jul,CPH,11:50,8 Jul,KLM,1 stop,CHF172.26,68
+ZRH,CPH,2025-07-08,ZRH,14:40,8 Jul,CPH,18:25,8 Jul,"Lufthansa, operated by City Jet",1 stop,CHF213.63,68
+ZRH,CPH,2025-07-08,ZRH,08:30,8 Jul,CPH,13:45,8 Jul,"Easyjet, Scandinavian Airlines",1 stop,CHF167.75,68
+ZRH,CPH,2025-07-08,ZRH,15:10,8 Jul,CPH,20:45,8 Jul,"Air Serbia, Wizz Air",1 stop,CHF160.57,68
+ZRH,CPH,2025-07-08,ZRH,17:55,8 Jul,CPH,22:35,8 Jul,"Brussels Airlines, operated by Swiss",1 stop,CHF184.38,68
+ZRH,CPH,2025-07-08,ZRH,17:05,8 Jul,CPH,20:40,8 Jul,"Swiss, operated by Helvetic Airways, Scandinavian Airlines, operated by City Jet",1 stop,CHF225.33,68
+ZRH,CPH,2025-07-09,ZRH,21:35,9 Jul,CPH,23:25,9 Jul,Swiss,Cheapest direct,CHF169.69,69
+ZRH,CPH,2025-07-09,ZRH,20:15,9 Jul,CPH,20:50,10 Jul,"Eurowings, Easyjet",Direct,CHF124.85,69
+ZRH,CPH,2025-07-09,ZRH,07:10,9 Jul,CPH,08:55,9 Jul,Swiss,1 stop,CHF179.11,69
+ZRH,CPH,2025-07-09,ZRH,16:25,9 Jul,CPH,18:10,9 Jul,Swiss,Direct,CHF215.62,69
+ZRH,CPH,2025-07-09,ZRH,12:30,9 Jul,CPH,14:15,9 Jul,Swiss,Direct,CHF229.50,69
+ZRH,CPH,2025-07-09,ZRH,16:10,9 Jul,CPH,21:10,9 Jul,Easyjet,Direct,CHF129.15,69
+ZRH,CPH,2025-07-09,ZRH,07:15,9 Jul,CPH,12:00,9 Jul,"Lufthansa, operated by Swiss",1 stop,CHF180.06,69
+ZRH,CPH,2025-07-09,ZRH,17:55,9 Jul,CPH,22:35,9 Jul,"Brussels Airlines, operated by Swiss",1 stop,CHF184.38,69
+ZRH,CPH,2025-07-09,ZRH,20:25,9 Jul,CPH,22:10,9 Jul,"Scandinavian Airlines, operated by City Jet",1 stop,CHF432.22,69
+ZRH,CPH,2025-07-09,ZRH,10:20,9 Jul,CPH,12:05,9 Jul,"Scandinavian Airlines, operated by Sas Link",Direct,CHF433.04,69
+ZRH,CPH,2025-07-09,ZRH,14:35,9 Jul,CPH,19:35,9 Jul,Air Serbia,Direct,CHF183.24,69
+ZRH,CPH,2025-07-09,ZRH,15:55,9 Jul,CPH,20:35,9 Jul,"Eurowings, Scandinavian Airlines, operated by BRA",1 stop,CHF193.07,69
+ZRH,CPH,2025-07-09,ZRH,07:15,9 Jul,CPH,10:45,9 Jul,"Swiss, Scandinavian Airlines, operated by BRA",1 stop,CHF239.58,69
+ZRH,CPH,2025-07-09,ZRH,08:30,9 Jul,CPH,13:45,9 Jul,"Easyjet, Scandinavian Airlines",1 stop,CHF182.90,69
+ZRH,CPH,2025-07-09,ZRH,17:30,9 Jul,CPH,21:10,9 Jul,"Swiss, operated by Air Baltic, Easyjet",1 stop,CHF241.02,69
+ZRH,CPH,2025-07-11,ZRH,07:10,11 Jul,CPH,08:55,11 Jul,Swiss,Cheapest direct,CHF229.50,71
+ZRH,CPH,2025-07-11,ZRH,12:30,11 Jul,CPH,14:15,11 Jul,Swiss,Direct,CHF277.94,71
+ZRH,CPH,2025-07-11,ZRH,21:35,11 Jul,CPH,23:25,11 Jul,Swiss,Direct,CHF277.94,71
+ZRH,CPH,2025-07-11,ZRH,17:30,11 Jul,CPH,19:20,11 Jul,Swiss,Direct,CHF313.43,71
+ZRH,CPH,2025-07-11,ZRH,20:15,11 Jul,CPH,22:00,11 Jul,"Scandinavian Airlines, operated by City Jet",Direct,CHF432.22,71
+ZRH,CPH,2025-07-11,ZRH,10:20,11 Jul,CPH,12:05,11 Jul,"Scandinavian Airlines, operated by Sas Link",Direct,CHF433.04,71
+ZRH,CPH,2025-07-11,ZRH,15:40,11 Jul,CPH,20:05,11 Jul,Eurowings,Direct,CHF229.69,71
+ZRH,CPH,2025-07-11,ZRH,07:25,11 Jul,CPH,11:05,11 Jul,"Brussels Airlines, operated by Swiss",1 stop,CHF271.14,71
+ZRH,CPH,2025-07-11,ZRH,17:05,11 Jul,CPH,20:40,11 Jul,"Swiss, operated by Air Baltic, Scandinavian Airlines, operated by City Jet",1 stop,CHF315.88,71
+ZRH,CPH,2025-07-11,ZRH,15:40,11 Jul,CPH,20:40,11 Jul,"Eurowings, Scandinavian Airlines, operated by City Jet",1 stop,CHF247.18,71
+ZRH,CPH,2025-07-11,ZRH,15:55,11 Jul,CPH,20:35,11 Jul,"Eurowings, Scandinavian Airlines, operated by BRA",1 stop,CHF268.48,71
+ZRH,CPH,2025-07-11,ZRH,06:55,11 Jul,CPH,11:35,11 Jul,"Lufthansa, operated by Helvetic Airways For Swiss",1 stop,CHF274.37,71
+ZRH,CPH,2025-07-11,ZRH,16:55,11 Jul,CPH,20:40,11 Jul,"Lufthansa, operated by Helvetic Airways For Swiss",1 stop,CHF324.35,71
+ZRH,CPH,2025-07-11,ZRH,18:05,11 Jul,CPH,22:05,11 Jul,Lufthansa,1 stop,CHF309.35,71
+ZRH,CPH,2025-07-11,ZRH,14:40,11 Jul,CPH,18:25,11 Jul,"Lufthansa, operated by City Jet",1 stop,CHF328.08,71
+ZRH,CPH,2025-07-13,ZRH,21:35,13 Jul,CPH,23:25,13 Jul,Swiss,Cheapest direct,CHF269.26,73
+ZRH,CPH,2025-07-13,ZRH,17:30,13 Jul,CPH,19:20,13 Jul,Swiss,Direct,CHF314.49,73
+ZRH,CPH,2025-07-13,ZRH,07:10,13 Jul,CPH,08:55,13 Jul,Swiss,Direct,CHF327.21,73
+ZRH,CPH,2025-07-13,ZRH,14:50,13 Jul,CPH,16:35,13 Jul,"Scandinavian Airlines, operated by Sas Link",Direct,CHF432.39,73
+ZRH,CPH,2025-07-13,ZRH,20:25,13 Jul,CPH,22:10,13 Jul,"Scandinavian Airlines, operated by City Jet",Direct,CHF432.53,73
+ZRH,CPH,2025-07-13,ZRH,12:30,13 Jul,CPH,14:15,13 Jul,Swiss,Direct,CHF435.85,73
+ZRH,CPH,2025-07-13,ZRH,15:40,13 Jul,CPH,20:15,13 Jul,Eurowings,Direct,CHF251.14,73
+ZRH,CPH,2025-07-13,ZRH,17:35,13 Jul,CPH,22:30,13 Jul,KLM,1 stop,CHF252.71,73
+ZRH,CPH,2025-07-13,ZRH,08:30,13 Jul,CPH,13:55,13 Jul,"Easyjet, Scandinavian Airlines",1 stop,CHF249.57,73
+ZRH,CPH,2025-07-13,ZRH,17:35,13 Jul,CPH,21:40,13 Jul,KLM,1 stop,CHF333.34,73
+ZRH,CPH,2025-07-13,ZRH,19:15,13 Jul,CPH,23:30,13 Jul,"Lufthansa, operated by Swiss",1 stop,CHF324.35,73
+ZRH,CPH,2025-07-13,ZRH,18:05,13 Jul,CPH,22:15,13 Jul,Lufthansa,1 stop,CHF331.89,73
+ZRH,CPH,2025-07-13,ZRH,20:55,13 Jul,CPH,07:10,14 Jul,Easyjet,1 stop,CHF169.25,73
+ZRH,CPH,2025-07-13,ZRH,07:15,13 Jul,CPH,12:00,13 Jul,"Lufthansa, operated by Edelweiss Air For Swiss",1 stop,CHF304.10,73
+ZRH,CPH,2025-07-13,ZRH,17:55,13 Jul,CPH,22:35,13 Jul,"Brussels Airlines, operated by Swiss",1 stop,CHF309.60,73
+ZRH,CPH,2025-07-14,ZRH,21:35,14 Jul,CPH,23:25,14 Jul,Swiss,Cheapest direct,CHF263.93,74
+ZRH,CPH,2025-07-14,ZRH,20:35,14 Jul,CPH,13:20,15 Jul,"Eurowings, operated by Atlantic Express Airline, Wizz Air",Direct,CHF96.34,74
+ZRH,CPH,2025-07-14,ZRH,07:10,14 Jul,CPH,08:55,14 Jul,Swiss,2 stops,CHF378.37,74
+ZRH,CPH,2025-07-14,ZRH,17:30,14 Jul,CPH,19:20,14 Jul,Swiss,Direct,CHF277.94,74
+ZRH,CPH,2025-07-14,ZRH,10:20,14 Jul,CPH,12:05,14 Jul,"Scandinavian Airlines, operated by Sas Link",Direct,CHF432.39,74
+ZRH,CPH,2025-07-14,ZRH,20:25,14 Jul,CPH,22:10,14 Jul,"Scandinavian Airlines, operated by City Jet",Direct,CHF432.53,74
+ZRH,CPH,2025-07-14,ZRH,12:30,14 Jul,CPH,14:15,14 Jul,Swiss,Direct,CHF448.90,74
+ZRH,CPH,2025-07-14,ZRH,15:40,14 Jul,CPH,20:05,14 Jul,Eurowings,Direct,CHF224.81,74
+ZRH,CPH,2025-07-14,ZRH,14:20,14 Jul,CPH,19:00,14 Jul,"KLM, operated by KLM Cityhopper",1 stop,CHF223.13,74
+ZRH,CPH,2025-07-14,ZRH,16:55,14 Jul,CPH,20:40,14 Jul,"Lufthansa, operated by Helvetic Airways For Swiss",1 stop,CHF266.80,74
+ZRH,CPH,2025-07-14,ZRH,18:05,14 Jul,CPH,22:15,14 Jul,Lufthansa,1 stop,CHF251.62,74
+ZRH,CPH,2025-07-14,ZRH,14:20,14 Jul,CPH,18:20,14 Jul,"KLM, operated by KLM Cityhopper",1 stop,CHF268.78,74
+ZRH,CPH,2025-07-14,ZRH,17:35,14 Jul,CPH,22:30,14 Jul,"KLM, operated by KLM Cityhopper",1 stop,CHF252.71,74
+ZRH,CPH,2025-07-14,ZRH,15:55,14 Jul,CPH,20:35,14 Jul,"Eurowings, Scandinavian Airlines, operated by BRA",1 stop,CHF267.44,74
+ZRH,CPH,2025-07-14,ZRH,17:30,14 Jul,CPH,21:05,14 Jul,"Swiss, Easyjet",1 stop,CHF329.27,74
+ZRH,CPH,2025-07-15,ZRH,07:10,15 Jul,CPH,08:55,15 Jul,Swiss,Cheapest direct,CHF228.49,75
+ZRH,CPH,2025-07-15,ZRH,21:35,15 Jul,CPH,23:25,15 Jul,Swiss,Direct,CHF229.50,75
+ZRH,CPH,2025-07-15,ZRH,12:30,15 Jul,CPH,14:15,15 Jul,Swiss,Direct,CHF382.12,75
+ZRH,CPH,2025-07-15,ZRH,10:20,15 Jul,CPH,12:05,15 Jul,"Scandinavian Airlines, operated by Sas Link",Direct,CHF432.39,75
+ZRH,CPH,2025-07-15,ZRH,20:25,15 Jul,CPH,22:10,15 Jul,"Scandinavian Airlines, operated by City Jet",Direct,CHF432.53,75
+ZRH,CPH,2025-07-15,ZRH,17:35,15 Jul,CPH,21:40,15 Jul,"KLM, operated by KLM Cityhopper",Direct,CHF223.13,75
+ZRH,CPH,2025-07-15,ZRH,16:55,15 Jul,CPH,20:40,15 Jul,"Lufthansa, operated by Helvetic Airways For Swiss",1 stop,CHF255.80,75
+ZRH,CPH,2025-07-15,ZRH,15:10,15 Jul,CPH,20:45,15 Jul,"Air Serbia, Wizz Air",1 stop,CHF191.00,75
+ZRH,CPH,2025-07-15,ZRH,14:20,15 Jul,CPH,19:00,15 Jul,"KLM, operated by KLM Cityhopper",1 stop,CHF223.13,75
+ZRH,CPH,2025-07-15,ZRH,21:30,15 Jul,CPH,07:10,16 Jul,Easyjet,1 stop,CHF130.30,75
+ZRH,CPH,2025-07-15,ZRH,20:15,15 Jul,CPH,07:10,16 Jul,"Eurowings, Easyjet",1 stop,CHF119.99,75
+ZRH,CPH,2025-07-15,ZRH,09:10,15 Jul,CPH,14:20,15 Jul,Swiss,1 stop,CHF215.19,75
+ZRH,CPH,2025-07-15,ZRH,14:40,15 Jul,CPH,18:25,15 Jul,"Lufthansa, operated by City Jet",1 stop,CHF274.35,75
+ZRH,CPH,2025-07-15,ZRH,18:10,15 Jul,CPH,23:35,15 Jul,"Easyjet, Norwegian Air Sweden",1 stop,CHF212.60,75
+ZRH,CPH,2025-07-15,ZRH,11:50,15 Jul,CPH,15:45,15 Jul,KLM,1 stop,CHF273.53,75
+ZRH,CPH,2025-07-16,ZRH,07:10,16 Jul,CPH,08:55,16 Jul,Swiss,Cheapest direct,CHF227.27,76
+ZRH,CPH,2025-07-16,ZRH,21:35,16 Jul,CPH,23:25,16 Jul,Swiss,Direct,CHF229.50,76
+ZRH,CPH,2025-07-16,ZRH,16:25,16 Jul,CPH,18:10,16 Jul,Swiss,Direct,CHF277.94,76
+ZRH,CPH,2025-07-16,ZRH,12:30,16 Jul,CPH,14:15,16 Jul,Swiss,Direct,CHF311.26,76
+ZRH,CPH,2025-07-16,ZRH,16:10,16 Jul,CPH,21:10,16 Jul,Easyjet,Direct,CHF150.29,76
+ZRH,CPH,2025-07-16,ZRH,11:50,16 Jul,CPH,15:45,16 Jul,KLM,1 stop,CHF198.15,76
+ZRH,CPH,2025-07-16,ZRH,10:20,16 Jul,CPH,12:05,16 Jul,"Scandinavian Airlines, operated by Sas Link",1 stop,CHF432.27,76
+ZRH,CPH,2025-07-16,ZRH,20:25,16 Jul,CPH,22:10,16 Jul,"Scandinavian Airlines, operated by City Jet",Direct,CHF432.53,76
+ZRH,CPH,2025-07-16,ZRH,11:50,16 Jul,CPH,16:15,16 Jul,KLM,Direct,CHF208.07,76
+ZRH,CPH,2025-07-16,ZRH,17:35,16 Jul,CPH,22:30,16 Jul,"KLM, operated by KLM Cityhopper",1 stop,CHF198.15,76
+ZRH,CPH,2025-07-16,ZRH,14:20,16 Jul,CPH,18:20,16 Jul,"KLM, operated by KLM Cityhopper",1 stop,CHF234.75,76
+ZRH,CPH,2025-07-16,ZRH,07:15,16 Jul,CPH,10:45,16 Jul,"Swiss, Scandinavian Airlines, operated by BRA",1 stop,CHF276.11,76
+ZRH,CPH,2025-07-16,ZRH,14:20,16 Jul,CPH,19:00,16 Jul,"KLM, operated by KLM Cityhopper",1 stop,CHF223.13,76
+ZRH,CPH,2025-07-16,ZRH,15:40,16 Jul,CPH,20:05,16 Jul,Eurowings,1 stop,CHF251.14,76
+ZRH,CPH,2025-07-16,ZRH,17:10,16 Jul,CPH,23:35,16 Jul,"Swiss, Norwegian Air Sweden",1 stop,CHF192.31,76
+ZRH,CPH,2025-07-17,ZRH,21:35,17 Jul,CPH,23:25,17 Jul,Swiss,Cheapest direct,CHF229.50,77
+ZRH,CPH,2025-07-17,ZRH,17:20,17 Jul,CPH,19:05,17 Jul,Swiss,Direct,CHF260.90,77
+ZRH,CPH,2025-07-17,ZRH,07:10,17 Jul,CPH,08:55,17 Jul,Swiss,Direct,CHF277.94,77
+ZRH,CPH,2025-07-17,ZRH,12:30,17 Jul,CPH,14:15,17 Jul,Swiss,Direct,CHF329.41,77
+ZRH,CPH,2025-07-17,ZRH,10:20,17 Jul,CPH,12:05,17 Jul,"Scandinavian Airlines, operated by Sas Link",Direct,CHF432.27,77
+ZRH,CPH,2025-07-17,ZRH,20:25,17 Jul,CPH,22:10,17 Jul,"Scandinavian Airlines, operated by City Jet",Direct,CHF432.53,77
+ZRH,CPH,2025-07-17,ZRH,14:20,17 Jul,CPH,19:00,17 Jul,"KLM, operated by KLM Cityhopper",Direct,CHF193.98,77
+ZRH,CPH,2025-07-17,ZRH,07:25,17 Jul,CPH,12:15,17 Jul,Swiss,1 stop,CHF215.19,77
+ZRH,CPH,2025-07-17,ZRH,14:20,17 Jul,CPH,18:20,17 Jul,"KLM, operated by KLM Cityhopper",1 stop,CHF252.71,77
+ZRH,CPH,2025-07-17,ZRH,16:55,17 Jul,CPH,20:40,17 Jul,"Lufthansa, operated by Helvetic Airways For Swiss",1 stop,CHF266.80,77
+ZRH,CPH,2025-07-17,ZRH,19:15,17 Jul,CPH,23:30,17 Jul,"Lufthansa, operated by Swiss",1 stop,CHF266.80,77
+ZRH,CPH,2025-07-17,ZRH,17:35,17 Jul,CPH,22:30,17 Jul,"KLM, operated by KLM Cityhopper",1 stop,CHF252.71,77
+ZRH,CPH,2025-07-17,ZRH,11:50,17 Jul,CPH,15:45,17 Jul,KLM,1 stop,CHF300.71,77
+ZRH,CPH,2025-07-17,ZRH,07:15,17 Jul,CPH,10:45,17 Jul,"Swiss, Scandinavian Airlines, operated by BRA",1 stop,CHF328.28,77
+ZRH,CPH,2025-07-17,ZRH,14:20,17 Jul,CPH,19:00,17 Jul,"KLM, operated by KLM Cityhopper, Scandinavian Airlines, operated by City Jet",1 stop,CHF274.68,77
+ZRH,CPH,2025-07-18,ZRH,17:30,18 Jul,CPH,19:20,18 Jul,Swiss,Cheapest direct,CHF277.94,78
+ZRH,CPH,2025-07-18,ZRH,09:05,18 Jul,CPH,13:20,19 Jul,"Eurowings, Wizz Air",Direct,CHF132.10,78
+ZRH,CPH,2025-07-18,ZRH,07:10,18 Jul,CPH,08:55,18 Jul,Swiss,2 stops,CHF321.91,78
+ZRH,CPH,2025-07-18,ZRH,21:35,18 Jul,CPH,23:25,18 Jul,Swiss,Direct,CHF312.38,78
+ZRH,CPH,2025-07-18,ZRH,10:20,18 Jul,CPH,12:05,18 Jul,"Scandinavian Airlines, operated by Sas Link",Direct,CHF432.27,78
+ZRH,CPH,2025-07-18,ZRH,20:15,18 Jul,CPH,22:00,18 Jul,"Scandinavian Airlines, operated by City Jet",Direct,CHF432.53,78
+ZRH,CPH,2025-07-18,ZRH,12:30,18 Jul,CPH,14:15,18 Jul,Swiss,Direct,CHF435.85,78
+ZRH,CPH,2025-07-18,ZRH,07:15,18 Jul,CPH,10:45,18 Jul,"Swiss, Scandinavian Airlines, operated by BRA",Direct,CHF292.69,78
+ZRH,CPH,2025-07-18,ZRH,15:40,18 Jul,CPH,20:05,18 Jul,Eurowings,1 stop,CHF264.60,78
+ZRH,CPH,2025-07-18,ZRH,16:55,18 Jul,CPH,20:40,18 Jul,"Lufthansa, operated by Swiss",1 stop,CHF318.42,78
+ZRH,CPH,2025-07-18,ZRH,17:55,18 Jul,CPH,22:35,18 Jul,"Brussels Airlines, operated by Swiss",1 stop,CHF271.14,78
+ZRH,CPH,2025-07-18,ZRH,07:25,18 Jul,CPH,11:05,18 Jul,"Brussels Airlines, operated by Swiss",1 stop,CHF328.70,78
+ZRH,CPH,2025-07-18,ZRH,15:55,18 Jul,CPH,20:35,18 Jul,"Eurowings, Scandinavian Airlines, operated by BRA",1 stop,CHF276.99,78
+ZRH,CPH,2025-07-18,ZRH,18:05,18 Jul,CPH,22:05,18 Jul,Lufthansa,1 stop,CHF331.89,78
+ZRH,CPH,2025-07-18,ZRH,17:05,18 Jul,CPH,20:50,18 Jul,"Swiss, Norwegian Air Sweden",1 stop,CHF360.23,78
+ZRH,CPH,2025-07-19,ZRH,21:35,19 Jul,CPH,23:25,19 Jul,Swiss,Cheapest direct,CHF368.48,79
+ZRH,CPH,2025-07-19,ZRH,07:10,19 Jul,CPH,08:55,19 Jul,Swiss,Direct,CHF434.67,79
+ZRH,CPH,2025-07-19,ZRH,16:50,19 Jul,CPH,18:35,19 Jul,Swiss,Direct,CHF435.85,79
+ZRH,CPH,2025-07-19,ZRH,12:30,19 Jul,CPH,14:15,19 Jul,Swiss,Direct,CHF452.51,79
+ZRH,CPH,2025-07-19,ZRH,10:20,19 Jul,CPH,12:05,19 Jul,"Scandinavian Airlines, operated by City Jet",Direct,CHF491.36,79
+ZRH,CPH,2025-07-19,ZRH,07:25,19 Jul,CPH,11:05,19 Jul,"Brussels Airlines, operated by Swiss",Direct,CHF384.18,79
+ZRH,CPH,2025-07-19,ZRH,14:20,19 Jul,CPH,20:05,19 Jul,"KLM, operated by KLM Cityhopper",1 stop,CHF281.65,79
+ZRH,CPH,2025-07-19,ZRH,15:05,19 Jul,CPH,19:10,19 Jul,"Austrian Airlines, operated by Air Baltic Corporation",1 stop,CHF384.82,79
+ZRH,CPH,2025-07-19,ZRH,21:45,19 Jul,CPH,07:50,20 Jul,"Swiss, Easyjet",1 stop,CHF201.46,79
+ZRH,CPH,2025-07-19,ZRH,17:35,19 Jul,CPH,22:30,19 Jul,KLM,1 stop,CHF347.83,79
+ZRH,CPH,2025-07-19,ZRH,14:20,19 Jul,CPH,20:05,19 Jul,"KLM, operated by KLM Cityhopper, Scandinavian Airlines, operated by City Jet",1 stop,CHF317.95,79
+ZRH,CPH,2025-07-19,ZRH,17:30,19 Jul,CPH,21:35,19 Jul,"Swiss, operated by Helvetic Airways, Scandinavian Airlines, operated by BRA",1 stop,CHF411.04,79
+ZRH,CPH,2025-07-19,ZRH,14:40,19 Jul,CPH,18:25,19 Jul,Lufthansa,1 stop,CHF448.84,79
+ZRH,CPH,2025-07-19,ZRH,12:35,19 Jul,CPH,16:45,19 Jul,"Swiss, Scandinavian Airlines, operated by BRA",1 stop,CHF442.09,79
+ZRH,CPH,2025-07-19,ZRH,19:15,19 Jul,CPH,23:30,19 Jul,"Lufthansa, operated by Swiss",1 stop,CHF444.42,79
+ZRH,CPH,2025-07-20,ZRH,21:35,20 Jul,CPH,23:25,20 Jul,Swiss,Cheapest direct,CHF271.33,80
+ZRH,CPH,2025-07-20,ZRH,20:15,20 Jul,CPH,07:10,21 Jul,"Eurowings, Easyjet",Direct,CHF119.99,80
+ZRH,CPH,2025-07-20,ZRH,07:10,20 Jul,CPH,08:55,20 Jul,Swiss,1 stop,CHF308.14,80
+ZRH,CPH,2025-07-20,ZRH,17:30,20 Jul,CPH,19:20,20 Jul,Swiss,Direct,CHF277.94,80
+ZRH,CPH,2025-07-20,ZRH,14:50,20 Jul,CPH,16:35,20 Jul,"Scandinavian Airlines, operated by Sas Link",Direct,CHF432.18,80
+ZRH,CPH,2025-07-20,ZRH,20:25,20 Jul,CPH,22:10,20 Jul,"Scandinavian Airlines, operated by City Jet",Direct,CHF432.42,80
+ZRH,CPH,2025-07-20,ZRH,12:30,20 Jul,CPH,14:15,20 Jul,Swiss,Direct,CHF435.85,80
+ZRH,CPH,2025-07-20,ZRH,20:55,20 Jul,CPH,07:10,21 Jul,Easyjet,Direct,CHF131.45,80
+ZRH,CPH,2025-07-20,ZRH,15:40,20 Jul,CPH,20:15,20 Jul,Eurowings,1 stop,CHF272.57,80
+ZRH,CPH,2025-07-20,ZRH,07:15,20 Jul,CPH,12:00,20 Jul,"Lufthansa, operated by Edelweiss Air For Swiss",1 stop,CHF266.80,80
+ZRH,CPH,2025-07-20,ZRH,17:35,20 Jul,CPH,22:30,20 Jul,KLM,1 stop,CHF282.95,80
+ZRH,CPH,2025-07-20,ZRH,19:15,20 Jul,CPH,23:30,20 Jul,"Lufthansa, operated by Swiss",1 stop,CHF316.21,80
+ZRH,CPH,2025-07-20,ZRH,08:30,20 Jul,CPH,13:55,20 Jul,"Easyjet, Scandinavian Airlines",1 stop,CHF270.96,80
+ZRH,CPH,2025-07-20,ZRH,18:05,20 Jul,CPH,22:15,20 Jul,Lufthansa,1 stop,CHF331.89,80
+ZRH,CPH,2025-07-20,ZRH,17:30,20 Jul,CPH,21:10,20 Jul,"Swiss, Easyjet",1 stop,CHF366.14,80
+ZRH,CPH,2025-07-21,ZRH,21:35,21 Jul,CPH,23:25,21 Jul,Swiss,Cheapest direct,CHF229.50,81
+ZRH,CPH,2025-07-21,ZRH,09:05,21 Jul,CPH,07:25,22 Jul,"Eurowings, Easyjet",Direct,CHF121.07,81
+ZRH,CPH,2025-07-21,ZRH,07:10,21 Jul,CPH,08:55,21 Jul,Swiss,1 stop,CHF384.88,81
+ZRH,CPH,2025-07-21,ZRH,17:30,21 Jul,CPH,19:20,21 Jul,Swiss,Direct,CHF328.40,81
+ZRH,CPH,2025-07-21,ZRH,10:20,21 Jul,CPH,12:05,21 Jul,"Scandinavian Airlines, operated by Sas Link",Direct,CHF432.18,81
+ZRH,CPH,2025-07-21,ZRH,20:25,21 Jul,CPH,22:10,21 Jul,"Scandinavian Airlines, operated by City Jet",Direct,CHF432.42,81
+ZRH,CPH,2025-07-21,ZRH,12:30,21 Jul,CPH,14:15,21 Jul,Swiss,Direct,CHF445.68,81
+ZRH,CPH,2025-07-21,ZRH,17:05,21 Jul,CPH,20:40,21 Jul,"Swiss, operated by Helvetic Airways, Scandinavian Airlines, operated by City Jet",Direct,CHF270.89,81
+ZRH,CPH,2025-07-21,ZRH,16:55,21 Jul,CPH,20:40,21 Jul,"Lufthansa, operated by Helvetic Airways For Swiss",1 stop,CHF266.80,81
+ZRH,CPH,2025-07-21,ZRH,17:30,21 Jul,CPH,21:05,21 Jul,"Swiss, operated by Air Baltic, Easyjet",1 stop,CHF289.31,81
+ZRH,CPH,2025-07-21,ZRH,17:35,21 Jul,CPH,22:30,21 Jul,"KLM, operated by KLM Cityhopper",1 stop,CHF234.75,81
+ZRH,CPH,2025-07-21,ZRH,15:55,21 Jul,CPH,20:35,21 Jul,"Eurowings, Scandinavian Airlines, operated by BRA",1 stop,CHF247.24,81
+ZRH,CPH,2025-07-21,ZRH,17:35,21 Jul,CPH,21:40,21 Jul,"KLM, operated by KLM Cityhopper",1 stop,CHF281.65,81
+ZRH,CPH,2025-07-21,ZRH,06:55,21 Jul,CPH,11:35,21 Jul,"Lufthansa, operated by Swiss",1 stop,CHF274.37,81
+ZRH,CPH,2025-07-21,ZRH,14:40,21 Jul,CPH,18:25,21 Jul,"Lufthansa, operated by City Jet",1 stop,CHF331.89,81
+ZRH,CPH,2025-07-22,ZRH,21:35,22 Jul,CPH,23:25,22 Jul,Swiss,Cheapest direct,CHF229.50,82
+ZRH,CPH,2025-07-22,ZRH,07:10,22 Jul,CPH,08:55,22 Jul,Swiss,Direct,CHF272.32,82
+ZRH,CPH,2025-07-22,ZRH,12:30,22 Jul,CPH,14:15,22 Jul,Swiss,Direct,CHF314.44,82
+ZRH,CPH,2025-07-22,ZRH,10:20,22 Jul,CPH,12:05,22 Jul,"Scandinavian Airlines, operated by Sas Link",Direct,CHF432.53,82
+ZRH,CPH,2025-07-22,ZRH,20:25,22 Jul,CPH,22:10,22 Jul,"Scandinavian Airlines, operated by City Jet",Direct,CHF433.04,82
+ZRH,CPH,2025-07-22,ZRH,14:20,22 Jul,CPH,19:00,22 Jul,"KLM, operated by KLM Cityhopper",Direct,CHF193.98,82
+ZRH,CPH,2025-07-22,ZRH,14:20,22 Jul,CPH,18:20,22 Jul,"KLM, operated by KLM Cityhopper",1 stop,CHF231.00,82
+ZRH,CPH,2025-07-22,ZRH,11:50,22 Jul,CPH,15:45,22 Jul,KLM,1 stop,CHF234.75,82
+ZRH,CPH,2025-07-22,ZRH,21:30,22 Jul,CPH,07:10,23 Jul,Easyjet,1 stop,CHF129.15,82
+ZRH,CPH,2025-07-22,ZRH,16:55,22 Jul,CPH,20:40,22 Jul,"Lufthansa, operated by Helvetic Airways For Swiss",1 stop,CHF266.80,82
+ZRH,CPH,2025-07-22,ZRH,20:15,22 Jul,CPH,07:10,23 Jul,"Eurowings, Easyjet",1 stop,CHF119.99,82
+ZRH,CPH,2025-07-22,ZRH,17:35,22 Jul,CPH,22:30,22 Jul,"KLM, operated by KLM Cityhopper",1 stop,CHF225.38,82
+ZRH,CPH,2025-07-22,ZRH,18:10,22 Jul,CPH,23:35,22 Jul,"Easyjet, Norwegian Air Sweden",1 stop,CHF214.23,82
+ZRH,CPH,2025-07-22,ZRH,19:15,22 Jul,CPH,23:30,22 Jul,"Lufthansa, operated by Edelweiss Air For Swiss",1 stop,CHF266.80,82
+ZRH,CPH,2025-07-22,ZRH,18:05,22 Jul,CPH,22:15,22 Jul,Lufthansa,1 stop,CHF274.35,82
+ZRH,CPH,2025-07-23,ZRH,07:10,23 Jul,CPH,08:55,23 Jul,Swiss,Direct,CHF222.54,83
+ZRH,CPH,2025-07-23,ZRH,21:35,23 Jul,CPH,23:25,23 Jul,Swiss,Cheapest direct,CHF218.40,83
+ZRH,CPH,2025-07-23,ZRH,16:25,23 Jul,CPH,18:10,23 Jul,Swiss,Direct,CHF276.92,83
+ZRH,CPH,2025-07-23,ZRH,12:30,23 Jul,CPH,14:15,23 Jul,Swiss,Direct,CHF367.47,83
+ZRH,CPH,2025-07-23,ZRH,16:10,23 Jul,CPH,21:10,23 Jul,Easyjet,Direct,CHF157.86,83
+ZRH,CPH,2025-07-23,ZRH,10:20,23 Jul,CPH,12:05,23 Jul,"Scandinavian Airlines, operated by Sas Link",1 stop,CHF432.73,83
+ZRH,CPH,2025-07-23,ZRH,20:25,23 Jul,CPH,22:10,23 Jul,"Scandinavian Airlines, operated by City Jet",Direct,CHF433.04,83
+ZRH,CPH,2025-07-23,ZRH,15:55,23 Jul,CPH,20:35,23 Jul,"Eurowings, Scandinavian Airlines, operated by BRA",Direct,CHF212.19,83
+ZRH,CPH,2025-07-23,ZRH,15:40,23 Jul,CPH,20:05,23 Jul,Eurowings,1 stop,CHF224.81,83
+ZRH,CPH,2025-07-23,ZRH,17:00,23 Jul,CPH,20:35,23 Jul,"Swiss, operated by Air Baltic, Scandinavian Airlines, operated by BRA",1 stop,CHF295.51,83
+ZRH,CPH,2025-07-23,ZRH,20:15,23 Jul,CPH,07:15,24 Jul,"Eurowings, Easyjet",1 stop,CHF127.55,83
+ZRH,CPH,2025-07-23,ZRH,18:05,23 Jul,CPH,22:05,23 Jul,Lufthansa,1 stop,CHF274.35,83
+ZRH,CPH,2025-07-23,ZRH,10:50,23 Jul,CPH,16:15,23 Jul,Finnair,1 stop,CHF220.40,83
+ZRH,CPH,2025-07-23,ZRH,07:15,23 Jul,CPH,10:45,23 Jul,"Swiss, Scandinavian Airlines, operated by BRA",1 stop,CHF306.68,83
+ZRH,CPH,2025-07-23,ZRH,17:30,23 Jul,CPH,21:10,23 Jul,"Swiss, operated by Air Baltic, Easyjet",1 stop,CHF299.07,83
+ZRH,CPH,2025-07-24,ZRH,17:20,24 Jul,CPH,19:05,24 Jul,Swiss,Cheapest direct,£207.72,84
+ZRH,CPH,2025-07-24,ZRH,07:10,24 Jul,CPH,08:55,24 Jul,Swiss,Direct,£238.16,84
+ZRH,CPH,2025-07-24,ZRH,21:35,24 Jul,CPH,23:25,24 Jul,Swiss,Direct,£234.30,84
+ZRH,CPH,2025-07-24,ZRH,12:30,24 Jul,CPH,14:15,24 Jul,Swiss,Direct,£340.31,84
+ZRH,CPH,2025-07-24,ZRH,15:55,24 Jul,CPH,20:35,24 Jul,"Eurowings, Scandinavian Airlines, operated by BRA",Direct,£165.10,84
+ZRH,CPH,2025-07-24,ZRH,10:20,24 Jul,CPH,12:05,24 Jul,"Scandinavian Airlines, operated by Sas Link",1 stop,£394.21,84
+ZRH,CPH,2025-07-24,ZRH,20:25,24 Jul,CPH,22:10,24 Jul,"Scandinavian Airlines, operated by City Jet",Direct,£394.73,84
+ZRH,CPH,2025-07-24,ZRH,17:00,24 Jul,CPH,20:35,24 Jul,"Swiss, operated by Air Baltic, Scandinavian Airlines, operated by BRA",Direct,£232.74,84
+ZRH,CPH,2025-07-24,ZRH,10:50,24 Jul,CPH,16:15,24 Jul,Finnair,1 stop,£202.49,84
+ZRH,CPH,2025-07-24,ZRH,10:50,24 Jul,CPH,21:05,24 Jul,Finnair,1 stop,£126.58,84
+ZRH,CPH,2025-07-24,ZRH,07:25,24 Jul,CPH,12:15,24 Jul,Swiss,1 stop,£224.68,84
+ZRH,CPH,2025-07-24,ZRH,16:55,24 Jul,CPH,20:40,24 Jul,"Lufthansa, operated by Helvetic Airways For Swiss",1 stop,£272.19,84
+ZRH,CPH,2025-07-24,ZRH,17:35,24 Jul,CPH,21:40,24 Jul,"KLM, operated by KLM Cityhopper",1 stop,£255.66,84
+ZRH,CPH,2025-07-24,ZRH,20:15,24 Jul,CPH,08:10,25 Jul,"Eurowings, Easyjet",1 stop,£119.77,84
+ZRH,CPH,2025-07-24,ZRH,21:15,24 Jul,CPH,08:10,25 Jul,Easyjet,1 stop,£129.12,84
+ZRH,CPH,2025-07-25,ZRH,07:10,25 Jul,CPH,08:55,25 Jul,Swiss,Cheapest direct,CHF266.16,85
+ZRH,CPH,2025-07-25,ZRH,21:35,25 Jul,CPH,23:25,25 Jul,Swiss,Direct,CHF267.21,85
+ZRH,CPH,2025-07-25,ZRH,17:30,25 Jul,CPH,19:20,25 Jul,Swiss,Direct,CHF269.26,85
+ZRH,CPH,2025-07-25,ZRH,12:30,25 Jul,CPH,14:15,25 Jul,Swiss,Direct,CHF371.97,85
+ZRH,CPH,2025-07-25,ZRH,10:20,25 Jul,CPH,12:05,25 Jul,"Scandinavian Airlines, operated by Sas Link",Direct,CHF432.85,85
+ZRH,CPH,2025-07-25,ZRH,20:15,25 Jul,CPH,22:00,25 Jul,"Scandinavian Airlines, operated by City Jet",Direct,CHF433.16,85
+ZRH,CPH,2025-07-25,ZRH,10:50,25 Jul,CPH,16:15,25 Jul,Finnair,Direct,CHF180.28,85
+ZRH,CPH,2025-07-25,ZRH,15:40,25 Jul,CPH,20:05,25 Jul,Eurowings,1 stop,CHF218.99,85
+ZRH,CPH,2025-07-25,ZRH,15:40,25 Jul,CPH,20:40,25 Jul,"Eurowings, Scandinavian Airlines, operated by City Jet",1 stop,CHF236.56,85
+ZRH,CPH,2025-07-25,ZRH,12:55,25 Jul,CPH,17:20,25 Jul,"Brussels Airlines, operated by Swiss",1 stop,CHF271.14,85
+ZRH,CPH,2025-07-25,ZRH,15:55,25 Jul,CPH,20:35,25 Jul,"Eurowings, Scandinavian Airlines, operated by BRA",1 stop,CHF268.70,85
+ZRH,CPH,2025-07-25,ZRH,17:55,25 Jul,CPH,22:35,25 Jul,"Brussels Airlines, operated by Swiss",1 stop,CHF271.14,85
+ZRH,CPH,2025-07-25,ZRH,17:00,25 Jul,CPH,20:35,25 Jul,"Swiss, Scandinavian Airlines, operated by BRA",1 stop,CHF353.02,85
+ZRH,CPH,2025-07-25,ZRH,10:50,25 Jul,CPH,18:40,25 Jul,Finnair,1 stop,CHF196.74,85
+ZRH,CPH,2025-07-25,ZRH,17:05,25 Jul,CPH,20:40,25 Jul,"Swiss, operated by Helvetic Airways, Scandinavian Airlines, operated by City Jet",1 stop,CHF366.01,85
+ZRH,CPH,2025-07-26,ZRH,07:10,26 Jul,CPH,08:55,26 Jul,Swiss,Cheapest direct,CHF277.94,86
+ZRH,CPH,2025-07-26,ZRH,07:00,26 Jul,CPH,08:35,27 Jul,KLM,Direct,CHF186.10,86
+ZRH,CPH,2025-07-26,ZRH,21:35,26 Jul,CPH,23:25,26 Jul,Swiss,1 stop,CHF329.41,86
+ZRH,CPH,2025-07-26,ZRH,16:50,26 Jul,CPH,18:35,26 Jul,Swiss,Direct,CHF367.33,86
+ZRH,CPH,2025-07-26,ZRH,12:30,26 Jul,CPH,14:15,26 Jul,Swiss,Direct,CHF384.88,86
+ZRH,CPH,2025-07-26,ZRH,10:20,26 Jul,CPH,12:05,26 Jul,"Scandinavian Airlines, operated by City Jet",Direct,CHF433.14,86
+ZRH,CPH,2025-07-26,ZRH,17:35,26 Jul,CPH,22:30,26 Jul,KLM,Direct,CHF244.21,86
+ZRH,CPH,2025-07-26,ZRH,07:25,26 Jul,CPH,11:05,26 Jul,"Brussels Airlines, operated by Swiss",1 stop,CHF359.12,86
+ZRH,CPH,2025-07-26,ZRH,14:20,26 Jul,CPH,18:20,26 Jul,"KLM, operated by KLM Cityhopper",1 stop,CHF336.56,86
+ZRH,CPH,2025-07-26,ZRH,13:20,26 Jul,CPH,16:55,26 Jul,Austrian Airlines,1 stop,CHF384.82,86
+ZRH,CPH,2025-07-26,ZRH,14:20,26 Jul,CPH,20:05,26 Jul,"KLM, operated by KLM Cityhopper",1 stop,CHF281.65,86
+ZRH,CPH,2025-07-26,ZRH,11:50,26 Jul,CPH,15:45,26 Jul,KLM,1 stop,CHF381.70,86
+ZRH,CPH,2025-07-26,ZRH,15:05,26 Jul,CPH,19:10,26 Jul,"Austrian Airlines, operated by Air Baltic Corporation",1 stop,CHF384.82,86
+ZRH,CPH,2025-07-26,ZRH,18:05,26 Jul,CPH,22:15,26 Jul,Lufthansa,1 stop,CHF387.39,86
+ZRH,CPH,2025-07-26,ZRH,11:50,26 Jul,CPH,16:05,26 Jul,"KLM, Scandinavian Airlines, operated by City Jet",1 stop,CHF400.28,86
+ZRH,CPH,2025-07-27,ZRH,07:10,27 Jul,CPH,08:55,27 Jul,Swiss,Direct,CHF272.34,87
+ZRH,CPH,2025-07-27,ZRH,20:55,27 Jul,CPH,07:10,28 Jul,Easyjet,1 stop,CHF130.23,87
+ZRH,CPH,2025-07-27,ZRH,21:35,27 Jul,CPH,23:25,27 Jul,Swiss,Cheapest direct,CHF267.21,87
+ZRH,CPH,2025-07-27,ZRH,17:30,27 Jul,CPH,19:20,27 Jul,Swiss,Direct,CHF277.94,87
+ZRH,CPH,2025-07-27,ZRH,12:30,27 Jul,CPH,14:15,27 Jul,Swiss,Direct,CHF329.41,87
+ZRH,CPH,2025-07-27,ZRH,20:25,27 Jul,CPH,22:10,27 Jul,"Scandinavian Airlines, operated by City Jet",Direct,CHF433.14,87
+ZRH,CPH,2025-07-27,ZRH,14:50,27 Jul,CPH,16:35,27 Jul,"Scandinavian Airlines, operated by Sas Link",Direct,CHF433.24,87
+ZRH,CPH,2025-07-27,ZRH,16:00,27 Jul,CPH,20:35,27 Jul,"Eurowings, Scandinavian Airlines, operated by BRA",Direct,CHF222.72,87
+ZRH,CPH,2025-07-27,ZRH,17:00,27 Jul,CPH,20:35,27 Jul,"Swiss, Scandinavian Airlines, operated by BRA",1 stop,CHF289.48,87
+ZRH,CPH,2025-07-27,ZRH,17:35,27 Jul,CPH,22:30,27 Jul,KLM,1 stop,CHF239.48,87
+ZRH,CPH,2025-07-27,ZRH,17:35,27 Jul,CPH,21:40,27 Jul,KLM,1 stop,CHF281.65,87
+ZRH,CPH,2025-07-27,ZRH,20:15,27 Jul,CPH,07:10,28 Jul,"Eurowings, Easyjet",1 stop,CHF142.67,87
+ZRH,CPH,2025-07-27,ZRH,17:30,27 Jul,CPH,21:10,27 Jul,"Swiss, Easyjet",1 stop,CHF340.58,87
+ZRH,CPH,2025-07-27,ZRH,17:35,27 Jul,CPH,21:40,27 Jul,"KLM, Scandinavian Airlines, operated by Sas Link",1 stop,CHF317.95,87
+ZRH,CPH,2025-07-27,ZRH,12:35,27 Jul,CPH,16:45,27 Jul,"Swiss, Scandinavian Airlines, operated by BRA",1 stop,CHF320.56,87
+ZRH,CPH,2025-07-28,ZRH,21:35,28 Jul,CPH,23:25,28 Jul,Swiss,Cheapest direct,CHF202.46,88
+ZRH,CPH,2025-07-28,ZRH,20:35,28 Jul,CPH,13:20,29 Jul,"Eurowings, operated by Atlantic Express Airline, Wizz Air",Direct,CHF112.95,88
+ZRH,CPH,2025-07-28,ZRH,07:10,28 Jul,CPH,08:55,28 Jul,Swiss,2 stops,CHF229.50,88
+ZRH,CPH,2025-07-28,ZRH,17:30,28 Jul,CPH,19:20,28 Jul,Swiss,Direct,CHF229.50,88
+ZRH,CPH,2025-07-28,ZRH,12:30,28 Jul,CPH,14:15,28 Jul,Swiss,Direct,CHF320.43,88
+ZRH,CPH,2025-07-28,ZRH,20:25,28 Jul,CPH,22:10,28 Jul,"Scandinavian Airlines, operated by City Jet",Direct,CHF433.14,88
+ZRH,CPH,2025-07-28,ZRH,10:20,28 Jul,CPH,12:05,28 Jul,"Scandinavian Airlines, operated by Sas Link",Direct,CHF433.24,88
+ZRH,CPH,2025-07-28,ZRH,11:50,28 Jul,CPH,15:45,28 Jul,KLM,Direct,CHF221.60,88
+ZRH,CPH,2025-07-28,ZRH,17:30,28 Jul,CPH,21:05,28 Jul,"Swiss, Easyjet",1 stop,CHF272.89,88
+ZRH,CPH,2025-07-28,ZRH,15:55,28 Jul,CPH,20:35,28 Jul,"Eurowings, Scandinavian Airlines, operated by BRA",1 stop,CHF225.99,88
+ZRH,CPH,2025-07-28,ZRH,16:55,28 Jul,CPH,20:40,28 Jul,"Lufthansa, operated by Swiss",1 stop,CHF266.80,88
+ZRH,CPH,2025-07-28,ZRH,15:40,28 Jul,CPH,20:05,28 Jul,Eurowings,1 stop,CHF264.60,88
+ZRH,CPH,2025-07-28,ZRH,17:35,28 Jul,CPH,21:40,28 Jul,"KLM, operated by KLM Cityhopper",1 stop,CHF281.65,88
+ZRH,CPH,2025-07-28,ZRH,17:35,28 Jul,CPH,22:30,28 Jul,"KLM, operated by KLM Cityhopper",1 stop,CHF252.71,88
+ZRH,CPH,2025-07-28,ZRH,17:05,28 Jul,CPH,20:40,28 Jul,"Swiss, Scandinavian Airlines, operated by City Jet",1 stop,CHF325.08,88
+ZRH,CPH,2025-07-29,ZRH,21:35,29 Jul,CPH,23:25,29 Jul,Swiss,Cheapest direct,CHF217.54,89
+ZRH,CPH,2025-07-29,ZRH,07:10,29 Jul,CPH,08:55,29 Jul,"Swiss, operated by Helvetic Airways",Direct,CHF226.82,89
+ZRH,CPH,2025-07-29,ZRH,12:30,29 Jul,CPH,14:15,29 Jul,Swiss,Direct,CHF229.50,89
+ZRH,CPH,2025-07-29,ZRH,14:20,29 Jul,CPH,18:20,29 Jul,"KLM, operated by KLM Cityhopper",Direct,CHF166.95,89
+ZRH,CPH,2025-07-29,ZRH,20:25,29 Jul,CPH,22:10,29 Jul,"Scandinavian Airlines, operated by City Jet",1 stop,CHF355.55,89
+ZRH,CPH,2025-07-29,ZRH,10:20,29 Jul,CPH,12:05,29 Jul,"Scandinavian Airlines, operated by Sas Link",Direct,CHF412.90,89
+ZRH,CPH,2025-07-29,ZRH,10:50,29 Jul,CPH,16:15,29 Jul,Finnair,Direct,CHF163.60,89
+ZRH,CPH,2025-07-29,ZRH,14:20,29 Jul,CPH,19:00,29 Jul,"KLM, operated by KLM Cityhopper",1 stop,CHF193.98,89
+ZRH,CPH,2025-07-29,ZRH,11:50,29 Jul,CPH,18:20,29 Jul,KLM,1 stop,CHF166.95,89
+ZRH,CPH,2025-07-29,ZRH,21:30,29 Jul,CPH,07:10,30 Jul,Easyjet,1 stop,CHF130.23,89
+ZRH,CPH,2025-07-29,ZRH,16:55,29 Jul,CPH,20:40,29 Jul,"Lufthansa, operated by Swiss",1 stop,CHF266.80,89
+ZRH,CPH,2025-07-29,ZRH,20:15,29 Jul,CPH,07:10,30 Jul,"Eurowings, Easyjet",1 stop,CHF121.07,89
+ZRH,CPH,2025-07-29,ZRH,14:40,29 Jul,CPH,18:25,29 Jul,"Lufthansa, operated by City Jet",1 stop,CHF274.35,89
+ZRH,CPH,2025-07-29,ZRH,15:40,29 Jul,CPH,20:40,29 Jul,"Eurowings, Scandinavian Airlines, operated by City Jet",1 stop,CHF225.94,89
+ZRH,CPH,2025-07-29,ZRH,17:35,29 Jul,CPH,22:30,29 Jul,"KLM, operated by KLM Cityhopper",1 stop,CHF231.00,89
+ZRH,CPH,2025-07-30,ZRH,07:10,30 Jul,CPH,08:55,30 Jul,Swiss,Cheapest direct,CHF219.97,90
+ZRH,CPH,2025-07-30,ZRH,19:05,30 Jul,CPH,06:45,31 Jul,Finnair,Direct,CHF136.50,90
+ZRH,CPH,2025-07-30,ZRH,16:25,30 Jul,CPH,18:10,30 Jul,Swiss,1 stop,CHF229.50,90
+ZRH,CPH,2025-07-30,ZRH,21:35,30 Jul,CPH,23:25,30 Jul,Swiss,Direct,CHF229.50,90
+ZRH,CPH,2025-07-30,ZRH,12:30,30 Jul,CPH,14:15,30 Jul,Swiss,Direct,CHF309.21,90
+ZRH,CPH,2025-07-30,ZRH,20:25,30 Jul,CPH,22:10,30 Jul,"Scandinavian Airlines, operated by City Jet",Direct,CHF355.58,90
+ZRH,CPH,2025-07-30,ZRH,10:20,30 Jul,CPH,12:05,30 Jul,"Scandinavian Airlines, operated by Sas Link",Direct,CHF355.92,90
+ZRH,CPH,2025-07-30,ZRH,16:10,30 Jul,CPH,21:10,30 Jul,Easyjet,Direct,CHF172.93,90
+ZRH,CPH,2025-07-30,ZRH,10:50,30 Jul,CPH,16:15,30 Jul,Finnair,1 stop,CHF163.60,90
+ZRH,CPH,2025-07-30,ZRH,11:50,30 Jul,CPH,15:45,30 Jul,KLM,1 stop,CHF211.29,90
+ZRH,CPH,2025-07-30,ZRH,14:20,30 Jul,CPH,18:20,30 Jul,"KLM, operated by KLM Cityhopper",1 stop,CHF211.29,90
+ZRH,CPH,2025-07-30,ZRH,15:40,30 Jul,CPH,20:05,30 Jul,Eurowings,1 stop,CHF224.81,90
+ZRH,CPH,2025-07-30,ZRH,17:35,30 Jul,CPH,22:30,30 Jul,"KLM, operated by KLM Cityhopper",1 stop,CHF211.29,90
+ZRH,CPH,2025-07-30,ZRH,17:30,30 Jul,CPH,21:10,30 Jul,"Swiss, operated by Air Baltic, Easyjet",1 stop,CHF284.04,90
+ZRH,CPH,2025-07-30,ZRH,17:00,30 Jul,CPH,20:35,30 Jul,"Swiss, operated by Air Baltic, Scandinavian Airlines, operated by BRA",1 stop,CHF290.35,90
+ZRH,CPH,2025-07-31,ZRH,07:10,31 Jul,CPH,08:55,31 Jul,Swiss,Cheapest direct,CHF265.14,91
+ZRH,CPH,2025-07-31,ZRH,15:55,31 Jul,CPH,14:15,1 Aug,"Eurowings, Wizz Air",Direct,CHF165.32,91
+ZRH,CPH,2025-07-31,ZRH,17:20,31 Jul,CPH,19:05,31 Jul,Swiss,2 stops,CHF277.94,91
+ZRH,CPH,2025-07-31,ZRH,21:35,31 Jul,CPH,23:25,31 Jul,Swiss,Direct,CHF271.59,91
+ZRH,CPH,2025-07-31,ZRH,20:25,31 Jul,CPH,22:10,31 Jul,"Scandinavian Airlines, operated by City Jet",Direct,CHF370.09,91
+ZRH,CPH,2025-07-31,ZRH,10:20,31 Jul,CPH,12:05,31 Jul,"Scandinavian Airlines, operated by Sas Link",Direct,CHF379.69,91
+ZRH,CPH,2025-07-31,ZRH,12:30,31 Jul,CPH,14:15,31 Jul,Swiss,Direct,CHF446.76,91
+ZRH,CPH,2025-07-31,ZRH,14:20,31 Jul,CPH,18:20,31 Jul,"KLM, operated by KLM Cityhopper",Direct,CHF239.48,91
+ZRH,CPH,2025-07-31,ZRH,15:55,31 Jul,CPH,20:35,31 Jul,"Eurowings, Scandinavian Airlines, operated by BRA",1 stop,CHF214.23,91
+ZRH,CPH,2025-07-31,ZRH,14:20,31 Jul,CPH,19:00,31 Jul,"KLM, operated by KLM Cityhopper",1 stop,CHF223.13,91
+ZRH,CPH,2025-07-31,ZRH,07:25,31 Jul,CPH,12:15,31 Jul,Swiss,1 stop,CHF238.76,91
+ZRH,CPH,2025-07-31,ZRH,10:50,31 Jul,CPH,16:15,31 Jul,Finnair,1 stop,CHF220.40,91
+ZRH,CPH,2025-07-31,ZRH,15:40,31 Jul,CPH,20:05,31 Jul,Eurowings,1 stop,CHF264.60,91
+ZRH,CPH,2025-07-31,ZRH,17:35,31 Jul,CPH,22:30,31 Jul,"KLM, operated by KLM Cityhopper",1 stop,CHF252.71,91
+ZRH,CPH,2025-07-31,ZRH,07:25,31 Jul,CPH,11:05,31 Jul,"Brussels Airlines, operated by Swiss",1 stop,CHF316.20,91
+ZRH,CPH,2025-08-01,ZRH,21:35,1 Aug,CPH,23:25,1 Aug,Swiss,Cheapest direct,CHF225.46,92
+ZRH,CPH,2025-08-01,ZRH,17:30,1 Aug,CPH,19:20,1 Aug,Swiss,Direct,CHF259.62,92
+ZRH,CPH,2025-08-01,ZRH,07:10,1 Aug,CPH,08:55,1 Aug,Swiss,Direct,CHF277.94,92
+ZRH,CPH,2025-08-01,ZRH,20:15,1 Aug,CPH,22:00,1 Aug,"Scandinavian Airlines, operated by City Jet",Direct,CHF359.31,92
+ZRH,CPH,2025-08-01,ZRH,10:20,1 Aug,CPH,12:05,1 Aug,"Scandinavian Airlines, operated by Sas Link",Direct,CHF365.29,92
+ZRH,CPH,2025-08-01,ZRH,12:30,1 Aug,CPH,14:15,1 Aug,Swiss,Direct,CHF384.88,92
+ZRH,CPH,2025-08-01,ZRH,18:05,1 Aug,CPH,22:05,1 Aug,Lufthansa,Direct,CHF274.35,92
+ZRH,CPH,2025-08-01,ZRH,19:15,1 Aug,CPH,23:30,1 Aug,"Lufthansa, operated by Swiss",1 stop,CHF266.80,92
+ZRH,CPH,2025-08-01,ZRH,17:55,1 Aug,CPH,22:35,1 Aug,"Brussels Airlines, operated by Swiss",1 stop,CHF254.63,92
+ZRH,CPH,2025-08-01,ZRH,12:55,1 Aug,CPH,17:20,1 Aug,"Brussels Airlines, operated by Helvetic Airways For Swiss",1 stop,CHF271.14,92
+ZRH,CPH,2025-08-01,ZRH,14:20,1 Aug,CPH,18:20,1 Aug,"KLM, operated by KLM Cityhopper",1 stop,CHF297.11,92
+ZRH,CPH,2025-08-01,ZRH,16:55,1 Aug,CPH,20:40,1 Aug,"Lufthansa, operated by Swiss",1 stop,CHF312.41,92
+ZRH,CPH,2025-08-01,ZRH,15:55,1 Aug,CPH,20:35,1 Aug,"Eurowings, Scandinavian Airlines, operated by BRA",1 stop,CHF268.48,92
+ZRH,CPH,2025-08-01,ZRH,07:25,1 Aug,CPH,11:05,1 Aug,"Brussels Airlines, operated by Swiss",1 stop,CHF328.70,92
+ZRH,CPH,2025-08-01,ZRH,14:40,1 Aug,CPH,18:25,1 Aug,"Lufthansa, operated by City Jet",1 stop,CHF331.89,92
+ZRH,CPH,2025-08-02,ZRH,21:35,2 Aug,CPH,23:25,2 Aug,Swiss,Cheapest direct,CHF218.03,93
+ZRH,CPH,2025-08-02,ZRH,16:50,2 Aug,CPH,18:35,2 Aug,Swiss,Direct,CHF228.49,93
+ZRH,CPH,2025-08-02,ZRH,07:10,2 Aug,CPH,08:55,2 Aug,Swiss,Direct,CHF229.50,93
+ZRH,CPH,2025-08-02,ZRH,12:30,2 Aug,CPH,14:15,2 Aug,Swiss,Direct,CHF276.07,93
+ZRH,CPH,2025-08-02,ZRH,10:20,2 Aug,CPH,12:05,2 Aug,"Scandinavian Airlines, operated by City Jet",Direct,CHF355.58,93
+ZRH,CPH,2025-08-02,ZRH,14:20,2 Aug,CPH,18:20,2 Aug,"KLM, operated by KLM Cityhopper",Direct,CHF278.27,93
+ZRH,CPH,2025-08-02,ZRH,18:05,2 Aug,CPH,22:15,2 Aug,Lufthansa,1 stop,CHF274.35,93
+ZRH,CPH,2025-08-02,ZRH,07:25,2 Aug,CPH,11:05,2 Aug,"Brussels Airlines, operated by Swiss",1 stop,CHF314.50,93
+ZRH,CPH,2025-08-02,ZRH,17:55,2 Aug,CPH,22:35,2 Aug,"Brussels Airlines, operated by Helvetic Airways For Swiss",1 stop,CHF271.14,93
+ZRH,CPH,2025-08-02,ZRH,14:40,2 Aug,CPH,18:25,2 Aug,Lufthansa,1 stop,CHF331.89,93
+ZRH,CPH,2025-08-02,ZRH,17:35,2 Aug,CPH,22:30,2 Aug,KLM,1 stop,CHF282.95,93
+ZRH,CPH,2025-08-02,ZRH,17:30,2 Aug,CPH,21:35,2 Aug,"Swiss, Scandinavian Airlines, operated by BRA",1 stop,CHF326.16,93
+ZRH,CPH,2025-08-02,ZRH,07:15,2 Aug,CPH,12:00,2 Aug,"Lufthansa, operated by Swiss",1 stop,CHF299.12,93
+ZRH,CPH,2025-08-02,ZRH,13:20,2 Aug,CPH,16:55,2 Aug,Austrian Airlines,1 stop,CHF384.82,93
+ZRH,CPH,2025-08-02,ZRH,14:20,2 Aug,CPH,20:05,2 Aug,"KLM, operated by KLM Cityhopper",1 stop,CHF281.65,93
+ZRH,CPH,2025-08-03,ZRH,21:35,3 Aug,CPH,23:25,3 Aug,Swiss,Cheapest direct,CHF150.81,94
+ZRH,CPH,2025-08-03,ZRH,20:55,3 Aug,CPH,07:10,4 Aug,Easyjet,Direct,CHF130.23,94
+ZRH,CPH,2025-08-03,ZRH,07:10,3 Aug,CPH,08:55,3 Aug,Swiss,1 stop,CHF209.50,94
+ZRH,CPH,2025-08-03,ZRH,17:30,3 Aug,CPH,19:20,3 Aug,Swiss,Direct,CHF229.50,94
+ZRH,CPH,2025-08-03,ZRH,12:30,3 Aug,CPH,14:15,3 Aug,Swiss,Direct,CHF329.41,94
+ZRH,CPH,2025-08-03,ZRH,20:25,3 Aug,CPH,22:10,3 Aug,"Scandinavian Airlines, operated by City Jet",Direct,CHF355.58,94
+ZRH,CPH,2025-08-03,ZRH,14:50,3 Aug,CPH,16:35,3 Aug,"Scandinavian Airlines, operated by Sas Link",Direct,CHF355.92,94
+ZRH,CPH,2025-08-03,ZRH,17:30,3 Aug,CPH,21:10,3 Aug,"Swiss, Easyjet",Direct,CHF259.14,94
+ZRH,CPH,2025-08-03,ZRH,17:35,3 Aug,CPH,22:30,3 Aug,KLM,1 stop,CHF211.29,94
+ZRH,CPH,2025-08-03,ZRH,18:05,3 Aug,CPH,22:15,3 Aug,Lufthansa,1 stop,CHF274.35,94
+ZRH,CPH,2025-08-03,ZRH,12:55,3 Aug,CPH,17:20,3 Aug,"Brussels Airlines, operated by Helvetic Airways For Swiss",1 stop,CHF271.14,94
+ZRH,CPH,2025-08-03,ZRH,15:40,3 Aug,CPH,20:15,3 Aug,Eurowings,1 stop,CHF264.60,94
+ZRH,CPH,2025-08-03,ZRH,07:25,3 Aug,CPH,11:05,3 Aug,"Brussels Airlines, operated by Swiss",1 stop,CHF313.88,94
+ZRH,CPH,2025-08-03,ZRH,17:55,3 Aug,CPH,22:35,3 Aug,"Brussels Airlines, operated by Helvetic Airways For Swiss",1 stop,CHF271.14,94
+ZRH,CPH,2025-08-03,ZRH,14:40,3 Aug,CPH,18:25,3 Aug,"Lufthansa, operated by City Jet",1 stop,CHF331.89,94
+ZRH,CPH,2025-08-04,ZRH,21:35,4 Aug,CPH,23:25,4 Aug,Swiss,Cheapest direct,CHF150.81,95
+ZRH,CPH,2025-08-04,ZRH,07:10,4 Aug,CPH,08:55,4 Aug,Swiss,Direct,CHF229.50,95
+ZRH,CPH,2025-08-04,ZRH,17:30,4 Aug,CPH,19:20,4 Aug,Swiss,Direct,CHF228.45,95
+ZRH,CPH,2025-08-04,ZRH,20:25,4 Aug,CPH,22:10,4 Aug,"Scandinavian Airlines, operated by City Jet",Direct,CHF242.66,95
+ZRH,CPH,2025-08-04,ZRH,10:20,4 Aug,CPH,12:05,4 Aug,"Scandinavian Airlines, operated by Sas Link",Direct,CHF243.05,95
+ZRH,CPH,2025-08-04,ZRH,12:30,4 Aug,CPH,14:15,4 Aug,Swiss,Direct,CHF258.57,95
+ZRH,CPH,2025-08-04,ZRH,18:05,4 Aug,CPH,22:15,4 Aug,Lufthansa,Direct,CHF187.61,95
+ZRH,CPH,2025-08-04,ZRH,14:20,4 Aug,CPH,18:20,4 Aug,"KLM, operated by KLM Cityhopper",1 stop,CHF225.38,95
+ZRH,CPH,2025-08-04,ZRH,10:50,4 Aug,CPH,16:15,4 Aug,Finnair,1 stop,CHF180.28,95
+ZRH,CPH,2025-08-04,ZRH,14:20,4 Aug,CPH,19:00,4 Aug,"KLM, operated by KLM Cityhopper",1 stop,CHF223.13,95
+ZRH,CPH,2025-08-04,ZRH,07:25,4 Aug,CPH,11:05,4 Aug,"Brussels Airlines, operated by Swiss",1 stop,CHF271.14,95
+ZRH,CPH,2025-08-04,ZRH,16:55,4 Aug,CPH,20:40,4 Aug,"Lufthansa, operated by Swiss",1 stop,CHF266.80,95
+ZRH,CPH,2025-08-04,ZRH,09:55,4 Aug,CPH,15:00,4 Aug,"Scandinavian Airlines, Norwegian Air Shuttle",1 stop,CHF213.06,95
+ZRH,CPH,2025-08-04,ZRH,17:30,4 Aug,CPH,21:05,4 Aug,"Swiss, operated by Air Baltic, Easyjet",1 stop,CHF282.24,95
+ZRH,CPH,2025-08-04,ZRH,17:35,4 Aug,CPH,22:30,4 Aug,"KLM, operated by KLM Cityhopper",1 stop,CHF231.00,95
+ZRH,CPH,2025-08-05,ZRH,21:35,5 Aug,CPH,23:25,5 Aug,Swiss,Cheapest direct,CHF149.80,96
+ZRH,CPH,2025-08-05,ZRH,20:15,5 Aug,CPH,07:10,6 Aug,"Eurowings, Easyjet",Direct,CHF121.07,96
+ZRH,CPH,2025-08-05,ZRH,10:20,5 Aug,CPH,12:05,5 Aug,"Scandinavian Airlines, operated by Sas Link",1 stop,CHF201.54,96
+ZRH,CPH,2025-08-05,ZRH,12:30,5 Aug,CPH,14:15,5 Aug,Swiss,Direct,CHF201.62,96
+ZRH,CPH,2025-08-05,ZRH,07:10,5 Aug,CPH,08:55,5 Aug,"Swiss, operated by Helvetic Airways",Direct,CHF224.95,96
+ZRH,CPH,2025-08-05,ZRH,20:25,5 Aug,CPH,22:10,5 Aug,"Scandinavian Airlines, operated by City Jet",Direct,CHF242.66,96
+ZRH,CPH,2025-08-05,ZRH,17:35,5 Aug,CPH,22:30,5 Aug,"KLM, operated by KLM Cityhopper",Direct,CHF141.35,96
+ZRH,CPH,2025-08-05,ZRH,18:05,5 Aug,CPH,22:15,5 Aug,Lufthansa,1 stop,CHF187.61,96
+ZRH,CPH,2025-08-05,ZRH,17:55,5 Aug,CPH,22:35,5 Aug,"Brussels Airlines, operated by Swiss",1 stop,CHF184.38,96
+ZRH,CPH,2025-08-05,ZRH,09:10,5 Aug,CPH,14:20,5 Aug,Swiss,1 stop,CHF178.87,96
+ZRH,CPH,2025-08-05,ZRH,14:20,5 Aug,CPH,19:00,5 Aug,"KLM, operated by KLM Cityhopper",1 stop,CHF193.98,96
+ZRH,CPH,2025-08-05,ZRH,10:50,5 Aug,CPH,16:15,5 Aug,Finnair,1 stop,CHF180.28,96
+ZRH,CPH,2025-08-05,ZRH,14:20,5 Aug,CPH,18:20,5 Aug,"KLM, operated by KLM Cityhopper",1 stop,CHF231.00,96
+ZRH,CPH,2025-08-05,ZRH,18:10,5 Aug,CPH,23:35,5 Aug,"Easyjet, Norwegian Air Sweden",1 stop,CHF186.10,96
+ZRH,CPH,2025-08-05,ZRH,11:50,5 Aug,CPH,15:45,5 Aug,KLM,1 stop,CHF239.48,96
+ZRH,CPH,2025-08-06,ZRH,21:35,6 Aug,CPH,23:25,6 Aug,Swiss,Cheapest direct,CHF143.43,97
+ZRH,CPH,2025-08-06,ZRH,19:25,6 Aug,CPH,08:40,7 Aug,KLM,Direct,CHF117.63,97
+ZRH,CPH,2025-08-06,ZRH,16:25,6 Aug,CPH,18:10,6 Aug,Swiss,1 stop,CHF150.81,97
+ZRH,CPH,2025-08-06,ZRH,07:10,6 Aug,CPH,08:55,6 Aug,"Swiss, operated by Air Baltic Corporation",Direct,CHF187.12,97
+ZRH,CPH,2025-08-06,ZRH,12:30,6 Aug,CPH,14:15,6 Aug,Swiss,Direct,CHF226.21,97
+ZRH,CPH,2025-08-06,ZRH,20:25,6 Aug,CPH,22:10,6 Aug,"Scandinavian Airlines, operated by City Jet",Direct,CHF242.66,97
+ZRH,CPH,2025-08-06,ZRH,10:20,6 Aug,CPH,12:05,6 Aug,"Scandinavian Airlines, operated by Sas Link",Direct,CHF243.05,97
+ZRH,CPH,2025-08-06,ZRH,16:10,6 Aug,CPH,21:10,6 Aug,Easyjet,Direct,CHF131.30,97
+ZRH,CPH,2025-08-06,ZRH,17:35,6 Aug,CPH,22:30,6 Aug,KLM,1 stop,CHF148.00,97
+ZRH,CPH,2025-08-06,ZRH,18:05,6 Aug,CPH,22:05,6 Aug,Lufthansa,1 stop,CHF187.61,97
+ZRH,CPH,2025-08-06,ZRH,18:10,6 Aug,CPH,23:35,6 Aug,"Easyjet, Norwegian Air Sweden",1 stop,CHF157.40,97
+ZRH,CPH,2025-08-06,ZRH,10:50,6 Aug,CPH,16:15,6 Aug,Finnair,1 stop,CHF163.60,97
+ZRH,CPH,2025-08-06,ZRH,17:55,6 Aug,CPH,22:35,6 Aug,"Brussels Airlines, operated by Swiss",1 stop,CHF184.38,97
+ZRH,CPH,2025-08-06,ZRH,15:40,6 Aug,CPH,20:05,6 Aug,Eurowings,1 stop,CHF210.75,97
+ZRH,CPH,2025-08-06,ZRH,14:20,6 Aug,CPH,18:20,6 Aug,"KLM, operated by KLM Cityhopper",1 stop,CHF231.00,97
+ZRH,CPH,2025-08-07,ZRH,21:35,7 Aug,CPH,23:25,7 Aug,Swiss,Cheapest direct,CHF142.45,98
+ZRH,CPH,2025-08-07,ZRH,14:20,7 Aug,CPH,22:30,7 Aug,"KLM, operated by KLM Cityhopper",Direct,CHF112.87,98
+ZRH,CPH,2025-08-07,ZRH,10:20,7 Aug,CPH,12:05,7 Aug,"Scandinavian Airlines, operated by Sas Link",1 stop,CHF201.51,98
+ZRH,CPH,2025-08-07,ZRH,17:20,7 Aug,CPH,19:05,7 Aug,Swiss,Direct,CHF209.54,98
+ZRH,CPH,2025-08-07,ZRH,12:30,7 Aug,CPH,14:15,7 Aug,Swiss,Direct,CHF229.50,98
+ZRH,CPH,2025-08-07,ZRH,07:10,7 Aug,CPH,08:55,7 Aug,Swiss,Direct,CHF269.26,98
+ZRH,CPH,2025-08-07,ZRH,20:25,7 Aug,CPH,22:10,7 Aug,"Scandinavian Airlines, operated by City Jet",Direct,CHF279.53,98
+ZRH,CPH,2025-08-07,ZRH,14:20,7 Aug,CPH,18:20,7 Aug,"KLM, operated by KLM Cityhopper",Direct,CHF141.35,98
+ZRH,CPH,2025-08-07,ZRH,11:50,7 Aug,CPH,15:45,7 Aug,KLM,1 stop,CHF152.75,98
+ZRH,CPH,2025-08-07,ZRH,17:35,7 Aug,CPH,22:30,7 Aug,"KLM, operated by KLM Cityhopper",1 stop,CHF141.35,98
+ZRH,CPH,2025-08-07,ZRH,11:50,7 Aug,CPH,18:20,7 Aug,KLM,1 stop,CHF141.35,98
+ZRH,CPH,2025-08-07,ZRH,07:25,7 Aug,CPH,12:15,7 Aug,Swiss,1 stop,CHF178.87,98
+ZRH,CPH,2025-08-07,ZRH,17:55,7 Aug,CPH,22:35,7 Aug,"Brussels Airlines, operated by Swiss",1 stop,CHF184.38,98
+ZRH,CPH,2025-08-07,ZRH,13:35,7 Aug,CPH,18:50,7 Aug,"Swiss, operated by Helvetic Airways, Norwegian Air Sweden",1 stop,CHF172.49,98
+ZRH,CPH,2025-08-07,ZRH,18:05,7 Aug,CPH,22:15,7 Aug,Lufthansa,1 stop,CHF218.63,98
+ZRH,CPH,2025-08-09,ZRH,16:50,9 Aug,CPH,18:35,9 Aug,"Swiss, operated by Air Baltic Corporation",Cheapest direct,CHF150.81,100
+ZRH,CPH,2025-08-09,ZRH,21:35,9 Aug,CPH,23:25,9 Aug,Swiss,Direct,CHF150.81,100
+ZRH,CPH,2025-08-09,ZRH,07:10,9 Aug,CPH,08:55,9 Aug,"Swiss, operated by Air Baltic Corporation",Direct,CHF221.55,100
+ZRH,CPH,2025-08-09,ZRH,12:30,9 Aug,CPH,14:15,9 Aug,Swiss,Direct,CHF229.50,100
+ZRH,CPH,2025-08-09,ZRH,17:35,9 Aug,CPH,22:30,9 Aug,KLM,Direct,CHF156.53,100
+ZRH,CPH,2025-08-09,ZRH,10:20,9 Aug,CPH,12:05,9 Aug,"Scandinavian Airlines, operated by City Jet",1 stop,CHF381.98,100
+ZRH,CPH,2025-08-09,ZRH,17:55,9 Aug,CPH,22:35,9 Aug,"Brussels Airlines, operated by Helvetic Airways For Swiss",Direct,CHF184.38,100
+ZRH,CPH,2025-08-09,ZRH,18:05,9 Aug,CPH,22:15,9 Aug,Lufthansa,1 stop,CHF227.98,100
+ZRH,CPH,2025-08-09,ZRH,11:50,9 Aug,CPH,15:45,9 Aug,KLM,1 stop,CHF252.71,100
+ZRH,CPH,2025-08-09,ZRH,07:25,9 Aug,CPH,11:05,9 Aug,"Brussels Airlines, operated by Swiss",1 stop,CHF271.14,100
+ZRH,CPH,2025-08-09,ZRH,14:40,9 Aug,CPH,18:25,9 Aug,Lufthansa,1 stop,CHF272.08,100
+ZRH,CPH,2025-08-09,ZRH,14:20,9 Aug,CPH,22:30,9 Aug,"KLM, operated by KLM Cityhopper",1 stop,CHF152.75,100
+ZRH,CPH,2025-08-09,ZRH,19:15,9 Aug,CPH,23:30,9 Aug,"Lufthansa, operated by Swiss",1 stop,CHF266.80,100
+ZRH,CPH,2025-08-09,ZRH,07:15,9 Aug,CPH,12:00,9 Aug,"Lufthansa, operated by Swiss",1 stop,CHF296.92,100
+ZRH,CPH,2025-08-09,ZRH,12:50,9 Aug,CPH,18:25,9 Aug,"Lufthansa, operated by Helvetic Airways For Swiss",1 stop,CHF274.37,100
+ZRH,CPH,2025-08-10,ZRH,17:30,10 Aug,CPH,19:20,10 Aug,Swiss,Cheapest direct,CHF150.81,101
+ZRH,CPH,2025-08-10,ZRH,21:35,10 Aug,CPH,23:25,10 Aug,Swiss,Direct,CHF150.81,101
+ZRH,CPH,2025-08-10,ZRH,07:10,10 Aug,CPH,08:55,10 Aug,Swiss,Direct,CHF181.73,101
+ZRH,CPH,2025-08-10,ZRH,12:30,10 Aug,CPH,14:15,10 Aug,Swiss,Direct,CHF228.49,101
+ZRH,CPH,2025-08-10,ZRH,14:50,10 Aug,CPH,16:35,10 Aug,"Scandinavian Airlines, operated by Sas Link",Direct,CHF243.06,101
+ZRH,CPH,2025-08-10,ZRH,20:25,10 Aug,CPH,22:10,10 Aug,"Scandinavian Airlines, operated by City Jet",Direct,CHF319.44,101
+ZRH,CPH,2025-08-10,ZRH,11:50,10 Aug,CPH,15:45,10 Aug,KLM,Direct,CHF166.95,101
+ZRH,CPH,2025-08-10,ZRH,09:20,10 Aug,CPH,14:00,10 Aug,"KLM, operated by KLM Cityhopper",1 stop,CHF152.75,101
+ZRH,CPH,2025-08-10,ZRH,07:00,10 Aug,CPH,14:00,10 Aug,KLM,1 stop,CHF126.16,101
+ZRH,CPH,2025-08-10,ZRH,18:05,10 Aug,CPH,22:15,10 Aug,Lufthansa,1 stop,CHF218.86,101
+ZRH,CPH,2025-08-10,ZRH,18:20,10 Aug,CPH,23:35,10 Aug,British Airways,1 stop,CHF186.33,101
+ZRH,CPH,2025-08-10,ZRH,17:35,10 Aug,CPH,22:30,10 Aug,KLM,1 stop,CHF211.29,101
+ZRH,CPH,2025-08-10,ZRH,18:20,10 Aug,CPH,23:40,10 Aug,"Swiss, Norwegian Air Sweden",1 stop,CHF202.14,101
+ZRH,CPH,2025-08-10,ZRH,14:20,10 Aug,CPH,18:20,10 Aug,"KLM, operated by KLM Cityhopper",1 stop,CHF252.71,101
+ZRH,CPH,2025-08-10,ZRH,15:40,10 Aug,CPH,20:15,10 Aug,Eurowings,1 stop,CHF229.70,101
+ZRH,CPH,2025-08-11,ZRH,21:35,11 Aug,CPH,23:25,11 Aug,Swiss,Cheapest direct,CHF120.51,102
+ZRH,CPH,2025-08-11,ZRH,17:30,11 Aug,CPH,19:20,11 Aug,Swiss,Direct,CHF150.81,102
+ZRH,CPH,2025-08-11,ZRH,14:50,11 Aug,CPH,16:35,11 Aug,"Scandinavian Airlines, operated by City Jet",Direct,CHF201.87,102
+ZRH,CPH,2025-08-11,ZRH,12:30,11 Aug,CPH,14:15,11 Aug,Swiss,Direct,CHF215.10,102
+ZRH,CPH,2025-08-11,ZRH,07:10,11 Aug,CPH,08:55,11 Aug,"Swiss, operated by Air Baltic Corporation",Direct,CHF229.50,102
+ZRH,CPH,2025-08-11,ZRH,10:20,11 Aug,CPH,12:05,11 Aug,"Scandinavian Airlines, operated by Jettime A/S",Direct,CHF243.06,102
+ZRH,CPH,2025-08-11,ZRH,20:15,11 Aug,CPH,22:00,11 Aug,"Scandinavian Airlines, operated by Jettime A/S",Direct,CHF243.06,102
+ZRH,CPH,2025-08-11,ZRH,17:35,11 Aug,CPH,22:30,11 Aug,"KLM, operated by KLM Cityhopper",Direct,CHF112.87,102
+ZRH,CPH,2025-08-11,ZRH,14:40,11 Aug,CPH,18:25,11 Aug,"Lufthansa, operated by City Jet",1 stop,CHF187.61,102
+ZRH,CPH,2025-08-11,ZRH,14:20,11 Aug,CPH,22:30,11 Aug,"KLM, operated by KLM Cityhopper",1 stop,CHF112.87,102
+ZRH,CPH,2025-08-11,ZRH,18:05,11 Aug,CPH,22:15,11 Aug,Lufthansa,1 stop,CHF187.61,102
+ZRH,CPH,2025-08-11,ZRH,12:55,11 Aug,CPH,17:20,11 Aug,"Brussels Airlines, operated by Helvetic Airways For Swiss",1 stop,CHF184.38,102
+ZRH,CPH,2025-08-11,ZRH,15:40,11 Aug,CPH,20:05,11 Aug,Eurowings,1 stop,CHF189.13,102
+ZRH,CPH,2025-08-11,ZRH,17:55,11 Aug,CPH,22:35,11 Aug,"Brussels Airlines, operated by Swiss",1 stop,CHF184.38,102
+ZRH,CPH,2025-08-11,ZRH,14:20,11 Aug,CPH,18:20,11 Aug,"KLM, operated by KLM Cityhopper",1 stop,CHF211.29,102
+ZRH,CPH,2025-08-12,ZRH,21:35,12 Aug,CPH,23:25,12 Aug,Swiss,Cheapest direct,CHF120.51,103
+ZRH,CPH,2025-08-12,ZRH,17:35,12 Aug,CPH,22:30,12 Aug,"KLM, operated by KLM Cityhopper",Direct,CHF112.87,103
+ZRH,CPH,2025-08-12,ZRH,07:10,12 Aug,CPH,08:55,12 Aug,"Swiss, operated by Helvetic Airways",1 stop,CHF150.81,103
+ZRH,CPH,2025-08-12,ZRH,12:30,12 Aug,CPH,14:15,12 Aug,Swiss,Direct,CHF185.95,103
+ZRH,CPH,2025-08-12,ZRH,10:20,12 Aug,CPH,12:05,12 Aug,"Scandinavian Airlines, operated by Sas Connect",Direct,CHF201.52,103
+ZRH,CPH,2025-08-12,ZRH,14:50,12 Aug,CPH,16:35,12 Aug,"Scandinavian Airlines, operated by City Jet",Direct,CHF242.66,103
+ZRH,CPH,2025-08-12,ZRH,20:25,12 Aug,CPH,22:10,12 Aug,"Scandinavian Airlines, operated by Jettime A/S",Direct,CHF243.06,103
+ZRH,CPH,2025-08-12,ZRH,11:50,12 Aug,CPH,15:45,12 Aug,KLM,Direct,CHF156.53,103
+ZRH,CPH,2025-08-12,ZRH,14:40,12 Aug,CPH,18:25,12 Aug,"Lufthansa, operated by City Jet",1 stop,CHF187.61,103
+ZRH,CPH,2025-08-12,ZRH,18:10,12 Aug,CPH,23:35,12 Aug,"Easyjet, Norwegian Air Sweden",1 stop,CHF146.27,103
+ZRH,CPH,2025-08-12,ZRH,19:15,12 Aug,CPH,23:30,12 Aug,"Lufthansa, operated by Edelweiss Air For Swiss",1 stop,CHF180.06,103
+ZRH,CPH,2025-08-12,ZRH,18:05,12 Aug,CPH,22:15,12 Aug,Lufthansa,1 stop,CHF187.61,103
+ZRH,CPH,2025-08-12,ZRH,12:55,12 Aug,CPH,17:20,12 Aug,"Brussels Airlines, operated by Helvetic Airways For Swiss",1 stop,CHF184.38,103
+ZRH,CPH,2025-08-12,ZRH,11:50,12 Aug,CPH,18:20,12 Aug,KLM,1 stop,CHF141.35,103
+ZRH,CPH,2025-08-12,ZRH,10:50,12 Aug,CPH,16:15,12 Aug,Finnair,1 stop,CHF163.73,103
+ZRH,CPH,2025-08-13,ZRH,21:35,13 Aug,CPH,23:25,13 Aug,Swiss,Cheapest direct,CHF120.51,104
+ZRH,CPH,2025-08-13,ZRH,17:35,13 Aug,CPH,22:30,13 Aug,"KLM, operated by KLM Cityhopper",Direct,CHF112.87,104
+ZRH,CPH,2025-08-13,ZRH,07:10,13 Aug,CPH,08:55,13 Aug,"Swiss, operated by Air Baltic Corporation",1 stop,CHF150.81,104
+ZRH,CPH,2025-08-13,ZRH,12:30,13 Aug,CPH,14:15,13 Aug,Swiss,Direct,CHF150.81,104
+ZRH,CPH,2025-08-13,ZRH,16:25,13 Aug,CPH,18:10,13 Aug,"Swiss, operated by Helvetic Airways",Direct,CHF150.81,104
+ZRH,CPH,2025-08-13,ZRH,10:20,13 Aug,CPH,12:05,13 Aug,"Scandinavian Airlines, operated by Jettime A/S",Direct,CHF201.49,104
+ZRH,CPH,2025-08-13,ZRH,14:50,13 Aug,CPH,16:35,13 Aug,"Scandinavian Airlines, operated by City Jet",Direct,CHF201.84,104
+ZRH,CPH,2025-08-13,ZRH,20:35,13 Aug,CPH,22:20,13 Aug,"Scandinavian Airlines, operated by Jettime A/S",Direct,CHF243.03,104
+ZRH,CPH,2025-08-13,ZRH,14:20,13 Aug,CPH,18:20,13 Aug,"KLM, operated by KLM Cityhopper",Direct,CHF148.00,104
+ZRH,CPH,2025-08-13,ZRH,16:10,13 Aug,CPH,21:10,13 Aug,Easyjet,1 stop,CHF129.15,104
+ZRH,CPH,2025-08-13,ZRH,11:50,13 Aug,CPH,15:45,13 Aug,KLM,1 stop,CHF160.33,104
+ZRH,CPH,2025-08-13,ZRH,18:10,13 Aug,CPH,23:35,13 Aug,"Easyjet, Norwegian Air Sweden",1 stop,CHF134.58,104
+ZRH,CPH,2025-08-13,ZRH,16:55,13 Aug,CPH,20:40,13 Aug,"Lufthansa, operated by Swiss",1 stop,CHF180.06,104
+ZRH,CPH,2025-08-13,ZRH,07:25,13 Aug,CPH,11:05,13 Aug,"Brussels Airlines, operated by Swiss",1 stop,CHF184.38,104
+ZRH,CPH,2025-08-13,ZRH,14:40,13 Aug,CPH,18:25,13 Aug,"Lufthansa, operated by City Jet",1 stop,CHF187.61,104
+ZRH,CPH,2025-08-14,ZRH,21:35,14 Aug,CPH,23:25,14 Aug,Swiss,Cheapest direct,CHF120.51,105
+ZRH,CPH,2025-08-14,ZRH,07:10,14 Aug,CPH,08:55,14 Aug,Swiss,Direct,CHF187.12,105
+ZRH,CPH,2025-08-14,ZRH,10:20,14 Aug,CPH,12:05,14 Aug,"Scandinavian Airlines, operated by Jettime A/S",Direct,CHF201.49,105
+ZRH,CPH,2025-08-14,ZRH,17:20,14 Aug,CPH,19:05,14 Aug,"Swiss, operated by Helvetic Airways",Direct,CHF205.47,105
+ZRH,CPH,2025-08-14,ZRH,12:30,14 Aug,CPH,14:15,14 Aug,Swiss,Direct,CHF218.51,105
+ZRH,CPH,2025-08-14,ZRH,14:50,14 Aug,CPH,16:35,14 Aug,"Scandinavian Airlines, operated by City Jet",Direct,CHF242.65,105
+ZRH,CPH,2025-08-14,ZRH,20:25,14 Aug,CPH,22:10,14 Aug,"Scandinavian Airlines, operated by Jettime A/S",Direct,CHF243.03,105
+ZRH,CPH,2025-08-14,ZRH,19:15,14 Aug,CPH,23:30,14 Aug,"Lufthansa, operated by Swiss",Direct,CHF180.06,105
+ZRH,CPH,2025-08-14,ZRH,18:05,14 Aug,CPH,22:15,14 Aug,Lufthansa,1 stop,CHF187.61,105
+ZRH,CPH,2025-08-14,ZRH,10:50,14 Aug,CPH,16:15,14 Aug,Finnair,1 stop,CHF163.73,105
+ZRH,CPH,2025-08-14,ZRH,07:25,14 Aug,CPH,12:15,14 Aug,Swiss,1 stop,CHF178.87,105
+ZRH,CPH,2025-08-14,ZRH,14:20,14 Aug,CPH,18:20,14 Aug,"KLM, operated by KLM Cityhopper",1 stop,CHF211.29,105
+ZRH,CPH,2025-08-14,ZRH,13:35,14 Aug,CPH,18:50,14 Aug,"Swiss, operated by Helvetic Airways, Norwegian Air Sweden",1 stop,CHF189.46,105
+ZRH,CPH,2025-08-14,ZRH,11:50,14 Aug,CPH,22:30,14 Aug,KLM,1 stop,CHF112.87,105
+ZRH,CPH,2025-08-14,ZRH,18:20,14 Aug,CPH,23:15,14 Aug,"Swiss, operated by Air Baltic, Norwegian Air Sweden",1 stop,CHF202.14,105
+ZRH,CPH,2025-08-16,ZRH,21:35,16 Aug,CPH,23:25,16 Aug,Swiss,Cheapest direct,CHF120.51,107
+ZRH,CPH,2025-08-16,ZRH,07:10,16 Aug,CPH,08:55,16 Aug,"Swiss, operated by Air Baltic Corporation",Direct,CHF150.81,107
+ZRH,CPH,2025-08-16,ZRH,12:30,16 Aug,CPH,14:15,16 Aug,Swiss,Direct,CHF150.81,107
+ZRH,CPH,2025-08-16,ZRH,16:50,16 Aug,CPH,18:35,16 Aug,"Swiss, operated by Air Baltic Corporation",Direct,CHF150.81,107
+ZRH,CPH,2025-08-16,ZRH,10:20,16 Aug,CPH,12:05,16 Aug,"Scandinavian Airlines, operated by Sas Link",Direct,CHF243.03,107
+ZRH,CPH,2025-08-16,ZRH,20:25,16 Aug,CPH,22:10,16 Aug,"Scandinavian Airlines, operated by City Jet",Direct,CHF264.55,107
+ZRH,CPH,2025-08-16,ZRH,17:35,16 Aug,CPH,22:30,16 Aug,KLM,Direct,CHF141.35,107
+ZRH,CPH,2025-08-16,ZRH,14:40,16 Aug,CPH,18:25,16 Aug,Lufthansa,1 stop,CHF187.61,107
+ZRH,CPH,2025-08-16,ZRH,19:15,16 Aug,CPH,23:30,16 Aug,"Lufthansa, operated by Swiss",1 stop,CHF180.06,107
+ZRH,CPH,2025-08-16,ZRH,18:05,16 Aug,CPH,22:15,16 Aug,Lufthansa,1 stop,CHF187.61,107
+ZRH,CPH,2025-08-16,ZRH,11:50,16 Aug,CPH,15:45,16 Aug,KLM,1 stop,CHF211.29,107
+ZRH,CPH,2025-08-16,ZRH,14:20,16 Aug,CPH,22:30,16 Aug,"KLM, operated by KLM Cityhopper",1 stop,CHF122.36,107
+ZRH,CPH,2025-08-16,ZRH,09:20,16 Aug,CPH,15:45,16 Aug,KLM,1 stop,CHF148.00,107
+ZRH,CPH,2025-08-16,ZRH,17:55,16 Aug,CPH,22:35,16 Aug,"Brussels Airlines, operated by Helvetic Airways For Swiss",1 stop,CHF224.76,107
+ZRH,CPH,2025-08-16,ZRH,07:25,16 Aug,CPH,11:05,16 Aug,"Brussels Airlines, operated by Swiss",1 stop,CHF271.14,107
+ZRH,CPH,2025-08-17,ZRH,21:35,17 Aug,CPH,23:25,17 Aug,Swiss,Cheapest direct,CHF120.51,108
+ZRH,CPH,2025-08-17,ZRH,07:10,17 Aug,CPH,08:55,17 Aug,Swiss,Direct,CHF150.80,108
+ZRH,CPH,2025-08-17,ZRH,17:30,17 Aug,CPH,19:20,17 Aug,Swiss,Direct,CHF150.80,108
+ZRH,CPH,2025-08-17,ZRH,10:20,17 Aug,CPH,12:05,17 Aug,"Scandinavian Airlines, operated by Sas Connect",Direct,CHF201.40,108
+ZRH,CPH,2025-08-17,ZRH,12:30,17 Aug,CPH,14:15,17 Aug,Swiss,Direct,CHF216.67,108
+ZRH,CPH,2025-08-17,ZRH,14:50,17 Aug,CPH,16:35,17 Aug,"Scandinavian Airlines, operated by City Jet",Direct,CHF242.55,108
+ZRH,CPH,2025-08-17,ZRH,20:25,17 Aug,CPH,22:10,17 Aug,"Scandinavian Airlines, operated by Sas Link",Direct,CHF242.85,108
+ZRH,CPH,2025-08-17,ZRH,09:20,17 Aug,CPH,14:00,17 Aug,"KLM, operated by KLM Cityhopper",Direct,CHF122.36,108
+ZRH,CPH,2025-08-17,ZRH,11:50,17 Aug,CPH,15:45,17 Aug,KLM,1 stop,CHF141.35,108
+ZRH,CPH,2025-08-17,ZRH,14:20,17 Aug,CPH,18:20,17 Aug,"KLM, operated by KLM Cityhopper",1 stop,CHF141.35,108
+ZRH,CPH,2025-08-17,ZRH,09:20,17 Aug,CPH,15:45,17 Aug,"KLM, operated by KLM Cityhopper",1 stop,CHF117.62,108
+ZRH,CPH,2025-08-17,ZRH,14:40,17 Aug,CPH,18:25,17 Aug,"Lufthansa, operated by City Jet",1 stop,CHF187.61,108
+ZRH,CPH,2025-08-17,ZRH,17:35,17 Aug,CPH,22:30,17 Aug,KLM,1 stop,CHF156.53,108
+ZRH,CPH,2025-08-17,ZRH,19:15,17 Aug,CPH,23:30,17 Aug,"Lufthansa, operated by Swiss",1 stop,CHF180.06,108
+ZRH,CPH,2025-08-17,ZRH,11:20,17 Aug,CPH,16:50,17 Aug,Air France,1 stop,CHF150.83,108
+ZRH,CPH,2025-08-18,ZRH,21:35,18 Aug,CPH,23:25,18 Aug,Swiss,Cheapest direct,CHF120.51,109
+ZRH,CPH,2025-08-18,ZRH,17:35,18 Aug,CPH,22:30,18 Aug,"KLM, operated by KLM Cityhopper",Direct,CHF112.87,109
+ZRH,CPH,2025-08-18,ZRH,14:50,18 Aug,CPH,16:35,18 Aug,"Scandinavian Airlines, operated by City Jet",1 stop,CHF201.74,109
+ZRH,CPH,2025-08-18,ZRH,17:30,18 Aug,CPH,19:20,18 Aug,Swiss,Direct,CHF150.80,109
+ZRH,CPH,2025-08-18,ZRH,12:30,18 Aug,CPH,14:15,18 Aug,Swiss,Direct,CHF203.32,109
+ZRH,CPH,2025-08-18,ZRH,07:10,18 Aug,CPH,08:55,18 Aug,Swiss,Direct,CHF229.50,109
+ZRH,CPH,2025-08-18,ZRH,10:20,18 Aug,CPH,12:05,18 Aug,"Scandinavian Airlines, operated by Jettime A/S",Direct,CHF232.33,109
+ZRH,CPH,2025-08-18,ZRH,20:15,18 Aug,CPH,22:00,18 Aug,"Scandinavian Airlines, operated by Jettime A/S",Direct,CHF242.85,109
+ZRH,CPH,2025-08-18,ZRH,14:20,18 Aug,CPH,18:20,18 Aug,"KLM, operated by KLM Cityhopper",Direct,CHF152.87,109
+ZRH,CPH,2025-08-18,ZRH,16:55,18 Aug,CPH,20:40,18 Aug,"Lufthansa, operated by Swiss",1 stop,CHF180.06,109
+ZRH,CPH,2025-08-18,ZRH,14:40,18 Aug,CPH,18:25,18 Aug,"Lufthansa, operated by City Jet",1 stop,CHF187.61,109
+ZRH,CPH,2025-08-18,ZRH,14:20,18 Aug,CPH,22:30,18 Aug,"KLM, operated by KLM Cityhopper",1 stop,CHF112.87,109
+ZRH,CPH,2025-08-18,ZRH,18:05,18 Aug,CPH,22:15,18 Aug,Lufthansa,1 stop,CHF187.61,109
+ZRH,CPH,2025-08-18,ZRH,17:05,18 Aug,CPH,20:40,18 Aug,"Swiss, operated by Helvetic Airways, Scandinavian Airlines",1 stop,CHF215.42,109
+ZRH,CPH,2025-08-18,ZRH,10:50,18 Aug,CPH,16:15,18 Aug,Finnair,1 stop,CHF163.60,109
+ZRH,CPH,2025-08-19,ZRH,21:35,19 Aug,CPH,23:25,19 Aug,Swiss,Cheapest direct,CHF120.51,110
+ZRH,CPH,2025-08-19,ZRH,20:15,19 Aug,CPH,18:25,20 Aug,"Eurowings, Norwegian Air Sweden",Direct,CHF108.06,110
+ZRH,CPH,2025-08-19,ZRH,07:10,19 Aug,CPH,08:55,19 Aug,"Swiss, operated by Helvetic Airways",1 stop,CHF150.80,110
+ZRH,CPH,2025-08-19,ZRH,12:30,19 Aug,CPH,14:15,19 Aug,Swiss,Direct,CHF150.80,110
+ZRH,CPH,2025-08-19,ZRH,10:20,19 Aug,CPH,12:05,19 Aug,"Scandinavian Airlines, operated by Jettime A/S",Direct,CHF201.40,110
+ZRH,CPH,2025-08-19,ZRH,14:20,19 Aug,CPH,18:20,19 Aug,"KLM, operated by KLM Cityhopper",Direct,CHF112.87,110
+ZRH,CPH,2025-08-19,ZRH,14:50,19 Aug,CPH,16:35,19 Aug,"Scandinavian Airlines, operated by City Jet",1 stop,CHF242.56,110
+ZRH,CPH,2025-08-19,ZRH,20:25,19 Aug,CPH,22:10,19 Aug,"Scandinavian Airlines, operated by Jettime A/S",Direct,CHF242.86,110
+ZRH,CPH,2025-08-19,ZRH,17:35,19 Aug,CPH,22:30,19 Aug,"KLM, operated by KLM Cityhopper",Direct,CHF112.87,110
+ZRH,CPH,2025-08-19,ZRH,11:50,19 Aug,CPH,15:45,19 Aug,KLM,1 stop,CHF137.55,110
+ZRH,CPH,2025-08-19,ZRH,09:20,19 Aug,CPH,14:00,19 Aug,"KLM, operated by KLM Cityhopper",1 stop,CHF126.16,110
+ZRH,CPH,2025-08-19,ZRH,11:50,19 Aug,CPH,18:20,19 Aug,KLM,1 stop,CHF112.87,110
+ZRH,CPH,2025-08-19,ZRH,18:10,19 Aug,CPH,23:35,19 Aug,"Easyjet, Norwegian Air Sweden",1 stop,CHF131.13,110
+ZRH,CPH,2025-08-19,ZRH,16:55,19 Aug,CPH,20:40,19 Aug,"Lufthansa, operated by Swiss",1 stop,CHF180.06,110
+ZRH,CPH,2025-08-19,ZRH,07:25,19 Aug,CPH,11:05,19 Aug,"Brussels Airlines, operated by Swiss",1 stop,CHF184.38,110
+ZRH,CPH,2025-08-20,ZRH,21:35,20 Aug,CPH,23:25,20 Aug,Swiss,Cheapest direct,CHF120.51,111
+ZRH,CPH,2025-08-20,ZRH,11:50,20 Aug,CPH,15:45,20 Aug,KLM,Direct,CHF112.87,111
+ZRH,CPH,2025-08-20,ZRH,07:10,20 Aug,CPH,08:55,20 Aug,Swiss,1 stop,CHF150.80,111
+ZRH,CPH,2025-08-20,ZRH,12:30,20 Aug,CPH,14:15,20 Aug,Swiss,Direct,CHF150.80,111
+ZRH,CPH,2025-08-20,ZRH,16:25,20 Aug,CPH,18:10,20 Aug,"Swiss, operated by Helvetic Airways",Direct,CHF150.80,111
+ZRH,CPH,2025-08-20,ZRH,10:20,20 Aug,CPH,12:05,20 Aug,"Scandinavian Airlines, operated by Jettime A/S",Direct,CHF201.40,111
+ZRH,CPH,2025-08-20,ZRH,14:50,20 Aug,CPH,16:35,20 Aug,"Scandinavian Airlines, operated by City Jet",Direct,CHF201.74,111
+ZRH,CPH,2025-08-20,ZRH,14:20,20 Aug,CPH,18:20,20 Aug,"KLM, operated by KLM Cityhopper",Direct,CHF112.87,111
+ZRH,CPH,2025-08-20,ZRH,20:35,20 Aug,CPH,22:20,20 Aug,"Scandinavian Airlines, operated by Jettime A/S",1 stop,CHF242.86,111
+ZRH,CPH,2025-08-20,ZRH,17:35,20 Aug,CPH,22:30,20 Aug,"KLM, operated by KLM Cityhopper",Direct,CHF112.87,111
+ZRH,CPH,2025-08-20,ZRH,09:20,20 Aug,CPH,14:00,20 Aug,KLM,1 stop,CHF126.16,111
+ZRH,CPH,2025-08-20,ZRH,16:10,20 Aug,CPH,21:10,20 Aug,Easyjet,1 stop,CHF130.30,111
+ZRH,CPH,2025-08-20,ZRH,11:50,20 Aug,CPH,18:20,20 Aug,KLM,1 stop,CHF112.87,111
+ZRH,CPH,2025-08-20,ZRH,18:10,20 Aug,CPH,23:35,20 Aug,"Easyjet, Norwegian Air Sweden",1 stop,CHF135.97,111
+ZRH,CPH,2025-08-20,ZRH,16:55,20 Aug,CPH,20:40,20 Aug,"Lufthansa, operated by Swiss",1 stop,CHF180.06,111
+ZRH,CPH,2025-08-21,ZRH,21:35,21 Aug,CPH,23:25,21 Aug,Swiss,Cheapest direct,CHF120.51,112
+ZRH,CPH,2025-08-21,ZRH,17:35,21 Aug,CPH,22:30,21 Aug,"KLM, operated by KLM Cityhopper",Direct,CHF112.87,112
+ZRH,CPH,2025-08-21,ZRH,07:10,21 Aug,CPH,08:55,21 Aug,Swiss,1 stop,CHF150.80,112
+ZRH,CPH,2025-08-21,ZRH,17:20,21 Aug,CPH,19:05,21 Aug,"Swiss, operated by Helvetic Airways",Direct,CHF150.80,112
+ZRH,CPH,2025-08-21,ZRH,10:20,21 Aug,CPH,12:05,21 Aug,"Scandinavian Airlines, operated by Jettime A/S",Direct,CHF201.40,112
+ZRH,CPH,2025-08-21,ZRH,12:30,21 Aug,CPH,14:15,21 Aug,Swiss,Direct,CHF204.11,112
+ZRH,CPH,2025-08-21,ZRH,14:50,21 Aug,CPH,16:35,21 Aug,"Scandinavian Airlines, operated by City Jet",Direct,CHF242.56,112
+ZRH,CPH,2025-08-21,ZRH,20:25,21 Aug,CPH,22:10,21 Aug,"Scandinavian Airlines, operated by Jettime A/S",Direct,CHF242.86,112
+ZRH,CPH,2025-08-21,ZRH,14:20,21 Aug,CPH,18:20,21 Aug,"KLM, operated by KLM Cityhopper",Direct,CHF141.35,112
+ZRH,CPH,2025-08-21,ZRH,07:25,21 Aug,CPH,11:05,21 Aug,"Brussels Airlines, operated by Swiss",1 stop,CHF184.38,112
+ZRH,CPH,2025-08-21,ZRH,09:20,21 Aug,CPH,14:00,21 Aug,KLM,1 stop,CHF156.53,112
+ZRH,CPH,2025-08-21,ZRH,11:20,21 Aug,CPH,17:05,21 Aug,Air France,1 stop,CHF134.69,112
+ZRH,CPH,2025-08-21,ZRH,14:40,21 Aug,CPH,18:25,21 Aug,"Lufthansa, operated by City Jet",1 stop,CHF187.61,112
+ZRH,CPH,2025-08-21,ZRH,19:15,21 Aug,CPH,23:30,21 Aug,"Lufthansa, operated by Swiss",1 stop,CHF180.06,112
+ZRH,CPH,2025-08-21,ZRH,14:20,21 Aug,CPH,22:30,21 Aug,"KLM, operated by KLM Cityhopper",1 stop,CHF112.87,112
+ZRH,CPH,2025-08-22,ZRH,07:10,22 Aug,CPH,08:55,22 Aug,"Swiss, operated by Helvetic Airways",Cheapest direct,CHF150.80,113
+ZRH,CPH,2025-08-22,ZRH,07:00,22 Aug,CPH,18:20,22 Aug,KLM,Direct,CHF112.87,113
+ZRH,CPH,2025-08-22,ZRH,21:35,22 Aug,CPH,23:25,22 Aug,Swiss,1 stop,CHF150.80,113
+ZRH,CPH,2025-08-22,ZRH,10:20,22 Aug,CPH,12:05,22 Aug,"Scandinavian Airlines, operated by Jettime A/S",Direct,CHF201.40,113
+ZRH,CPH,2025-08-22,ZRH,12:30,22 Aug,CPH,14:15,22 Aug,Swiss,Direct,CHF212.42,113
+ZRH,CPH,2025-08-22,ZRH,17:30,22 Aug,CPH,19:20,22 Aug,"Swiss, operated by Helvetic Airways",Direct,CHF209.74,113
+ZRH,CPH,2025-08-22,ZRH,14:50,22 Aug,CPH,16:35,22 Aug,"Scandinavian Airlines, operated by City Jet",Direct,CHF242.56,113
+ZRH,CPH,2025-08-22,ZRH,20:15,22 Aug,CPH,22:00,22 Aug,"Scandinavian Airlines, operated by Jettime A/S",Direct,CHF242.86,113
+ZRH,CPH,2025-08-22,ZRH,11:50,22 Aug,CPH,15:45,22 Aug,KLM,Direct,CHF174.51,113
+ZRH,CPH,2025-08-22,ZRH,07:25,22 Aug,CPH,11:05,22 Aug,"Brussels Airlines, operated by Swiss",1 stop,CHF184.38,113
+ZRH,CPH,2025-08-22,ZRH,07:15,22 Aug,CPH,10:45,22 Aug,"Swiss, Scandinavian Airlines, operated by BRA",1 stop,CHF196.83,113
+ZRH,CPH,2025-08-22,ZRH,18:05,22 Aug,CPH,22:05,22 Aug,Lufthansa,1 stop,CHF187.61,113
+ZRH,CPH,2025-08-22,ZRH,19:15,22 Aug,CPH,23:30,22 Aug,"Lufthansa, operated by Swiss",1 stop,CHF180.06,113
+ZRH,CPH,2025-08-22,ZRH,09:05,22 Aug,CPH,13:15,22 Aug,"Eurowings, Scandinavian Airlines, operated by BRA",1 stop,CHF186.70,113
+ZRH,CPH,2025-08-22,ZRH,11:50,22 Aug,CPH,18:20,22 Aug,KLM,1 stop,CHF141.35,113
+ZRH,CPH,2025-08-23,ZRH,21:35,23 Aug,CPH,23:25,23 Aug,Swiss,Cheapest direct,CHF120.51,114
+ZRH,CPH,2025-08-23,ZRH,14:20,23 Aug,CPH,18:20,23 Aug,"KLM, operated by KLM Cityhopper",Direct,CHF112.87,114
+ZRH,CPH,2025-08-23,ZRH,16:50,23 Aug,CPH,18:35,23 Aug,"Swiss, operated by Air Baltic Corporation",1 stop,CHF150.80,114
+ZRH,CPH,2025-08-23,ZRH,07:10,23 Aug,CPH,08:55,23 Aug,"Swiss, operated by Helvetic Airways",Direct,CHF187.12,114
+ZRH,CPH,2025-08-23,ZRH,12:30,23 Aug,CPH,14:15,23 Aug,Swiss,Direct,CHF204.00,114
+ZRH,CPH,2025-08-23,ZRH,10:20,23 Aug,CPH,12:05,23 Aug,"Scandinavian Airlines, operated by Sas Link",Direct,CHF242.86,114
+ZRH,CPH,2025-08-23,ZRH,20:25,23 Aug,CPH,22:10,23 Aug,"Scandinavian Airlines, operated by City Jet",Direct,CHF276.56,114
+ZRH,CPH,2025-08-23,ZRH,17:35,23 Aug,CPH,22:30,23 Aug,KLM,Direct,CHF141.35,114
+ZRH,CPH,2025-08-23,ZRH,19:15,23 Aug,CPH,23:30,23 Aug,"Lufthansa, operated by Swiss",1 stop,CHF180.06,114
+ZRH,CPH,2025-08-23,ZRH,14:20,23 Aug,CPH,22:30,23 Aug,"KLM, operated by KLM Cityhopper",1 stop,CHF112.87,114
+ZRH,CPH,2025-08-23,ZRH,18:05,23 Aug,CPH,22:15,23 Aug,Lufthansa,1 stop,CHF187.61,114
+ZRH,CPH,2025-08-23,ZRH,07:25,23 Aug,CPH,11:05,23 Aug,"Brussels Airlines, operated by Swiss",1 stop,CHF219.59,114
+ZRH,CPH,2025-08-23,ZRH,17:55,23 Aug,CPH,22:35,23 Aug,"Brussels Airlines, operated by Swiss",1 stop,CHF184.38,114
+ZRH,CPH,2025-08-23,ZRH,11:50,23 Aug,CPH,15:45,23 Aug,KLM,1 stop,CHF211.26,114
+ZRH,CPH,2025-08-23,ZRH,07:00,23 Aug,CPH,14:00,23 Aug,KLM,1 stop,CHF141.35,114
+ZRH,CPH,2025-08-24,ZRH,07:10,24 Aug,CPH,08:55,24 Aug,"Swiss, operated by Helvetic Airways",Cheapest direct,CHF120.51,115
+ZRH,CPH,2025-08-24,ZRH,21:35,24 Aug,CPH,23:25,24 Aug,Swiss,Direct,CHF120.51,115
+ZRH,CPH,2025-08-24,ZRH,17:30,24 Aug,CPH,19:20,24 Aug,Swiss,Direct,CHF150.80,115
+ZRH,CPH,2025-08-24,ZRH,10:20,24 Aug,CPH,12:05,24 Aug,"Scandinavian Airlines, operated by Sas Connect",Direct,CHF201.40,115
+ZRH,CPH,2025-08-24,ZRH,12:30,24 Aug,CPH,14:15,24 Aug,Swiss,Direct,CHF229.50,115
+ZRH,CPH,2025-08-24,ZRH,14:50,24 Aug,CPH,16:35,24 Aug,"Scandinavian Airlines, operated by City Jet",Direct,CHF242.56,115
+ZRH,CPH,2025-08-24,ZRH,20:25,24 Aug,CPH,22:10,24 Aug,"Scandinavian Airlines, operated by Sas Link",Direct,CHF242.86,115
+ZRH,CPH,2025-08-24,ZRH,09:20,24 Aug,CPH,14:00,24 Aug,KLM,Direct,CHF112.87,115
+ZRH,CPH,2025-08-24,ZRH,14:20,24 Aug,CPH,18:20,24 Aug,"KLM, operated by KLM Cityhopper",1 stop,CHF141.35,115
+ZRH,CPH,2025-08-24,ZRH,17:35,24 Aug,CPH,22:30,24 Aug,KLM,1 stop,CHF141.35,115
+ZRH,CPH,2025-08-24,ZRH,07:15,24 Aug,CPH,12:00,24 Aug,"Lufthansa, operated by Edelweiss Air For Swiss",1 stop,CHF145.75,115
+ZRH,CPH,2025-08-24,ZRH,07:00,24 Aug,CPH,14:00,24 Aug,KLM,1 stop,CHF112.87,115
+ZRH,CPH,2025-08-24,ZRH,07:25,24 Aug,CPH,11:05,24 Aug,"Brussels Airlines, operated by Swiss",1 stop,CHF184.38,115
+ZRH,CPH,2025-08-24,ZRH,14:40,24 Aug,CPH,18:25,24 Aug,"Lufthansa, operated by City Jet",1 stop,CHF187.61,115
+ZRH,CPH,2025-08-24,ZRH,19:15,24 Aug,CPH,23:30,24 Aug,"Lufthansa, operated by Swiss",1 stop,CHF180.06,115
+ZRH,CPH,2025-08-25,ZRH,21:35,25 Aug,CPH,23:25,25 Aug,Swiss,Cheapest direct,CHF120.51,116
+ZRH,CPH,2025-08-25,ZRH,09:35,25 Aug,CPH,21:35,25 Aug,Easyjet,Direct,CHF111.86,116
+ZRH,CPH,2025-08-25,ZRH,12:30,25 Aug,CPH,14:15,25 Aug,Swiss,1 stop,CHF150.80,116
+ZRH,CPH,2025-08-25,ZRH,17:30,25 Aug,CPH,19:20,25 Aug,Swiss,Direct,CHF150.80,116
+ZRH,CPH,2025-08-25,ZRH,11:50,25 Aug,CPH,15:45,25 Aug,KLM,Direct,CHF112.87,116
+ZRH,CPH,2025-08-25,ZRH,07:10,25 Aug,CPH,08:55,25 Aug,"Swiss, operated by Air Baltic Corporation",1 stop,CHF229.50,116
+ZRH,CPH,2025-08-25,ZRH,14:20,25 Aug,CPH,18:20,25 Aug,"KLM, operated by KLM Cityhopper",Direct,CHF112.87,116
+ZRH,CPH,2025-08-25,ZRH,14:50,25 Aug,CPH,16:35,25 Aug,"Scandinavian Airlines, operated by City Jet",1 stop,CHF242.56,116
+ZRH,CPH,2025-08-25,ZRH,10:20,25 Aug,CPH,12:05,25 Aug,"Scandinavian Airlines, operated by Jettime A/S",Direct,CHF242.86,116
+ZRH,CPH,2025-08-25,ZRH,20:15,25 Aug,CPH,22:00,25 Aug,"Scandinavian Airlines, operated by Jettime A/S",Direct,CHF242.86,116
+ZRH,CPH,2025-08-25,ZRH,09:20,25 Aug,CPH,14:00,25 Aug,KLM,Direct,CHF112.87,116
+ZRH,CPH,2025-08-25,ZRH,17:35,25 Aug,CPH,22:30,25 Aug,KLM,1 stop,CHF112.87,116
+ZRH,CPH,2025-08-25,ZRH,07:00,25 Aug,CPH,11:05,25 Aug,KLM,1 stop,CHF141.35,116
+ZRH,CPH,2025-08-25,ZRH,09:20,25 Aug,CPH,15:45,25 Aug,KLM,1 stop,CHF112.87,116
+ZRH,CPH,2025-08-25,ZRH,11:50,25 Aug,CPH,18:20,25 Aug,KLM,1 stop,CHF112.87,116
+ZRH,CPH,2025-08-26,ZRH,21:35,26 Aug,CPH,23:25,26 Aug,Swiss,Cheapest direct,CHF120.51,117
+ZRH,CPH,2025-08-26,ZRH,20:15,26 Aug,CPH,18:25,27 Aug,"Eurowings, Norwegian Air Sweden",Direct,CHF108.06,117
+ZRH,CPH,2025-08-26,ZRH,07:10,26 Aug,CPH,08:55,26 Aug,"Swiss, operated by Helvetic Airways",1 stop,CHF150.80,117
+ZRH,CPH,2025-08-26,ZRH,12:30,26 Aug,CPH,14:15,26 Aug,Swiss,Direct,CHF150.80,117
+ZRH,CPH,2025-08-26,ZRH,16:45,26 Aug,CPH,18:30,26 Aug,"Swiss, operated by Helvetic Airways",Direct,CHF150.80,117
+ZRH,CPH,2025-08-26,ZRH,10:20,26 Aug,CPH,12:05,26 Aug,"Scandinavian Airlines, operated by Jettime A/S",Direct,CHF201.40,117
+ZRH,CPH,2025-08-26,ZRH,11:50,26 Aug,CPH,15:45,26 Aug,KLM,Direct,CHF113.18,117
+ZRH,CPH,2025-08-26,ZRH,14:20,26 Aug,CPH,18:20,26 Aug,"KLM, operated by KLM Cityhopper",1 stop,CHF113.18,117
+ZRH,CPH,2025-08-26,ZRH,14:50,26 Aug,CPH,16:35,26 Aug,"Scandinavian Airlines, operated by City Jet",1 stop,CHF242.56,117
+ZRH,CPH,2025-08-26,ZRH,20:25,26 Aug,CPH,22:10,26 Aug,"Scandinavian Airlines, operated by Jettime A/S",Direct,CHF242.86,117
+ZRH,CPH,2025-08-26,ZRH,09:20,26 Aug,CPH,14:00,26 Aug,KLM,Direct,CHF113.18,117
+ZRH,CPH,2025-08-26,ZRH,17:35,26 Aug,CPH,22:30,26 Aug,KLM,1 stop,CHF113.18,117
+ZRH,CPH,2025-08-26,ZRH,07:00,26 Aug,CPH,11:05,26 Aug,KLM,1 stop,CHF141.23,117
+ZRH,CPH,2025-08-26,ZRH,09:20,26 Aug,CPH,15:45,26 Aug,KLM,1 stop,CHF113.18,117
+ZRH,CPH,2025-08-26,ZRH,11:50,26 Aug,CPH,18:20,26 Aug,KLM,1 stop,CHF113.18,117
+ZRH,CPH,2025-08-27,ZRH,21:35,27 Aug,CPH,23:25,27 Aug,Swiss,Cheapest direct,CHF120.51,118
+ZRH,CPH,2025-08-27,ZRH,20:15,27 Aug,CPH,22:55,28 Aug,"Eurowings, Norwegian Air Sweden",Direct,CHF108.06,118
+ZRH,CPH,2025-08-27,ZRH,07:10,27 Aug,CPH,08:55,27 Aug,Swiss,1 stop,CHF150.80,118
+ZRH,CPH,2025-08-27,ZRH,12:30,27 Aug,CPH,14:15,27 Aug,Swiss,Direct,CHF150.80,118
+ZRH,CPH,2025-08-27,ZRH,16:25,27 Aug,CPH,18:10,27 Aug,Swiss,Direct,CHF150.80,118
+ZRH,CPH,2025-08-27,ZRH,10:20,27 Aug,CPH,12:05,27 Aug,"Scandinavian Airlines, operated by Jettime A/S",Direct,CHF201.40,118
+ZRH,CPH,2025-08-27,ZRH,14:50,27 Aug,CPH,16:35,27 Aug,"Scandinavian Airlines, operated by City Jet",Direct,CHF201.74,118
+ZRH,CPH,2025-08-27,ZRH,07:00,27 Aug,CPH,11:05,27 Aug,KLM,Direct,CHF113.18,118
+ZRH,CPH,2025-08-27,ZRH,20:35,27 Aug,CPH,22:20,27 Aug,"Scandinavian Airlines, operated by Jettime A/S",1 stop,CHF242.86,118
+ZRH,CPH,2025-08-27,ZRH,09:20,27 Aug,CPH,14:00,27 Aug,KLM,Direct,CHF113.18,118
+ZRH,CPH,2025-08-27,ZRH,17:35,27 Aug,CPH,22:30,27 Aug,KLM,1 stop,CHF113.18,118
+ZRH,CPH,2025-08-27,ZRH,11:50,27 Aug,CPH,15:45,27 Aug,KLM,1 stop,CHF141.23,118
+ZRH,CPH,2025-08-27,ZRH,14:20,27 Aug,CPH,18:20,27 Aug,"KLM, operated by KLM Cityhopper",1 stop,CHF141.23,118
+ZRH,CPH,2025-08-27,ZRH,16:10,27 Aug,CPH,21:10,27 Aug,Easyjet,1 stop,CHF130.30,118
+ZRH,CPH,2025-08-27,ZRH,09:20,27 Aug,CPH,15:45,27 Aug,KLM,1 stop,CHF113.18,118
+ZRH,CPH,2025-08-28,ZRH,21:35,28 Aug,CPH,23:25,28 Aug,Swiss,Cheapest direct,CHF120.51,119
+ZRH,CPH,2025-08-28,ZRH,07:00,28 Aug,CPH,11:05,28 Aug,KLM,Direct,CHF112.87,119
+ZRH,CPH,2025-08-28,ZRH,16:25,28 Aug,CPH,18:10,28 Aug,"Swiss, operated by Air Baltic Corporation",1 stop,CHF150.80,119
+ZRH,CPH,2025-08-28,ZRH,12:30,28 Aug,CPH,14:15,28 Aug,Swiss,Direct,CHF187.12,119
+ZRH,CPH,2025-08-28,ZRH,10:20,28 Aug,CPH,12:05,28 Aug,"Scandinavian Airlines, operated by Jettime A/S",Direct,CHF192.23,119
+ZRH,CPH,2025-08-28,ZRH,07:10,28 Aug,CPH,08:55,28 Aug,"Swiss, operated by Helvetic Airways",Direct,CHF206.27,119
+ZRH,CPH,2025-08-28,ZRH,14:50,28 Aug,CPH,16:35,28 Aug,"Scandinavian Airlines, operated by City Jet",Direct,CHF231.91,119
+ZRH,CPH,2025-08-28,ZRH,20:25,28 Aug,CPH,22:10,28 Aug,"Scandinavian Airlines, operated by Jettime A/S",Direct,CHF232.33,119
+ZRH,CPH,2025-08-28,ZRH,07:00,28 Aug,CPH,14:00,28 Aug,KLM,Direct,CHF112.87,119
+ZRH,CPH,2025-08-28,ZRH,07:25,28 Aug,CPH,11:05,28 Aug,"Brussels Airlines, operated by Swiss",1 stop,CHF184.38,119
+ZRH,CPH,2025-08-28,ZRH,14:40,28 Aug,CPH,18:25,28 Aug,"Lufthansa, operated by City Jet",1 stop,CHF187.61,119
+ZRH,CPH,2025-08-28,ZRH,19:15,28 Aug,CPH,23:30,28 Aug,"Lufthansa, operated by Swiss",1 stop,CHF180.06,119
+ZRH,CPH,2025-08-28,ZRH,18:05,28 Aug,CPH,22:15,28 Aug,Lufthansa,1 stop,CHF187.61,119
+ZRH,CPH,2025-08-28,ZRH,12:55,28 Aug,CPH,17:20,28 Aug,"Brussels Airlines, operated by Helvetic Airways For Swiss",1 stop,CHF184.38,119
+ZRH,CPH,2025-08-28,ZRH,17:35,28 Aug,CPH,22:30,28 Aug,KLM,1 stop,CHF170.72,119
+ZRH,CPH,2025-08-29,ZRH,21:35,29 Aug,CPH,23:25,29 Aug,Swiss,Cheapest direct,CHF150.80,120
+ZRH,CPH,2025-08-29,ZRH,07:10,29 Aug,CPH,08:55,29 Aug,Swiss,Direct,CHF170.27,120
+ZRH,CPH,2025-08-29,ZRH,10:20,29 Aug,CPH,12:05,29 Aug,"Scandinavian Airlines, operated by Jettime A/S",Direct,CHF192.23,120
+ZRH,CPH,2025-08-29,ZRH,12:30,29 Aug,CPH,14:15,29 Aug,Swiss,Direct,CHF219.14,120
+ZRH,CPH,2025-08-29,ZRH,14:20,29 Aug,CPH,18:20,29 Aug,"KLM, operated by KLM Cityhopper",Direct,CHF112.87,120
+ZRH,CPH,2025-08-29,ZRH,14:50,29 Aug,CPH,16:35,29 Aug,"Scandinavian Airlines, operated by City Jet",1 stop,CHF231.91,120
+ZRH,CPH,2025-08-29,ZRH,20:15,29 Aug,CPH,22:00,29 Aug,"Scandinavian Airlines, operated by Sas Link",Direct,CHF232.33,120
+ZRH,CPH,2025-08-29,ZRH,17:30,29 Aug,CPH,19:20,29 Aug,"Swiss, operated by Helvetic Airways",Direct,CHF227.67,120
+ZRH,CPH,2025-08-29,ZRH,09:20,29 Aug,CPH,14:00,29 Aug,KLM,Direct,CHF112.87,120
+ZRH,CPH,2025-08-29,ZRH,07:00,29 Aug,CPH,11:05,29 Aug,KLM,1 stop,CHF156.53,120
+ZRH,CPH,2025-08-29,ZRH,09:20,29 Aug,CPH,15:45,29 Aug,KLM,1 stop,CHF112.87,120
+ZRH,CPH,2025-08-29,ZRH,07:00,29 Aug,CPH,14:00,29 Aug,KLM,1 stop,CHF112.87,120
+ZRH,CPH,2025-08-29,ZRH,07:25,29 Aug,CPH,11:05,29 Aug,"Brussels Airlines, operated by Swiss",1 stop,CHF184.38,120
+ZRH,CPH,2025-08-29,ZRH,14:40,29 Aug,CPH,18:25,29 Aug,"Lufthansa, operated by City Jet",1 stop,CHF187.61,120
+ZRH,CPH,2025-08-29,ZRH,11:50,29 Aug,CPH,15:45,29 Aug,KLM,1 stop,CHF187.74,120
+ZRH,CPH,2025-08-30,ZRH,21:35,30 Aug,CPH,23:25,30 Aug,Swiss,Cheapest direct,CHF120.51,121
+ZRH,CPH,2025-08-30,ZRH,17:35,30 Aug,CPH,22:30,30 Aug,KLM,Direct,CHF112.87,121
+ZRH,CPH,2025-08-30,ZRH,07:10,30 Aug,CPH,08:55,30 Aug,"Swiss, operated by Air Baltic Corporation",1 stop,CHF150.80,121
+ZRH,CPH,2025-08-30,ZRH,16:50,30 Aug,CPH,18:35,30 Aug,"Swiss, operated by Air Baltic Corporation",Direct,CHF150.80,121
+ZRH,CPH,2025-08-30,ZRH,12:30,30 Aug,CPH,14:15,30 Aug,Swiss,Direct,CHF169.50,121
+ZRH,CPH,2025-08-30,ZRH,10:20,30 Aug,CPH,12:05,30 Aug,"Scandinavian Airlines, operated by Sas Link",Direct,CHF232.33,121
+ZRH,CPH,2025-08-30,ZRH,20:25,30 Aug,CPH,22:10,30 Aug,"Scandinavian Airlines, operated by City Jet",Direct,CHF272.83,121
+ZRH,CPH,2025-08-30,ZRH,11:50,30 Aug,CPH,15:45,30 Aug,KLM,Direct,CHF148.00,121
+ZRH,CPH,2025-08-30,ZRH,14:40,30 Aug,CPH,18:25,30 Aug,Lufthansa,1 stop,CHF187.61,121
+ZRH,CPH,2025-08-30,ZRH,19:15,30 Aug,CPH,23:30,30 Aug,"Lufthansa, operated by Swiss",1 stop,CHF180.06,121
+ZRH,CPH,2025-08-30,ZRH,18:05,30 Aug,CPH,22:15,30 Aug,Lufthansa,1 stop,CHF187.61,121
+ZRH,CPH,2025-08-30,ZRH,07:15,30 Aug,CPH,12:00,30 Aug,"Lufthansa, operated by Swiss",1 stop,CHF180.06,121
+ZRH,CPH,2025-08-30,ZRH,09:20,30 Aug,CPH,15:45,30 Aug,KLM,1 stop,CHF148.00,121
+ZRH,CPH,2025-08-30,ZRH,14:20,30 Aug,CPH,18:20,30 Aug,"KLM, operated by KLM Cityhopper",1 stop,CHF211.26,121
+ZRH,CPH,2025-08-30,ZRH,16:30,30 Aug,CPH,20:50,30 Aug,"Swiss, Easyjet",1 stop,CHF201.46,121
+ZRH,CPH,2025-08-31,ZRH,07:10,31 Aug,CPH,08:55,31 Aug,"Swiss, operated by Helvetic Airways",Cheapest direct,CHF120.51,122
+ZRH,CPH,2025-08-31,ZRH,21:35,31 Aug,CPH,23:25,31 Aug,Swiss,Direct,CHF120.51,122
+ZRH,CPH,2025-08-31,ZRH,17:30,31 Aug,CPH,19:20,31 Aug,Swiss,Direct,CHF150.80,122
+ZRH,CPH,2025-08-31,ZRH,10:20,31 Aug,CPH,12:05,31 Aug,"Scandinavian Airlines, operated by Sas Connect",Direct,CHF192.23,122
+ZRH,CPH,2025-08-31,ZRH,12:30,31 Aug,CPH,14:15,31 Aug,Swiss,Direct,CHF211.22,122
+ZRH,CPH,2025-08-31,ZRH,14:50,31 Aug,CPH,16:35,31 Aug,"Scandinavian Airlines, operated by City Jet",Direct,CHF231.91,122
+ZRH,CPH,2025-08-31,ZRH,20:25,31 Aug,CPH,22:10,31 Aug,"Scandinavian Airlines, operated by Sas Link",Direct,CHF232.33,122
+ZRH,CPH,2025-08-31,ZRH,07:00,31 Aug,CPH,11:05,31 Aug,KLM,Direct,CHF112.87,122
+ZRH,CPH,2025-08-31,ZRH,14:20,31 Aug,CPH,18:20,31 Aug,"KLM, operated by KLM Cityhopper",1 stop,CHF141.35,122
+ZRH,CPH,2025-08-31,ZRH,17:35,31 Aug,CPH,22:30,31 Aug,KLM,1 stop,CHF141.35,122
+ZRH,CPH,2025-08-31,ZRH,07:15,31 Aug,CPH,12:00,31 Aug,"Lufthansa, operated by Edelweiss Air For Swiss",1 stop,CHF145.75,122
+ZRH,CPH,2025-08-31,ZRH,07:25,31 Aug,CPH,11:05,31 Aug,"Brussels Airlines, operated by Swiss",1 stop,CHF184.38,122
+ZRH,CPH,2025-08-31,ZRH,19:15,31 Aug,CPH,23:30,31 Aug,"Lufthansa, operated by Swiss",1 stop,CHF180.06,122
+ZRH,CPH,2025-08-31,ZRH,18:05,31 Aug,CPH,22:15,31 Aug,Lufthansa,1 stop,CHF187.61,122
+ZRH,CPH,2025-08-31,ZRH,11:50,31 Aug,CPH,18:20,31 Aug,KLM,1 stop,CHF141.35,122

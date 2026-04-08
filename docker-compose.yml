@@ -1,0 +1,35 @@
+version: '3.8'
+
+services:
+  web:
+    build:
+      context: ./webapp
+      dockerfile: Dockerfile.webapp
+    ports:
+      - "5002:5002"
+    environment:
+      - MLFLOW_TRACKING_URI=http://mlflow:5003
+      - FLASK_ENV=development
+    depends_on:
+      - mlflow
+    volumes:
+      - /root/WePP_Project_copy/ML_model/mlruns:/root/WePP_Project_copy/ML_model/mlruns
+    restart: unless-stopped
+
+  mlflow:
+    build:
+      dockerfile: Dockerfile.mlflow
+    ports:
+      - "5003:5003"
+    environment:
+      - MLFLOW_HOME=/app
+    volumes:
+      - /root/WePP_Project_copy/ML_model/mlruns:/root/WePP_Project_copy/ML_model/mlruns
+      - ./instance/mlflow.db:/app/mlflow.db
+    entrypoint: >
+      mlflow server
+      --backend-store-uri sqlite:///mlflow.db
+      --default-artifact-root /root/WePP_Project_copy/ML_model/mlruns
+      --host 0.0.0.0
+      --port 5003
+    restart: unless-stopped
